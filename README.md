@@ -25,8 +25,11 @@ Tools you need to download and put into the root dir.
 
 ### Updating Transcripts Process
 1. Create a new branch and checkout said branch.
-2. Get the latest audio by running `./Transcript-Audio.ps1`
-3. Process all new audio by running `./Transcribe-Folder.ps1`
+2. Get the latest audio by running `./Download-Audio.ps1`
+3. Process all new audio by running `./Transcribe-Audio.ps1`
     - Enter the folder you want to transcribe. For Doki, that would be `.\Transcript\Dokibird\`
 4. Commit and push changes to your branch.
 5. Open a pull request. Ping me to get it accepted and merged.
+
+### Cleanup
+After the transcripts are created. You can remove all audio files by running the script `.\Cleanup-Audio.ps1`
