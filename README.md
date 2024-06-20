@@ -1,6 +1,11 @@
 ## dokiscripts-data
 Transcripts for Doki streams. All located in one place for easy reverse searching.
 
+### Best Way to Reverse Search
+- Clone the repo locally and use something like vscode to search through every file in the folder.
+    - to update when new transcripts are added, all you would need to do is run git pull from master.
+- Use GitHubs built in search. Though this sucks half the time so good luck.
+
 ### Why this over YouTube's built-in transcripts?
 Several reasons why I created this archive.
 1. YouTube transcripts censor curse words. Meaning that you can't reverse search something that has the word `fuck` in it.
@@ -18,25 +23,10 @@ Tools you need to download and put into the root dir.
 - [faster-whisper](https://github.com/Purfview/whisper-standalone-win)
 - [PowerShell](https://github.com/PowerShell/PowerShell)
 
-When all is said and done. This is what the root folder should look like.
-```text
-_models/        - will hold the whisper models
-_xxl_data/      - needed for faster-whisper
-Transcripts/    - will hold the transcript data
-.gitignore
-faster-whisper-xxl.exe
-ffmpeg.exe
-README.md
-Transcribe-Folder
-Transcribe-Audio.ps1
-yt-dlp-archive-transcript
-yt-dlp.exe
-```
-
 ### Updating Transcripts Process
 1. Create a new branch and checkout said branch.
 2. Get the latest audio by running `./Transcript-Audio.ps1`
 3. Process all new audio by running `./Transcribe-Folder.ps1`
     - Enter the folder you want to transcribe. For Doki, that would be `.\Transcript\Dokibird\`
 4. Commit and push changes to your branch.
-5. Open a pull request.
+5. Open a pull request. Ping me to get it accepted and merged.
