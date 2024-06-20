@@ -1,0 +1,14 @@
+# Don't upload any audio files
+*.webm
+*.m4a
+*.mp3
+*.mp4
+
+# Don't upload any members stuff
+*members*
+
+# Faster-whisper
+.cache
+_models
+_xxl_data
+*.exe
