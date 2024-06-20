@@ -1,0 +1,44 @@
+1
+00:00:27,760 --> 00:00:29,560
+The first sentence is the same as the first one.
+
+2
+00:00:30,000 --> 00:00:40,140
+A little
+
+3
+00:00:48,520 --> 00:01:08,180
+pause...
+
+4
+00:01:08,180 --> 00:01:08,360
+and we are back.
+
+5
+00:01:19,480 --> 00:01:20,880
+A
+
+6
+00:01:34,530 --> 00:01:51,990
+little pause... and we are back.
+
+7
+00:02:06,330 --> 00:02:24,660
+A little pause...
+
+8
+00:02:27,950 --> 00:02:27,990
+and we are back.
+
+9
+00:02:51,440 --> 00:02:55,140
+Until we meet again, my dear Barkknights.
+
+10
+00:03:10,840 --> 00:03:30,320
+Thank you for watching.
+
+11
+00:03:31,620 --> 00:03:31,720
+See you next time.
+
