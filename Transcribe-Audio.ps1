@@ -18,7 +18,7 @@ foreach ($file in $files) {
         Write-Output $file.FullName | Green
     } else {
         Write-Output $file.FullName | Red
-        Write-Output "Transcripting $i out of $($files.Length)"
+        Write-Output "Transcripting $i out of $($files.Count)"
         .\faster-whisper-xxl.exe $file.FullName -l English -m large --sentence -o source --beam_size=1 -pp
     }
 }
