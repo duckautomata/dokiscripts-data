@@ -92,7 +92,7 @@ I choked down a can of coffee before I got here because it's 3.30 in the morning
 
 24
 00:02:37,650 --> 00:02:38,950
-We love the dessert!
+We love to see you here!
 
 25
 00:02:38,970 --> 00:02:40,890
@@ -131,12 +131,12 @@ So...
 I can't hear you.
 
 34
-00:02:57,190 --> 00:02:57,510
+00:02:57,190 --> 00:03:00,650
 Why is the mic muted?
 
 35
-00:02:58,470 --> 00:03:00,650
-Why is the mic muted?
+00:03:00,650 --> 00:03:00,651
+ 
 
 36
 00:03:01,470 --> 00:03:02,730
@@ -292,7 +292,7 @@ Who knows how to play?
 
 74
 00:04:57,170 --> 00:05:02,050
-Okay, those who picked by Doki, at least five hero names.
+Okay, those who picked by Doki, need to name at least five hero names.
 
 75
 00:05:02,270 --> 00:05:03,890
@@ -343,7 +343,7 @@ She's dressed like a young...
 Okay.
 
 87
-00:05:29,050 --> 00:05:30,250
+00:05:29,050 --> 00:05:31,250
 Let's give them a round of applause.
 
 88
@@ -364,7 +364,7 @@ I'm nervous too.
 
 92
 00:05:39,650 --> 00:05:40,930
-I'll play the Hong Kong Pink.
+I'll play the Hong Kong ping.
 
 93
 00:05:41,070 --> 00:05:41,530
@@ -372,7 +372,7 @@ I don't know.
 
 94
 00:05:41,670 --> 00:05:43,210
-The Hong Kong Pink is over 200.
+The Hong Kong ping is over 200.
 
 95
 00:05:43,830 --> 00:05:44,470
@@ -460,7 +460,7 @@ I've been playing for a while.
 
 116
 00:06:31,710 --> 00:06:38,490
-Are you confident that you won't You're very confident that you won't get caught.
+Are you confident that you won't... You're very confident that you won't get caught.
 
 117
 00:06:38,570 --> 00:06:39,970
@@ -512,7 +512,7 @@ Yeah, I believe.
 
 129
 00:06:58,930 --> 00:07:01,810
-If he dies, I won't raise him.
+If he dies, I won't res him.
 
 130
 00:07:03,790 --> 00:07:04,870
@@ -880,7 +880,7 @@ Thomas, what happened?
 
 221
 00:10:33,800 --> 00:10:35,060
-I'm lifelined!
+I'm lifeline!
 
 222
 00:10:35,140 --> 00:10:35,720
@@ -896,7 +896,7 @@ Okay.
 
 225
 00:10:38,420 --> 00:10:39,940
-Thomas, I'm lifelined!
+Thomas, I'm lifeline!
 
 226
 00:10:39,960 --> 00:10:41,120
@@ -1204,11 +1204,11 @@ I won't die I'm just going to steal their loot
 
 302
 00:14:09,740 --> 00:14:11,280
-Let go, I'm here!
+Neko, I'm here!
 
 303
 00:14:18,640 --> 00:14:27,960
-It's okay, let go It's okay, Thomas is the one we're supposed to be judging, not you
+It's okay, Neko It's okay, Thomas is the one we're supposed to be judging, not you
 
 304
 00:14:35,010 --> 00:14:45,810
@@ -1232,7 +1232,7 @@ No one's here Thomas, you're always...
 
 309
 00:15:07,350 --> 00:15:25,010
-They're sightseeing Yeah, it's like Donkey Kong's Adventure We're just sightseeing We're the enemy Thomas is showing you guys Oh, they're going to rank Actually, he is showing you like...
+They're sightseeing Yeah, it's like Doki's Adventure. We're just sightseeing We're the enemy Thomas is showing you guys Oh, they're going to rank Actually, he is showing you like...
 
 310
 00:15:25,010 --> 00:15:27,470
@@ -1408,7 +1408,7 @@ Thank you Thomas and Neko.
 
 353
 00:17:33,900 --> 00:17:36,360
-And thank you, thank you, doggies also.
+And thank you, thank you, Doki also.
 
 354
 00:17:36,360 --> 00:17:40,000
@@ -1456,7 +1456,7 @@ Be careful.
 
 365
 00:17:59,230 --> 00:18:01,550
-Is there anyone else who wants to be with doggies?
+Is there anyone else who wants to be with Doki?
 
 366
 00:18:01,610 --> 00:18:02,050
@@ -1472,11 +1472,11 @@ I'll be really nice to you guys this time, I swear.
 
 369
 00:18:05,930 --> 00:18:07,090
-Okay, let's play one more round, doggies.
+Okay, let's play one more round, Doki.
 
 370
 00:18:07,890 --> 00:18:11,830
-Let's pick some more guys that really play Neko.
+Let's pick some more guys that really play Apex.
 
 371
 00:18:11,830 --> 00:18:13,290
@@ -1584,11 +1584,11 @@ Where are you from?
 
 397
 00:18:45,730 --> 00:18:46,430
-Oh, no, actually.
+Hong Kong, actually.
 
 398
 00:18:46,650 --> 00:18:46,870
-Oh, no, actually.
+Hong Kong, actually.
 
 399
 00:18:47,170 --> 00:18:48,570
@@ -1608,7 +1608,7 @@ Three, you think?
 
 403
 00:18:53,210 --> 00:18:54,270
-Can you carry doggies?
+Can you carry Doki?
 
 404
 00:18:54,430 --> 00:18:55,130
@@ -2244,7 +2244,7 @@ Let's see.
 
 562
 00:23:29,880 --> 00:23:32,140
-I'm trying to see if there's any teens with us.
+I'm trying to see if there's any teams with us.
 
 563
 00:23:32,920 --> 00:23:34,880
@@ -2644,15 +2644,15 @@ Behind you Vantage
 
 662
 00:26:50,460 --> 00:26:54,820
-Your caustic I Don't have needs though.
+Your caustic I Don't have nades though. So...
 
 663
 00:26:54,880 --> 00:26:58,420
-So that dead Oh behind us.
+Flesh, dead. Oh behind us.
 
 664
 00:27:00,720 --> 00:27:04,980
-Oh Flash flash flash live
+Oh flesh flesh flesh live
 
 665
 00:27:08,580 --> 00:27:22,800
@@ -2672,7 +2672,7 @@ I'll try for real now no more messing about no more trolling One more time chanc
 
 669
 00:28:04,680 --> 00:28:17,220
-Yeah, he's really focused I could tell he's gaming right now Let's do a real cop It's a little hard to play cuz I'm not familiar with these key bindings Oh, wait you have to play the game?
+Yeah, he's really focused I could tell he's gaming right now Let's do a real comp It's a little hard to play cuz I'm not familiar with these key bindings Oh, wait you have to play the game?
 
 670
 00:28:18,380 --> 00:28:22,180
@@ -2704,7 +2704,7 @@ All right, do it
 
 677
 00:28:51,900 --> 00:29:06,390
-See you forgot how sweaty Asia servers are at this time I'm so used to playing Asia servers that like my prime time.
+See I forgot how sweaty Asia servers are at this time I'm so used to playing Asia servers that like my prime time.
 
 678
 00:29:06,650 --> 00:29:23,850
@@ -2716,7 +2716,7 @@ Yeah Oh
 
 680
 00:29:36,460 --> 00:29:50,820
-Massive on 200 ping is not fun, so I'm gonna throw that gun away Feed me carbine and I I guess vault.
+Massive on 200 ping is not fun, so I'm gonna throw that gun away ping me carbine and I I guess vault.
 
 681
 00:29:52,020 --> 00:29:53,760
@@ -2988,7 +2988,7 @@ Is that you?
 
 748
 00:32:56,980 --> 00:32:58,100
-That's right, play Mimik.
+That's right, play M/K.
 
 749
 00:32:58,700 --> 00:33:00,240
@@ -3460,11 +3460,11 @@ They're like here.
 
 866
 00:37:57,930 --> 00:37:59,930
-I don't like... I'm gonna get across, Angla.
+I don't like... I'm gonna get a cross angle.
 
 867
 00:38:01,910 --> 00:38:02,750
-I see them.
+I see them. 
 
 868
 00:38:02,930 --> 00:38:03,870
@@ -4184,7 +4184,7 @@ We did pretty- I did not expect us to ever get top five, let alone top two.
 
 1047
 00:43:37,340 --> 00:43:38,740
-You want to stay the doggy?
+You want to stay the Doki?
 
 1048
 00:43:39,480 --> 00:43:41,360
@@ -4208,7 +4208,7 @@ What a carry!
 
 1053
 00:43:50,920 --> 00:43:52,080
-You want something to doggy?
+You want something to Doki?
 
 1054
 00:43:52,680 --> 00:43:53,720
@@ -4488,7 +4488,7 @@ Does anyone want to ask a question?
 
 1123
 00:46:38,680 --> 00:46:41,180
-Do you have any questions you want to ask the doggies?
+Do you have any questions you want to ask the Doki?
 
 1124
 00:46:41,500 --> 00:46:43,120
@@ -4748,7 +4748,7 @@ Let me come back to the stage again.
 
 1188
 00:50:01,440 --> 00:50:09,840
-So Dokie, I know that after Q&A question and we played very intense Apex game, we have some little chilling mini game with your friends again, right?
+So Doki, I know that after Q&A question and we played very intense Apex game, we have some little chilling mini game with your friends again, right?
 
 1189
 00:50:09,960 --> 00:50:10,900
@@ -5020,7 +5020,7 @@ Scallop.
 
 1256
 00:52:17,790 --> 00:52:20,170
-So, Doggy, do you remember all your names already?
+So, Doki, do you remember all your names already?
 
 1257
 00:52:20,950 --> 00:52:21,470
@@ -5044,7 +5044,7 @@ Yeah, me too.
 
 1262
 00:52:26,050 --> 00:52:29,030
-So, do you guys all know how to play Do-Ki-Wa?
+So, do you guys all know how to play Doki-Wa?
 
 1263
 00:52:30,310 --> 00:52:31,350
@@ -5068,15 +5068,15 @@ Okay, I'll say it again.
 
 1268
 00:52:36,650 --> 00:52:38,570
-Do-Ki-Wa is actually Simon's say.
+Doki-Wa is actually Simon's say.
 
 1269
 00:52:38,790 --> 00:52:40,690
-Do-Ki will give you a command later.
+Doki will give you a command later.
 
 1270
 00:52:40,810 --> 00:52:44,230
-Every time he says Do-Ki-Wa, you have to follow his command to do the command.
+Every time she says Doki-Wa, you have to follow her command to do the command.
 
 1271
 00:52:44,530 --> 00:52:46,790
@@ -5084,7 +5084,7 @@ For example, I'll demo it now.
 
 1272
 00:52:47,010 --> 00:52:48,290
-Do-Ki-Wa, raise both hands.
+Doki-Wa, raise both hands.
 
 1273
 00:52:49,650 --> 00:52:50,630
@@ -5096,7 +5096,7 @@ Put your hands down.
 
 1275
 00:52:52,530 --> 00:52:53,410
-I didn't say Do-Ki-Wa.
+I didn't say Doki-Wa.
 
 1276
 00:52:53,630 --> 00:52:56,510
@@ -5104,7 +5104,7 @@ Okay, now put your hands down.
 
 1277
 00:52:57,170 --> 00:52:58,710
-Do-Ki-Wa, put your hands down.
+Doki-Wa, put your hands down.
 
 1278
 00:52:59,130 --> 00:53:00,970
@@ -5116,7 +5116,7 @@ Okay, I trained them already.
 
 1280
 00:53:03,370 --> 00:53:04,250
-Do-Ki, it's your turn.
+Doki, it's your turn.
 
 1281
 00:53:04,630 --> 00:53:05,370
@@ -5128,35 +5128,35 @@ Sure, okay.
 
 1283
 00:53:08,650 --> 00:53:09,930
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1284
 00:53:11,750 --> 00:53:12,810
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1285
 00:53:13,630 --> 00:53:14,630
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1286
 00:53:15,050 --> 00:53:16,010
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1287
 00:53:16,510 --> 00:53:17,450
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1288
 00:53:17,770 --> 00:53:20,070
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1289
 00:53:20,410 --> 00:53:22,210
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1290
 00:53:22,530 --> 00:53:22,570
-Do -Ki-Wa 2.
+Doki-Wa jump.
 
 1291
 00:53:26,090 --> 00:53:26,770
@@ -5212,11 +5212,11 @@ One, two, three, start.
 
 1304
 00:53:51,050 --> 00:53:52,510
-Do-Ki-Wa 2.
+ 
 
 1305
 00:53:52,530 --> 00:53:53,290
-Do -Ki -Wa, get on your knees.
+Doki-Wa, get on your knees.
 
 1306
 00:53:54,970 --> 00:53:55,890
@@ -5224,7 +5224,7 @@ Okay, turn around.
 
 1307
 00:53:58,190 --> 00:53:59,590
-Do-Ki-Wa, turn around.
+Doki-Wa, turn around.
 
 1308
 00:54:00,510 --> 00:54:01,350
@@ -5232,7 +5232,7 @@ You're too much.
 
 1309
 00:54:02,810 --> 00:54:04,330
-Okay, Do-Ki-Wa, bow.
+Okay, Doki-Wa, bow.
 
 1310
 00:54:09,090 --> 00:54:09,530
@@ -5260,31 +5260,31 @@ They're so good at the game already.
 
 1316
 00:54:22,530 --> 00:54:23,730
-Do -Ki-Wa, stand up.
+Doki-Wa, stand up.
 
 1317
 00:54:26,230 --> 00:54:27,570
-Okay, Do-Ki-Wa 2.
+Okay, Doki-Wa jump.
 
 1318
 00:54:27,930 --> 00:54:29,010
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1319
 00:54:29,210 --> 00:54:30,110
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1320
 00:54:30,210 --> 00:54:30,970
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1321
 00:54:31,110 --> 00:54:31,810
-Do-Ki-Wa 2.
+Doki-Wa jump.
 
 1322
 00:54:32,110 --> 00:54:32,510
-Two.
+Jump.
 
 1323
 00:54:33,630 --> 00:54:34,110
@@ -5312,15 +5312,15 @@ Okay, Jing-Wan.
 
 1329
 00:54:51,130 --> 00:54:52,250
-Okay, do-ki-wa.
+Okay, Doki-wa.
 
 1330
 00:54:52,250 --> 00:54:52,330
-Do-ki-wa.
+Doki-wa.
 
 1331
 00:54:52,530 --> 00:54:52,930
-Do-ki-wa, Jing-Wan.
+Doki-wa, Jing-Wan.
 
 1332
 00:54:56,530 --> 00:54:57,150
@@ -5344,7 +5344,7 @@ Oh, okay.
 
 1337
 00:55:03,610 --> 00:55:04,770
-Do-ki-wa, Jing-Wan.
+Doki-wa, Jing-Wan.
 
 1338
 00:55:06,510 --> 00:55:06,910
@@ -5352,19 +5352,19 @@ Okay.
 
 1339
 00:55:08,750 --> 00:55:09,630
-Do-ki-wa.
+Doki-wa.
 
 1340
 00:55:10,410 --> 00:55:11,670
-Do-ki-wa, what is it?
+Doki-wa, what is it?
 
 1341
 00:55:12,270 --> 00:55:13,170
-Do-ki-wa.
+Doki-wa.
 
 1342
 00:55:15,710 --> 00:55:16,830
-Do-ki-wa.
+Doki-wa.
 
 1343
 00:55:17,850 --> 00:55:18,630
@@ -5388,7 +5388,7 @@ Okay.
 
 1348
 00:55:26,110 --> 00:55:27,030
-Do-ki-wa.
+Doki-wa.
 
 1349
 00:55:29,290 --> 00:55:30,050
@@ -5400,7 +5400,7 @@ Look at me.
 
 1351
 00:55:33,790 --> 00:55:34,310
-Do-ki-wa.
+Doki-wa.
 
 1352
 00:55:34,410 --> 00:55:34,890
@@ -5412,7 +5412,7 @@ Oh, wait.
 
 1354
 00:55:36,530 --> 00:55:37,850
-Okay, do-ki-wa.
+Okay, Doki-wa.
 
 1355
 00:55:38,070 --> 00:55:38,790
@@ -5440,7 +5440,7 @@ They're doing good.
 
 1361
 00:55:54,740 --> 00:55:55,940
-Do-ki-wa.
+Doki-wa.
 
 1362
 00:55:56,200 --> 00:55:59,220
@@ -5476,23 +5476,23 @@ Okay.
 
 1370
 00:56:12,980 --> 00:56:13,660
-Do-ki-wa.
+Doki-wa.
 
 1371
 00:56:15,260 --> 00:56:15,560
-Do.
+Jump.
 
 1372
 00:56:18,420 --> 00:56:19,980
-Do-ki-wa.
+Doki-wa.
 
 1373
 00:56:20,180 --> 00:56:20,520
-Do.
+Jump.
 
 1374
 00:56:21,820 --> 00:56:22,280
-Do.
+Jump.
 
 1375
 00:56:26,540 --> 00:56:28,580
@@ -5516,11 +5516,11 @@ How are you still getting eliminated?
 
 1380
 00:56:32,340 --> 00:56:34,540
-We only kill half people, Do-ki.
+We only kill half people, Doki.
 
 1381
 00:56:34,680 --> 00:56:35,160
-We only kill half people, Do-ki.
+We only kill half people, Doki.
 
 1382
 00:56:35,800 --> 00:56:36,240
@@ -5556,47 +5556,47 @@ Wait, you didn't give me the ideas.
 
 1390
 00:56:49,960 --> 00:56:50,700
-Do-ki-wa, please.
+Doki-wa, please.
 
 1391
 00:56:50,700 --> 00:56:51,020
-Give it to me
+Sit
 
 1392
 00:56:54,640 --> 00:57:01,180
-Give it to me Give it to me Oh my gosh, what can you do while you're sitting down?
+Doki-wa, Doki-wa, Oh my gosh, what can you do while you're sitting down?
 
 1393
 00:57:01,280 --> 00:57:11,880
-You can't do anything Give it to me, Pachae Clap Keep clapping Give it to me, Pachae
+You can't do anything Doki-wa, Pachae Clap Keep clapping
 
 1394
 00:57:18,560 --> 00:58:00,550
-And then there were two Wait, wait, wait Last one, I have something No, no, you didn't say Dokihwa Stand up, they're still sitting on the floor Okay, K-Sun Dokihwa, K-Sun Alright Let's do the final round Let's do it, okay Dokihwa Clap Dokihwa, keep clapping Stop Keep clapping No They wanna win Dokihwa,
+And then there were two Wait, wait, wait Last one, I have something No, no, you didn't say Dokihwa Stand up, they're still sitting on the floor Okay, standup Dokihwa, standup Alright Let's do the final round Let's do it, okay Dokihwa Clap Dokihwa, keep clapping Stop Keep clapping No They wanna win Dokihwa,
 
 1395
 00:58:00,550 --> 00:58:03,830
-two Continue, two
+Jump Continue, jump
 
 1396
 00:58:07,090 --> 00:58:19,150
-Dokihwa One more, two Dokihwa, continue, one more, two Stop Stop Hey, why are you stopping?
+Dokihwa One more, jump Dokihwa, continue, one more, jump Stop Stop Hey, why are you stopping?
 
 1397
 00:58:23,090 --> 00:58:40,210
-Stop Stop Dokihwa, stop Dokihwa, stop Dokihwa, two Dokihwa, stop Dokihwa, two Stop Stop
+Stop Stop Dokihwa, stop Dokihwa, stop Dokihwa, jump Dokihwa, stop Dokihwa, jump Stop Stop
 
 1398
 00:58:52,590 --> 00:59:01,310
-Dokihwa, two Dokihwa, two Dokihwa, two déc Déc
+Dokihwa, jump Dokihwa, jump Dokihwa, jump
 
 1399
 00:59:08,570 --> 00:59:22,910
-born Déc from Please give you Give her some applause, she's already dancing very hard We're doing sports Today's sports is dancing We're going to invite the players to come together and take a group photo
+Please give you Give her some applause, she's already dancing very hard We're doing sports Today's sports is dancing We're going to invite the players to come together and take a group photo
 
 1400
 00:59:40,190 --> 00:59:44,030
-Show me your love Show me your love for Dokie 1, 2, 3
+Show me your love Show me your love for Doki 1, 2, 3
 
 1401
 00:59:58,060 --> 01:00:11,020

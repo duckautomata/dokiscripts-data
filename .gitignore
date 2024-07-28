@@ -3,6 +3,7 @@
 *.m4a
 *.mp3
 *.mp4
+*.mkv
 
 # Don't upload any members stuff
 *members*
