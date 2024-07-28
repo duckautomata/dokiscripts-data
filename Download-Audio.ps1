@@ -29,3 +29,4 @@ function Get-Audio {
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/videos" -Type "Video"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/@DokibirdVODs/videos" -Type "Twitch"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/streams" -Type "Stream"
+# Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/live/WNiCnSHK3Gc" -Type "External"
