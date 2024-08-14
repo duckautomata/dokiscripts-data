@@ -1,4 +1,4 @@
-$folderpath = Read-Host "Enter folder containing audio"
+# $folderpath = Read-Host "Enter folder containing audio"
 
 function Green
 {
@@ -10,7 +10,7 @@ function Red
     process { Write-Host $_ -ForegroundColor Red }
 }
 
-$files = Get-ChildItem -Path "$folderpath\*" -Include *.webm, *.m4a, *.mp3, *.mp4
+$files = Get-ChildItem -Path ".\Transcript\Dokibird\*" -Include *.webm, *.m4a, *.mp3, *.mp4
 $i = 0
 foreach ($file in $files) {
     $i += 1
