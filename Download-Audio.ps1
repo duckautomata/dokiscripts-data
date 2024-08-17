@@ -26,9 +26,10 @@ function Get-Audio {
         $URL
 }
 
+.\yt-dlp.exe -U
 # Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/playlist?list=PL14fhSPKPOywnhNV76e11OWVyYgRpmTs9" -Type "Members"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/videos" -Type "Video"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/@DokibirdVODs/videos" -Type "TwitchVod"
-# Get-Audio -Channel "Dokibird" -URL "https://www.twitch.tv/dokibird/videos?filter=archives&sort=time" -Type "Twitch"
+Get-Audio -Channel "Dokibird" -URL "https://www.twitch.tv/dokibird/videos?filter=archives&sort=time" -Type "Twitch"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/streams" -Type "Stream"
 # Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/live/WNiCnSHK3Gc" -Type "External"
