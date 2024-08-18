@@ -5,9 +5,6 @@
 *.mp4
 *.mkv
 
-# Don't upload twitch screenshots bc they are bad
-*.jpg
-
 # Don't upload any members stuff
 *members*
 
