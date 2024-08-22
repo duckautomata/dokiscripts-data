@@ -5,6 +5,12 @@
 *.mp4
 *.mkv
 
+# ytdlp temp files
+*.part
+*.part-Frag*
+*.ytdl
+
+
 # Don't upload any members stuff
 *members*
 
