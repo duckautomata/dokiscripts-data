@@ -52,4 +52,7 @@ Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/videos" -Ty
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/@DokibirdVODs/videos" -Type "TwitchVod"
 Get-TwitchAudio -Channel "Dokibird" -URL "https://www.twitch.tv/dokibird/videos?filter=archives&sort=time" -Type "Twitch"
 Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/streams" -Type "Stream"
+# Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/playlist?list=PLONZBVo0tPY9aPMNquXbKmmBY-czd6m-x" -Type "Members"
+Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/@mintfantome/videos" -Type "Video"
+Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/@mintfantome/streams" -Type "Stream"
 # Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/live/WNiCnSHK3Gc" -Type "External"
