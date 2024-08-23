@@ -1,5 +1,5 @@
 ## dokiscripts-data
-Transcripts for Doki streams. All located in one place for easy reverse searching.
+Transcripts for Doki and other vTuber streams. All located in one place for easy reverse searching.
 
 ### Best Way to Reverse Search
 - Clone the repo locally and use something like vscode to search through every file in the folder.
@@ -7,7 +7,7 @@ Transcripts for Doki streams. All located in one place for easy reverse searchin
 - Use GitHubs built in search. Though this sucks half the time so good luck.
 
 ### Types
-There are 6 types of content.
+There are 6 types of content
 1. Video
     > Videos uploaded to youtube
 2. Stream
@@ -20,6 +20,10 @@ There are 6 types of content.
     > Twitch streams that were uploaded to YouTube
 6. External
     > Anything that is not on the main channel. E.g. appearing on someone else's stream.
+
+For these channels
+- Dokibird
+- Maid Mint
 
 ### Why this over YouTube's built-in transcripts?
 Several reasons why I created this archive.
