@@ -8,14 +8,14 @@ function Red
     process { Write-Host $_ -ForegroundColor Red }
 }
 
-$path = ".\Transcript\Dokibird"
+$path = ".\Transcript"
 $folderpath = Read-Host "Enter folder containing audio [$path]"
 
 if (Test-Path -Path "$folderpath" -PathType Container) {
     $path = "$folderpath"
 }
 
-$files = Get-ChildItem -Path "$path\*" -Include *.webm, *.m4a, *.mp3, *.mp4
+$files = Get-ChildItem -Path "$path\*" -Include *.webm, *.m4a, *.mp3, *.mp4 -File -Recurse
 $i = 0
 foreach ($file in $files) {
     $i += 1
