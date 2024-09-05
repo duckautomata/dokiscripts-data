@@ -51,5 +51,4 @@ Get-Audio -Channel "Dokibird" -URL "https://www.youtube.com/Dokibird/streams" -T
 Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/@mintfantome/membership" -Type "Members"
 Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/@mintfantome/videos" -Type "Video"
 Get-Audio -Channel "MintFantome" -URL "https://www.youtube.com/@mintfantome/streams" -Type "Stream"
-Get-Audio -Channel "Dokibird" -URL "https://www.twitch.tv/videos/2240830475" -Type "External"
-Get-Audio -Channel "Dokibird" -URL "https://www.twitch.tv/videos/2240305592" -Type "External"
+# Get-Audio -Channel "Dokibird" -URL "https://www.twitch.tv/videos/2240830475" -Type "External"
