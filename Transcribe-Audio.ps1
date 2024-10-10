@@ -24,7 +24,7 @@ foreach ($file in $files) {
     } else {
         Write-Output $file.FullName | Red
         Write-Output "Transcripting $i out of $($files.Count)"
-        .\faster-whisper-xxl.exe $file.FullName -l English -m large --sentence -o source -pp --beep_off
-        # .\faster-whisper-xxl.exe $file.FullName -l English -m large --task translate --sentence -o source -pp --beep_off
+        .\faster-whisper-xxl.exe $file.FullName -l English -m large-v2 --sentence -o source -pp --beep_off
+        # .\faster-whisper-xxl.exe $file.FullName -l English -m large-v2 --task translate --sentence -o source -pp --beep_off
     }
 }
