@@ -32,6 +32,7 @@ word_map = {
     "f**k": "fuck",
     "f***ing": "fucking",
     "f*****g": "fucking",
+    "f******": "fucking",
     "fuck***t": "fucking bullshit",
     "fuck***": "fucking",
     "f**ing": "fucking",
@@ -47,6 +48,7 @@ word_map = {
     "c***": "cunt",
     "p***y": "pussy",
     "d**n": "damn",
+    "****": "fuck"
 }
 
 directory = ".\Transcript"
