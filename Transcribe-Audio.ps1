@@ -28,3 +28,5 @@ foreach ($file in $files) {
         # .\faster-whisper-xxl.exe $file.FullName -l English -m large-v2 --task translate --sentence -o source -pp --beep_off
     }
 }
+
+python.exe .\Word-Fixer.py
