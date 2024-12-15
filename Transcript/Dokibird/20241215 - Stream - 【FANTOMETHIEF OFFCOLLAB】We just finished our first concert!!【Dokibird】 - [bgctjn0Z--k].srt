@@ -1,0 +1,5604 @@
+1
+00:00:00,000 --> 00:00:01,160
+Hello
+
+2
+00:00:11,740 --> 00:00:29,680
+Let us know it how are how our mic sounds everything is really everything we have no intro I didn't realize I brought in I forgot I brought a Laptop and then because it's a we're in my hotel room because it's a new sorry It's Atlanta.
+
+3
+00:00:31,120 --> 00:00:33,620
+What the... what is going on guys?
+
+4
+00:00:33,640 --> 00:00:34,200
+That's not...
+
+5
+00:00:34,820 --> 00:00:37,920
+Okay, if our mic is too loud, let us know.
+
+6
+00:00:39,340 --> 00:00:40,780
+Or too quiet.
+
+7
+00:00:40,880 --> 00:00:41,640
+Or too quiet.
+
+8
+00:00:41,900 --> 00:00:42,980
+Oh, is it lagging?
+
+9
+00:00:43,140 --> 00:00:44,420
+Oh my god, is it lagging already?
+
+10
+00:00:45,120 --> 00:00:46,000
+There's no way.
+
+11
+00:00:46,100 --> 00:00:47,320
+Are we actually lagging?
+
+12
+00:00:47,580 --> 00:00:48,340
+I think we're fine.
+
+13
+00:00:48,440 --> 00:00:48,860
+I don't know.
+
+14
+00:00:48,860 --> 00:00:49,620
+Everybody's saying hello.
+
+15
+00:00:49,760 --> 00:00:50,040
+Hello.
+
+16
+00:00:50,160 --> 00:00:50,620
+They are.
+
+17
+00:00:50,840 --> 00:00:51,260
+They are.
+
+18
+00:00:51,740 --> 00:00:54,020
+Oh, they're like Atlanta Internet.
+
+19
+00:00:54,020 --> 00:00:56,420
+Wait, how bad is it guys?
+
+20
+00:00:56,620 --> 00:00:57,600
+How bad is the internet?
+
+21
+00:00:57,760 --> 00:00:58,700
+Are we buffering?
+
+22
+00:00:59,500 --> 00:00:59,840
+Guys?
+
+23
+00:01:00,760 --> 00:01:02,280
+Are we actually lagging?
+
+24
+00:01:03,120 --> 00:01:03,780
+It's good now?
+
+25
+00:01:03,900 --> 00:01:04,760
+Okay, that's good.
+
+26
+00:01:05,000 --> 00:01:05,600
+It's quiet.
+
+27
+00:01:05,940 --> 00:01:06,940
+Okay, we're using...
+
+28
+00:01:06,940 --> 00:01:14,640
+We didn't realize that like, um, this hotel room had no Ethernet port at all.
+
+29
+00:01:14,840 --> 00:01:17,040
+So we were like, what the fuck do we do?
+
+30
+00:01:19,040 --> 00:01:20,160
+We just...
+
+31
+00:01:20,160 --> 00:01:21,360
+It's a slight buffer.
+
+32
+00:01:21,360 --> 00:01:23,580
+Okay, well, we can...
+
+33
+00:01:23,580 --> 00:01:24,160
+We're gonna...
+
+34
+00:01:24,160 --> 00:01:25,020
+Oh, it died?
+
+35
+00:01:25,220 --> 00:01:26,040
+We'll lower the buff.
+
+36
+00:01:26,140 --> 00:01:27,100
+We're gonna lower the bitrate.
+
+37
+00:01:27,760 --> 00:01:28,420
+We will lower...
+
+38
+00:01:28,880 --> 00:01:32,120
+We will lower bitrate.
+
+39
+00:01:32,900 --> 00:01:33,380
+LMAO.
+
+40
+00:01:33,540 --> 00:01:34,020
+LMAO.
+
+41
+00:01:36,680 --> 00:01:38,260
+I'll lower the bitrate right now.
+
+42
+00:01:38,600 --> 00:01:39,640
+What if we do 2000?
+
+43
+00:01:40,220 --> 00:01:41,140
+Is that good?
+
+44
+00:01:42,280 --> 00:01:44,740
+Why am I getting an ad for a stream if it's that bad?
+
+45
+00:01:44,740 --> 00:01:45,740
+I don't know.
+
+46
+00:01:46,180 --> 00:01:49,340
+Wait, if I lower the bitrate now, does it affect it?
+
+47
+00:01:50,000 --> 00:01:50,640
+I don't know.
+
+48
+00:01:52,080 --> 00:01:55,100
+Does it affect it if I lower the bitrate on stream?
+
+49
+00:01:55,340 --> 00:01:56,380
+Or do I need to restart stream?
+
+50
+00:01:56,540 --> 00:01:57,420
+I don't know.
+
+51
+00:01:57,540 --> 00:01:58,860
+I have fucking no idea.
+
+52
+00:01:59,240 --> 00:02:00,220
+Okay, I'll do 1500.
+
+53
+00:02:00,620 --> 00:02:04,640
+Guys, you don't need us to be super quality, visually, because there's nothing going on.
+
+54
+00:02:06,820 --> 00:02:07,380
+It's alright.
+
+55
+00:02:08,840 --> 00:02:11,860
+So, basically, like we said...
+
+56
+00:02:11,860 --> 00:02:12,940
+No, it's just spinning.
+
+57
+00:02:13,180 --> 00:02:13,880
+It's just spinning.
+
+58
+00:02:14,060 --> 00:02:14,960
+Yeah, it goes from zero.
+
+59
+00:02:15,580 --> 00:02:16,020
+Yeah.
+
+60
+00:02:16,140 --> 00:02:18,340
+It goes like zero from that.
+
+61
+00:02:18,340 --> 00:02:20,820
+Alright, guys, what if I do 500 bitrate?
+
+62
+00:02:23,080 --> 00:02:27,720
+Wait, what would our stream be if I do like 500?
+
+63
+00:02:28,300 --> 00:02:30,000
+What would the stream quality be?
+
+64
+00:02:30,420 --> 00:02:32,540
+Would our voice be distorted too?
+
+65
+00:02:33,420 --> 00:02:35,420
+Would our voice be distorted with 500?
+
+66
+00:02:36,040 --> 00:02:38,000
+Guys, our bitrate's at 500.
+
+67
+00:02:38,220 --> 00:02:38,880
+I'm curious.
+
+68
+00:02:39,380 --> 00:02:42,340
+I'm curious as to see like what...
+
+69
+00:02:42,340 --> 00:02:46,440
+What if I streamed at the studio?
+
+70
+00:02:50,880 --> 00:02:52,680
+At the venue.
+
+71
+00:02:56,720 --> 00:02:59,360
+Do you think it's going down because of the bitrate?
+
+72
+00:03:00,100 --> 00:03:00,500
+No.
+
+73
+00:03:01,940 --> 00:03:04,020
+Because the bitrate's the one that's keeping everything together.
+
+74
+00:03:05,400 --> 00:03:05,560
+Okay.
+
+75
+00:03:06,180 --> 00:03:07,420
+I'm on my dick now.
+
+76
+00:03:07,720 --> 00:03:09,020
+Let's see if I'm on my dick now.
+
+77
+00:03:09,220 --> 00:03:10,120
+Let's see if it works.
+
+78
+00:03:11,540 --> 00:03:15,840
+Okay, guys, we're... that... we are back.
+
+79
+00:03:15,980 --> 00:03:16,920
+We're not back.
+
+80
+00:03:17,060 --> 00:03:17,940
+We are back.
+
+81
+00:03:18,140 --> 00:03:19,140
+We are not back.
+
+82
+00:03:24,340 --> 00:03:26,300
+That means consistent now.
+
+83
+00:03:26,940 --> 00:03:28,120
+Maybe just keep it.
+
+84
+00:03:28,300 --> 00:03:29,120
+We'll keep it here.
+
+85
+00:03:29,440 --> 00:03:29,900
+We're back.
+
+86
+00:03:29,960 --> 00:03:30,940
+We're not back.
+
+87
+00:03:31,020 --> 00:03:31,480
+We're back.
+
+88
+00:03:31,520 --> 00:03:32,300
+We're not back.
+
+89
+00:03:32,320 --> 00:03:32,800
+We're back.
+
+90
+00:03:32,860 --> 00:03:33,600
+We're not back.
+
+91
+00:03:33,680 --> 00:03:34,160
+We're back.
+
+92
+00:03:34,180 --> 00:03:34,540
+We're back.
+
+93
+00:03:34,540 --> 00:03:34,940
+We're not back.
+
+94
+00:03:35,040 --> 00:03:36,260
+We're so back.
+
+95
+00:03:36,260 --> 00:03:37,420
+We're so back!
+
+96
+00:03:38,380 --> 00:03:39,780
+Oh, it's so over!
+
+97
+00:03:40,180 --> 00:03:41,280
+It's nooo!
+
+98
+00:03:41,300 --> 00:03:42,980
+This is gonna be the fucking weirdest VOD.
+
+99
+00:03:43,220 --> 00:03:43,520
+I know!
+
+100
+00:03:43,900 --> 00:03:45,560
+It's gonna be like us, we'll be like...
+
+101
+00:03:45,560 --> 00:03:47,060
+Oh, we're not back!
+
+102
+00:03:49,660 --> 00:03:51,520
+I'm on my data now, guys.
+
+103
+00:03:51,660 --> 00:03:52,740
+We're on my data.
+
+104
+00:03:53,080 --> 00:03:56,320
+We're also on 500 bitrate too, so we'll see how this goes.
+
+105
+00:03:56,800 --> 00:03:58,940
+I bet you the visual is gonna be so funny.
+
+106
+00:03:59,580 --> 00:04:00,880
+How crunchy are we, guys?
+
+107
+00:04:00,880 --> 00:04:02,200
+Are we crunchy, guys?
+
+108
+00:04:02,600 --> 00:04:05,240
+I mean, it's consistent and stable now, because I'm on my data.
+
+109
+00:04:05,240 --> 00:04:07,240
+I think we just have to be on my data.
+
+110
+00:04:07,720 --> 00:04:08,640
+We're back, we're perfect.
+
+111
+00:04:08,900 --> 00:04:10,140
+Okay, so...
+
+112
+00:04:10,140 --> 00:04:14,380
+By the way, we're on my data, so I don't know how fucking...
+
+113
+00:04:14,820 --> 00:04:15,820
+Is it really crunchy?
+
+114
+00:04:16,560 --> 00:04:17,000
+It's...
+
+115
+00:04:18,240 --> 00:04:19,120
+It looks...
+
+116
+00:04:19,120 --> 00:04:20,120
+How does it look like?
+
+117
+00:04:20,780 --> 00:04:21,920
+Oh, I'm too...
+
+118
+00:04:21,920 --> 00:04:22,820
+Let's see.
+
+119
+00:04:23,000 --> 00:04:23,920
+How does it look like?
+
+120
+00:04:24,140 --> 00:04:24,960
+How crunchy is it?
+
+121
+00:04:25,000 --> 00:04:25,660
+Oh, it's fine!
+
+122
+00:04:29,480 --> 00:04:30,580
+It's okay now.
+
+123
+00:04:31,080 --> 00:04:31,520
+No...
+
+124
+00:04:31,520 --> 00:04:32,580
+Wait, there's no way.
+
+125
+00:04:33,840 --> 00:04:35,080
+I'm getting an ad.
+
+126
+00:04:35,320 --> 00:04:36,400
+Oh, you're getting an ad?
+
+127
+00:04:37,560 --> 00:04:38,540
+It's not bad.
+
+128
+00:04:38,680 --> 00:04:40,960
+Oh, I think you just fucking...
+
+129
+00:04:40,960 --> 00:04:41,800
+Audio's good though?
+
+130
+00:04:41,940 --> 00:04:42,100
+Oh, yeah.
+
+131
+00:04:42,100 --> 00:04:42,740
+Oh, that's fine.
+
+132
+00:04:42,840 --> 00:04:43,340
+Okay, guys.
+
+133
+00:04:43,460 --> 00:04:43,560
+It's not bad.
+
+134
+00:04:43,780 --> 00:04:44,360
+It's not bad.
+
+135
+00:04:44,420 --> 00:04:44,880
+It's not bad.
+
+136
+00:04:44,960 --> 00:04:47,120
+Well, you're looking at your phone too, so...
+
+137
+00:04:47,120 --> 00:04:48,520
+So, I'm on my data now.
+
+138
+00:04:48,720 --> 00:04:52,300
+I hope my cellular plan doesn't throttle me.
+
+139
+00:04:52,620 --> 00:04:55,820
+But Minthe's tired, I'm tired, we danced.
+
+140
+00:04:56,240 --> 00:04:57,360
+I'm so tired.
+
+141
+00:04:57,420 --> 00:04:59,300
+We danced, I played Marvel Rivals.
+
+142
+00:05:03,880 --> 00:05:04,600
+I'm not.
+
+143
+00:05:06,100 --> 00:05:06,660
+Yeah.
+
+144
+00:05:07,160 --> 00:05:11,860
+I played Marvel Rivals in the concert.
+
+145
+00:05:12,140 --> 00:05:14,060
+Just slapping my back like a baby.
+
+146
+00:05:14,500 --> 00:05:16,120
+Cop, baby, cop.
+
+147
+00:05:20,300 --> 00:05:21,840
+Yes, I won.
+
+148
+00:05:22,100 --> 00:05:22,540
+I won.
+
+149
+00:05:22,660 --> 00:05:24,540
+Minthe had to watch that entire game.
+
+150
+00:05:24,860 --> 00:05:25,440
+Good job.
+
+151
+00:05:26,000 --> 00:05:26,640
+Thank you.
+
+152
+00:05:26,980 --> 00:05:27,760
+Thank you.
+
+153
+00:05:27,760 --> 00:05:30,760
+Shout out to the animators...
+
+154
+00:05:32,720 --> 00:05:39,260
+Ramen and Tito for doing the animation together in two days.
+
+155
+00:05:39,500 --> 00:05:42,640
+Because I was like, hey, can I play Marvel Rivals on stage?
+
+156
+00:05:45,600 --> 00:05:47,820
+To feed my addiction.
+
+157
+00:05:48,580 --> 00:05:49,010
+And then...
+
+158
+00:05:50,580 --> 00:05:56,960
+And then they actually let me...
+
+159
+00:05:57,880 --> 00:06:00,320
+Put the animation stuff together.
+
+160
+00:06:05,040 --> 00:06:06,960
+Oh, there's the latency.
+
+161
+00:06:07,420 --> 00:06:08,120
+Wait, what?
+
+162
+00:06:08,700 --> 00:06:09,100
+What latency?
+
+163
+00:06:09,540 --> 00:06:10,400
+It keeps lagging, apparently.
+
+164
+00:06:10,820 --> 00:06:11,620
+Wait, is it lagging?
+
+165
+00:06:11,620 --> 00:06:12,080
+Is it?
+
+166
+00:06:12,220 --> 00:06:12,920
+I don't know.
+
+167
+00:06:13,220 --> 00:06:14,280
+I don't know.
+
+168
+00:06:16,580 --> 00:06:18,500
+I don't know if it's...
+
+169
+00:06:18,500 --> 00:06:20,300
+It's keeping everything...
+
+170
+00:06:20,300 --> 00:06:20,560
+What?
+
+171
+00:06:20,700 --> 00:06:21,940
+I don't even know what they're saying.
+
+172
+00:06:23,000 --> 00:06:24,300
+Only four seconds?
+
+173
+00:06:24,640 --> 00:06:25,520
+Wait, what does that mean?
+
+174
+00:06:25,520 --> 00:06:26,940
+It's stable now.
+
+175
+00:06:27,060 --> 00:06:28,500
+Just a bit choppy.
+
+176
+00:06:28,900 --> 00:06:29,760
+It's fine now.
+
+177
+00:06:30,060 --> 00:06:30,600
+Yeah, sorry.
+
+178
+00:06:30,660 --> 00:06:32,600
+We didn't realize how bad the hotel...
+
+179
+00:06:32,600 --> 00:06:34,360
+We didn't have a lot of time to do anything.
+
+180
+00:06:34,820 --> 00:06:35,260
+No.
+
+181
+00:06:35,600 --> 00:06:37,080
+We didn't have time to test anything.
+
+182
+00:06:37,300 --> 00:06:39,660
+Sorry, we went straight from the venue to here.
+
+183
+00:06:39,680 --> 00:06:42,060
+Yeah, because we were like, let's just do it at the hotel room.
+
+184
+00:06:42,280 --> 00:06:43,560
+What is Rice not saying?
+
+185
+00:06:43,680 --> 00:06:44,480
+I don't know.
+
+186
+00:06:44,680 --> 00:06:45,940
+There is...
+
+187
+00:06:49,540 --> 00:06:52,520
+So yeah, I'm on my phone data.
+
+188
+00:06:55,060 --> 00:06:55,420
+Anyway...
+
+189
+00:06:56,760 --> 00:06:58,520
+Just so you guys know...
+
+190
+00:06:59,220 --> 00:07:01,140
+Last cup of coffee was Mint's suggestion.
+
+191
+00:07:02,980 --> 00:07:05,600
+There was another song we wanted to do, but we couldn't.
+
+192
+00:07:05,700 --> 00:07:07,400
+I don't remember what that song was.
+
+193
+00:07:08,260 --> 00:07:09,580
+I think we were thinking...
+
+194
+00:07:09,960 --> 00:07:12,480
+We were trying to think of another duo and I was like...
+
+195
+00:07:12,480 --> 00:07:16,040
+Yeah, but then we wanted to do this one song, but then we couldn't because of the licensing.
+
+196
+00:07:16,200 --> 00:07:17,280
+I think it was Bad Apple.
+
+197
+00:07:17,600 --> 00:07:18,840
+Oh yeah, we wanted to do Bad...
+
+198
+00:07:18,840 --> 00:07:20,480
+Yeah, we were going to do Bad Apple.
+
+199
+00:07:21,200 --> 00:07:23,080
+But we couldn't because of licensing.
+
+200
+00:07:23,680 --> 00:07:26,760
+And Mint was like, I know this is crazy, but why don't we do Last Cup of Coffee?
+
+201
+00:07:27,240 --> 00:07:30,160
+And I was like, oh my god, fuck it.
+
+202
+00:07:33,800 --> 00:07:35,060
+You're welcome, I guess.
+
+203
+00:07:35,080 --> 00:07:35,920
+It was her suggestion.
+
+204
+00:07:36,220 --> 00:07:37,460
+Everyone was like, I can't believe...
+
+205
+00:07:37,460 --> 00:07:38,200
+Oh my god, Doki.
+
+206
+00:07:38,580 --> 00:07:40,980
+That's so fucking wild that you actually...
+
+207
+00:07:40,980 --> 00:07:42,360
+And I was like, I didn't even pick that song.
+
+208
+00:07:44,380 --> 00:07:46,000
+I wanted to make you guys cry.
+
+209
+00:07:46,500 --> 00:07:47,740
+And then right after...
+
+210
+00:07:50,480 --> 00:07:55,200
+I was dying when you were doing that because I was just like, it is the absolute most whiplash.
+
+211
+00:07:55,220 --> 00:07:57,740
+Yeah, the most emotional song ever.
+
+212
+00:08:00,300 --> 00:08:01,500
+That was also...
+
+213
+00:08:03,360 --> 00:08:07,520
+When you chose that, it was my first time hearing that song.
+
+214
+00:08:07,800 --> 00:08:12,900
+And I would sometimes want to sing that one and also the...
+
+215
+00:08:14,120 --> 00:08:19,060
+Because it would be stuck in my head, so I wanted to sing it on stream and I was like, no, I can't.
+
+216
+00:08:19,060 --> 00:08:22,440
+Because people would be like, why is Minto suddenly singing these songs?
+
+217
+00:08:30,040 --> 00:08:31,860
+I already forgot.
+
+218
+00:08:32,780 --> 00:08:33,920
+Our brains are mush.
+
+219
+00:08:33,920 --> 00:08:36,180
+Our brains are so fried now.
+
+220
+00:08:36,520 --> 00:08:40,060
+I also like...
+
+221
+00:08:40,060 --> 00:08:41,260
+Oh, yeah.
+
+222
+00:08:42,780 --> 00:08:45,420
+No, when we were...
+
+223
+00:08:45,420 --> 00:08:50,720
+When we met up last time for the tech stuff, we were just like...
+
+224
+00:08:50,720 --> 00:08:53,520
+The whole time we were just sitting around, we would be like...
+
+225
+00:08:58,600 --> 00:08:59,120
+Oh,
+
+226
+00:09:04,640 --> 00:09:05,280
+my God.
+
+227
+00:09:06,200 --> 00:09:12,660
+Yeah, so we will be posting videos of two performances, each of us.
+
+228
+00:09:12,960 --> 00:09:14,400
+Like, solo, duet.
+
+229
+00:09:14,820 --> 00:09:17,040
+And then, so each of us, my first...
+
+230
+00:09:17,040 --> 00:09:18,320
+I'll tell you guys which ones I'm posting.
+
+231
+00:09:18,660 --> 00:09:21,640
+I'm posting Last Cup of Coffee and FNAF.
+
+232
+00:09:24,120 --> 00:09:25,140
+I'm hearing the FNAF.
+
+233
+00:09:25,140 --> 00:09:26,560
+The emotional whiplash.
+
+234
+00:09:26,660 --> 00:09:27,360
+Yeah, yeah.
+
+235
+00:09:27,780 --> 00:09:30,360
+And then, Min hasn't decided hers.
+
+236
+00:09:30,360 --> 00:09:30,740
+No.
+
+237
+00:09:31,020 --> 00:09:36,620
+And then, we asked if Doobie could post the song she did with us.
+
+238
+00:09:36,780 --> 00:09:37,080
+Yeah.
+
+239
+00:09:37,260 --> 00:09:37,820
+And like...
+
+240
+00:09:37,820 --> 00:09:39,120
+Because we requested that, too.
+
+241
+00:09:39,360 --> 00:09:39,720
+Yeah.
+
+242
+00:09:39,800 --> 00:09:41,980
+Because we figured that should be a song to be posted online.
+
+243
+00:09:42,440 --> 00:09:44,660
+I was the one that suggested the song.
+
+244
+00:09:44,800 --> 00:09:44,980
+Yeah.
+
+245
+00:09:45,480 --> 00:09:48,600
+I remember when we gave them the song choice for the trio.
+
+246
+00:09:49,320 --> 00:09:51,080
+And then, they thought Min suggested it.
+
+247
+00:09:51,140 --> 00:09:52,260
+I was like, no, I...
+
+248
+00:09:52,260 --> 00:09:53,040
+Because it was like...
+
+249
+00:09:53,040 --> 00:09:53,840
+Yeah, you had a couple.
+
+250
+00:09:54,180 --> 00:09:56,300
+And I was just like, we should do the Sugar song.
+
+251
+00:09:56,380 --> 00:09:57,420
+Yeah, because it was like...
+
+252
+00:09:57,420 --> 00:09:58,580
+I was like, it's so...
+
+253
+00:09:58,580 --> 00:09:59,200
+It's so good.
+
+254
+00:09:59,200 --> 00:09:59,800
+Yeah, it was such a...
+
+255
+00:09:59,800 --> 00:10:00,420
+It was a good suggestion.
+
+256
+00:10:00,480 --> 00:10:01,080
+Yeah, yeah.
+
+257
+00:10:01,200 --> 00:10:03,500
+And then, it was surprising because I...
+
+258
+00:10:03,500 --> 00:10:05,040
+Because at first, it was going to be the regular stage.
+
+259
+00:10:05,120 --> 00:10:08,360
+And I requested the red curtains.
+
+260
+00:10:08,700 --> 00:10:08,800
+Yeah.
+
+261
+00:10:08,800 --> 00:10:12,160
+And then, I was envisioning how it would look like.
+
+262
+00:10:12,200 --> 00:10:15,140
+So, I was like, we do the red curtains to simulate the anime.
+
+263
+00:10:15,520 --> 00:10:17,080
+And then, do the spotlight thing.
+
+264
+00:10:17,200 --> 00:10:21,200
+And then, one by one, it's like spotlight, spotlight, spotlight.
+
+265
+00:10:21,960 --> 00:10:23,280
+No, it will not be up...
+
+266
+00:10:24,300 --> 00:10:24,740
+What?
+
+267
+00:10:29,900 --> 00:10:32,200
+I want to do break stuff.
+
+268
+00:10:32,300 --> 00:10:33,940
+I haven't decided the other song.
+
+269
+00:10:34,380 --> 00:10:35,060
+Yeah, yeah.
+
+270
+00:10:35,100 --> 00:10:36,840
+So, we're just figuring...
+
+271
+00:10:37,560 --> 00:10:39,420
+What if I do the sex song?
+
+272
+00:10:39,540 --> 00:10:40,840
+I mean, you can if you want.
+
+273
+00:10:41,000 --> 00:10:42,420
+Like, literally, it's your choice.
+
+274
+00:10:42,500 --> 00:10:43,300
+It's your channel.
+
+275
+00:10:44,340 --> 00:10:45,120
+Okay, guys.
+
+276
+00:10:45,140 --> 00:10:46,180
+I'll do the sex song.
+
+277
+00:10:46,460 --> 00:10:47,480
+You're actually gonna...
+
+278
+00:10:48,640 --> 00:10:49,420
+You're welcome.
+
+279
+00:10:50,180 --> 00:10:50,720
+Oh, hey.
+
+280
+00:10:50,840 --> 00:10:51,720
+Didn't see you there.
+
+281
+00:10:51,820 --> 00:10:52,640
+Look who I just did.
+
+282
+00:10:52,640 --> 00:10:55,040
+Had sex, undressed, saw her boobies in the rest.
+
+283
+00:10:55,400 --> 00:10:57,120
+Sure, nice of her to let you do that.
+
+284
+00:10:57,160 --> 00:10:58,620
+I like how I remember that song.
+
+285
+00:10:58,680 --> 00:10:59,020
+I know.
+
+286
+00:10:59,320 --> 00:11:01,180
+Versus all the other songs we just sang.
+
+287
+00:11:01,760 --> 00:11:04,500
+I remember during rehearsal, you're like, how the fuck do you keep remembering?
+
+288
+00:11:05,260 --> 00:11:06,640
+Because I would just...
+
+289
+00:11:06,640 --> 00:11:09,300
+Like, just easily rap it.
+
+290
+00:11:11,020 --> 00:11:11,420
+Yeah.
+
+291
+00:11:12,760 --> 00:11:15,820
+I won't do any of my cutie songs, I guess.
+
+292
+00:11:15,980 --> 00:11:16,760
+She kept looking...
+
+293
+00:11:16,760 --> 00:11:18,900
+Yeah, you should have done Maid of Dreaming.
+
+294
+00:11:22,060 --> 00:11:23,240
+Upload the cat one.
+
+295
+00:11:23,240 --> 00:11:23,940
+No, we have two.
+
+296
+00:11:24,200 --> 00:11:25,060
+We get two.
+
+297
+00:11:25,120 --> 00:11:25,300
+Two.
+
+298
+00:11:25,720 --> 00:11:27,600
+And I want to upload FNAF.
+
+299
+00:11:27,640 --> 00:11:28,660
+You can't stop me.
+
+300
+00:11:28,960 --> 00:11:29,820
+By the way, there's...
+
+301
+00:11:29,820 --> 00:11:34,160
+I don't know if you guys remember, but when we tweeted out the concert, I did an emoji of the tombstone.
+
+302
+00:11:34,580 --> 00:11:36,240
+That was the day I decided to...
+
+303
+00:11:37,460 --> 00:11:38,980
+I didn't even notice that.
+
+304
+00:11:39,000 --> 00:11:39,920
+We were like, why did people...
+
+305
+00:11:39,920 --> 00:11:41,280
+Why did she post the tombstone?
+
+306
+00:11:41,380 --> 00:11:43,500
+Because I was tweeting out about the living tombstones.
+
+307
+00:11:44,080 --> 00:11:46,760
+And that was the day I decided we were gonna do FNAF.
+
+308
+00:11:47,020 --> 00:11:47,900
+Oh my god.
+
+309
+00:11:47,900 --> 00:11:52,360
+And originally, Doki was just like, hey, you gotta choose another FNAF.
+
+310
+00:11:52,420 --> 00:11:53,560
+Oh no, you want me to do Discord.
+
+311
+00:11:53,860 --> 00:11:56,860
+Yeah, I was like, I'm gonna do FNAF and you'll do Discord.
+
+312
+00:11:57,000 --> 00:11:58,160
+And then she fucking baited me.
+
+313
+00:11:58,180 --> 00:11:58,600
+I was like, no.
+
+314
+00:11:58,840 --> 00:12:00,120
+No, you said you were gonna do it.
+
+315
+00:12:00,800 --> 00:12:01,620
+I wasn't serious.
+
+316
+00:12:02,360 --> 00:12:03,080
+You were like, okay.
+
+317
+00:12:03,200 --> 00:12:05,020
+And then I literally put that in my set list.
+
+318
+00:12:05,280 --> 00:12:06,620
+Yeah, because it suits you.
+
+319
+00:12:06,740 --> 00:12:07,960
+And then you didn't put Discord.
+
+320
+00:12:08,180 --> 00:12:09,760
+I was so betrayed.
+
+321
+00:12:10,320 --> 00:12:11,380
+I was so betrayed.
+
+322
+00:12:11,720 --> 00:12:14,420
+I literally put that in because she said she would put Discord.
+
+323
+00:12:14,740 --> 00:12:14,780
+No.
+
+324
+00:12:15,460 --> 00:12:16,100
+Discord, but...
+
+325
+00:12:16,100 --> 00:12:17,380
+I don't even know that song.
+
+326
+00:12:17,380 --> 00:12:18,960
+You literally suggested it.
+
+327
+00:12:18,980 --> 00:12:19,100
+I don't even know that.
+
+328
+00:12:19,160 --> 00:12:19,640
+I didn't suggest it.
+
+329
+00:12:19,740 --> 00:12:20,740
+You suggested Discord.
+
+330
+00:12:20,740 --> 00:12:21,880
+I don't know that song.
+
+331
+00:12:21,880 --> 00:12:22,220
+You did.
+
+332
+00:12:22,260 --> 00:12:23,600
+You did know that song.
+
+333
+00:12:23,640 --> 00:12:25,620
+You suggested that song to us.
+
+334
+00:12:25,660 --> 00:12:27,280
+Okay, I guess we need another revenge concert.
+
+335
+00:12:27,280 --> 00:12:28,580
+We just need another concert.
+
+336
+00:12:28,740 --> 00:12:30,080
+Sponsor us for another concert.
+
+337
+00:12:31,920 --> 00:12:32,580
+Don't know Discord.
+
+338
+00:12:32,580 --> 00:12:34,800
+Put it in West Coast though, please.
+
+339
+00:12:36,420 --> 00:12:37,860
+Yeah, we gotta go somewhere else.
+
+340
+00:12:37,880 --> 00:12:40,960
+If you sponsor us for another concert, she will do Discord.
+
+341
+00:12:41,740 --> 00:12:42,220
+Discord.
+
+342
+00:12:42,800 --> 00:12:44,600
+I told you my set list was pretty good.
+
+343
+00:12:44,860 --> 00:12:46,180
+I don't know that song.
+
+344
+00:12:46,180 --> 00:12:46,760
+Yes, you do.
+
+345
+00:12:46,880 --> 00:12:48,100
+I don't know Discord.
+
+346
+00:12:48,120 --> 00:12:49,640
+You're the one that suggested it.
+
+347
+00:12:49,640 --> 00:12:50,040
+I did.
+
+348
+00:12:50,160 --> 00:12:51,400
+I think you suggested it.
+
+349
+00:12:51,420 --> 00:12:51,900
+I was just like...
+
+350
+00:12:51,900 --> 00:12:52,740
+I know the name.
+
+351
+00:12:52,860 --> 00:12:54,500
+Like, I know the song, but I don't know it.
+
+352
+00:12:54,520 --> 00:12:55,940
+Like, I only know the name of it.
+
+353
+00:12:56,280 --> 00:12:58,980
+Yeah, but I'm glad when we saw, like, people...
+
+354
+00:12:58,980 --> 00:13:02,740
+Because we had a feed of the audience while we were doing the concert.
+
+355
+00:13:03,020 --> 00:13:03,060
+Yeah.
+
+356
+00:13:03,260 --> 00:13:08,320
+It was so cool just, like, seeing everybody just waving their penlights and just dancing.
+
+357
+00:13:08,420 --> 00:13:10,180
+By the way, guys, merch sold out.
+
+358
+00:13:10,280 --> 00:13:11,040
+All the merch.
+
+359
+00:13:11,560 --> 00:13:11,920
+Apparently.
+
+360
+00:13:11,920 --> 00:13:18,280
+Yeah, we were told that all the merch that was being sold at the concert sold out.
+
+361
+00:13:18,380 --> 00:13:18,780
+That's crazy.
+
+362
+00:13:18,780 --> 00:13:19,260
+By the end.
+
+363
+00:13:19,700 --> 00:13:22,080
+Like, people were still lining up, but it was just all sold out.
+
+364
+00:13:22,340 --> 00:13:23,140
+We didn't realize.
+
+365
+00:13:23,260 --> 00:13:24,740
+We were, like, so surprised.
+
+366
+00:13:24,880 --> 00:13:25,020
+Yeah.
+
+367
+00:13:25,020 --> 00:13:26,020
+Because they got a lot of stock.
+
+368
+00:13:26,240 --> 00:13:26,460
+Yeah.
+
+369
+00:13:26,500 --> 00:13:27,200
+They brought a lot.
+
+370
+00:13:27,720 --> 00:13:28,460
+The fact that...
+
+371
+00:13:28,460 --> 00:13:30,080
+But we still have online orders, though.
+
+372
+00:13:30,220 --> 00:13:31,780
+Like, we requested...
+
+373
+00:13:31,780 --> 00:13:33,200
+Because at first, they weren't going to do online orders.
+
+374
+00:13:33,580 --> 00:13:36,340
+But, like, I was like, can we please have them online?
+
+375
+00:13:36,480 --> 00:13:36,580
+Yeah.
+
+376
+00:13:36,580 --> 00:13:39,200
+Because I know we saw a lot of fans that really wanted it.
+
+377
+00:13:39,200 --> 00:13:44,880
+And, you know, if we did sell out, then people can still get the merch, even if it was sold out and everything.
+
+378
+00:13:45,060 --> 00:13:46,740
+There was a pit during break stuff?
+
+379
+00:13:47,700 --> 00:13:48,200
+Oh, my God.
+
+380
+00:13:48,240 --> 00:13:48,720
+There was a mosh...
+
+381
+00:13:48,720 --> 00:13:49,600
+I heard there was a mosh pit.
+
+382
+00:13:49,780 --> 00:13:50,040
+No way!
+
+383
+00:13:50,040 --> 00:13:51,140
+I heard people were moshing.
+
+384
+00:13:53,640 --> 00:13:56,520
+So we hope we're not too loud, because we see it goes red sometimes.
+
+385
+00:13:56,680 --> 00:13:57,100
+Oh, yeah.
+
+386
+00:13:57,220 --> 00:13:57,800
+Yeah, yeah.
+
+387
+00:13:59,320 --> 00:13:59,640
+So...
+
+388
+00:13:59,640 --> 00:14:01,520
+But if we are peaking, let us know.
+
+389
+00:14:01,560 --> 00:14:02,860
+Or if it's too quiet, let us know.
+
+390
+00:14:02,920 --> 00:14:05,180
+Because we're sharing one mic.
+
+391
+00:14:05,180 --> 00:14:09,360
+By the way, like I said, I had one hour to pack before I went to Atlanta.
+
+392
+00:14:09,740 --> 00:14:10,940
+So I didn't bring anything.
+
+393
+00:14:11,080 --> 00:14:11,960
+Oh, that's your fault.
+
+394
+00:14:12,080 --> 00:14:13,320
+Yeah, I know.
+
+395
+00:14:13,500 --> 00:14:14,300
+I had a lot of other...
+
+396
+00:14:14,300 --> 00:14:17,700
+We had so much stuff to do the day before.
+
+397
+00:14:18,480 --> 00:14:18,640
+I know.
+
+398
+00:14:18,640 --> 00:14:19,640
+The day before.
+
+399
+00:14:19,900 --> 00:14:19,920
+Yeah.
+
+400
+00:14:19,920 --> 00:14:21,640
+So I literally, like...
+
+401
+00:14:21,640 --> 00:14:23,880
+So I literally was just, like...
+
+402
+00:14:23,880 --> 00:14:25,280
+I know, there was a lot of stuff.
+
+403
+00:14:25,620 --> 00:14:26,660
+There was so much stuff.
+
+404
+00:14:28,800 --> 00:14:31,180
+What other stuff that we wanted to talk about?
+
+405
+00:14:32,240 --> 00:14:32,640
+That...
+
+406
+00:14:32,640 --> 00:14:34,200
+Oh, yeah, when Doobie did the worm.
+
+407
+00:14:36,720 --> 00:14:39,000
+She told us, she was like, I'm gonna do the worm.
+
+408
+00:14:39,300 --> 00:14:39,720
+Yeah, she's like...
+
+409
+00:14:39,720 --> 00:14:40,420
+And she actually did it.
+
+410
+00:14:40,420 --> 00:14:42,100
+She was like, do you think I can do the worm?
+
+411
+00:14:42,200 --> 00:14:43,740
+I was like, oh my god, I'm gonna go for it.
+
+412
+00:14:47,260 --> 00:14:48,660
+She did the worm.
+
+413
+00:14:48,700 --> 00:14:49,540
+She did the...
+
+414
+00:14:49,540 --> 00:14:51,320
+She did the fucking worm.
+
+415
+00:14:51,560 --> 00:14:53,400
+We just here lied down.
+
+416
+00:14:53,600 --> 00:14:54,280
+She was so cute.
+
+417
+00:14:54,320 --> 00:14:55,000
+Yeah, yeah.
+
+418
+00:14:55,140 --> 00:14:59,320
+Did you guys recognize we did her move during the instrumental?
+
+419
+00:14:59,660 --> 00:15:00,020
+Oh, yeah.
+
+420
+00:15:00,200 --> 00:15:01,580
+We wanted to...
+
+421
+00:15:01,580 --> 00:15:02,440
+We wanted to circle around her.
+
+422
+00:15:02,440 --> 00:15:06,360
+Like, do her infamous Doobie move, too.
+
+423
+00:15:06,640 --> 00:15:08,120
+You guys recognized it?
+
+424
+00:15:12,300 --> 00:15:13,980
+Shake It was really rough for me.
+
+425
+00:15:15,060 --> 00:15:16,240
+It's so rough.
+
+426
+00:15:16,240 --> 00:15:17,200
+You did your best.
+
+427
+00:15:17,380 --> 00:15:20,240
+Okay, when we were trying to learn...
+
+428
+00:15:20,240 --> 00:15:22,440
+When I was trying to learn Shake It...
+
+429
+00:15:23,040 --> 00:15:24,200
+That was the last song we did.
+
+430
+00:15:24,200 --> 00:15:25,120
+Yeah, that was the last song.
+
+431
+00:15:25,140 --> 00:15:31,080
+When I was trying to learn Shake It, like, literally when I was listening to it, the guy was saying gibberish to me.
+
+432
+00:15:31,080 --> 00:15:34,560
+Like, there was a specific part in the line that was just gibberish.
+
+433
+00:15:34,720 --> 00:15:38,080
+And I was like, someone please give me a phonetic...
+
+434
+00:15:39,180 --> 00:15:46,340
+I, like, I literally... I listened to the song on, like, 0.25 speed and, like, listened to each syllable.
+
+435
+00:15:46,440 --> 00:15:55,820
+I had... I spent, like, what was it, three hours for one specific line trying to figure out how the fuck do I phonetically say this.
+
+436
+00:15:56,000 --> 00:15:57,640
+And it was so bad for me.
+
+437
+00:15:57,640 --> 00:16:09,040
+And then, like, Min had to get out of bed and, like, record the line for me so I could, like, listen to it and just repeat it.
+
+438
+00:16:09,360 --> 00:16:11,000
+Like, over and over.
+
+439
+00:16:11,120 --> 00:16:14,120
+Because I was like, I don't know what he's saying at that...
+
+440
+00:16:14,120 --> 00:16:16,280
+That song, I was really surprised.
+
+441
+00:16:16,580 --> 00:16:17,940
+I was just like, this is really...
+
+442
+00:16:17,940 --> 00:16:21,820
+No, I gave you a list because I was like, what do I do at a fucking husband hotel?
+
+443
+00:16:22,880 --> 00:16:26,740
+I remember, I was like, here's a list of songs we could do.
+
+444
+00:16:26,740 --> 00:16:28,740
+And one of them was husband hotel.
+
+445
+00:16:30,180 --> 00:16:32,960
+And then she looked at my list and then she picked...
+
+446
+00:16:33,740 --> 00:16:35,580
+Oh, no, my data.
+
+447
+00:16:36,000 --> 00:16:36,440
+Oh, no!
+
+448
+00:16:36,480 --> 00:16:36,680
+No!
+
+449
+00:16:37,840 --> 00:16:39,000
+Oh, we're back, we're back.
+
+450
+00:16:39,220 --> 00:16:40,040
+We're back.
+
+451
+00:16:40,160 --> 00:16:40,960
+Wait, no, it says...
+
+452
+00:16:41,580 --> 00:16:41,860
+It's...
+
+453
+00:16:41,860 --> 00:16:42,400
+We're back.
+
+454
+00:16:42,900 --> 00:16:43,540
+We're back.
+
+455
+00:16:44,820 --> 00:16:45,280
+Are we back?
+
+456
+00:16:45,720 --> 00:16:46,380
+We should be.
+
+457
+00:16:46,520 --> 00:16:46,960
+Sorry.
+
+458
+00:16:47,220 --> 00:16:48,960
+It's gonna be cutting in and out.
+
+459
+00:16:49,220 --> 00:16:50,360
+We're sorry, we're using my...
+
+460
+00:16:50,360 --> 00:16:50,920
+We won't...
+
+461
+00:16:50,920 --> 00:16:52,220
+It won't be a super long stream.
+
+462
+00:16:52,280 --> 00:16:52,860
+Yeah, yeah.
+
+463
+00:16:52,900 --> 00:16:53,680
+Sorry, guys.
+
+464
+00:16:53,960 --> 00:16:54,400
+It's...
+
+465
+00:16:54,400 --> 00:16:55,380
+It's really scuffed.
+
+466
+00:16:55,380 --> 00:16:56,860
+I can't tell if it's up or not.
+
+467
+00:16:57,020 --> 00:16:58,220
+They're saying we're back.
+
+468
+00:16:58,260 --> 00:16:58,580
+Oh, okay.
+
+469
+00:16:58,660 --> 00:16:59,020
+Yeah, yeah, yeah.
+
+470
+00:16:59,020 --> 00:17:00,320
+Where did we stop the story?
+
+471
+00:17:00,340 --> 00:17:01,860
+I don't know where we stopped the story.
+
+472
+00:17:02,320 --> 00:17:03,620
+No, it's, like, going back to red.
+
+473
+00:17:03,680 --> 00:17:04,100
+I think there's...
+
+474
+00:17:04,100 --> 00:17:06,120
+I'm getting throttled now because I used up a lot.
+
+475
+00:17:06,620 --> 00:17:06,680
+Yeah.
+
+476
+00:17:06,680 --> 00:17:07,040
+Do you have...
+
+477
+00:17:07,040 --> 00:17:08,400
+Is your data unlimited or no?
+
+478
+00:17:08,400 --> 00:17:08,720
+No.
+
+479
+00:17:08,900 --> 00:17:09,160
+Oh.
+
+480
+00:17:10,140 --> 00:17:10,920
+It's not unlimited.
+
+481
+00:17:11,980 --> 00:17:12,700
+It's not...
+
+482
+00:17:13,420 --> 00:17:16,380
+It's, like, going from red to...
+
+483
+00:17:18,280 --> 00:17:22,500
+It's going from, like, green to yellow.
+
+484
+00:17:23,100 --> 00:17:23,860
+So we don't know where...
+
+485
+00:17:23,860 --> 00:17:25,220
+Are we actually back, though?
+
+486
+00:17:25,820 --> 00:17:29,500
+We can't tell because it goes back and forth a lot for us.
+
+487
+00:17:31,340 --> 00:17:32,200
+What were we going to say?
+
+488
+00:17:32,440 --> 00:17:33,440
+What were we in the story?
+
+489
+00:17:34,040 --> 00:17:35,140
+Where were we in the story?
+
+490
+00:17:35,560 --> 00:17:36,680
+Yeah, where are we cut out?
+
+491
+00:17:37,200 --> 00:17:37,620
+Uh-oh.
+
+492
+00:17:38,160 --> 00:17:39,180
+They're saying, uh-oh.
+
+493
+00:17:40,120 --> 00:17:40,480
+Oh, right.
+
+494
+00:17:40,560 --> 00:17:41,340
+Has been hotel.
+
+495
+00:17:42,060 --> 00:17:42,500
+Oh, yeah.
+
+496
+00:17:42,920 --> 00:17:43,760
+Okay, so we want to do...
+
+497
+00:17:43,760 --> 00:17:44,900
+Okay, I gave her a list.
+
+498
+00:17:45,020 --> 00:17:47,340
+In the list was, like, two has been hotel songs.
+
+499
+00:17:49,040 --> 00:17:52,360
+We can't finish the concert on has been hotel.
+
+500
+00:17:52,520 --> 00:17:53,820
+Yes, we can.
+
+501
+00:17:53,840 --> 00:17:55,000
+Oh, my gosh!
+
+502
+00:17:55,760 --> 00:17:56,780
+We just...
+
+503
+00:17:56,780 --> 00:17:57,220
+No!
+
+504
+00:17:57,880 --> 00:17:58,900
+Or shake it.
+
+505
+00:17:59,020 --> 00:18:00,080
+And then she chose shake it.
+
+506
+00:18:00,120 --> 00:18:02,060
+I was like, shake it is, like, a good feeling.
+
+507
+00:18:02,060 --> 00:18:04,580
+You could have suggested some songs, too.
+
+508
+00:18:05,140 --> 00:18:08,480
+I did my part suggesting songs.
+
+509
+00:18:09,420 --> 00:18:11,980
+You could have suggested your own song.
+
+510
+00:18:12,680 --> 00:18:15,120
+You did not have to fucking pick...
+
+511
+00:18:15,120 --> 00:18:20,280
+The has been hotel song I wanted to do was the one with Alistair and the TV guy.
+
+512
+00:18:21,020 --> 00:18:21,540
+What was it?
+
+513
+00:18:21,560 --> 00:18:23,080
+That's not a closing song!
+
+514
+00:18:23,080 --> 00:18:24,640
+That's a good closing song.
+
+515
+00:18:24,680 --> 00:18:24,980
+No, it's not!
+
+516
+00:18:26,860 --> 00:18:29,600
+But I also suggested shake it.
+
+517
+00:18:30,100 --> 00:18:32,360
+Yeah, like, shake it is a good feeling song.
+
+518
+00:18:33,140 --> 00:18:34,260
+Well, it's because my...
+
+519
+00:18:34,260 --> 00:18:36,040
+I only know idol shit, okay?
+
+520
+00:18:36,240 --> 00:18:36,620
+So...
+
+521
+00:18:36,620 --> 00:18:37,840
+Yeah, and I know how...
+
+522
+00:18:37,840 --> 00:18:38,820
+I know meme songs.
+
+523
+00:18:38,900 --> 00:18:41,400
+Yeah, so together we...
+
+524
+00:18:41,940 --> 00:18:43,920
+We somehow created a set list.
+
+525
+00:18:48,960 --> 00:18:52,160
+Oh, yeah, we saw the guy that brought his 3DS to record.
+
+526
+00:18:52,540 --> 00:18:52,900
+Yeah!
+
+527
+00:18:53,080 --> 00:18:54,860
+We saw that, we saw the ring camera.
+
+528
+00:18:54,860 --> 00:18:57,260
+Yeah, we saw the ring camera, we saw the 3DS.
+
+529
+00:18:57,420 --> 00:18:59,120
+I saw... I think I saw PSP, too.
+
+530
+00:18:59,300 --> 00:19:01,480
+Wait, somebody brought their PSP, that's funny.
+
+531
+00:19:01,660 --> 00:19:01,900
+Yeah.
+
+532
+00:19:02,020 --> 00:19:02,600
+That's funny.
+
+533
+00:19:04,620 --> 00:19:05,820
+We were looking at the...
+
+534
+00:19:05,820 --> 00:19:06,840
+We were looking...
+
+535
+00:19:06,840 --> 00:19:07,260
+We had...
+
+536
+00:19:07,260 --> 00:19:08,500
+We had Decompress.
+
+537
+00:19:09,700 --> 00:19:10,060
+After.
+
+538
+00:19:10,740 --> 00:19:12,340
+And we were watching the live tweet.
+
+539
+00:19:12,540 --> 00:19:13,280
+Like, not the...
+
+540
+00:19:13,280 --> 00:19:15,460
+Not the live shoots, but like, what you guys were live tweeting.
+
+541
+00:19:15,820 --> 00:19:19,580
+I loved how the JP bros were like...
+
+542
+00:19:20,940 --> 00:19:21,960
+They were like...
+
+543
+00:19:21,960 --> 00:19:23,020
+They were like...
+
+544
+00:19:23,020 --> 00:19:25,840
+When we were saying the more dumb...
+
+545
+00:19:25,840 --> 00:19:27,960
+When I was saying the more dumb songs.
+
+546
+00:19:28,440 --> 00:19:30,680
+They were like, what the fuck is going on?
+
+547
+00:19:30,760 --> 00:19:34,640
+But then when they talk about Mint, they're like, oh my god, what an idol.
+
+548
+00:19:34,880 --> 00:19:35,640
+And then there's me.
+
+549
+00:19:36,340 --> 00:19:37,340
+And there's you.
+
+550
+00:19:37,660 --> 00:19:38,460
+And there's me.
+
+551
+00:19:40,040 --> 00:19:41,700
+And that's so funny.
+
+552
+00:19:44,040 --> 00:19:44,520
+Yeah.
+
+553
+00:19:45,180 --> 00:19:47,620
+And you guys got to do the Hamtaro circle.
+
+554
+00:19:47,700 --> 00:19:48,660
+Oh, yeah, we saw...
+
+555
+00:19:48,660 --> 00:19:49,600
+Yes, we saw that.
+
+556
+00:19:49,600 --> 00:19:50,080
+I was worried.
+
+557
+00:19:50,340 --> 00:19:54,460
+I was just like, oh, like, at the beginning of the night, I was like, oh, there's so much room in there.
+
+558
+00:19:54,680 --> 00:19:57,100
+Like, they're gonna do it so easily.
+
+559
+00:19:57,400 --> 00:20:00,580
+But then, like, there just kept getting more and more and more people.
+
+560
+00:20:00,880 --> 00:20:06,780
+Yeah, and then I saw someone said that people who were in the front became the back because they did the same thing.
+
+561
+00:20:07,960 --> 00:20:09,520
+Sorry, that's just how it goes.
+
+562
+00:20:09,760 --> 00:20:11,140
+You had your time in the front.
+
+563
+00:20:11,500 --> 00:20:11,800
+Yeah.
+
+564
+00:20:12,160 --> 00:20:12,880
+Oh, yeah.
+
+565
+00:20:12,980 --> 00:20:15,640
+Also, like, what was funny was...
+
+566
+00:20:15,640 --> 00:20:16,580
+Oh my god.
+
+567
+00:20:16,580 --> 00:20:22,740
+Okay, so you can sort of tell which songs I took dance lessons for and which one I didn't.
+
+568
+00:20:23,520 --> 00:20:32,000
+Because, like, during the rehearsals, like, during the rehearsals, like, Min was doing... which one was it?
+
+569
+00:20:32,620 --> 00:20:33,020
+The...
+
+570
+00:20:33,020 --> 00:20:34,440
+Oh, yeah, yeah.
+
+571
+00:20:34,460 --> 00:20:35,760
+And I was, like, laughing at her.
+
+572
+00:20:36,460 --> 00:20:37,160
+I was laughing at her.
+
+573
+00:20:37,220 --> 00:20:41,600
+It's like, you were just shimmying around with you and the Doraemon one.
+
+574
+00:20:41,700 --> 00:20:42,200
+Oh, yeah.
+
+575
+00:20:42,260 --> 00:20:44,580
+I was just like, girl, like, move around some.
+
+576
+00:20:47,340 --> 00:20:48,260
+Come on.
+
+577
+00:20:48,380 --> 00:20:49,920
+Yeah, Doki took dance lessons.
+
+578
+00:20:49,920 --> 00:20:50,920
+Yeah, I took dance lessons.
+
+579
+00:20:51,300 --> 00:20:52,880
+It was painful.
+
+580
+00:20:53,500 --> 00:21:01,220
+You can tell... you can tell exactly which one I was, like, winging it and which one I actually had, like, choreo that I did for dance lessons because...
+
+581
+00:21:01,220 --> 00:21:01,940
+The first one.
+
+582
+00:21:02,040 --> 00:21:02,640
+The first...
+
+583
+00:21:02,640 --> 00:21:03,260
+Our first song.
+
+584
+00:21:03,380 --> 00:21:04,120
+Our first song.
+
+585
+00:21:04,680 --> 00:21:05,720
+Yeah, that one.
+
+586
+00:21:06,280 --> 00:21:14,680
+But you can tell exactly because when I didn't have dance lessons, I was literally, like, winging it and just, like, shimmying around and just going with the flow of the song.
+
+587
+00:21:14,680 --> 00:21:17,380
+And what are you also gonna do for that, for the Doraemon one?
+
+588
+00:21:17,420 --> 00:21:18,420
+I don't know, that's the thing.
+
+589
+00:21:19,260 --> 00:21:24,320
+Like, how do you do... I was trying to look up for established choreo, and then, like, it was just kids.
+
+590
+00:21:25,520 --> 00:21:29,540
+It's just children doing, like, it was... it looked really stupid.
+
+591
+00:21:29,540 --> 00:21:31,240
+And you also did learn to meow.
+
+592
+00:21:31,400 --> 00:21:33,500
+Oh, learn to meow, I took dance lessons for it.
+
+593
+00:21:46,920 --> 00:21:47,360
+Yeah.
+
+594
+00:21:49,560 --> 00:21:50,000
+Yeah.
+
+595
+00:21:51,020 --> 00:21:52,000
+Learn to meow.
+
+596
+00:21:52,180 --> 00:21:52,940
+Learn to meow.
+
+597
+00:21:53,820 --> 00:21:55,400
+It's been, like, fun, though, that concert.
+
+598
+00:21:55,580 --> 00:21:57,540
+Like, for my... this is my first concert.
+
+599
+00:21:57,980 --> 00:21:58,900
+So, like, for me...
+
+600
+00:21:59,900 --> 00:22:03,080
+And also my first time, like, actually being able to do 3D.
+
+601
+00:22:03,620 --> 00:22:04,260
+So, like...
+
+602
+00:22:04,260 --> 00:22:04,320
+Yeah.
+
+603
+00:22:04,680 --> 00:22:07,120
+It's such a great experience in general.
+
+604
+00:22:08,200 --> 00:22:11,480
+It's very tiring putting those 3D suits on.
+
+605
+00:22:11,560 --> 00:22:12,680
+And then, like...
+
+606
+00:22:12,680 --> 00:22:16,840
+Because, like, dancing without the suits versus dancing in the suits is such a different experience.
+
+607
+00:22:16,940 --> 00:22:17,400
+Yeah.
+
+608
+00:22:17,860 --> 00:22:19,380
+Especially, like, yeah.
+
+609
+00:22:19,580 --> 00:22:21,640
+It's a lot limiting, and it's...
+
+610
+00:22:21,640 --> 00:22:22,440
+Yeah, yeah.
+
+611
+00:22:23,080 --> 00:22:23,720
+But it's good.
+
+612
+00:22:24,100 --> 00:22:24,340
+And...
+
+613
+00:22:24,340 --> 00:22:25,780
+You know.
+
+614
+00:22:26,260 --> 00:22:27,720
+Our first concert together.
+
+615
+00:22:27,900 --> 00:22:28,140
+Yeah!
+
+616
+00:22:28,640 --> 00:22:29,400
+It was really good.
+
+617
+00:22:29,480 --> 00:22:31,720
+I hope, like... I hope we can do more in the future.
+
+618
+00:22:32,020 --> 00:22:34,480
+Yeah, I hope we can do more 3D stuff in the future.
+
+619
+00:22:34,560 --> 00:22:35,220
+Yeah, me too.
+
+620
+00:22:36,340 --> 00:22:37,880
+I mean, we both have our...
+
+621
+00:22:37,880 --> 00:22:40,220
+I mean, we both have the models now, so...
+
+622
+00:22:41,000 --> 00:22:41,940
+We can, technically.
+
+623
+00:22:43,300 --> 00:22:44,260
+Right, right.
+
+624
+00:22:44,720 --> 00:22:49,540
+We can, but if anyone else wants to sponsor us for another concert, we're totally down.
+
+625
+00:22:52,760 --> 00:22:53,720
+We're marketable.
+
+626
+00:22:53,860 --> 00:22:55,000
+Look how many people there were.
+
+627
+00:22:55,520 --> 00:22:57,260
+Yeah, and then we'll do Discord.
+
+628
+00:22:57,680 --> 00:22:57,880
+No!
+
+629
+00:22:58,980 --> 00:23:00,120
+You said you would!
+
+630
+00:23:00,180 --> 00:23:00,300
+No!
+
+631
+00:23:00,300 --> 00:23:01,620
+You literally said it on stream!
+
+632
+00:23:01,640 --> 00:23:02,080
+I'm not gonna do it!
+
+633
+00:23:02,080 --> 00:23:05,060
+You said on stream that if we get another Revenge concert, you would do it.
+
+634
+00:23:05,220 --> 00:23:07,860
+No, I just said, I guess we need another Revenge concert.
+
+635
+00:23:07,860 --> 00:23:08,900
+Yeah, so then you'll do it.
+
+636
+00:23:08,980 --> 00:23:09,440
+No, I'm not.
+
+637
+00:23:09,500 --> 00:23:10,720
+Why are you not doing it?
+
+638
+00:23:10,760 --> 00:23:11,940
+If we get another Revenge concert.
+
+639
+00:23:12,060 --> 00:23:13,080
+I don't wanna...
+
+640
+00:23:14,300 --> 00:23:15,920
+Isn't that a My Little Pony song?
+
+641
+00:23:16,020 --> 00:23:16,660
+No, it's not.
+
+642
+00:23:16,900 --> 00:23:17,560
+Wait, what is it?
+
+643
+00:23:18,300 --> 00:23:18,940
+Okay, it is.
+
+644
+00:23:19,520 --> 00:23:20,440
+What the hell?
+
+645
+00:23:20,680 --> 00:23:22,840
+But it's a really good one.
+
+646
+00:23:23,020 --> 00:23:24,000
+It's a really good one.
+
+647
+00:23:24,200 --> 00:23:24,920
+Oh my god.
+
+648
+00:23:25,560 --> 00:23:25,860
+Discord.
+
+649
+00:23:26,060 --> 00:23:26,860
+See, they want you.
+
+650
+00:23:27,020 --> 00:23:27,880
+They want you to do it.
+
+651
+00:23:32,080 --> 00:23:33,440
+I don't know it.
+
+652
+00:23:33,820 --> 00:23:34,100
+Discord.
+
+653
+00:23:35,000 --> 00:23:35,640
+But, but...
+
+654
+00:23:35,640 --> 00:23:40,800
+Also, like, fuck the stans being, like, in accurate height.
+
+655
+00:23:42,540 --> 00:23:43,820
+When I saw it...
+
+656
+00:23:43,820 --> 00:23:44,440
+Yeah, you were so tiny.
+
+657
+00:23:44,600 --> 00:23:49,060
+When I saw it, because we had to sign it, I was like, why the fuck am I shorter?
+
+658
+00:23:49,640 --> 00:23:51,260
+You were like a little baby.
+
+659
+00:23:51,280 --> 00:23:54,360
+I was, like, smaller, like, dimension-wise, too.
+
+660
+00:23:54,740 --> 00:23:59,760
+Like, my face was basically the size of your fucking hand and everything.
+
+661
+00:24:00,200 --> 00:24:01,220
+No, you were so tiny.
+
+662
+00:24:01,220 --> 00:24:05,700
+I was tinier than her, because they made both stans the same size.
+
+663
+00:24:06,000 --> 00:24:07,420
+No, I think it's, um, they...
+
+664
+00:24:07,780 --> 00:24:09,440
+Yeah, no, my dad.
+
+665
+00:24:09,440 --> 00:24:11,060
+Dad resized and everything.
+
+666
+00:24:11,120 --> 00:24:12,820
+Yeah, they made you to dad size.
+
+667
+00:24:13,160 --> 00:24:15,040
+Yeah, so I was like, what the...
+
+668
+00:24:15,040 --> 00:24:15,920
+I was tall.
+
+669
+00:24:18,180 --> 00:24:20,360
+I was so tall.
+
+670
+00:24:21,880 --> 00:24:23,660
+Short King Doki.
+
+671
+00:24:27,440 --> 00:24:32,900
+Um, but yeah, I mean, like, it was a lot of work for both of us.
+
+672
+00:24:33,040 --> 00:24:38,420
+For, like, such a short amount of time, because we can say how long the concert prep was, right?
+
+673
+00:24:38,780 --> 00:24:39,660
+I think so.
+
+674
+00:24:39,740 --> 00:24:40,320
+Can we say it?
+
+675
+00:24:40,520 --> 00:24:43,860
+I mean, when we announced it, we said it was very last minute, too.
+
+676
+00:24:44,020 --> 00:24:44,300
+True.
+
+677
+00:24:44,500 --> 00:24:44,700
+Yeah.
+
+678
+00:24:45,200 --> 00:24:49,800
+We had three months to get all of this.
+
+679
+00:24:49,940 --> 00:24:51,080
+All of this and all the dances.
+
+680
+00:24:51,080 --> 00:24:54,120
+This was a three-month journey.
+
+681
+00:24:54,560 --> 00:24:55,700
+Learning all the songs.
+
+682
+00:24:56,840 --> 00:25:01,200
+But, like, we learned the songs and the dances within two months.
+
+683
+00:25:01,640 --> 00:25:01,840
+Yeah.
+
+684
+00:25:01,900 --> 00:25:04,620
+So, like, um, so yeah.
+
+685
+00:25:06,000 --> 00:25:07,960
+It was a lot to put together.
+
+686
+00:25:08,120 --> 00:25:13,520
+For, like, yeah, that's why I was, like, I had, like, I was so stressed out for it.
+
+687
+00:25:13,940 --> 00:25:16,520
+I was so behind in a lot of work, and then I played Marvel Rivals.
+
+688
+00:25:17,280 --> 00:25:18,220
+And that was even more...
+
+689
+00:25:18,220 --> 00:25:20,440
+For, like, 15 hours.
+
+690
+00:25:26,840 --> 00:25:30,500
+I was, like, Marvel Rivals is the only thing that gives me joy.
+
+691
+00:25:32,020 --> 00:25:33,220
+Oh, my God.
+
+692
+00:25:36,180 --> 00:25:43,000
+So, like, there was three months of prep, but technically, Mitten and I had two months to prep for all of this, because we had to decide songs and everything.
+
+693
+00:25:43,020 --> 00:25:45,960
+Well, we only had the one time to practice, like...
+
+694
+00:25:45,960 --> 00:25:46,220
+Together.
+
+695
+00:25:46,460 --> 00:25:47,120
+Together, yeah.
+
+696
+00:25:47,120 --> 00:25:49,380
+Yeah, we had one time to practice together in rehearsals.
+
+697
+00:25:49,620 --> 00:25:49,880
+Yeah.
+
+698
+00:25:50,000 --> 00:25:55,120
+And then, uh, two months to, uh, get everything together.
+
+699
+00:25:55,320 --> 00:25:55,640
+Yeah.
+
+700
+00:25:55,800 --> 00:25:56,760
+Individually-wise.
+
+701
+00:25:57,040 --> 00:25:57,580
+And then...
+
+702
+00:25:57,580 --> 00:25:58,000
+This song.
+
+703
+00:25:58,800 --> 00:26:00,080
+So, it was, like...
+
+704
+00:26:00,080 --> 00:26:02,720
+And it's hard learning a duet with, without...
+
+705
+00:26:02,720 --> 00:26:04,220
+Without the duet partner.
+
+706
+00:26:04,500 --> 00:26:05,780
+Without your duet partner.
+
+707
+00:26:06,060 --> 00:26:08,260
+Yeah, that was really difficult, too.
+
+708
+00:26:08,800 --> 00:26:11,460
+So, like, it was definitely, like, a journey.
+
+709
+00:26:12,220 --> 00:26:13,620
+It was 20 hours.
+
+710
+00:26:13,760 --> 00:26:14,080
+Oh, my bad.
+
+711
+00:26:14,080 --> 00:26:15,360
+It was 20 plus hours.
+
+712
+00:26:15,620 --> 00:26:16,060
+Shut up.
+
+713
+00:26:17,700 --> 00:26:18,180
+Shut up.
+
+714
+00:26:20,520 --> 00:26:25,860
+Um, but I didn't get to do much in Atlanta, not gonna lie.
+
+715
+00:26:26,220 --> 00:26:27,120
+I just existed.
+
+716
+00:26:28,540 --> 00:26:29,660
+Just for the...
+
+717
+00:26:29,660 --> 00:26:31,420
+I came just for the concert.
+
+718
+00:26:32,620 --> 00:26:34,740
+Did you get to go around the con at all?
+
+719
+00:26:35,000 --> 00:26:36,520
+Not really, not that much.
+
+720
+00:26:37,180 --> 00:26:38,380
+Yeah, not that much.
+
+721
+00:26:38,760 --> 00:26:39,200
+Um...
+
+722
+00:26:39,200 --> 00:26:41,420
+I didn't realize your schedule was gonna be so tight.
+
+723
+00:26:41,920 --> 00:26:42,340
+Yeah.
+
+724
+00:26:42,540 --> 00:26:43,900
+I wanted to go to the aquarium.
+
+725
+00:26:44,400 --> 00:26:44,980
+I did a lot...
+
+726
+00:26:44,980 --> 00:26:45,560
+Wait, really?
+
+727
+00:26:45,560 --> 00:26:46,900
+You could have said something!
+
+728
+00:26:46,960 --> 00:26:48,680
+I could have stayed an extra day.
+
+729
+00:26:49,040 --> 00:26:50,280
+I didn't know what your schedule was.
+
+730
+00:26:50,420 --> 00:26:50,800
+You didn't?
+
+731
+00:26:50,960 --> 00:26:51,560
+You didn't ask?
+
+732
+00:26:51,800 --> 00:26:52,960
+You could have asked me!
+
+733
+00:26:53,040 --> 00:26:55,280
+I didn't know what was going on.
+
+734
+00:26:55,300 --> 00:26:56,180
+I just assumed.
+
+735
+00:26:56,920 --> 00:26:57,640
+I assumed.
+
+736
+00:26:58,100 --> 00:26:59,600
+I didn't know what was going on.
+
+737
+00:26:59,760 --> 00:27:01,640
+Oh yeah, I found out what grits are today.
+
+738
+00:27:02,400 --> 00:27:03,120
+But what?
+
+739
+00:27:03,160 --> 00:27:03,860
+What grits are.
+
+740
+00:27:04,480 --> 00:27:05,920
+I never had grits before.
+
+741
+00:27:06,660 --> 00:27:06,660
+Oh, grits.
+
+742
+00:27:06,660 --> 00:27:07,760
+I've never had it either.
+
+743
+00:27:07,900 --> 00:27:09,780
+Yeah, and I was like, what the fuck is... I don't like grits.
+
+744
+00:27:09,940 --> 00:27:11,580
+I ordered grits and I was like, I don't like grits.
+
+745
+00:27:12,540 --> 00:27:15,300
+And I was like, I don't know if I googled what they are before.
+
+746
+00:27:15,300 --> 00:27:17,180
+I don't even know.
+
+747
+00:27:17,420 --> 00:27:18,640
+It's like, I don't know.
+
+748
+00:27:18,820 --> 00:27:21,220
+It's like, it's like a porridge taste.
+
+749
+00:27:21,220 --> 00:27:22,360
+It's like, I don't know.
+
+750
+00:27:22,420 --> 00:27:23,080
+I like oatmeal.
+
+751
+00:27:23,860 --> 00:27:27,020
+It's some wet... oh, not enough memory there.
+
+752
+00:27:27,380 --> 00:27:27,740
+Oh, okay.
+
+753
+00:27:27,800 --> 00:27:28,580
+We just got refreshed.
+
+754
+00:27:28,700 --> 00:27:29,060
+Don't worry.
+
+755
+00:27:29,740 --> 00:27:32,240
+We couldn't see chat, so we got refreshed our chat.
+
+756
+00:27:34,940 --> 00:27:35,800
+It's like congee.
+
+757
+00:27:35,940 --> 00:27:36,540
+Yeah, I guess.
+
+758
+00:27:36,680 --> 00:27:36,840
+Yeah.
+
+759
+00:27:37,100 --> 00:27:38,100
+Yeah, I can say it like that.
+
+760
+00:27:38,280 --> 00:27:38,900
+Oh, it's like congee.
+
+761
+00:27:39,060 --> 00:27:39,640
+Yeah, yeah.
+
+762
+00:27:39,660 --> 00:27:40,420
+It's like corn.
+
+763
+00:27:40,600 --> 00:27:41,620
+Corn, but not rice.
+
+764
+00:27:41,740 --> 00:27:43,380
+It's not rice, but corn.
+
+765
+00:27:43,720 --> 00:27:44,540
+I didn't like it.
+
+766
+00:27:44,540 --> 00:27:46,720
+It was not pleasant for me.
+
+767
+00:27:47,400 --> 00:27:49,300
+I think it's an acquired taste.
+
+768
+00:27:49,420 --> 00:27:50,020
+Yeah, I think.
+
+769
+00:27:52,060 --> 00:27:55,060
+No, guys, I'm technically leaving tomorrow.
+
+770
+00:27:56,480 --> 00:27:59,720
+Yeah, she literally came just for the congee.
+
+771
+00:27:59,740 --> 00:28:00,580
+Yeah, yeah.
+
+772
+00:28:00,640 --> 00:28:01,820
+I was like, I'm gonna be the weekend.
+
+773
+00:28:02,140 --> 00:28:02,780
+I'm gonna, you know.
+
+774
+00:28:03,200 --> 00:28:06,540
+Yeah, so I just...
+
+775
+00:28:09,000 --> 00:28:09,900
+I didn't know.
+
+776
+00:28:10,020 --> 00:28:12,080
+I didn't know you wanted me to stay longer.
+
+777
+00:28:12,660 --> 00:28:13,440
+I didn't know.
+
+778
+00:28:13,580 --> 00:28:14,740
+You didn't tell me your schedule.
+
+779
+00:28:15,020 --> 00:28:17,960
+On stream, I was like, what can we do, guys?
+
+780
+00:28:18,040 --> 00:28:19,580
+You didn't say that to me.
+
+781
+00:28:19,720 --> 00:28:20,980
+You told your chat.
+
+782
+00:28:21,360 --> 00:28:26,220
+I might be terminally online, but I don't keep track of everything going on.
+
+783
+00:28:28,820 --> 00:28:30,340
+She hates us.
+
+784
+00:28:30,820 --> 00:28:31,980
+She hates me.
+
+785
+00:28:32,280 --> 00:28:33,680
+Not you guys, but me.
+
+786
+00:28:33,840 --> 00:28:36,220
+I hate... She hates me.
+
+787
+00:28:36,560 --> 00:28:40,420
+It was like, oh, it's the booty call.
+
+788
+00:28:41,260 --> 00:28:41,700
+What?
+
+789
+00:28:42,180 --> 00:28:43,220
+A booty call.
+
+790
+00:28:43,680 --> 00:28:45,780
+I had to do the concert leaves.
+
+791
+00:28:46,120 --> 00:28:46,920
+Oh, my God.
+
+792
+00:28:52,060 --> 00:28:52,940
+That's crazy.
+
+793
+00:28:53,640 --> 00:28:57,820
+Yeah, like, my chat was like, you guys can go to the aquarium and to the ferris...
+
+794
+00:28:57,820 --> 00:28:59,000
+Oh, wait, we saw the ferris wheel.
+
+795
+00:28:59,120 --> 00:28:59,960
+It was right next to the venue.
+
+796
+00:29:00,180 --> 00:29:00,780
+Yeah, we saw it.
+
+797
+00:29:00,880 --> 00:29:01,540
+That's so cool.
+
+798
+00:29:01,680 --> 00:29:02,140
+That's cool.
+
+799
+00:29:02,220 --> 00:29:03,300
+That's a nice venue.
+
+800
+00:29:03,540 --> 00:29:04,580
+Yeah, yeah.
+
+801
+00:29:04,580 --> 00:29:05,240
+That's really nice.
+
+802
+00:29:05,520 --> 00:29:05,680
+That's nice.
+
+803
+00:29:05,680 --> 00:29:14,460
+I think my favorite is, like, seeing the two, the giant drag moon and the giant whisk on the side, and then they got deflated.
+
+804
+00:29:15,920 --> 00:29:17,360
+They murdered them.
+
+805
+00:29:17,540 --> 00:29:19,080
+They murdered those guys.
+
+806
+00:29:19,220 --> 00:29:20,060
+That's funny.
+
+807
+00:29:20,560 --> 00:29:21,260
+That was pretty good.
+
+808
+00:29:21,440 --> 00:29:26,220
+Yeah, I bought a lot of clothes from the convention.
+
+809
+00:29:26,860 --> 00:29:27,220
+Oh, really?
+
+810
+00:29:27,400 --> 00:29:27,720
+Yeah.
+
+811
+00:29:27,900 --> 00:29:28,320
+What'd you get?
+
+812
+00:29:28,420 --> 00:29:29,200
+I got some hoodies.
+
+813
+00:29:29,980 --> 00:29:31,580
+Yeah, because I need new hoodies.
+
+814
+00:29:32,100 --> 00:29:33,880
+So I bought a lot of hoodies and stuff.
+
+815
+00:29:34,620 --> 00:29:36,660
+It was such a big convention.
+
+816
+00:29:37,060 --> 00:29:39,920
+I was, like, so overwhelmed, so I didn't do much there.
+
+817
+00:29:41,140 --> 00:29:43,920
+Yeah, I haven't really had time to walk around.
+
+818
+00:29:45,360 --> 00:29:49,280
+Yeah, I was just, like, I, like, checked out a few of the tables with them.
+
+819
+00:29:49,380 --> 00:29:50,560
+Like, I had time to leave.
+
+820
+00:29:50,780 --> 00:29:52,360
+Gotta go do rehearsals.
+
+821
+00:29:52,740 --> 00:29:56,740
+And we didn't stay... I didn't stay for... I don't know about you, but I didn't stay for too long.
+
+822
+00:29:57,000 --> 00:30:07,000
+We didn't go together because, like, we thought that if we went together, it would be a lot harder.
+
+823
+00:30:08,080 --> 00:30:10,340
+So we were, like, separated.
+
+824
+00:30:11,280 --> 00:30:13,180
+I had, like, a chauffeur, too.
+
+825
+00:30:13,620 --> 00:30:14,160
+Oh, yeah.
+
+826
+00:30:14,460 --> 00:30:15,300
+Yeah, I had a chauffeur.
+
+827
+00:30:15,320 --> 00:30:16,020
+You're a chauffeur.
+
+828
+00:30:16,160 --> 00:30:16,660
+So fancy.
+
+829
+00:30:16,660 --> 00:30:18,960
+My chauffeur that drove me everywhere.
+
+830
+00:30:19,200 --> 00:30:19,780
+So fancy.
+
+831
+00:30:20,060 --> 00:30:24,860
+Yeah, and then Mint didn't know you could have a chauffeur, so she took Ubers.
+
+832
+00:30:25,220 --> 00:30:26,800
+I took Ubers everywhere.
+
+833
+00:30:26,920 --> 00:30:28,060
+I spent all my money on Ubers.
+
+834
+00:30:28,060 --> 00:30:36,620
+And I was, like... because I was, like, waiting for her during... at the venue for rehearsals and stuff before the concert started.
+
+835
+00:30:36,820 --> 00:30:38,200
+I was like, where are you?
+
+836
+00:30:38,240 --> 00:30:40,960
+And she's like, oh, I'm waiting for my Uber.
+
+837
+00:30:41,780 --> 00:30:44,820
+And I was like, you know, you could ask the staff to drive you here.
+
+838
+00:30:49,640 --> 00:30:53,180
+Yeah, I spent all my money on Ubers.
+
+839
+00:30:53,340 --> 00:30:56,980
+Because I was like, can I... can I get someone to drive me to places?
+
+840
+00:30:59,820 --> 00:31:01,740
+So that's Mint's fault.
+
+841
+00:31:02,040 --> 00:31:04,920
+I didn't know that they would do that.
+
+842
+00:31:07,840 --> 00:31:18,660
+Um, but yeah, um, yeah, it was... I didn't stay for too long just because of the fact that um, we still had to practice and stuff there.
+
+843
+00:31:18,960 --> 00:31:19,220
+Oh, yeah.
+
+844
+00:31:19,540 --> 00:31:21,200
+And, like, get stuff ready and everything.
+
+845
+00:31:21,300 --> 00:31:22,420
+Get all set up and...
+
+846
+00:31:23,080 --> 00:31:26,980
+Yeah, so it was a lot of... I'm just glad it's over.
+
+847
+00:31:27,420 --> 00:31:29,900
+Like, we're... I'm so glad it's over.
+
+848
+00:31:30,080 --> 00:31:30,380
+I know.
+
+849
+00:31:31,160 --> 00:31:32,240
+That was so much stress.
+
+850
+00:31:32,340 --> 00:31:36,060
+I was so behind on a lot of work because I was just putting all my focus on the concert.
+
+851
+00:31:37,020 --> 00:31:39,080
+Yeah, we saw the Doki Mint Hoppies.
+
+852
+00:31:39,460 --> 00:31:40,440
+We got some.
+
+853
+00:31:40,460 --> 00:31:41,700
+Yeah, we got them too.
+
+854
+00:31:41,800 --> 00:31:42,820
+Yeah, someone gave them to us.
+
+855
+00:31:42,820 --> 00:31:44,800
+We got the blue one.
+
+856
+00:31:44,960 --> 00:31:46,060
+Yeah, the Phantom Thief one.
+
+857
+00:31:46,060 --> 00:31:46,720
+Yeah, yeah, yeah.
+
+858
+00:31:46,780 --> 00:31:47,620
+That's the one we got.
+
+859
+00:31:47,800 --> 00:31:48,000
+Yeah.
+
+860
+00:31:48,020 --> 00:31:49,880
+I think the yellow one is because they didn't have any left.
+
+861
+00:31:50,520 --> 00:31:50,920
+But...
+
+862
+00:31:50,920 --> 00:31:52,080
+That's the earlier one.
+
+863
+00:31:52,080 --> 00:31:52,740
+Yeah, yeah, yeah.
+
+864
+00:31:53,160 --> 00:31:56,060
+They asked us if we wanted them and we're like, yes!
+
+865
+00:31:57,360 --> 00:32:00,380
+So we got a lot of stuff.
+
+866
+00:32:00,440 --> 00:32:01,960
+We got all our merch stuff too.
+
+867
+00:32:02,760 --> 00:32:03,600
+And everything.
+
+868
+00:32:04,920 --> 00:32:06,240
+And we're happy to...
+
+869
+00:32:06,240 --> 00:32:11,160
+Oh, we saw a lot of like... What's the fans for Doobie's called?
+
+870
+00:32:11,920 --> 00:32:13,220
+Oh, what are Doobie's fans called?
+
+871
+00:32:13,220 --> 00:32:14,400
+Yeah, what are Doobie's fans called?
+
+872
+00:32:14,420 --> 00:32:16,240
+Does she have like an official fan name?
+
+873
+00:32:16,440 --> 00:32:17,180
+Yeah, yeah.
+
+874
+00:32:18,600 --> 00:32:20,420
+I don't remember.
+
+875
+00:32:20,960 --> 00:32:24,580
+What's the official name for the Doobers?
+
+876
+00:32:24,700 --> 00:32:25,560
+I like that, Doobers.
+
+877
+00:32:27,680 --> 00:32:28,080
+Dooberts?
+
+878
+00:32:29,020 --> 00:32:29,420
+Doobers?
+
+879
+00:32:29,620 --> 00:32:30,300
+Are they Doobers?
+
+880
+00:32:30,720 --> 00:32:33,340
+We saw a lot like some Doobers and stuff.
+
+881
+00:32:33,580 --> 00:32:35,540
+Yeah, there was someone like in a Doobie cosplay.
+
+882
+00:32:35,900 --> 00:32:36,160
+Yeah, yeah.
+
+883
+00:32:36,220 --> 00:32:41,900
+I sent it over to Doobie when I saw it because I thought it was really cute.
+
+884
+00:32:43,200 --> 00:32:43,940
+The Fortniter.
+
+885
+00:32:44,580 --> 00:32:45,720
+No official one yet.
+
+886
+00:32:45,980 --> 00:32:47,060
+Oh, you guys don't have an official one yet?
+
+887
+00:32:47,400 --> 00:32:50,600
+Oh, yeah, because I was like thinking I feel like if it wasn't an official one, we would know.
+
+888
+00:32:53,000 --> 00:32:54,760
+Self-proclaimed Doobers, got it.
+
+889
+00:32:54,760 --> 00:33:02,420
+So like I sent Doobie like some of the cosplay photos that were in the tags and stuff.
+
+890
+00:33:03,600 --> 00:33:05,660
+Yeah, so she saw some of them.
+
+891
+00:33:07,940 --> 00:33:09,780
+And yeah, that was crazy.
+
+892
+00:33:09,920 --> 00:33:12,920
+Oh, yeah, guys, thanks for voting for me for FPSN.
+
+893
+00:33:13,000 --> 00:33:13,440
+Yay!
+
+894
+00:33:15,740 --> 00:33:16,620
+And fanbase.
+
+895
+00:33:16,960 --> 00:33:17,600
+Dedicated fanbase.
+
+896
+00:33:17,860 --> 00:33:19,860
+Yeah, you guys deserve that award.
+
+897
+00:33:20,180 --> 00:33:20,860
+Good job, guys.
+
+898
+00:33:20,880 --> 00:33:21,400
+Good job.
+
+899
+00:33:21,540 --> 00:33:23,000
+Yeah, there's so many people there.
+
+900
+00:33:23,180 --> 00:33:23,860
+There's so many.
+
+901
+00:33:23,860 --> 00:33:29,820
+When we saw how many people like that was at the venue, we were like, oh my god, it was like so packed.
+
+902
+00:33:30,020 --> 00:33:30,340
+I know.
+
+903
+00:33:30,520 --> 00:33:30,820
+Yeah.
+
+904
+00:33:31,000 --> 00:33:31,800
+Yeah, it was crazy.
+
+905
+00:33:32,060 --> 00:33:38,100
+We were like, we knew like how many tickets were sold, but we didn't realize like how...
+
+906
+00:33:38,100 --> 00:33:39,020
+The scale of it.
+
+907
+00:33:39,040 --> 00:33:39,280
+The scale.
+
+908
+00:33:39,440 --> 00:33:40,820
+Like we were like, oh my god, it's a lot of people.
+
+909
+00:33:40,920 --> 00:33:43,960
+But then when we saw it, we were like, oh my god, that is a lot of people.
+
+910
+00:33:43,980 --> 00:33:46,980
+People were saying that it was like the line was wrapped around the building or something.
+
+911
+00:33:46,980 --> 00:33:51,280
+Yeah, and it took like hours, like not hours, but like a really long time to...
+
+912
+00:33:51,280 --> 00:33:53,480
+And then, by the way, guys, you know what's funny?
+
+913
+00:33:54,340 --> 00:33:55,240
+I knew...
+
+914
+00:33:55,240 --> 00:34:04,080
+I knew what exactly I won because I had to send the pre-recorded video.
+
+915
+00:34:07,320 --> 00:34:11,400
+I knew exactly like...
+
+916
+00:34:11,400 --> 00:34:14,140
+Because like I said, I had to send the pre-recorded video over.
+
+917
+00:34:14,260 --> 00:34:14,820
+I only recorded...
+
+918
+00:34:17,080 --> 00:34:20,820
+But I had to pretend like, whoa, who's gonna win?
+
+919
+00:34:21,780 --> 00:34:22,780
+That's so messed up.
+
+920
+00:34:22,780 --> 00:34:25,300
+She doesn't ask everybody to do it.
+
+921
+00:34:26,120 --> 00:34:29,500
+And then, okay, so like during like when...
+
+922
+00:34:30,520 --> 00:34:35,380
+Like when we were there, I was like, oh yeah, like, did you record it?
+
+923
+00:34:35,780 --> 00:34:37,180
+Yeah, and I was like, no.
+
+924
+00:34:38,200 --> 00:34:39,900
+I was like, oh, I'm sorry.
+
+925
+00:34:41,540 --> 00:34:44,440
+It's fine, I voted for Kiara and they won, so...
+
+926
+00:34:51,060 --> 00:34:51,540
+Okay.
+
+927
+00:34:54,100 --> 00:35:04,220
+I was like, because like, I think like if we can't be there live because we were like, you can't be there for the interviews and stuff.
+
+928
+00:35:04,380 --> 00:35:07,900
+So that's why they're like, oh, we really want to pre-record a video just to...
+
+929
+00:35:07,900 --> 00:35:08,900
+I mean, literally say it.
+
+930
+00:35:08,940 --> 00:35:12,240
+This is pre-recorded Doki because I'm literally doing concert right now.
+
+931
+00:35:12,640 --> 00:35:13,040
+Like...
+
+932
+00:35:18,760 --> 00:35:22,760
+So yeah, that's why like, I was told beforehand.
+
+933
+00:35:23,480 --> 00:35:25,860
+Just so I could get the video out to you guys.
+
+934
+00:35:26,220 --> 00:35:29,000
+Also like, I asked if we could change clip.
+
+935
+00:35:29,020 --> 00:35:29,920
+I don't even know what...
+
+936
+00:35:29,920 --> 00:35:31,880
+I didn't even know what the clip was that they showed.
+
+937
+00:35:32,020 --> 00:35:35,640
+Because like I said, like, I wasn't like, I had to do this.
+
+938
+00:35:35,900 --> 00:35:37,620
+So like, I don't even know.
+
+939
+00:35:37,680 --> 00:35:42,820
+But like, I remember like, today, this morning, I messaged and I was like, can I change the clip?
+
+940
+00:35:43,100 --> 00:35:46,200
+But they're like, if you messaged us earlier, yeah, but we can't now.
+
+941
+00:35:46,300 --> 00:35:47,680
+Because it's literally in a few hours.
+
+942
+00:35:47,860 --> 00:35:51,760
+Because I wanted to replace the clip for the shot that ended the war.
+
+943
+00:35:52,320 --> 00:35:55,840
+I really...
+
+944
+00:35:55,840 --> 00:35:58,380
+Oh, it was still the fucking horse clip.
+
+945
+00:35:58,620 --> 00:36:01,180
+Oh my god, they didn't pick anything new.
+
+946
+00:36:01,860 --> 00:36:02,660
+What's the horse clip?
+
+947
+00:36:03,280 --> 00:36:04,200
+It's the one...
+
+948
+00:36:04,200 --> 00:36:07,480
+Oh, it's the one where I died to a mine.
+
+949
+00:36:08,080 --> 00:36:09,660
+I died to...
+
+950
+00:36:09,660 --> 00:36:11,940
+Wait, how does that show your FPS?
+
+951
+00:36:12,280 --> 00:36:12,940
+Exactly!
+
+952
+00:36:14,040 --> 00:36:14,860
+Oh,
+
+953
+00:36:18,060 --> 00:36:19,400
+they also showed a deadlock.
+
+954
+00:36:19,440 --> 00:36:20,800
+A deadlock clip, really?
+
+955
+00:36:22,390 --> 00:36:25,300
+They couldn't even pick Marvel Rivals.
+
+956
+00:36:28,420 --> 00:36:31,920
+They didn't even pick Marvel Rivals.
+
+957
+00:36:32,480 --> 00:36:35,980
+They picked the MOBA game.
+
+958
+00:36:36,640 --> 00:36:38,080
+That's funny.
+
+959
+00:36:39,660 --> 00:36:41,600
+That's actually pretty funny.
+
+960
+00:36:42,580 --> 00:36:46,320
+They literally should have just been at the concert and taken the...
+
+961
+00:36:46,320 --> 00:36:48,620
+The Marvel Rivals clip from the concert.
+
+962
+00:36:51,880 --> 00:36:53,940
+That's pretty funny though.
+
+963
+00:36:55,540 --> 00:36:58,600
+The funniest thing is that it's not even first person.
+
+964
+00:36:58,800 --> 00:37:02,240
+Deadlock's a third-person shooter because the F stands for first.
+
+965
+00:37:04,300 --> 00:37:05,880
+Yeah, that's funny.
+
+966
+00:37:06,800 --> 00:37:08,520
+What else do we want to talk about for the concert?
+
+967
+00:37:09,800 --> 00:37:11,320
+My brain is mush.
+
+968
+00:37:11,440 --> 00:37:14,220
+I know, her brain is really mushy right now.
+
+969
+00:37:16,900 --> 00:37:19,200
+I enjoyed the concert.
+
+970
+00:37:19,640 --> 00:37:20,360
+Yeah, it was so much fun.
+
+971
+00:37:20,540 --> 00:37:23,280
+If we had to do it again, I would love for more time.
+
+972
+00:37:24,780 --> 00:37:27,000
+The three months was intense.
+
+973
+00:37:28,240 --> 00:37:30,120
+I think it all worked out really well.
+
+974
+00:37:30,320 --> 00:37:31,500
+We were worried.
+
+975
+00:37:32,000 --> 00:37:32,840
+We were really worried.
+
+976
+00:37:33,480 --> 00:37:37,660
+I'm glad that in the end it actually worked out.
+
+977
+00:37:37,780 --> 00:37:38,900
+Everything worked out.
+
+978
+00:37:39,660 --> 00:37:41,140
+We do have everything.
+
+979
+00:37:41,660 --> 00:37:45,180
+They were recording everything as it was going on.
+
+980
+00:37:45,540 --> 00:37:55,180
+We were wondering if things are okay, then maybe in the future we could release the full thing in the future.
+
+981
+00:37:55,400 --> 00:37:58,820
+With the audience POV stuff too.
+
+982
+00:38:00,320 --> 00:38:07,040
+What you guys didn't see is that when we were performing, we got a feed of cameras with a drone.
+
+983
+00:38:07,780 --> 00:38:08,320
+It's not a drone.
+
+984
+00:38:08,340 --> 00:38:08,920
+It was not a drone.
+
+985
+00:38:08,920 --> 00:38:14,040
+It was just him holding it or whatever.
+
+986
+00:38:16,860 --> 00:38:18,760
+There were several cameras.
+
+987
+00:38:19,000 --> 00:38:19,800
+There was a lot.
+
+988
+00:38:19,980 --> 00:38:21,180
+I feel like they had enough footage.
+
+989
+00:38:21,180 --> 00:38:22,300
+We had views of the audience too.
+
+990
+00:38:22,320 --> 00:38:23,500
+It was really crazy.
+
+991
+00:38:25,520 --> 00:38:27,040
+Not promising anything.
+
+992
+00:38:27,280 --> 00:38:32,600
+Not promising anything, but always the potential for something in the future.
+
+993
+00:38:36,140 --> 00:38:39,400
+I would love to do this again.
+
+994
+00:38:42,580 --> 00:38:43,780
+Openers were great.
+
+995
+00:38:44,160 --> 00:38:45,600
+I know, everyone was so good.
+
+996
+00:38:45,900 --> 00:38:47,040
+Yeah, everyone was really good.
+
+997
+00:38:47,340 --> 00:38:49,200
+What was that song?
+
+998
+00:38:49,360 --> 00:38:50,340
+The one that Juna did.
+
+999
+00:38:51,100 --> 00:38:53,660
+When Juna did that song, I had my hands on my head.
+
+1000
+00:38:53,720 --> 00:38:55,280
+Oh, the golden shower one.
+
+1001
+00:38:55,360 --> 00:38:57,520
+I was like, no fucking way.
+
+1002
+00:38:59,160 --> 00:39:01,900
+I had my hands on my head.
+
+1003
+00:39:01,900 --> 00:39:04,900
+I was like, I was not okay.
+
+1004
+00:39:07,500 --> 00:39:10,020
+I was like, not in front of the wisps.
+
+1005
+00:39:10,160 --> 00:39:11,220
+Okay, so like, yeah.
+
+1006
+00:39:12,260 --> 00:39:18,920
+And then Mint showed me a tweet of how one of the wisps is going to bring his entire family to the concert.
+
+1007
+00:39:18,980 --> 00:39:20,440
+Oh, yeah, I saw a tweet.
+
+1008
+00:39:21,100 --> 00:39:23,360
+I don't know if it was a wisp, but I saw someone before.
+
+1009
+00:39:23,600 --> 00:39:24,900
+No, they added you.
+
+1010
+00:39:25,760 --> 00:39:27,780
+So it has to be a wisp because they added you.
+
+1011
+00:39:27,960 --> 00:39:28,600
+Did they add me?
+
+1012
+00:39:28,720 --> 00:39:30,360
+Yeah, they specifically added you.
+
+1013
+00:39:30,360 --> 00:39:32,920
+Before the concert, like a couple, like, I don't know, like last week or something.
+
+1014
+00:39:33,020 --> 00:39:34,480
+I'm like, I'm gonna bring my whole family.
+
+1015
+00:39:34,680 --> 00:39:36,220
+And I was like, oh, no.
+
+1016
+00:39:40,020 --> 00:39:44,480
+And then I was like, a child saw that.
+
+1017
+00:39:45,200 --> 00:39:46,380
+Or their mom.
+
+1018
+00:39:47,580 --> 00:39:49,480
+It's either a child or a mom.
+
+1019
+00:39:50,480 --> 00:39:57,820
+We didn't realize that they had advertised the concert as family friendly until like a couple days ago.
+
+1020
+00:39:57,820 --> 00:40:01,800
+I was like, I was like, oh, well, you know, we just have the one song.
+
+1021
+00:40:01,920 --> 00:40:05,020
+They're just I had just had sex, like the Lonely Violet song.
+
+1022
+00:40:05,360 --> 00:40:06,660
+And then Brickstuff chose us.
+
+1023
+00:40:06,660 --> 00:40:09,320
+And then I was like, oh, yeah, I chose Brickstuff.
+
+1024
+00:40:12,800 --> 00:40:13,240
+Sorry.
+
+1025
+00:40:14,160 --> 00:40:15,040
+Sorry, parents.
+
+1026
+00:40:16,400 --> 00:40:16,840
+Sorry.
+
+1027
+00:40:17,780 --> 00:40:22,600
+We also didn't know their setlist, the opener setlist until like today.
+
+1028
+00:40:22,840 --> 00:40:26,540
+Yeah, we found out about the setlist until today, basically.
+
+1029
+00:40:26,540 --> 00:40:27,020
+Yeah.
+
+1030
+00:40:27,120 --> 00:40:30,440
+And I was like, I was like, what's Golden Shower?
+
+1031
+00:40:30,840 --> 00:40:35,920
+And then like the organizers were like, oh, you're gonna see because they were like rehearsing to the organizers.
+
+1032
+00:40:36,340 --> 00:40:37,140
+And we didn't know.
+
+1033
+00:40:37,680 --> 00:40:39,980
+We didn't know anything about the opening acts.
+
+1034
+00:40:40,080 --> 00:40:42,120
+We know who, of course, we know who was performing the opening act.
+
+1035
+00:40:42,220 --> 00:40:43,860
+We didn't know what songs they picked.
+
+1036
+00:40:44,160 --> 00:40:46,360
+So we saw the list and we're like, the fuck is that?
+
+1037
+00:40:46,860 --> 00:40:47,240
+What is that?
+
+1038
+00:40:48,120 --> 00:40:48,900
+Thanks, Juna.
+
+1039
+00:40:50,860 --> 00:40:52,260
+What were your favorite songs?
+
+1040
+00:40:53,120 --> 00:40:54,260
+What were your favorites?
+
+1041
+00:40:54,480 --> 00:40:55,580
+Yeah, during the concerts.
+
+1042
+00:40:55,580 --> 00:40:56,700
+What was your favorite?
+
+1043
+00:40:57,160 --> 00:40:57,400
+Yeah.
+
+1044
+00:40:58,440 --> 00:40:59,220
+What was it?
+
+1045
+00:40:59,420 --> 00:41:00,460
+What were your favorite?
+
+1046
+00:41:00,800 --> 00:41:06,600
+Yeah, I think my favorite is when like, regarding like not song, but the experience was when the audience sang with us.
+
+1047
+00:41:07,760 --> 00:41:10,060
+And that's my favorite.
+
+1048
+00:41:10,320 --> 00:41:11,940
+Okay, not the openings, like ours.
+
+1049
+00:41:13,580 --> 00:41:14,060
+Damn.
+
+1050
+00:41:15,420 --> 00:41:16,140
+Our songs.
+
+1051
+00:41:20,000 --> 00:41:23,960
+Like, oh, I don't know anything.
+
+1052
+00:41:24,600 --> 00:41:26,860
+A lot of people said last cup of coffee was their favorite.
+
+1053
+00:41:26,980 --> 00:41:28,900
+I'm not, I want to upload last cup of coffee.
+
+1054
+00:41:31,500 --> 00:41:39,540
+I'm planning on doing last, for those who just came in, I want to do, I'm planning on uploading last cup of coffee and Five Nights at Freddy's.
+
+1055
+00:41:40,080 --> 00:41:40,120
+Yeah.
+
+1056
+00:41:40,640 --> 00:41:43,140
+Yeah, I'm sorry for learn to meow people.
+
+1057
+00:41:46,020 --> 00:41:48,880
+My dance for Five Nights at Freddy's was so good.
+
+1058
+00:41:48,960 --> 00:41:49,840
+What the fuck?
+
+1059
+00:41:52,980 --> 00:41:55,620
+You're just like, oh, I put so much effort into this.
+
+1060
+00:41:56,200 --> 00:41:59,200
+They're just like, oh, meow, meow, meow.
+
+1061
+00:41:59,200 --> 00:42:00,420
+It's because we got the cat ears.
+
+1062
+00:42:00,900 --> 00:42:02,500
+And the cat tail, that's why.
+
+1063
+00:42:03,020 --> 00:42:04,120
+It's literally because of that.
+
+1064
+00:42:04,200 --> 00:42:07,100
+But that's like, because I want to do like a slow song and then a fast song too.
+
+1065
+00:42:07,180 --> 00:42:07,740
+Oh, that's fair.
+
+1066
+00:42:08,600 --> 00:42:09,780
+Too, and everything.
+
+1067
+00:42:10,460 --> 00:42:14,100
+And what about, what's your favorite songs from it?
+
+1068
+00:42:15,880 --> 00:42:18,240
+What was your favorite songs, guys?
+
+1069
+00:42:20,240 --> 00:42:22,380
+No, I want to see Dokey Cat.
+
+1070
+00:42:23,020 --> 00:42:24,500
+We have Dokefield at home.
+
+1071
+00:42:26,960 --> 00:42:28,320
+Bring Dokefield back!
+
+1072
+00:42:31,620 --> 00:42:34,780
+Break Stuff, New Romantic Cellars and Break Stuff.
+
+1073
+00:42:34,880 --> 00:42:35,840
+I mean, they were really good.
+
+1074
+00:42:35,940 --> 00:42:37,820
+I had a lot of fun doing Break Stuff.
+
+1075
+00:42:38,020 --> 00:42:38,520
+Yeah, yeah.
+
+1076
+00:42:38,680 --> 00:42:42,100
+And New Romantic Cellar, the choreo for that was crazy.
+
+1077
+00:42:42,680 --> 00:42:46,220
+Like watching you do the choreo for New Romantic Cellar.
+
+1078
+00:42:46,220 --> 00:42:50,200
+I just had to, I couldn't remember what the official dance was.
+
+1079
+00:42:50,280 --> 00:42:54,640
+So I would just have to like, I was like, oh, improvise.
+
+1080
+00:42:55,360 --> 00:42:55,840
+Yeah.
+
+1081
+00:42:56,480 --> 00:42:56,960
+Improvise.
+
+1082
+00:42:57,340 --> 00:42:59,440
+Oh, wait, hey, guess who's in, who awkward?
+
+1083
+00:43:00,360 --> 00:43:00,840
+LeWood!
+
+1084
+00:43:01,500 --> 00:43:02,800
+We saw your stream!
+
+1085
+00:43:03,140 --> 00:43:03,800
+You know what's funny?
+
+1086
+00:43:03,960 --> 00:43:05,540
+The fact that we both retweeted it.
+
+1087
+00:43:06,840 --> 00:43:11,000
+We would like, we would like, we saw that it got really high.
+
+1088
+00:43:11,080 --> 00:43:12,460
+Like during, in between.
+
+1089
+00:43:13,220 --> 00:43:14,540
+The opening acts.
+
+1090
+00:43:14,540 --> 00:43:18,040
+No, like in between your set and like, we would like, check it.
+
+1091
+00:43:18,300 --> 00:43:20,860
+And like, I was like, I was like, holy shit.
+
+1092
+00:43:21,160 --> 00:43:23,240
+It's like, he's like that guy in the movie theater.
+
+1093
+00:43:23,660 --> 00:43:28,140
+That's like, sneakily, like, but then like, the actors retweeted it.
+
+1094
+00:43:30,600 --> 00:43:32,800
+We're like, we endorsed it.
+
+1095
+00:43:33,400 --> 00:43:34,640
+I got insane.
+
+1096
+00:43:34,740 --> 00:43:36,720
+It was like up to 60k or something.
+
+1097
+00:43:37,120 --> 00:43:38,200
+Yeah, 69, nice.
+
+1098
+00:43:38,380 --> 00:43:38,760
+69?
+
+1099
+00:43:39,160 --> 00:43:41,100
+No, I thought I saw that.
+
+1100
+00:43:41,240 --> 00:43:42,240
+60, yeah, yeah.
+
+1101
+00:43:42,240 --> 00:43:43,820
+I saw 60, 60 something.
+
+1102
+00:43:43,820 --> 00:43:44,960
+Yeah, that's crazy.
+
+1103
+00:43:45,180 --> 00:43:45,800
+That's crazy.
+
+1104
+00:43:45,880 --> 00:43:50,500
+Especially like, um, you know, from just us retweeting it on Twitter.
+
+1105
+00:43:51,380 --> 00:43:53,260
+And yet, like, we wanted everybody to know.
+
+1106
+00:43:53,260 --> 00:43:54,120
+I've never even had that many viewers before.
+
+1107
+00:43:54,120 --> 00:43:56,700
+I want people, I want, sorry.
+
+1108
+00:43:58,400 --> 00:43:59,820
+What the hell, man?
+
+1109
+00:43:59,820 --> 00:44:00,900
+I can't even say that.
+
+1110
+00:44:02,380 --> 00:44:04,540
+I'm a failure of a YouTuber.
+
+1111
+00:44:05,040 --> 00:44:05,040
+No!
+
+1112
+00:44:05,600 --> 00:44:09,200
+You were part of the concert, so you now, now you can say it.
+
+1113
+00:44:09,280 --> 00:44:10,580
+Now you can say it.
+
+1114
+00:44:10,620 --> 00:44:12,660
+You're not a failure, man.
+
+1115
+00:44:13,220 --> 00:44:14,780
+You're not a failure.
+
+1116
+00:44:16,200 --> 00:44:23,180
+We literally just had a successful concert where all our merch sold out.
+
+1117
+00:44:24,220 --> 00:44:28,080
+I think that's the craziest part, that all our merch sold out.
+
+1118
+00:44:28,540 --> 00:44:30,560
+And like, people were still lining up for merch.
+
+1119
+00:44:31,180 --> 00:44:35,740
+Like, we had four items sold out before the concert even started.
+
+1120
+00:44:35,880 --> 00:44:36,620
+Yeah, they were there.
+
+1121
+00:44:36,640 --> 00:44:38,060
+And they cut off the line, too.
+
+1122
+00:44:38,260 --> 00:44:38,740
+They cut the line.
+
+1123
+00:44:39,120 --> 00:44:40,560
+They had to cut the line early.
+
+1124
+00:44:40,560 --> 00:44:46,180
+And even then, like, four things sold out before it, like, started.
+
+1125
+00:44:48,020 --> 00:44:55,160
+So the fact that we sold everything afterward, like, when the concert was over, it was really crazy to think about.
+
+1126
+00:44:55,700 --> 00:44:57,420
+Someone said I literally only got a postcard.
+
+1127
+00:44:57,620 --> 00:45:00,140
+I'm glad you were able to get something, but we're gonna have online orders.
+
+1128
+00:45:00,460 --> 00:45:07,620
+So if you weren't able to get anything, if you wanted something, we're gonna have online orders, too, that's coming up after the concert.
+
+1129
+00:45:07,620 --> 00:45:10,600
+I think you can just, we'll post a link for it on Twitter.
+
+1130
+00:45:12,360 --> 00:45:16,380
+And like, also, like, I guess on our YouTube community post and stuff, too.
+
+1131
+00:45:17,920 --> 00:45:18,700
+I'm happy.
+
+1132
+00:45:18,740 --> 00:45:19,640
+I'm happy it was successful.
+
+1133
+00:45:19,820 --> 00:45:20,540
+We were so worried.
+
+1134
+00:45:20,780 --> 00:45:21,720
+We were pretty worried.
+
+1135
+00:45:22,120 --> 00:45:23,380
+We'd be like, how many tickets sold?
+
+1136
+00:45:24,740 --> 00:45:27,520
+Every other day, we'd be like, how many tickets sold?
+
+1137
+00:45:30,440 --> 00:45:34,180
+I remember when they told us the venue, I was like, oh, shit.
+
+1138
+00:45:34,340 --> 00:45:36,300
+Like, this place has a really big capacity.
+
+1139
+00:45:36,300 --> 00:45:40,520
+Min was telling me how, like, yesterday, there was a K-pop group there.
+
+1140
+00:45:40,820 --> 00:45:46,100
+Yeah, there was apparently, like, some K-pop group at the same venue yesterday.
+
+1141
+00:45:46,280 --> 00:45:48,300
+Yeah, so we were, like, super surprised.
+
+1142
+00:45:49,440 --> 00:45:53,980
+And then, like, I think, like, they never, like, had VTubers at the concert before.
+
+1143
+00:45:54,560 --> 00:45:56,100
+They never had VTubers there before.
+
+1144
+00:45:56,520 --> 00:45:59,320
+So they were like, what the fuck is going on?
+
+1145
+00:46:02,600 --> 00:46:02,960
+Yeah.
+
+1146
+00:46:04,740 --> 00:46:07,720
+Oh, yeah, she explained to me what ORA no white girl is.
+
+1147
+00:46:07,840 --> 00:46:10,140
+I was so happy she finally explained it to me.
+
+1148
+00:46:10,160 --> 00:46:13,960
+I was like, the fuck is ORA no white girl?
+
+1149
+00:46:15,360 --> 00:46:16,860
+Oh, wait, she didn't explain it to me.
+
+1150
+00:46:17,080 --> 00:46:20,560
+I asked, and she never bothered to explain it to me.
+
+1151
+00:46:20,680 --> 00:46:24,960
+And then someone else asked, and then she started explaining to them without hesitation.
+
+1152
+00:46:25,280 --> 00:46:25,620
+Yeah.
+
+1153
+00:46:25,880 --> 00:46:28,320
+So I had to, like, learn it via, like, a third party.
+
+1154
+00:46:30,860 --> 00:46:31,920
+Whatever, you still learn.
+
+1155
+00:46:32,060 --> 00:46:32,700
+I still learn.
+
+1156
+00:46:32,800 --> 00:46:35,580
+I'm gonna forget about it and just be like, what the fuck is ORA no white girl?
+
+1157
+00:46:35,580 --> 00:46:36,600
+I'm not gonna explain it again.
+
+1158
+00:46:36,720 --> 00:46:40,560
+Well, I'm gonna wait for a third person to come in and be like, what's ORA no white girl?
+
+1159
+00:46:40,660 --> 00:46:41,580
+You'll never know.
+
+1160
+00:46:46,720 --> 00:46:47,440
+I'm happy.
+
+1161
+00:46:47,700 --> 00:46:48,440
+I'm happy.
+
+1162
+00:46:48,920 --> 00:46:49,480
+Me too.
+
+1163
+00:46:50,680 --> 00:46:51,540
+We're both tired.
+
+1164
+00:46:51,980 --> 00:46:52,460
+I might...
+
+1165
+00:46:52,460 --> 00:46:53,080
+Are you gonna...
+
+1166
+00:46:53,080 --> 00:46:54,440
+Are you gonna take a break or are you gonna...
+
+1167
+00:46:55,500 --> 00:46:57,520
+I'm gonna take a break when I come back.
+
+1168
+00:46:59,060 --> 00:47:00,280
+Because I'm really tired.
+
+1169
+00:47:00,380 --> 00:47:01,740
+No, I'm just gonna...
+
+1170
+00:47:01,740 --> 00:47:03,660
+You're just gonna keep going?
+
+1171
+00:47:03,940 --> 00:47:04,620
+Yeah, I'll take...
+
+1172
+00:47:04,620 --> 00:47:05,500
+Gas, gas, gas, gas.
+
+1173
+00:47:06,040 --> 00:47:10,560
+Well, I go home until the day after tomorrow, so I will...
+
+1174
+00:47:10,560 --> 00:47:13,500
+You're just gonna use that day as, like, your rest day?
+
+1175
+00:47:14,520 --> 00:47:15,680
+Yeah, I don't know yet.
+
+1176
+00:47:15,760 --> 00:47:17,040
+For me, I'm definitely gonna...
+
+1177
+00:47:17,760 --> 00:47:20,900
+Well, I'm gonna be playing Marble Rivals, but it doesn't mean I'm gonna be streaming it.
+
+1178
+00:47:23,240 --> 00:47:24,780
+Just streaming, no talk.
+
+1179
+00:47:25,940 --> 00:47:27,060
+Streaming Marble Rivals.
+
+1180
+00:47:27,060 --> 00:47:29,940
+I just get angry and then start talking.
+
+1181
+00:47:32,900 --> 00:47:37,120
+But I'm definitely gonna take a couple of day break.
+
+1182
+00:47:37,220 --> 00:47:38,580
+I don't have a tournament on...
+
+1183
+00:47:38,580 --> 00:47:41,500
+I have a tournament on Saturday next week.
+
+1184
+00:47:42,500 --> 00:47:44,080
+Yeah, take a break before then.
+
+1185
+00:47:44,280 --> 00:47:44,840
+Yeah, no, that's what I'm saying.
+
+1186
+00:47:44,840 --> 00:47:45,500
+Rest your voice, please.
+
+1187
+00:47:45,500 --> 00:47:50,280
+I'm taking a break before Saturday for the tournament.
+
+1188
+00:47:50,440 --> 00:47:52,460
+I was like, are you gonna be able to sing tonight?
+
+1189
+00:47:52,600 --> 00:47:53,300
+Your voice is...
+
+1190
+00:47:53,300 --> 00:47:54,820
+Oh yeah, my voice was so bad.
+
+1191
+00:47:54,820 --> 00:48:01,560
+I had so much cough drops and stuff going in, but it was worth it because I got top 500 in Marble Rivals.
+
+1192
+00:48:07,450 --> 00:48:09,330
+I think it was worth it.
+
+1193
+00:48:09,590 --> 00:48:12,250
+I lost it in five hours, by the way.
+
+1194
+00:48:12,710 --> 00:48:12,990
+Really?
+
+1195
+00:48:14,210 --> 00:48:18,750
+Because everybody's climbing every day, so I got it and then I lost it in five hours.
+
+1196
+00:48:18,750 --> 00:48:19,670
+Oh my god!
+
+1197
+00:48:20,150 --> 00:48:20,870
+Worth it.
+
+1198
+00:48:20,950 --> 00:48:23,650
+It was so worth it because I can say I touched top 500.
+
+1199
+00:48:27,890 --> 00:48:29,450
+It was very important.
+
+1200
+00:48:29,650 --> 00:48:34,590
+It was so worth it, you guys.
+
+1201
+00:48:34,710 --> 00:48:35,510
+You don't understand.
+
+1202
+00:48:38,510 --> 00:48:41,390
+Yeah, when I get back, it's time to grind again.
+
+1203
+00:48:42,490 --> 00:48:43,530
+Oh, you're so tired.
+
+1204
+00:48:43,850 --> 00:48:44,730
+I'm so sleepy.
+
+1205
+00:48:44,730 --> 00:48:45,450
+You're so sleepy.
+
+1206
+00:48:46,830 --> 00:48:48,650
+Is there anything else you want to talk about from the concert?
+
+1207
+00:48:49,210 --> 00:48:50,470
+Nothing I can think about.
+
+1208
+00:48:51,270 --> 00:48:52,570
+I'm thinking right now...
+
+1209
+00:48:57,070 --> 00:49:01,590
+We talked about how the set list was done and then the choreo and stuff like that.
+
+1210
+00:49:01,690 --> 00:49:02,590
+Yeah, I think we talked about that.
+
+1211
+00:49:03,630 --> 00:49:05,370
+What our day was like.
+
+1212
+00:49:05,450 --> 00:49:07,450
+I think that, yeah, they were like, I want to sleep too.
+
+1213
+00:49:08,070 --> 00:49:08,950
+EP time!
+
+1214
+00:49:09,010 --> 00:49:09,910
+EP time!
+
+1215
+00:49:11,430 --> 00:49:12,310
+EP time!
+
+1216
+00:49:12,430 --> 00:49:13,510
+We didn't eat dinner.
+
+1217
+00:49:13,890 --> 00:49:14,510
+No, we didn't eat dinner.
+
+1218
+00:49:15,330 --> 00:49:21,350
+We didn't want to eat something before the concert because of our stomachs and stuff.
+
+1219
+00:49:21,350 --> 00:49:24,850
+And we were so tired.
+
+1220
+00:49:24,970 --> 00:49:28,170
+We just went straight here to do a post-concert off-collab.
+
+1221
+00:49:28,310 --> 00:49:28,610
+Yeah.
+
+1222
+00:49:28,670 --> 00:49:29,850
+Oh, yeah, by my Nendoroid guys.
+
+1223
+00:49:29,950 --> 00:49:30,190
+I forgot.
+
+1224
+00:49:32,210 --> 00:49:35,670
+I was like, hey man, can I do the off-collab?
+
+1225
+00:49:36,090 --> 00:49:39,950
+Because I want to show my Nendoroid too.
+
+1226
+00:49:40,430 --> 00:49:41,710
+And then she's like, yeah.
+
+1227
+00:49:41,770 --> 00:49:43,430
+And then we forgot all about it.
+
+1228
+00:49:43,910 --> 00:49:47,730
+I thought, well, we did the last off-collab on my channel.
+
+1229
+00:49:47,810 --> 00:49:50,170
+I was just like, I just figured you would do the next one.
+
+1230
+00:49:50,700 --> 00:49:54,840
+And then by my Nendoroid, I don't have the picture up, but like, you can sort of...
+
+1231
+00:49:56,210 --> 00:49:58,570
+Google Dookie for Nendoroid.
+
+1232
+00:49:59,450 --> 00:50:02,610
+Google the work yourself, guys, guys.
+
+1233
+00:50:03,010 --> 00:50:08,070
+If I try to Google something, the stream might go...
+
+1234
+00:50:08,070 --> 00:50:08,630
+The stream will crash.
+
+1235
+00:50:09,490 --> 00:50:11,050
+The stream will be...
+
+1236
+00:50:11,050 --> 00:50:12,130
+The stream will die.
+
+1237
+00:50:13,190 --> 00:50:17,430
+The stream would be like, what's this new stuff you're trying to search up for?
+
+1238
+00:50:19,070 --> 00:50:21,370
+I just realized it's almost 1am.
+
+1239
+00:50:21,470 --> 00:50:23,030
+Oh my god, you're right.
+
+1240
+00:50:23,170 --> 00:50:28,260
+My laptop is set to West Coast still, so I forgot that it's like...
+
+1241
+00:50:29,150 --> 00:50:30,550
+It's dead hours.
+
+1242
+00:50:30,830 --> 00:50:31,190
+Yeah.
+
+1243
+00:50:31,410 --> 00:50:32,990
+Oh yeah, Waffle House is still open.
+
+1244
+00:50:33,550 --> 00:50:34,470
+Waffle House is still open.
+
+1245
+00:50:35,210 --> 00:50:37,090
+I'm gonna go back and I'm gonna go...
+
+1246
+00:50:37,090 --> 00:50:38,230
+You're going back to your own hotel?
+
+1247
+00:50:38,530 --> 00:50:39,830
+Yeah, I'm gonna go sleep.
+
+1248
+00:50:40,150 --> 00:50:40,470
+Yeah.
+
+1249
+00:50:42,110 --> 00:50:44,270
+I'm not gonna ever get this hotel.
+
+1250
+00:50:44,830 --> 00:50:46,030
+No, now we know.
+
+1251
+00:50:46,670 --> 00:50:47,650
+Now we know.
+
+1252
+00:50:50,050 --> 00:50:51,010
+That's still...
+
+1253
+00:50:51,010 --> 00:50:52,350
+Oh yeah, almost...
+
+1254
+00:50:52,350 --> 00:50:57,630
+By the way, guys, I almost couldn't fly to Atlanta.
+
+1255
+00:50:57,990 --> 00:50:58,210
+What?
+
+1256
+00:50:58,450 --> 00:51:02,150
+Because like, my passport expires in five days.
+
+1257
+00:51:04,130 --> 00:51:05,830
+Oh my god, you didn't...
+
+1258
+00:51:05,830 --> 00:51:07,870
+Oh my god, that would have been a disaster.
+
+1259
+00:51:08,190 --> 00:51:09,590
+Yeah, okay, so like...
+
+1260
+00:51:09,590 --> 00:51:10,670
+That would have been so bad.
+
+1261
+00:51:10,970 --> 00:51:13,850
+People were like, your passport expires in five days.
+
+1262
+00:51:13,890 --> 00:51:16,010
+Are you even allowed to go to another country?
+
+1263
+00:51:16,030 --> 00:51:20,330
+And then I was like, well, I was in America like two weeks, two or three weeks ago.
+
+1264
+00:51:20,470 --> 00:51:21,430
+So like, I thought...
+
+1265
+00:51:21,430 --> 00:51:24,310
+And then they're like, your passport has to be like valid within six months.
+
+1266
+00:51:24,430 --> 00:51:28,570
+And I was like, apparently Canadians don't have to follow that rule for now.
+
+1267
+00:51:28,690 --> 00:51:35,450
+Oh my god, guys, you guys, if the concert was cancelled, you can blame Doki.
+
+1268
+00:51:36,210 --> 00:51:36,910
+Oh my god.
+
+1269
+00:51:36,910 --> 00:51:41,810
+Because I thought it was okay because I was able to go to America like a couple of weeks ago.
+
+1270
+00:51:42,050 --> 00:51:44,730
+So I was just like, oh, it will be all right as long as I come back.
+
+1271
+00:51:44,730 --> 00:51:51,950
+And then they have to like call people and then the person came down and was like, no, she's okay to go as long as she comes back before the passport expires.
+
+1272
+00:51:52,450 --> 00:51:56,470
+Because they like put me in a separate area and they're like, we're gonna ask somebody about this.
+
+1273
+00:51:58,750 --> 00:52:01,610
+Guys, the concert almost didn't happen.
+
+1274
+00:52:03,230 --> 00:52:04,770
+The concert almost...
+
+1275
+00:52:04,770 --> 00:52:06,090
+I did not know this.
+
+1276
+00:52:07,130 --> 00:52:09,290
+I revealed it on the street.
+
+1277
+00:52:10,270 --> 00:52:12,490
+I'm glad you didn't say anything before.
+
+1278
+00:52:12,490 --> 00:52:14,710
+I would have been stressed out.
+
+1279
+00:52:15,190 --> 00:52:18,250
+I would have been so stressed out.
+
+1280
+00:52:18,290 --> 00:52:20,870
+So anyway, I'm gonna renew my passport when I come back.
+
+1281
+00:52:22,350 --> 00:52:23,450
+I'm leaving now.
+
+1282
+00:52:24,450 --> 00:52:25,470
+I'm going.
+
+1283
+00:52:26,490 --> 00:52:28,770
+I'm leaving this curse.
+
+1284
+00:52:28,790 --> 00:52:30,230
+But hey, I got it.
+
+1285
+00:52:30,410 --> 00:52:32,510
+I got a year.
+
+1286
+00:52:33,530 --> 00:52:34,910
+Oh my god.
+
+1287
+00:52:35,230 --> 00:52:36,990
+It's like wild.
+
+1288
+00:52:38,690 --> 00:52:40,830
+Like, when you're coming back, I was like...
+
+1289
+00:52:40,830 --> 00:52:42,670
+Imagine doing all this work.
+
+1290
+00:52:42,670 --> 00:52:45,770
+And then you're like, hey guys, my passport is expired.
+
+1291
+00:52:46,030 --> 00:52:47,470
+No, it's not expired yet.
+
+1292
+00:52:47,670 --> 00:52:48,410
+But like, it's not.
+
+1293
+00:52:48,970 --> 00:52:49,910
+It's not bad.
+
+1294
+00:52:49,930 --> 00:52:52,170
+I've always heard this month thing though.
+
+1295
+00:52:52,670 --> 00:52:55,150
+Yeah, but only if you're only if you're like going outside of NA.
+
+1296
+00:52:56,750 --> 00:53:01,890
+So like, because I'm Canadian, I'm allowed to like, go to your country.
+
+1297
+00:53:02,690 --> 00:53:05,970
+Despite whatever the fuck my passport dated, as long as it's not expired.
+
+1298
+00:53:06,430 --> 00:53:08,430
+Because like, for now, we have a good relationship.
+
+1299
+00:53:09,130 --> 00:53:09,830
+For now?
+
+1300
+00:53:12,110 --> 00:53:13,030
+For now.
+
+1301
+00:53:13,250 --> 00:53:13,910
+For now.
+
+1302
+00:53:14,350 --> 00:53:16,870
+Well, it's a good thing that you also didn't stay here longer.
+
+1303
+00:53:17,130 --> 00:53:17,590
+You know what?
+
+1304
+00:53:18,970 --> 00:53:20,770
+Maybe it's good, you know?
+
+1305
+00:53:21,790 --> 00:53:22,350
+Nevermind.
+
+1306
+00:53:24,330 --> 00:53:26,010
+So we'll see how it goes.
+
+1307
+00:53:27,170 --> 00:53:28,290
+Get a new passport.
+
+1308
+00:53:28,370 --> 00:53:29,930
+Renew your passport, please.
+
+1309
+00:53:30,330 --> 00:53:30,950
+I will.
+
+1310
+00:53:31,170 --> 00:53:31,970
+I will.
+
+1311
+00:53:32,750 --> 00:53:34,550
+When I come back.
+
+1312
+00:53:36,010 --> 00:53:37,710
+Okay, I'm gonna go.
+
+1313
+00:53:38,190 --> 00:53:40,990
+Thank you everybody for coming.
+
+1314
+00:53:41,970 --> 00:53:43,890
+Thank you for those who came to the concert.
+
+1315
+00:53:44,350 --> 00:53:48,590
+And like, I know like, a lot of you guys were planning on like, grabbing dinner right after the concert.
+
+1316
+00:53:48,710 --> 00:53:50,490
+But then you're like, we gotta watch the Off Colab!
+
+1317
+00:53:50,890 --> 00:53:52,230
+And then thank you guys for staying.
+
+1318
+00:53:52,790 --> 00:53:54,190
+A lot of people flew in too.
+
+1319
+00:53:54,210 --> 00:53:56,050
+Yeah, a lot of people flew in from everywhere.
+
+1320
+00:53:56,450 --> 00:54:01,230
+We saw so many like, JP fans coming over.
+
+1321
+00:54:01,590 --> 00:54:02,110
+I think like...
+
+1322
+00:54:04,770 --> 00:54:08,230
+I think like, I thought it was like, really cool.
+
+1323
+00:54:08,550 --> 00:54:11,690
+Was that there were like, fans who've like, never even heard of us.
+
+1324
+00:54:11,770 --> 00:54:13,930
+Yeah, people that were coming for other...
+
+1325
+00:54:13,930 --> 00:54:16,730
+Yeah, for the guests and stuff who have never heard of us.
+
+1326
+00:54:16,910 --> 00:54:18,290
+And like, came for some of the guests.
+
+1327
+00:54:18,530 --> 00:54:21,930
+And they were like, they really like, learned about us and enjoyed us.
+
+1328
+00:54:22,530 --> 00:54:25,230
+Enjoyed our content from the concert, which was really cool.
+
+1329
+00:54:27,250 --> 00:54:31,210
+Yeah, but thank you to everybody that like, flew in from everywhere, basically.
+
+1330
+00:54:31,830 --> 00:54:34,850
+From different countries just to see us.
+
+1331
+00:54:34,950 --> 00:54:35,890
+Because it's very expensive.
+
+1332
+00:54:36,130 --> 00:54:36,670
+It's not cheap.
+
+1333
+00:54:36,830 --> 00:54:36,870
+I know.
+
+1334
+00:54:37,230 --> 00:54:38,030
+It's not cheap at all.
+
+1335
+00:54:38,270 --> 00:54:40,750
+I mean, the concert wasn't very cheap either.
+
+1336
+00:54:41,090 --> 00:54:42,210
+So, you know, thank you guys.
+
+1337
+00:54:42,230 --> 00:54:46,090
+Yeah, and then there's hotels and like, flights and like, money.
+
+1338
+00:54:46,450 --> 00:54:49,310
+Hopefully you guys all got to meet up and like, see each other.
+
+1339
+00:54:49,310 --> 00:54:51,950
+Yeah, I saw like, people made like, new friends and stuff.
+
+1340
+00:54:52,070 --> 00:54:53,210
+Yeah, that's really sweet.
+
+1341
+00:54:53,310 --> 00:54:56,390
+New dragons and like, wisps like, becoming friends with each other.
+
+1342
+00:54:56,950 --> 00:54:58,810
+And now they're all gonna go have sex together.
+
+1343
+00:55:04,570 --> 00:55:07,790
+And then they're gonna make wisp goons and they're gonna subscribe to us.
+
+1344
+00:55:08,730 --> 00:55:11,590
+Oh, I just had sex.
+
+1345
+00:55:13,410 --> 00:55:13,790
+Woo!
+
+1346
+00:55:14,410 --> 00:55:15,850
+I really felt good.
+
+1347
+00:55:16,390 --> 00:55:17,910
+Felt so good.
+
+1348
+00:55:18,410 --> 00:55:19,950
+Oh, hey, didn't see you there.
+
+1349
+00:55:20,070 --> 00:55:23,470
+Look what I just did, had sex, undressed, saw her boobies and the rest.
+
+1350
+00:55:23,990 --> 00:55:25,450
+Oh, sure, nice of her to let you do that thing.
+
+1351
+00:55:25,450 --> 00:55:26,310
+Don't you do that thing.
+
+1352
+00:55:26,370 --> 00:55:28,490
+Nice of any girl ever now saying.
+
+1353
+00:55:29,070 --> 00:55:31,850
+Okay, thanks guys!
+
+1354
+00:55:31,850 --> 00:55:32,890
+Thank you everybody!
+
+1355
+00:55:33,970 --> 00:55:35,350
+Thank you, thank you!
+
+1356
+00:55:36,350 --> 00:55:38,990
+We're gonna leave now.
+
+1357
+00:55:39,210 --> 00:55:41,010
+But thank you everybody for coming.
+
+1358
+00:55:41,510 --> 00:55:45,850
+We really appreciate it for this like, impromptu off collab.
+
+1359
+00:55:47,870 --> 00:55:49,870
+Thank you everyone, it was a great experience.
+
+1360
+00:55:51,310 --> 00:55:52,590
+Definitely unforgettable.
+
+1361
+00:55:52,910 --> 00:55:54,410
+I'm gonna go to sleep now.
+
+1362
+00:55:55,450 --> 00:56:00,130
+And I'm glad that, you know, I got to share a stage with Mint for this.
+
+1363
+00:56:01,670 --> 00:56:02,950
+So thank you everybody.
+
+1364
+00:56:03,070 --> 00:56:04,650
+We're sorry this one was really...
+
+1365
+00:56:04,650 --> 00:56:07,150
+I didn't plan...
+
+1366
+00:56:07,150 --> 00:56:08,530
+I didn't prepare anything for this.
+
+1367
+00:56:08,830 --> 00:56:09,050
+No.
+
+1368
+00:56:10,170 --> 00:56:11,650
+Literally, I thought...
+
+1369
+00:56:11,650 --> 00:56:13,610
+YouTube is like the stream's bitrate.
+
+1370
+00:56:15,450 --> 00:56:18,270
+If it works, it works, YouTube!
+
+1371
+00:56:18,910 --> 00:56:19,530
+Yeah, shut up.
+
+1372
+00:56:19,870 --> 00:56:21,170
+They're judging our...
+
+1373
+00:56:21,970 --> 00:56:23,610
+They're size-queening us.
+
+1374
+00:56:23,690 --> 00:56:26,570
+They're like, the size of your bitrate is not big enough.
+
+1375
+00:56:26,610 --> 00:56:30,050
+Yeah, so we hope you all enjoyed the concert.
+
+1376
+00:56:30,990 --> 00:56:33,750
+And seeing us dance and everything in 3D.
+
+1377
+00:56:34,230 --> 00:56:38,270
+And can't wait to have our actual official 3D debut.
+
+1378
+00:56:38,590 --> 00:56:38,990
+Yeah!
+
+1379
+00:56:39,850 --> 00:56:41,630
+And then maybe in the future we do another concert.
+
+1380
+00:56:41,870 --> 00:56:43,290
+I would love it for it to be...
+
+1381
+00:56:43,290 --> 00:56:44,910
+There will be like, streaming tickets too.
+
+1382
+00:56:45,010 --> 00:56:45,630
+I know, right?
+
+1383
+00:56:45,990 --> 00:56:46,350
+Hopefully.
+
+1384
+00:56:46,630 --> 00:56:50,990
+Whoever wants to sponsor us for our next concert, we'll do it if there's streaming tickets too.
+
+1385
+00:56:51,090 --> 00:56:51,910
+Because there's potential.
+
+1386
+00:56:53,050 --> 00:56:54,590
+Alright, we're gonna go for real now.
+
+1387
+00:56:54,770 --> 00:56:55,490
+Goodnight everybody!
+
+1388
+00:56:56,050 --> 00:56:56,810
+Bye bye!
+
+1389
+00:56:56,810 --> 00:56:57,730
+Bye bye!
+
+1390
+00:56:59,070 --> 00:57:02,190
+Wait, do it on OBS so it like, syncs up.
+
+1391
+00:57:02,590 --> 00:57:03,050
+Oh, okay.
+
+1392
+00:57:03,390 --> 00:57:03,770
+Bye!
+
+1393
+00:57:04,770 --> 00:57:06,810
+Wait, does it sync up if I do that?
+
+1394
+00:57:06,830 --> 00:57:11,970
+If you end it, so if you end it through OBS first, it'll like, finish playing what you say.
+
+1395
+00:57:12,230 --> 00:57:12,490
+Okay.
+
+1396
+00:57:13,510 --> 00:57:14,350
+And then, stop it.
+
+1397
+00:57:14,350 --> 00:57:17,190
+How do I know if the stream ends correctly?
+
+1398
+00:57:18,490 --> 00:57:20,710
+But if you end it on YouTube, it just cuts it.
+
+1399
+00:57:20,890 --> 00:57:21,370
+Oh, okay.
+
+1400
+00:57:21,570 --> 00:57:22,650
+So just stop streaming, and cut it out.
+
+1401
+00:57:22,650 --> 00:57:23,010
+Oh, okay.
+
