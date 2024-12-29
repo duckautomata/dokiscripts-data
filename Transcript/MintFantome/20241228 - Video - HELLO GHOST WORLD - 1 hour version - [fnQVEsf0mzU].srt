@@ -1,0 +1,520 @@
+1
+00:02:17,650 --> 00:02:17,730
+And this is the third one.
+
+2
+00:02:17,730 --> 00:02:18,030
+And this is the fourth one.
+
+3
+00:02:19,770 --> 00:02:19,910
+And this is the fifth one.
+
+4
+00:03:04,250 --> 00:03:07,050
+And this is the sixth one.
+
+5
+00:03:54,030 --> 00:03:56,830
+And this is the seventh one.
+
+6
+00:04:40,320 --> 00:04:41,720
+And
+
+7
+00:04:45,680 --> 00:04:46,080
+this is the eighth one.
+
+8
+00:05:14,660 --> 00:05:16,060
+And this is the ninth one.
+
+9
+00:06:05,320 --> 00:06:05,400
+And this is the tenth one.
+
+10
+00:06:05,400 --> 00:06:05,440
+And this is the eighteenth one.
+
+11
+00:06:05,580 --> 00:06:05,700
+And this is the ninth one.
+
+12
+00:07:59,260 --> 00:08:01,120
+This is the first sentence, and this is the second sentence.
+
+13
+00:08:02,080 --> 00:08:02,500
+And this is the third sentence.
+
+14
+00:08:02,500 --> 00:08:02,540
+And this is the fifth sentence.
+
+15
+00:08:41,550 --> 00:08:44,350
+And this is the sixth sentence.
+
+16
+00:10:51,430 --> 00:10:52,830
+This is the first sentence, and this is the second sentence.
+
+17
+00:11:43,610 --> 00:11:45,010
+This is the first sentence, and this is the second sentence.
+
+18
+00:12:23,420 --> 00:12:24,820
+This is the first sentence, and this is the second sentence.
+
+19
+00:12:54,080 --> 00:12:54,160
+This is the first sentence, and this is the second sentence.
+
+20
+00:13:39,540 --> 00:13:44,680
+A little pause... and we are back.
+
+21
+00:14:19,840 --> 00:14:23,800
+A little pause... and we are back.
+
+22
+00:14:51,400 --> 00:14:51,900
+A little pause... and we are back.
+
+23
+00:15:21,300 --> 00:15:23,980
+A little pause... and we are back.
+
+24
+00:15:36,930 --> 00:15:56,390
+A little pause... and we are back.
+
+25
+00:16:36,600 --> 00:16:37,700
+A little pause... and we are back.
+
+26
+00:16:51,320 --> 00:17:07,100
+A little pause... and we are back.
+
+27
+00:17:45,560 --> 00:17:45,600
+A little
+
+28
+00:17:51,100 --> 00:18:02,780
+pause...
+
+29
+00:18:02,780 --> 00:18:02,860
+and we are back.
+
+30
+00:18:42,370 --> 00:18:42,530
+This is the first sentence, and this is the second sentence.
+
+31
+00:18:42,890 --> 00:18:42,970
+This is the first sentence, and this is the second sentence.
+
+32
+00:19:35,110 --> 00:19:36,510
+A little pause...
+
+33
+00:19:36,510 --> 00:19:36,510
+and we are back.
+
+34
+00:20:11,210 --> 00:20:12,610
+This is the first sentence, and this is the second sentence.
+
+35
+00:20:40,210 --> 00:20:41,590
+A little pause... and we are back.
+
+36
+00:21:29,650 --> 00:21:29,790
+This is the first sentence, and this is the second sentence.
+
+37
+00:21:29,790 --> 00:21:30,070
+This is the first sentence, and this is the second sentence.
+
+38
+00:21:40,570 --> 00:21:42,010
+This is the first sentence, and this is the second sentence.
+
+39
+00:22:40,380 --> 00:22:40,560
+This is the first sentence, and this is the second sentence.
+
+40
+00:22:40,580 --> 00:22:40,800
+A little pause...
+
+41
+00:22:40,800 --> 00:22:40,800
+and we are back.
+
+42
+00:22:40,800 --> 00:22:40,880
+This is the first sentence, and this is the second sentence.
+
+43
+00:22:40,880 --> 00:22:42,580
+A little pause... and we are back.
+
+44
+00:22:44,900 --> 00:22:49,360
+This is the first sentence, and this is the second sentence.
+
+45
+00:23:03,360 --> 00:23:04,480
+A little pause... and
+
+46
+00:23:24,180 --> 00:23:25,880
+we are back.
+
+47
+00:23:26,740 --> 00:23:29,860
+This is the first sentence, and this is the second sentence.
+
+48
+00:24:05,930 --> 00:24:07,010
+This is the first sentence, and this is the second sentence.
+
+49
+00:24:07,010 --> 00:24:07,310
+A little pause... and we are back.
+
+50
+00:24:07,310 --> 00:24:07,470
+This is the first sentence, and this is the second sentence.
+
+51
+00:24:07,490 --> 00:24:07,850
+A little pause...
+
+52
+00:24:07,850 --> 00:24:07,850
+and we are back.
+
+53
+00:24:36,430 --> 00:24:37,830
+This is the first sentence, and this is the second sentence.
+
+54
+00:25:26,690 --> 00:25:28,090
+A little pause...
+
+55
+00:25:28,090 --> 00:25:28,090
+and we are back.
+
+56
+00:26:09,260 --> 00:26:09,520
+This is the first sentence, and this is the second sentence.
+
+57
+00:26:09,520 --> 00:26:09,560
+This is the first sentence, and this is the second sentence.
+
+58
+00:26:09,560 --> 00:26:09,800
+A little pause...
+
+59
+00:26:09,800 --> 00:26:09,800
+and we are back.
+
+60
+00:26:37,960 --> 00:26:39,380
+This is the first sentence, and this is the second sentence.
+
+61
+00:27:23,560 --> 00:27:30,520
+A little pause... and we are back.
+
+62
+00:28:13,220 --> 00:28:14,720
+A little pause... and we are back.
+
+63
+00:28:37,910 --> 00:28:47,590
+A little pause... and we are back.
+
+64
+00:29:18,630 --> 00:29:37,710
+A little pause... and we are back.
+
+65
+00:30:17,460 --> 00:30:19,500
+A little pause... and we are back.
+
+66
+00:30:43,960 --> 00:30:47,600
+A little pause...
+
+67
+00:30:47,600 --> 00:30:47,600
+and we are back.
+
+68
+00:31:25,480 --> 00:31:29,000
+A little pause...
+
+69
+00:31:29,000 --> 00:31:29,000
+and we are back.
+
+70
+00:31:29,000 --> 00:31:39,440
+A little pause... and we are back.
+
+71
+00:31:39,460 --> 00:31:39,960
+This is the first sentence, and this is the second sentence.
+
+72
+00:32:17,580 --> 00:32:18,980
+A little pause...
+
+73
+00:32:18,980 --> 00:32:18,980
+and we are back.
+
+74
+00:32:18,980 --> 00:32:19,020
+This is the first sentence, and this is the second sentence.
+
+75
+00:32:41,400 --> 00:32:48,660
+A little pause... and we are back.
+
+76
+00:33:21,410 --> 00:33:21,550
+A little pause... and we are back.
+
+77
+00:33:57,200 --> 00:34:01,900
+A little pause... and we are back.
+
+78
+00:34:30,660 --> 00:34:32,060
+This is the first sentence, and this is the second sentence.
+
+79
+00:35:18,640 --> 00:35:22,280
+A little pause... and we are back.
+
+80
+00:36:05,590 --> 00:36:07,430
+A little pause... and we are back.
+
+81
+00:36:24,690 --> 00:36:37,770
+A little pause... and we are back.
+
+82
+00:37:07,630 --> 00:37:27,410
+A little pause...
+
+83
+00:37:30,700 --> 00:37:33,960
+and we are back.
+
+84
+00:38:05,190 --> 00:38:06,930
+A little pause...
+
+85
+00:38:06,930 --> 00:38:06,930
+and we are back.
+
+86
+00:38:32,850 --> 00:38:36,930
+A little pause...
+
+87
+00:38:36,930 --> 00:38:36,930
+and we are back.
+
+88
+00:39:16,250 --> 00:39:27,050
+A little pause... and we are back.
+
+89
+00:40:04,920 --> 00:40:09,340
+A little pause...
+
+90
+00:40:09,340 --> 00:40:09,340
+and we are back.
+
+91
+00:40:19,400 --> 00:40:27,540
+A little pause... and we are back.
+
+92
+00:41:13,660 --> 00:41:29,880
+A little pause... and we are back.
+
+93
+00:42:02,390 --> 00:42:08,030
+A little pause... and we are back.
+
+94
+00:42:36,630 --> 00:42:38,030
+A little pause...
+
+95
+00:42:38,030 --> 00:42:38,030
+and we are back.
+
+96
+00:43:11,350 --> 00:43:12,710
+This is the first sentence, and this is the second sentence.
+
+97
+00:44:07,420 --> 00:44:07,580
+A little pause... and we are back.
+
+98
+00:45:00,460 --> 00:45:01,860
+This is the first sentence, and this is the second sentence.
+
+99
+00:45:37,280 --> 00:45:41,240
+A little pause... and we are back.
+
+100
+00:46:13,670 --> 00:46:17,110
+This is the first sentence, and this is the second sentence.
+
+101
+00:46:17,670 --> 00:46:18,050
+A little pause... and we are back.
+
+102
+00:46:18,050 --> 00:46:18,230
+A little pause...
+
+103
+00:46:18,230 --> 00:46:18,230
+and we are back.
+
+104
+00:47:05,750 --> 00:47:06,410
+This is the first sentence, and this is the second sentence.
+
+105
+00:47:06,410 --> 00:47:08,090
+This is the first sentence, and this is the second sentence.
+
+106
+00:47:08,090 --> 00:47:09,030
+A little pause... and we are back.
+
+107
+00:47:47,380 --> 00:47:48,820
+This is the first sentence, and this is the second sentence.
+
+108
+00:48:11,120 --> 00:48:17,200
+A little pause... and we are back.
+
+109
+00:48:51,560 --> 00:49:08,660
+A little pause... and we are back.
+
+110
+00:49:46,940 --> 00:49:47,780
+A little pause... and we are back.
+
+111
+00:50:15,360 --> 00:50:18,160
+A little pause...
+
+112
+00:50:18,160 --> 00:50:18,160
+and we are back.
+
+113
+00:50:49,550 --> 00:50:49,750
+This is the first sentence, and this is the second sentence.
+
+114
+00:50:49,750 --> 00:50:49,910
+This is the first sentence, and this is the second sentence.
+
+115
+00:51:00,550 --> 00:51:01,910
+This is the first sentence, and this is the second sentence.
+
+116
+00:51:54,160 --> 00:52:00,660
+A little pause... and we are back.
+
+117
+00:52:03,420 --> 00:52:07,960
+A little pause... and we are back.
+
+118
+00:53:30,990 --> 00:53:35,430
+A little pause... and we are back.
+
+119
+00:54:05,650 --> 00:54:05,850
+A little pause... and we are back.
+
+120
+00:54:54,710 --> 00:54:59,470
+A little pause...
+
+121
+00:55:02,760 --> 00:55:02,840
+and we are back.
+
+122
+00:55:33,530 --> 00:55:35,590
+A little pause... and we are back.
+
+123
+00:56:04,890 --> 00:56:05,230
+A little pause... and we are back.
+
+124
+00:56:52,290 --> 00:56:55,390
+A little pause... and we are back.
+
+125
+00:57:36,380 --> 00:57:38,420
+A little pause... and we are back.
+
+126
+00:57:55,420 --> 00:58:01,060
+A little pause... and we are back.
+
+127
+00:58:39,900 --> 00:58:57,700
+A little pause... and we are back.
+
+128
+00:59:33,530 --> 00:59:35,910
+A little pause... and we are back.
+
+129
+00:59:52,690 --> 01:00:05,890
+A little pause... and we are back.
+
+130
+01:00:06,330 --> 01:00:14,150
+A little pause... and we are back.
+
