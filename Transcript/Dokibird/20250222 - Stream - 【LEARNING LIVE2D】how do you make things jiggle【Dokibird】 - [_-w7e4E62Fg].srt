@@ -1,0 +1,9516 @@
+1
+00:01:45,350 --> 00:01:52,850
+Swap Hello everybo- oh my gosh, sorry, I sound like I'm about to fucking die.
+
+2
+00:01:53,210 --> 00:01:54,750
+But hello everyone!
+
+3
+00:01:55,690 --> 00:01:57,150
+Hello, hello, hello.
+
+4
+00:01:57,610 --> 00:02:02,410
+Today we have a very, very special guest here.
+
+5
+00:02:02,870 --> 00:02:04,870
+Who's gonna be our little teacher.
+
+6
+00:02:05,070 --> 00:02:09,450
+Who's gonna be teaching us how to do- use live 2D.
+
+7
+00:02:09,830 --> 00:02:11,610
+Uh, would you like to introduce yourself?
+
+8
+00:02:11,610 --> 00:02:14,510
+And I'm sorry I sound- I'm sorry for being late, guys.
+
+9
+00:02:14,910 --> 00:02:22,530
+My dog wanted walkies, and when my dog wants walkies, then I can't stop him, he's gonna pee.
+
+10
+00:02:22,790 --> 00:02:24,570
+Like, he needs to use the bathroom.
+
+11
+00:02:24,970 --> 00:02:26,350
+I can't stop that.
+
+12
+00:02:28,150 --> 00:02:30,010
+Anyway, would you like to introduce yourself?
+
+13
+00:02:30,910 --> 00:02:33,230
+Uh, yes, so, um, I'm NimYoi.
+
+14
+00:02:33,650 --> 00:02:36,990
+I guess it's a bit of a surprise that I'm here.
+
+15
+00:02:36,990 --> 00:02:45,830
+One viewer of mine named Alex, uh, won in the charity stream, and we commented me for the collab.
+
+16
+00:02:46,090 --> 00:02:53,490
+So, I'm very excited, but also nervous, because it's my first collab, and I think- Yes, it's your first collab, you liar!
+
+17
+00:02:54,370 --> 00:02:55,590
+No, first big collab!
+
+18
+00:02:56,490 --> 00:03:05,190
+Like, first real big one, so, like, um, I'm not super experienced with collabs either, I don't have money.
+
+19
+00:03:05,190 --> 00:03:08,110
+Uh, but I'm very excited to learn a lot.
+
+20
+00:03:08,250 --> 00:03:09,930
+Did you say I don't have money?
+
+21
+00:03:10,870 --> 00:03:13,910
+Did you- Money, money, money, money, money!
+
+22
+00:03:14,210 --> 00:03:16,490
+Oh, okay, I was gonna be like, oh my god, are you okay?
+
+23
+00:03:22,890 --> 00:03:27,930
+So, as you can see, or hear my English, it's the best, so be prepared for it.
+
+24
+00:03:30,110 --> 00:03:34,090
+I was just like, sorry, I have sick ears right now, guys.
+
+25
+00:03:34,090 --> 00:03:43,750
+Guys, I have- my ears aren't listening very well either right now, because my whole body is not okay at the moment.
+
+26
+00:03:44,210 --> 00:03:46,310
+They're like, don't- you can't ask that!
+
+27
+00:03:46,410 --> 00:03:48,130
+You can't just be like, aren't you poor?
+
+28
+00:03:48,550 --> 00:03:51,750
+I- I- I thought it was the most confusing thing ever!
+
+29
+00:03:51,850 --> 00:03:53,630
+I was like, wait, why did you say you don't have money?
+
+30
+00:03:53,950 --> 00:03:58,710
+Alright, for those who don't know, she is European.
+
+31
+00:03:58,710 --> 00:03:58,850
+European?
+
+32
+00:04:01,210 --> 00:04:04,890
+From, I believe, you're a German VTuber, right?
+
+33
+00:04:07,510 --> 00:04:07,850
+Hello?
+
+34
+00:04:08,950 --> 00:04:09,250
+Hello?
+
+35
+00:04:09,550 --> 00:04:09,730
+Hello?
+
+36
+00:04:09,810 --> 00:04:12,670
+Oh, I was like, are you like a German VTuber, right?
+
+37
+00:04:13,790 --> 00:04:16,130
+I'm a German- no, no, I'm an English VTuber.
+
+38
+00:04:17,650 --> 00:04:18,950
+But I'm from Germany.
+
+39
+00:04:19,670 --> 00:04:19,910
+Oh!
+
+40
+00:04:24,190 --> 00:04:27,630
+You mostly primarily- you say you mostly primarily stream in English.
+
+41
+00:04:28,090 --> 00:04:29,310
+Yes, exactly.
+
+42
+00:04:29,530 --> 00:04:32,110
+Because I want to learn more English.
+
+43
+00:04:32,410 --> 00:04:34,770
+And a lot of my clients are only English.
+
+44
+00:04:36,870 --> 00:04:39,330
+So, it's a good thing to stream in English.
+
+45
+00:04:39,550 --> 00:04:42,530
+Also, I can reach more people with rigging in English now.
+
+46
+00:04:42,890 --> 00:04:52,150
+Don't worry, even my chat was like, your English is better than mine, which is not- guys, it's not a high- it's not a very high standard to have better English than me, guys.
+
+47
+00:04:52,210 --> 00:04:54,210
+We all know I'm- English is my first language.
+
+48
+00:04:58,450 --> 00:05:05,250
+So, yes, huge shout-out to Alex for arranging all of this.
+
+49
+00:05:05,850 --> 00:05:09,450
+I'm sorry that it took so long to get all of this started.
+
+50
+00:05:09,790 --> 00:05:14,050
+My body is not okay, and it has not been okay for half a year now.
+
+51
+00:05:16,350 --> 00:05:20,410
+We were supposed to have a collab, like, last year.
+
+52
+00:05:20,970 --> 00:05:21,910
+And then I got sick.
+
+53
+00:05:22,550 --> 00:05:24,350
+And then I was- and then I went to Japan.
+
+54
+00:05:24,910 --> 00:05:26,250
+And then I got sick again.
+
+55
+00:05:26,250 --> 00:05:27,850
+And then I got better.
+
+56
+00:05:28,030 --> 00:05:29,490
+And then I got sick again.
+
+57
+00:05:29,610 --> 00:05:32,910
+But then I- and then she was like, maybe we should reschedule.
+
+58
+00:05:33,110 --> 00:05:35,710
+And I was like, no more rescheduling!
+
+59
+00:05:35,830 --> 00:05:41,830
+And we are- We cannot- we cannot reschedule anymore.
+
+60
+00:05:42,190 --> 00:05:44,870
+I- I will- I can do this.
+
+61
+00:05:45,090 --> 00:05:50,110
+My body might be dying, but I can do this.
+
+62
+00:05:52,350 --> 00:05:54,270
+So, here we are!
+
+63
+00:05:55,250 --> 00:05:57,470
+Finally learning Live2D!
+
+64
+00:05:58,490 --> 00:05:59,210
+So, anyway.
+
+65
+00:05:59,410 --> 00:06:01,670
+So there was a lot of suggestions on what we were gonna do together.
+
+66
+00:06:03,350 --> 00:06:05,190
+We were, like, thinking we should play some games.
+
+67
+00:06:06,310 --> 00:06:07,870
+If we should, like, you know.
+
+68
+00:06:08,050 --> 00:06:12,050
+I remember, you know, I wanted to try Marvel Rivals at first.
+
+69
+00:06:12,470 --> 00:06:16,650
+And then- but then I thought, like, you know, since this is a very special collab for her and me.
+
+70
+00:06:17,210 --> 00:06:19,110
+I figured it should be more than just, you know.
+
+71
+00:06:19,110 --> 00:06:20,570
+We play just a game.
+
+72
+00:06:20,790 --> 00:06:24,790
+And since you are a Live2D rigger, and you are an artist.
+
+73
+00:06:25,590 --> 00:06:27,670
+I figured we go with a strong suit.
+
+74
+00:06:27,930 --> 00:06:31,430
+Like, you showing us how Live2D works, because I've never tried Live2D before.
+
+75
+00:06:31,910 --> 00:06:35,530
+So, if you see this on the screen, that's not mine.
+
+76
+00:06:36,090 --> 00:06:37,510
+I mean, that is you!
+
+77
+00:06:37,690 --> 00:06:38,730
+You are mine, guys.
+
+78
+00:06:38,830 --> 00:06:39,730
+Dragoons are mine.
+
+79
+00:06:39,950 --> 00:06:41,550
+But, no, guys.
+
+80
+00:06:41,610 --> 00:06:42,950
+I am not banning you.
+
+81
+00:06:43,150 --> 00:06:44,690
+I am not disowning you.
+
+82
+00:06:44,730 --> 00:06:48,910
+I meant to say, this is not my screen right now.
+
+83
+00:06:53,530 --> 00:06:57,770
+And she will be Live2D-ing a dragoon for us.
+
+84
+00:06:57,870 --> 00:07:00,970
+And showing us, like, the process of how it works.
+
+85
+00:07:01,330 --> 00:07:03,810
+Do you think you can get all this done in, like, one stream?
+
+86
+00:07:04,930 --> 00:07:05,710
+Yes, of course.
+
+87
+00:07:06,030 --> 00:07:06,910
+Woah, really?
+
+88
+00:07:07,970 --> 00:07:10,510
+Yes, this is a gift from me and my friend.
+
+89
+00:07:10,830 --> 00:07:16,530
+Like, we wanna give it off to you so you can share with anyone to have a jiggly bird.
+
+90
+00:07:16,530 --> 00:07:17,370
+Oh my god.
+
+91
+00:07:17,410 --> 00:07:23,470
+Can you give a toggle where, like, they can have, like, some jiggle physics, you know?
+
+92
+00:07:23,790 --> 00:07:26,330
+It will have lots of jiggle physics.
+
+93
+00:07:26,810 --> 00:07:27,670
+Trust me.
+
+94
+00:07:28,210 --> 00:07:29,610
+At least somebody has them.
+
+95
+00:07:29,610 --> 00:07:30,530
+That's the reason we are here.
+
+96
+00:07:30,710 --> 00:07:33,530
+At least someone gets to have them.
+
+97
+00:07:33,910 --> 00:07:34,130
+You know?
+
+98
+00:07:37,910 --> 00:07:40,530
+I'm just standing at first, but now I understand.
+
+99
+00:07:41,310 --> 00:07:43,850
+Oh, yes, because I'm right next to you.
+
+100
+00:07:43,910 --> 00:07:45,890
+Look, I have other physics, okay?
+
+101
+00:07:47,190 --> 00:07:49,530
+Like, it's somewhere else, okay?
+
+102
+00:07:49,950 --> 00:07:51,150
+It's somewhere else.
+
+103
+00:07:52,590 --> 00:07:53,990
+You have other jiggly physics.
+
+104
+00:07:54,150 --> 00:07:55,190
+Guys, no, no, no.
+
+105
+00:07:55,250 --> 00:07:57,550
+Let me move my tablet this way.
+
+106
+00:07:57,910 --> 00:07:58,530
+Let me...
+
+107
+00:08:01,150 --> 00:08:02,630
+So I'm not cum.
+
+108
+00:08:02,950 --> 00:08:08,250
+Let me move my tablet here so you guys don't wanna look at me, guys.
+
+109
+00:08:12,490 --> 00:08:14,770
+You have other jiggly physics.
+
+110
+00:08:15,730 --> 00:08:18,570
+Alright, so how long have you been a rigger?
+
+111
+00:08:19,890 --> 00:08:21,170
+For how long, you ask?
+
+112
+00:08:21,370 --> 00:08:22,970
+Yeah, yeah, how long have you been doing this?
+
+113
+00:08:23,370 --> 00:08:26,630
+Okay, for already, I think, around four years.
+
+114
+00:08:26,810 --> 00:08:30,770
+But when I started, I wasn't taking it so serious, so...
+
+115
+00:08:30,770 --> 00:08:36,350
+I think it's been since two years when I started really doing models for other people.
+
+116
+00:08:37,570 --> 00:08:43,230
+And, yeah, actually, I started rigging because I wanted to get a model for myself.
+
+117
+00:08:43,230 --> 00:08:47,190
+And back then, back in the days, there were a lot of riggers.
+
+118
+00:08:47,470 --> 00:08:49,830
+There was Ivan Vertex, yes.
+
+119
+00:08:49,970 --> 00:08:50,890
+Yeah, yeah, yeah.
+
+120
+00:08:50,970 --> 00:08:53,110
+But not many other people like now.
+
+121
+00:08:55,430 --> 00:08:59,390
+But then I never had time to do my own B2M model, so...
+
+122
+00:09:00,390 --> 00:09:02,530
+Wait, did you not rig yourself?
+
+123
+00:09:03,130 --> 00:09:04,750
+No, not in the start.
+
+124
+00:09:05,230 --> 00:09:07,610
+I never finished any rig for myself.
+
+125
+00:09:08,210 --> 00:09:09,610
+Oh, I see.
+
+126
+00:09:09,690 --> 00:09:12,930
+But you've learned so much and now you're doing it yourself now, too.
+
+127
+00:09:12,930 --> 00:09:13,110
+Yes.
+
+128
+00:09:13,990 --> 00:09:18,390
+I mean, I feel like being your own, like, pop-up has, like, so many advantages.
+
+129
+00:09:18,570 --> 00:09:23,910
+Because you can, like, add, like, you know, if you have an idea, you'll just be like, I'm gonna add this right now or I'm gonna add that right now.
+
+130
+00:09:24,930 --> 00:09:28,250
+It has many positive but also some negative points.
+
+131
+00:09:28,350 --> 00:09:31,370
+Like, if you are a perfectionist, let's say it like this.
+
+132
+00:09:31,450 --> 00:09:34,490
+But, yeah, what I mean is, like, you are never done with your rigging.
+
+133
+00:09:34,630 --> 00:09:36,050
+Like, really, never.
+
+134
+00:09:37,690 --> 00:09:39,450
+I still rig today on my model.
+
+135
+00:09:41,290 --> 00:09:42,650
+So, how many have you done?
+
+136
+00:09:42,910 --> 00:09:43,770
+How many have you done?
+
+137
+00:09:44,870 --> 00:09:45,710
+Oh, Lord.
+
+138
+00:09:45,930 --> 00:09:50,570
+I think... Wait, let me go on my website because I lost the card.
+
+139
+00:09:50,690 --> 00:09:51,290
+Oh, you have your own website?
+
+140
+00:09:51,770 --> 00:09:52,630
+Oh, my gosh.
+
+141
+00:09:53,130 --> 00:09:55,510
+Yeah, it's just memyeye.com.
+
+142
+00:09:55,630 --> 00:09:56,850
+So, it's easy to find.
+
+143
+00:09:57,270 --> 00:09:59,070
+My clients are listed there, but let me...
+
+144
+00:09:59,070 --> 00:10:04,550
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14...
+
+145
+00:10:05,630 --> 00:10:10,130
+I think about now, there aren't everyone listed.
+
+146
+00:10:10,410 --> 00:10:12,210
+So, like, 30 models so far.
+
+147
+00:10:13,630 --> 00:10:14,250
+Yeah.
+
+148
+00:10:14,670 --> 00:10:15,730
+Oh, my God.
+
+149
+00:10:15,810 --> 00:10:17,030
+Out of how many years?
+
+150
+00:10:18,730 --> 00:10:22,830
+Actually, for 4 years, but like 2 and 3 years.
+
+151
+00:10:23,150 --> 00:10:24,130
+Oh, my God.
+
+152
+00:10:24,250 --> 00:10:26,890
+That's a lot of models.
+
+153
+00:10:27,030 --> 00:10:28,230
+That's a lot of skinsuits.
+
+154
+00:10:28,250 --> 00:10:29,130
+Yeah, I'm like a bunny.
+
+155
+00:10:31,110 --> 00:10:32,350
+You know...
+
+156
+00:10:34,550 --> 00:10:35,790
+Oh, my God.
+
+157
+00:10:36,330 --> 00:10:36,930
+Whoa.
+
+158
+00:10:37,650 --> 00:10:38,990
+Are you pregnant right now?
+
+159
+00:10:40,330 --> 00:10:40,930
+Always.
+
+160
+00:10:41,250 --> 00:10:42,150
+There is no time when I'm not.
+
+161
+00:10:42,150 --> 00:10:43,850
+Oh, you're never not pregnant.
+
+162
+00:10:44,050 --> 00:10:44,510
+Okay.
+
+163
+00:10:44,930 --> 00:10:46,150
+Oh, my God.
+
+164
+00:10:46,210 --> 00:10:46,690
+You're never...
+
+165
+00:10:49,350 --> 00:10:50,490
+Oh, man.
+
+166
+00:10:50,710 --> 00:10:52,050
+Let me move the tablet back.
+
+167
+00:10:52,150 --> 00:10:53,650
+Now I know why it's like that.
+
+168
+00:10:57,670 --> 00:10:58,870
+It's always...
+
+169
+00:11:00,610 --> 00:11:01,630
+It's a special...
+
+170
+00:11:03,050 --> 00:11:08,330
+Sometimes I'm questioning myself why do I have fox ears when bunny ears...
+
+171
+00:11:08,330 --> 00:11:09,110
+You should be a rabbit.
+
+172
+00:11:09,310 --> 00:11:11,470
+I mean, you can make that your new... another outfit.
+
+173
+00:11:12,110 --> 00:11:16,550
+I was thinking about it because it would truly fit.
+
+174
+00:11:18,930 --> 00:11:20,190
+Oh, my God.
+
+175
+00:11:20,650 --> 00:11:21,070
+All right.
+
+176
+00:11:21,110 --> 00:11:24,490
+So, how do you first... What do you first do when you...
+
+177
+00:11:24,490 --> 00:11:24,790
+Okay.
+
+178
+00:11:24,830 --> 00:11:26,390
+What we are first doing...
+
+179
+00:11:26,390 --> 00:11:31,950
+I just tried a little bit around before we start the stream just to look what I'm aiming for.
+
+180
+00:11:32,310 --> 00:11:35,310
+And I can show you what I'm aiming for.
+
+181
+00:11:35,310 --> 00:11:36,750
+I will redo some stuff.
+
+182
+00:11:36,990 --> 00:11:39,250
+But we have here some jiggly things.
+
+183
+00:11:39,250 --> 00:11:40,570
+We will adjust that.
+
+184
+00:11:41,590 --> 00:11:46,490
+But I was thinking of going for this one now.
+
+185
+00:11:46,610 --> 00:11:50,910
+We are going to delete everything and we do some parts.
+
+186
+00:11:50,910 --> 00:11:56,950
+I was trying around but first of all, we start with the dragoon's eyes.
+
+187
+00:11:57,210 --> 00:11:58,290
+So, they can blink.
+
+188
+00:11:58,450 --> 00:11:59,270
+Like here, this one.
+
+189
+00:11:59,690 --> 00:12:00,510
+Oh, my God.
+
+190
+00:12:00,590 --> 00:12:01,890
+I'm already so lost.
+
+191
+00:12:01,990 --> 00:12:03,950
+There are so many texts on the screen.
+
+192
+00:12:07,370 --> 00:12:08,650
+Oh, my God.
+
+193
+00:12:08,770 --> 00:12:09,850
+Oh, my... No, no.
+
+194
+00:12:09,870 --> 00:12:10,770
+Keep it at the top.
+
+195
+00:12:11,070 --> 00:12:11,290
+Yeah, yeah.
+
+196
+00:12:11,290 --> 00:12:12,090
+Leave it up here.
+
+197
+00:12:12,210 --> 00:12:12,550
+No, no.
+
+198
+00:12:12,570 --> 00:12:13,250
+I like that.
+
+199
+00:12:13,630 --> 00:12:14,030
+No, no, no.
+
+200
+00:12:14,050 --> 00:12:14,930
+We should... Yeah, yeah.
+
+201
+00:12:16,650 --> 00:12:18,130
+Let me help this one.
+
+202
+00:12:21,010 --> 00:12:22,210
+Yeah, no, no.
+
+203
+00:12:22,290 --> 00:12:23,150
+That's perfect.
+
+204
+00:12:23,810 --> 00:12:25,830
+Guys, that's actually perfect.
+
+205
+00:12:26,170 --> 00:12:28,270
+Yeah, we kind of have to like this.
+
+206
+00:12:29,970 --> 00:12:32,870
+That's my special dragoon right there.
+
+207
+00:12:33,070 --> 00:12:33,830
+He's special.
+
+208
+00:12:35,090 --> 00:12:37,270
+A very special fellow.
+
+209
+00:12:37,490 --> 00:12:39,630
+He's my very special little guy.
+
+210
+00:12:40,230 --> 00:12:42,030
+Mama said I'm special.
+
+211
+00:12:44,670 --> 00:12:46,630
+I really love those eyes now.
+
+212
+00:12:46,730 --> 00:12:48,530
+This is a very amazing idea.
+
+213
+00:12:50,910 --> 00:12:52,910
+What we also can do is, of course...
+
+214
+00:12:54,530 --> 00:12:56,910
+When he goes down...
+
+215
+00:12:58,270 --> 00:13:01,790
+What we are going to add is like a teabag.
+
+216
+00:13:01,870 --> 00:13:04,130
+You can imagine like a small teabag.
+
+217
+00:13:04,410 --> 00:13:06,130
+Oh, that's so cool.
+
+218
+00:13:07,990 --> 00:13:08,550
+So...
+
+219
+00:13:08,550 --> 00:13:10,050
+Like a little teabag, yeah.
+
+220
+00:13:10,930 --> 00:13:11,890
+Oh, my God.
+
+221
+00:13:11,930 --> 00:13:12,770
+Yeah, it's cool.
+
+222
+00:13:12,770 --> 00:13:12,990
+Yes!
+
+223
+00:13:14,830 --> 00:13:18,770
+And then, whenever they do something nicer...
+
+224
+00:13:19,390 --> 00:13:20,830
+Maybe Marvel Rivals, you know?
+
+225
+00:13:21,190 --> 00:13:22,610
+They can do something like that.
+
+226
+00:13:23,210 --> 00:13:24,070
+It's so good.
+
+227
+00:13:24,350 --> 00:13:25,310
+I love that.
+
+228
+00:13:25,350 --> 00:13:25,710
+Oh, my God.
+
+229
+00:13:25,710 --> 00:13:26,350
+You can just do that?
+
+230
+00:13:26,390 --> 00:13:27,390
+That's so fast.
+
+231
+00:13:28,110 --> 00:13:29,570
+That's... Oh, my God.
+
+232
+00:13:29,870 --> 00:13:30,970
+That's a professional right there.
+
+233
+00:13:31,030 --> 00:13:33,090
+She did that in like 5-10 seconds.
+
+234
+00:13:33,170 --> 00:13:34,010
+Like, what the hell?
+
+235
+00:13:34,790 --> 00:13:37,770
+This is so like... And then, imagine you do the teabag.
+
+236
+00:13:37,770 --> 00:13:40,090
+And that's a...
+
+237
+00:13:42,890 --> 00:13:43,450
+Imagine...
+
+238
+00:13:43,450 --> 00:13:46,130
+That's what disrespect would be like.
+
+239
+00:13:46,530 --> 00:13:47,570
+It's so beautiful.
+
+240
+00:13:48,090 --> 00:13:48,470
+Oh, my God.
+
+241
+00:13:48,490 --> 00:13:48,670
+Wait.
+
+242
+00:13:48,790 --> 00:13:50,930
+You should wag his tail too, right?
+
+243
+00:13:51,130 --> 00:13:51,630
+Yes!
+
+244
+00:13:51,750 --> 00:13:53,630
+That's of course possible too.
+
+245
+00:13:53,850 --> 00:13:55,950
+We have the tail separator too.
+
+246
+00:13:56,190 --> 00:13:58,790
+You can have like a wiggle here.
+
+247
+00:14:00,130 --> 00:14:02,390
+But I will add some physics to it.
+
+248
+00:14:02,650 --> 00:14:03,950
+So, let me show you.
+
+249
+00:14:04,030 --> 00:14:04,870
+Tail wag.
+
+250
+00:14:05,790 --> 00:14:10,390
+We add this as like the automatic thing here.
+
+251
+00:14:10,690 --> 00:14:12,390
+So, we don't add anything on here.
+
+252
+00:14:12,490 --> 00:14:15,930
+But then, we add the tail wag physics to make it more jiggle.
+
+253
+00:14:16,090 --> 00:14:17,330
+We love the jiggle, you know?
+
+254
+00:14:18,130 --> 00:14:19,930
+Oh, you can jiggle it too?
+
+255
+00:14:20,990 --> 00:14:21,950
+Yes, of course.
+
+256
+00:14:22,430 --> 00:14:22,990
+Oh, my God.
+
+257
+00:14:23,070 --> 00:14:23,230
+Wait.
+
+258
+00:14:23,310 --> 00:14:25,230
+Can like I have him like...
+
+259
+00:14:25,230 --> 00:14:28,870
+Can I have the drag... Can we have a toggle where the dragoon holds like two basketballs?
+
+260
+00:14:29,570 --> 00:14:31,530
+And then, the basketballs are made of jello.
+
+261
+00:14:31,530 --> 00:14:34,930
+So, then when he goes up and down, it's like jiggle physics.
+
+262
+00:14:35,710 --> 00:14:36,930
+I'm sure it's possible.
+
+263
+00:14:37,070 --> 00:14:41,190
+You can send me over what you need and I can finish it after the stream.
+
+264
+00:14:42,030 --> 00:14:42,550
+No, no, no.
+
+265
+00:14:42,590 --> 00:14:46,710
+We can just get like a PNG of a basketball.
+
+266
+00:14:47,350 --> 00:14:48,150
+And then...
+
+267
+00:14:48,810 --> 00:14:49,930
+We don't need a draft.
+
+268
+00:14:50,250 --> 00:14:54,370
+Let's get a free stock photo of a basketball.
+
+269
+00:14:55,190 --> 00:14:58,990
+And then just copy and paste it into the arms.
+
+270
+00:14:58,990 --> 00:15:03,250
+And then we just make it like... It's like a water... Oh, it's like a water balloon.
+
+271
+00:15:03,730 --> 00:15:04,250
+Oh, wait.
+
+272
+00:15:04,330 --> 00:15:05,330
+No, a water balloon.
+
+273
+00:15:05,830 --> 00:15:06,810
+Yeah, yeah, yeah, yeah.
+
+274
+00:15:07,030 --> 00:15:10,030
+And then the dragoon will hold like water balloons.
+
+275
+00:15:10,230 --> 00:15:12,050
+Oh, we get PNG of a water balloon.
+
+276
+00:15:12,670 --> 00:15:13,110
+And...
+
+277
+00:15:15,790 --> 00:15:16,870
+Oh, my God.
+
+278
+00:15:17,190 --> 00:15:19,550
+This is not... Is this not what you wanted?
+
+279
+00:15:20,170 --> 00:15:22,350
+Is this...
+
+280
+00:15:24,330 --> 00:15:24,770
+Hilarious.
+
+281
+00:15:25,110 --> 00:15:27,370
+You have to... You have crazy ideas.
+
+282
+00:15:27,370 --> 00:15:29,970
+Yeah, yeah, like... Yeah, we're ballers, guys.
+
+283
+00:15:32,650 --> 00:15:33,550
+Alright, okay.
+
+284
+00:15:35,690 --> 00:15:41,290
+I'm going to look for... If you're done with the jiggle physics, we can add the basketball into...
+
+285
+00:15:41,290 --> 00:15:41,710
+Oh, wait, wait, no.
+
+286
+00:15:41,730 --> 00:15:42,870
+We should do water balloons.
+
+287
+00:15:43,130 --> 00:15:43,930
+It makes it more natural.
+
+288
+00:15:43,950 --> 00:15:44,430
+Oh, water balloons.
+
+289
+00:15:44,610 --> 00:15:44,910
+Okay.
+
+290
+00:15:45,110 --> 00:15:46,170
+That makes it... Whoa!
+
+291
+00:15:46,330 --> 00:15:48,730
+It's so sm... What the... Wait, what happened?
+
+292
+00:15:48,790 --> 00:15:49,610
+What did you do?
+
+293
+00:15:51,410 --> 00:15:55,370
+I just looked away one second and now the tail's wagging.
+
+294
+00:15:56,850 --> 00:15:59,370
+I was just using like a path deformer.
+
+295
+00:15:59,410 --> 00:16:00,790
+You can...
+
+296
+00:16:00,790 --> 00:16:03,670
+Click on this and then you can make a path deformer.
+
+297
+00:16:04,030 --> 00:16:06,250
+Wait, can you make it into a cool ass?
+
+298
+00:16:07,170 --> 00:16:08,950
+Can you... Actually, can you make it into a...
+
+299
+00:16:08,950 --> 00:16:09,770
+Oh, my God.
+
+300
+00:16:09,810 --> 00:16:10,330
+Wait, no.
+
+301
+00:16:10,470 --> 00:16:10,770
+Yes.
+
+302
+00:16:11,190 --> 00:16:12,570
+Can you make it into a cool ass?
+
+303
+00:16:15,830 --> 00:16:16,230
+Like...
+
+304
+00:16:17,090 --> 00:16:18,830
+You're insulting like...
+
+305
+00:16:18,830 --> 00:16:20,230
+Yeah, yeah, yeah, like an ass.
+
+306
+00:16:20,730 --> 00:16:21,370
+Just make it...
+
+307
+00:16:23,990 --> 00:16:24,830
+Wait, no.
+
+308
+00:16:25,330 --> 00:16:29,090
+Wait, I want him... I want the dragon to be able to elongate their tails.
+
+309
+00:16:30,150 --> 00:16:31,430
+Wait, wait, wait, wait, wait.
+
+310
+00:16:37,930 --> 00:16:40,670
+You have too much of...
+
+311
+00:16:40,670 --> 00:16:42,270
+Oh, yeah, yeah, yeah, yeah, yeah.
+
+312
+00:16:42,410 --> 00:16:46,370
+You should be able to make their tail longer as a toggle when they're excited.
+
+313
+00:16:47,550 --> 00:16:47,970
+Yes.
+
+314
+00:16:48,170 --> 00:16:48,510
+Yeah, yeah, yeah.
+
+315
+00:16:48,510 --> 00:16:49,250
+Wait, what?
+
+316
+00:16:50,650 --> 00:16:51,130
+What?
+
+317
+00:16:51,670 --> 00:16:53,650
+You told me, like, no.
+
+318
+00:16:53,870 --> 00:16:54,650
+Yeah, yeah.
+
+319
+00:16:56,030 --> 00:16:57,190
+How do you do that?
+
+320
+00:16:57,510 --> 00:16:58,570
+How do you do that?
+
+321
+00:16:58,590 --> 00:16:59,810
+No, no, it'll be funny.
+
+322
+00:17:00,070 --> 00:17:00,450
+It'll be...
+
+323
+00:17:00,870 --> 00:17:03,250
+Okay, we can make it like tail...
+
+324
+00:17:03,830 --> 00:17:04,330
+Yeah, yeah.
+
+325
+00:17:04,990 --> 00:17:05,470
+Excited.
+
+326
+00:17:05,870 --> 00:17:07,450
+And let me make it as a blend shape.
+
+327
+00:17:07,690 --> 00:17:07,910
+Yeah.
+
+328
+00:17:08,170 --> 00:17:10,090
+And then just take this.
+
+329
+00:17:10,270 --> 00:17:11,570
+Oh, wait, let me...
+
+330
+00:17:11,570 --> 00:17:12,670
+Wait, this is a zero.
+
+331
+00:17:13,230 --> 00:17:14,270
+Oh, my God.
+
+332
+00:17:14,350 --> 00:17:16,830
+Wait, maybe I should be a rigger, guys.
+
+333
+00:17:17,890 --> 00:17:18,370
+Maybe...
+
+334
+00:17:18,370 --> 00:17:20,310
+Oh, my God, guys.
+
+335
+00:17:21,110 --> 00:17:24,290
+If I knew how to do that, I'd do that every...
+
+336
+00:17:24,290 --> 00:17:27,470
+If I knew how to do that, I'd rig these every day.
+
+337
+00:17:30,290 --> 00:17:32,170
+Yeah, let me make it more pretty here.
+
+338
+00:17:32,470 --> 00:17:34,150
+Personal request.
+
+339
+00:17:36,990 --> 00:17:39,070
+So, this is this excited tail.
+
+340
+00:17:39,250 --> 00:17:40,790
+Oh, my God, it's...
+
+341
+00:17:43,070 --> 00:17:43,570
+Like...
+
+342
+00:17:43,570 --> 00:17:44,470
+Oh, I'm happy.
+
+343
+00:17:44,470 --> 00:17:44,590
+See?
+
+344
+00:17:47,650 --> 00:17:49,330
+I'm so happy.
+
+345
+00:17:54,050 --> 00:17:54,570
+Nice.
+
+346
+00:17:56,750 --> 00:17:57,490
+That's great.
+
+347
+00:17:57,490 --> 00:17:58,450
+This is celerial.
+
+348
+00:17:58,750 --> 00:18:01,870
+Can the wagon tail, when the tail is long?
+
+349
+00:18:02,750 --> 00:18:03,130
+Can you wagon?
+
+350
+00:18:03,130 --> 00:18:04,330
+I can make it work.
+
+351
+00:18:04,530 --> 00:18:08,050
+Actually, this is the cool thing about blend shapes, actually.
+
+352
+00:18:08,270 --> 00:18:11,130
+Because I can use a blend shape right now.
+
+353
+00:18:11,210 --> 00:18:13,410
+The physics from this one will work on this.
+
+354
+00:18:13,410 --> 00:18:19,110
+But if I make, like, a tail wag long, you see?
+
+355
+00:18:19,270 --> 00:18:19,570
+Yeah.
+
+356
+00:18:20,090 --> 00:18:24,250
+I can use it for this state of tail.
+
+357
+00:18:25,130 --> 00:18:26,690
+And then we can...
+
+358
+00:18:26,690 --> 00:18:28,150
+I need to just...
+
+359
+00:18:28,150 --> 00:18:29,890
+Oh, my God, it's beautiful.
+
+360
+00:18:31,090 --> 00:18:34,410
+When the dragoon is happy to see...
+
+361
+00:18:35,030 --> 00:18:37,190
+I only need to get my life...
+
+362
+00:18:37,190 --> 00:18:39,070
+Oh, it was on a different monitor.
+
+363
+00:18:39,230 --> 00:18:41,490
+This is why I didn't see my...
+
+364
+00:18:42,890 --> 00:18:43,730
+Okay, so...
+
+365
+00:18:44,010 --> 00:18:45,690
+We add this point here.
+
+366
+00:18:46,130 --> 00:18:46,390
+Yeah.
+
+367
+00:18:48,690 --> 00:18:50,290
+If Live2D lets me.
+
+368
+00:18:50,910 --> 00:18:51,230
+Here.
+
+369
+00:18:52,250 --> 00:18:53,510
+Change this to this.
+
+370
+00:18:55,810 --> 00:18:56,210
+Whoops.
+
+371
+00:18:56,850 --> 00:18:57,090
+Here.
+
+372
+00:18:57,510 --> 00:18:58,650
+And then we can...
+
+373
+00:18:58,650 --> 00:19:02,470
+Oh, my God, look how flexible your tails are.
+
+374
+00:19:04,250 --> 00:19:05,830
+They are super flexible.
+
+375
+00:19:06,210 --> 00:19:07,610
+Oh, my God, look at...
+
+376
+00:19:07,610 --> 00:19:09,570
+Oh, my God, the tail can twerk on its own.
+
+377
+00:19:09,690 --> 00:19:10,470
+Look at it go.
+
+378
+00:19:12,990 --> 00:19:13,550
+Wow.
+
+379
+00:19:17,150 --> 00:19:20,750
+You can do so many forms with the tail.
+
+380
+00:19:21,030 --> 00:19:21,970
+And this is so funny.
+
+381
+00:19:23,170 --> 00:19:24,770
+What we want to have...
+
+382
+00:19:24,770 --> 00:19:27,030
+We need a specific movement for it.
+
+383
+00:19:27,070 --> 00:19:30,970
+So it doesn't deform weirdly with the physics in the end.
+
+384
+00:19:31,290 --> 00:19:34,150
+So we just do a tiny bit.
+
+385
+00:19:34,410 --> 00:19:34,670
+Okay.
+
+386
+00:19:35,150 --> 00:19:40,590
+You always need to think about that you use the power arm and not be on the main.
+
+387
+00:19:40,590 --> 00:19:41,650
+Yeah.
+
+388
+00:19:42,110 --> 00:19:43,430
+It's like...
+
+389
+00:19:43,430 --> 00:19:44,850
+Stop drawing.
+
+390
+00:19:45,210 --> 00:19:45,550
+Why?
+
+391
+00:19:45,830 --> 00:19:47,010
+You are on the same layer.
+
+392
+00:19:47,770 --> 00:19:48,890
+This is like...
+
+393
+00:19:48,890 --> 00:19:51,210
+This can happen actually with Live2D too.
+
+394
+00:19:51,570 --> 00:19:54,210
+If you don't change the power arm.
+
+395
+00:19:54,730 --> 00:19:56,790
+Okay, so we have this for the longer tail.
+
+396
+00:19:57,510 --> 00:19:57,850
+Now...
+
+397
+00:19:58,190 --> 00:19:58,530
+Wait.
+
+398
+00:19:58,830 --> 00:20:00,630
+We go to the...
+
+399
+00:20:01,450 --> 00:20:03,870
+To the magic...
+
+400
+00:20:03,870 --> 00:20:04,750
+Wait.
+
+401
+00:20:05,090 --> 00:20:05,210
+Here.
+
+402
+00:20:05,890 --> 00:20:07,230
+Limit blend shapes.
+
+403
+00:20:08,010 --> 00:20:11,350
+And we have tail long for a sec.
+
+404
+00:20:11,870 --> 00:20:13,030
+We want to have it here.
+
+405
+00:20:14,730 --> 00:20:17,810
+Look at this magic happening in front of us.
+
+406
+00:20:18,690 --> 00:20:21,130
+Like now we don't want that tail long.
+
+407
+00:20:21,310 --> 00:20:22,250
+Oh my god.
+
+408
+00:20:22,350 --> 00:20:22,810
+Look at it.
+
+409
+00:20:22,890 --> 00:20:24,330
+It's like a little dog tail.
+
+410
+00:20:25,030 --> 00:20:26,810
+It looks really weird.
+
+411
+00:20:27,550 --> 00:20:29,430
+It's like a little dog tail.
+
+412
+00:20:30,410 --> 00:20:30,670
+Wait.
+
+413
+00:20:32,170 --> 00:20:32,610
+Oh no.
+
+414
+00:20:33,330 --> 00:20:34,710
+I forgot how to rig.
+
+415
+00:20:35,330 --> 00:20:36,250
+What's this one?
+
+416
+00:20:37,090 --> 00:20:38,290
+I swear to god.
+
+417
+00:20:38,790 --> 00:20:40,810
+This is always me when I'm rigging.
+
+418
+00:20:41,330 --> 00:20:43,470
+There's so many options to pick from.
+
+419
+00:20:44,030 --> 00:20:45,010
+Wait a minute.
+
+420
+00:20:45,810 --> 00:20:46,950
+I have the better idea.
+
+421
+00:20:47,050 --> 00:20:48,990
+If I'm too lazy to do things like this.
+
+422
+00:20:49,110 --> 00:20:49,350
+Yeah.
+
+423
+00:20:49,590 --> 00:20:51,830
+To do some different stuff.
+
+424
+00:20:52,090 --> 00:20:55,570
+I just copy paste the tails and make a toggle with tail switch.
+
+425
+00:20:56,450 --> 00:20:59,850
+And then we have one toggle that works with the...
+
+426
+00:20:59,850 --> 00:21:00,130
+Wait.
+
+427
+00:21:00,390 --> 00:21:02,350
+So we have here tail long.
+
+428
+00:21:06,190 --> 00:21:08,110
+And we make a toggle here.
+
+429
+00:21:08,550 --> 00:21:10,450
+Tail long.
+
+430
+00:21:11,630 --> 00:21:13,430
+This is just for a toggle then.
+
+431
+00:21:13,850 --> 00:21:15,450
+So the tail switch to...
+
+432
+00:21:15,450 --> 00:21:15,950
+Oh my god.
+
+433
+00:21:16,050 --> 00:21:17,130
+Now you have two tails.
+
+434
+00:21:18,230 --> 00:21:19,130
+Oh lord.
+
+435
+00:21:19,230 --> 00:21:19,930
+Oh my god.
+
+436
+00:21:19,930 --> 00:21:21,470
+You're in echidna now.
+
+437
+00:21:21,870 --> 00:21:22,370
+Oh my god.
+
+438
+00:21:22,390 --> 00:21:22,490
+Wait.
+
+439
+00:21:22,530 --> 00:21:23,510
+I want that as a toggle.
+
+440
+00:21:25,490 --> 00:21:27,030
+Now you're in echidna.
+
+441
+00:21:27,310 --> 00:21:29,670
+But like for the tail instead of the other part.
+
+442
+00:21:30,490 --> 00:21:32,970
+Looks like a scissor.
+
+443
+00:21:34,890 --> 00:21:35,450
+Imagine.
+
+444
+00:21:39,310 --> 00:21:40,650
+Oh my god.
+
+445
+00:21:41,590 --> 00:21:43,410
+You're like Knuckles, guys.
+
+446
+00:21:43,870 --> 00:21:44,990
+You're just like Knuckles.
+
+447
+00:21:45,530 --> 00:21:46,630
+You guys like Sonic, right?
+
+448
+00:21:47,750 --> 00:21:48,710
+I like Sonic.
+
+449
+00:21:49,110 --> 00:21:49,690
+Wait, wait.
+
+450
+00:21:49,830 --> 00:21:50,370
+Yeah, yeah.
+
+451
+00:21:50,410 --> 00:21:51,290
+We should...
+
+452
+00:21:51,290 --> 00:21:53,570
+I want that as a toggle, a second tail.
+
+453
+00:21:54,390 --> 00:21:55,370
+The second tail.
+
+454
+00:21:55,470 --> 00:21:56,210
+Okay, okay.
+
+455
+00:21:56,330 --> 00:21:56,470
+Wait.
+
+456
+00:21:56,470 --> 00:21:59,050
+Can we name this Tail 2?
+
+457
+00:22:00,410 --> 00:22:02,590
+Then let's have like Tail 2.
+
+458
+00:22:03,190 --> 00:22:05,610
+I'll add later the Tail Excited.
+
+459
+00:22:05,830 --> 00:22:06,930
+I mean...
+
+460
+00:22:06,930 --> 00:22:07,700
+Oh, Tail Excited?
+
+461
+00:22:08,150 --> 00:22:08,330
+Yeah.
+
+462
+00:22:09,270 --> 00:22:10,290
+So, like...
+
+463
+00:22:10,290 --> 00:22:14,770
+What if we put a knife into his hand?
+
+464
+00:22:14,910 --> 00:22:15,450
+He will be like...
+
+465
+00:22:15,450 --> 00:22:16,170
+Oh, yeah.
+
+466
+00:22:16,450 --> 00:22:16,810
+What?
+
+467
+00:22:18,130 --> 00:22:18,530
+Oh, yeah.
+
+468
+00:22:18,530 --> 00:22:19,230
+Holding a knife.
+
+469
+00:22:19,370 --> 00:22:19,910
+Yeah, yeah, yeah.
+
+470
+00:22:20,090 --> 00:22:22,030
+But like water balloons first, of course.
+
+471
+00:22:22,510 --> 00:22:22,970
+Water balloons.
+
+472
+00:22:24,870 --> 00:22:25,950
+Angry chicka.
+
+473
+00:22:26,470 --> 00:22:28,250
+We can make it angry too.
+
+474
+00:22:28,870 --> 00:22:31,770
+Let's first focus on the physics and then on the toggles.
+
+475
+00:22:31,770 --> 00:22:32,250
+Okay, true, true.
+
+476
+00:22:32,270 --> 00:22:33,150
+That's more important.
+
+477
+00:22:33,310 --> 00:22:33,570
+Sorry.
+
+478
+00:22:33,930 --> 00:22:34,630
+We got distracted there, guys.
+
+479
+00:22:34,630 --> 00:22:35,710
+You need to jiggle first.
+
+480
+00:22:35,990 --> 00:22:36,870
+Yeah, yeah, yeah.
+
+481
+00:22:37,610 --> 00:22:38,510
+Sorry, guys.
+
+482
+00:22:38,590 --> 00:22:40,950
+We got very distracted over other things.
+
+483
+00:22:42,690 --> 00:22:43,250
+Sorry.
+
+484
+00:22:43,630 --> 00:22:45,730
+Our priorities were very different.
+
+485
+00:22:46,190 --> 00:22:49,750
+Let me grab some water balloons stock photos real quick.
+
+486
+00:22:52,650 --> 00:22:55,130
+Water balloons for us.
+
+487
+00:22:55,130 --> 00:22:57,250
+Okay, so what are we doing next?
+
+488
+00:22:58,190 --> 00:22:59,190
+We are...
+
+489
+00:22:59,190 --> 00:23:01,370
+It is like looking up thing.
+
+490
+00:23:01,470 --> 00:23:04,470
+Because right now it goes down and now it goes up.
+
+491
+00:23:05,050 --> 00:23:08,530
+And of course we need some physics for up and down physics.
+
+492
+00:23:08,690 --> 00:23:11,290
+Because it would be boring if it doesn't have any physics.
+
+493
+00:23:11,610 --> 00:23:12,130
+Yeah, yeah.
+
+494
+00:23:12,170 --> 00:23:12,770
+That's true.
+
+495
+00:23:14,310 --> 00:23:17,590
+Then we add some physics for going down.
+
+496
+00:23:18,110 --> 00:23:19,320
+Then for going up.
+
+497
+00:23:20,040 --> 00:23:26,420
+So what I like to do for going up and down is adding some like animated feature.
+
+498
+00:23:26,720 --> 00:23:28,580
+Like if it goes down, it stretches.
+
+499
+00:23:28,820 --> 00:23:30,140
+Like it goes a little bit...
+
+500
+00:23:30,140 --> 00:23:30,720
+Yeah, yeah.
+
+501
+00:23:30,920 --> 00:23:32,020
+That would make sense.
+
+502
+00:23:33,100 --> 00:23:34,400
+That makes sense.
+
+503
+00:23:37,070 --> 00:23:44,420
+And then of course what I like to do for the second part is focusing more on the body related physics.
+
+504
+00:23:44,480 --> 00:23:46,220
+Because we want to keep it simple here.
+
+505
+00:23:48,020 --> 00:23:48,500
+So...
+
+506
+00:23:48,500 --> 00:23:50,320
+We have this one here more.
+
+507
+00:23:51,000 --> 00:23:52,220
+We add the tummy look.
+
+508
+00:23:52,460 --> 00:23:52,640
+Oops.
+
+509
+00:23:54,100 --> 00:23:55,040
+Oh my god.
+
+510
+00:23:56,100 --> 00:23:57,180
+Because right now...
+
+511
+00:23:57,180 --> 00:24:00,280
+Oh my god, you're so jiggly.
+
+512
+00:24:01,520 --> 00:24:01,960
+Oh my god.
+
+513
+00:24:01,960 --> 00:24:02,940
+We are not done.
+
+514
+00:24:03,020 --> 00:24:04,000
+We are not here yet.
+
+515
+00:24:04,120 --> 00:24:05,920
+There comes lots of more jiggly physics.
+
+516
+00:24:07,060 --> 00:24:08,900
+Oh my god, you're so...
+
+517
+00:24:08,900 --> 00:24:10,200
+You're so jiggly.
+
+518
+00:24:11,080 --> 00:24:12,140
+I think like...
+
+519
+00:24:12,140 --> 00:24:14,740
+Okay, when we turn to the right and we turn to the left...
+
+520
+00:24:14,740 --> 00:24:17,000
+You should be able to see a little bit of the butt.
+
+521
+00:24:21,400 --> 00:24:22,100
+You what?
+
+522
+00:24:22,400 --> 00:24:24,880
+Okay, so how far can he turn right or left?
+
+523
+00:24:25,120 --> 00:24:26,420
+So you know how like...
+
+524
+00:24:26,420 --> 00:24:28,120
+Okay, so like you know how like...
+
+525
+00:24:28,120 --> 00:24:30,020
+You know like the little...
+
+526
+00:24:30,020 --> 00:24:31,680
+When you turn to the left or right...
+
+527
+00:24:31,680 --> 00:24:32,940
+Just a little the butt is showing.
+
+528
+00:24:33,460 --> 00:24:35,460
+So like you know like a little bit of the ass.
+
+529
+00:24:36,840 --> 00:24:37,240
+And...
+
+530
+00:24:37,720 --> 00:24:39,320
+I mean we could get the...
+
+531
+00:24:39,320 --> 00:24:40,980
+Get the cheeks there, you know?
+
+532
+00:24:41,800 --> 00:24:42,600
+Oh my god.
+
+533
+00:24:42,600 --> 00:24:43,880
+Just like a little bit.
+
+534
+00:24:44,000 --> 00:24:46,940
+You know like when you turn left and right just a little bit.
+
+535
+00:24:47,020 --> 00:24:48,340
+Just the right cheek there.
+
+536
+00:24:48,340 --> 00:24:53,860
+Just a little bit of a cake.
+
+537
+00:24:54,660 --> 00:24:56,040
+You know like Venom.
+
+538
+00:24:56,180 --> 00:24:58,140
+Oh, Venom!
+
+539
+00:24:58,500 --> 00:24:59,300
+Yeah, yeah.
+
+540
+00:24:59,360 --> 00:25:00,220
+Have you ever seen...
+
+541
+00:25:00,220 --> 00:25:01,560
+Yeah, just like Venom's cakes.
+
+542
+00:25:04,460 --> 00:25:07,060
+Just photoshop a Venom's ass.
+
+543
+00:25:07,100 --> 00:25:07,840
+Oh my god.
+
+544
+00:25:08,180 --> 00:25:11,160
+Oh my god, we can photoshop Venom's cake into...
+
+545
+00:25:11,160 --> 00:25:13,700
+Oh my... See, we're cooking, guys.
+
+546
+00:25:13,840 --> 00:25:14,360
+We're cooking.
+
+547
+00:25:14,560 --> 00:25:17,240
+We're gonna give you Venom's implants.
+
+548
+00:25:19,140 --> 00:25:22,200
+Can you see how cute this little guy is?
+
+549
+00:25:22,340 --> 00:25:24,100
+Oh my god, it's so cute.
+
+550
+00:25:24,680 --> 00:25:26,600
+Wait, should the eyes also like...
+
+551
+00:25:26,600 --> 00:25:28,260
+Like squish a little bit there?
+
+552
+00:25:28,940 --> 00:25:31,820
+Oh yeah, let's add the squish for the eyes.
+
+553
+00:25:32,180 --> 00:25:32,420
+Yeah, yeah.
+
+554
+00:25:33,600 --> 00:25:35,400
+Let me make it separate.
+
+555
+00:25:36,040 --> 00:25:37,300
+Eyes squish for...
+
+556
+00:25:38,000 --> 00:25:39,020
+Oh, it's...
+
+557
+00:25:39,800 --> 00:25:41,080
+Okay, yeah.
+
+558
+00:25:41,820 --> 00:25:42,460
+Eye...
+
+559
+00:25:43,500 --> 00:25:44,140
+Squish.
+
+560
+00:25:45,540 --> 00:25:46,800
+I'm gonna be called Eye Squish.
+
+561
+00:25:48,340 --> 00:25:49,580
+Let's make it here.
+
+562
+00:25:51,420 --> 00:25:51,820
+Oh yeah.
+
+563
+00:25:52,900 --> 00:25:54,520
+Guys, we're learning so much.
+
+564
+00:25:55,560 --> 00:25:57,040
+Can you stop me from cooking?
+
+565
+00:25:57,160 --> 00:25:59,800
+I'm making you guys even better.
+
+566
+00:26:02,100 --> 00:26:04,700
+I'm improving the...
+
+567
+00:26:04,700 --> 00:26:07,560
+I'm making the ideal dragoon.
+
+568
+00:26:08,620 --> 00:26:13,800
+It's like how Adam is like the peak human design.
+
+569
+00:26:14,280 --> 00:26:16,960
+I'm creating peak dragoon design right there.
+
+570
+00:26:17,220 --> 00:26:18,220
+The perfect specimen.
+
+571
+00:26:19,440 --> 00:26:24,460
+We're going to add some eye physics, like the eye jiggle on the eye opening thing.
+
+572
+00:26:24,620 --> 00:26:26,900
+Because I think this could be a little bit cuter than...
+
+573
+00:26:27,400 --> 00:26:33,820
+I think if we put it on this one here, it could distract a little bit on the body self now.
+
+574
+00:26:33,820 --> 00:26:34,860
+Yeah, yeah.
+
+575
+00:26:35,260 --> 00:26:38,360
+The mouth, the face area is like...
+
+576
+00:26:38,360 --> 00:26:41,440
+Feels weird a little bit when he goes up and down.
+
+577
+00:26:42,120 --> 00:26:46,300
+It looks very like he's only moving his head, but we are...
+
+578
+00:26:46,300 --> 00:26:49,920
+Missing still the other part here that moves a bit with it down.
+
+579
+00:26:50,280 --> 00:26:51,820
+To make it more...
+
+580
+00:26:52,340 --> 00:26:52,820
+Deaf?
+
+581
+00:26:53,120 --> 00:26:53,540
+Deaf?
+
+582
+00:26:53,680 --> 00:26:54,060
+Oh my gosh.
+
+583
+00:26:54,260 --> 00:26:56,260
+It sounds like I say deaf.
+
+584
+00:26:56,880 --> 00:26:58,040
+I don't mean deaf.
+
+585
+00:26:59,820 --> 00:27:01,060
+So, wait a minute.
+
+586
+00:27:01,260 --> 00:27:01,900
+What can we do?
+
+587
+00:27:01,900 --> 00:27:04,320
+Guys, I found water balloons, guys.
+
+588
+00:27:10,700 --> 00:27:14,440
+We can make him turn up and down as you can see.
+
+589
+00:27:14,700 --> 00:27:17,580
+This is just very simple made, but...
+
+590
+00:27:17,580 --> 00:27:19,640
+You can see what I'm meaning here, like...
+
+591
+00:27:19,640 --> 00:27:21,540
+Wait, that's so good!
+
+592
+00:27:21,800 --> 00:27:23,700
+So we can do the left and right, yeah?
+
+593
+00:27:24,360 --> 00:27:25,560
+Yeah, the left and right!
+
+594
+00:27:26,000 --> 00:27:29,400
+Fabulate prep left and right, or are we doing that now?
+
+595
+00:27:31,120 --> 00:27:32,500
+It's possible, actually.
+
+596
+00:27:32,500 --> 00:27:35,600
+Like you turn in this direction.
+
+597
+00:27:35,900 --> 00:27:36,220
+Yes!
+
+598
+00:27:37,340 --> 00:27:39,100
+And like this here.
+
+599
+00:27:39,260 --> 00:27:41,100
+And then you can add a little butt crack here.
+
+600
+00:27:41,120 --> 00:27:42,260
+Add a little kick there.
+
+601
+00:27:45,260 --> 00:27:47,240
+What am I doing here?
+
+602
+00:27:48,240 --> 00:27:52,460
+Wait, are we giving venom implants or are you gonna draw the lump?
+
+603
+00:27:54,080 --> 00:27:55,100
+I'm thinking.
+
+604
+00:27:55,840 --> 00:27:59,480
+I mean, the venom things would be so funny, but maybe not fitting.
+
+605
+00:27:59,920 --> 00:28:00,620
+Okay, true.
+
+606
+00:28:01,460 --> 00:28:03,040
+Oh my god!
+
+607
+00:28:04,660 --> 00:28:05,980
+He's all jiggly.
+
+608
+00:28:07,180 --> 00:28:10,200
+I think we actually... Wait a minute.
+
+609
+00:28:10,480 --> 00:28:13,180
+I have the idea to add this here.
+
+610
+00:28:13,700 --> 00:28:15,560
+More to the angle part.
+
+611
+00:28:16,020 --> 00:28:18,480
+And have the angle part here on the physics.
+
+612
+00:28:18,600 --> 00:28:19,300
+Oh my god.
+
+613
+00:28:21,880 --> 00:28:24,620
+Wait, so right now if I want...
+
+614
+00:28:25,340 --> 00:28:26,880
+Look at him fucking go.
+
+615
+00:28:28,260 --> 00:28:29,780
+What a lad.
+
+616
+00:28:30,480 --> 00:28:32,740
+Alright, anyway, I'm just sending in the water balloons.
+
+617
+00:28:37,760 --> 00:28:40,100
+So, and we add this here.
+
+618
+00:28:40,200 --> 00:28:43,660
+And now we work with the draw order again to show how I've done it.
+
+619
+00:28:43,760 --> 00:28:44,800
+It's like... Wait.
+
+620
+00:28:45,680 --> 00:28:52,000
+So, like first of all the small head thing goes a little bit up.
+
+621
+00:28:52,260 --> 00:28:52,560
+Yeah.
+
+622
+00:28:53,320 --> 00:28:56,460
+Then it goes behind the head.
+
+623
+00:28:56,840 --> 00:29:01,260
+And then we have... I need to see still.
+
+624
+00:29:02,240 --> 00:29:06,840
+Now we need to edit the body still to have it working for this.
+
+625
+00:29:07,060 --> 00:29:08,360
+Guys, are you writing it down?
+
+626
+00:29:08,540 --> 00:29:09,320
+Because I'm not.
+
+627
+00:29:11,540 --> 00:29:15,460
+Oh my god, it's like watching magic happening in front of me.
+
+628
+00:29:16,800 --> 00:29:18,980
+Why don't we upload...
+
+629
+00:29:19,420 --> 00:29:21,560
+Oh my god, you're looking up!
+
+630
+00:29:23,120 --> 00:29:25,060
+Like, it's super simple, mate.
+
+631
+00:29:25,080 --> 00:29:26,460
+Oh, that's so cool!
+
+632
+00:29:26,620 --> 00:29:28,000
+But if it works, it works.
+
+633
+00:29:28,700 --> 00:29:29,600
+Oh my god.
+
+634
+00:29:29,740 --> 00:29:32,960
+Wait, would the hair be a little bit more to the center if he looks down?
+
+635
+00:29:33,900 --> 00:29:35,020
+We can do that, right?
+
+636
+00:29:35,100 --> 00:29:35,840
+Yeah, yeah, yeah.
+
+637
+00:29:36,040 --> 00:29:36,360
+Yes.
+
+638
+00:29:36,560 --> 00:29:39,480
+A little bit rotational here.
+
+639
+00:29:39,840 --> 00:29:41,560
+So, maybe.
+
+640
+00:29:43,720 --> 00:29:44,940
+Oh my god.
+
+641
+00:29:45,820 --> 00:29:48,100
+Oh my god, that's so cool!
+
+642
+00:29:48,100 --> 00:29:52,480
+Oh my god!
+
+643
+00:29:55,300 --> 00:29:56,540
+Like, look.
+
+644
+00:29:57,200 --> 00:29:58,840
+Oh my god, look at you go!
+
+645
+00:29:59,820 --> 00:30:01,000
+This is so adorable.
+
+646
+00:30:01,300 --> 00:30:02,220
+Not gonna lie, it's cute.
+
+647
+00:30:06,600 --> 00:30:09,160
+Okay, of course we make the...
+
+648
+00:30:10,040 --> 00:30:11,600
+The chicken arms here.
+
+649
+00:30:12,080 --> 00:30:13,540
+We'll make two with the physics.
+
+650
+00:30:13,700 --> 00:30:17,220
+Oh my gosh, you did this so fast, guys.
+
+651
+00:30:17,240 --> 00:30:18,080
+That was like done in like...
+
+652
+00:30:18,080 --> 00:30:19,060
+In like five minutes.
+
+653
+00:30:19,180 --> 00:30:20,060
+Like, what the fuck?
+
+654
+00:30:22,500 --> 00:30:28,440
+I can't believe it's only like 30 minutes of rigging and also we were also very distracted on other stuff too.
+
+655
+00:30:29,740 --> 00:30:31,780
+These are things that happens.
+
+656
+00:30:32,740 --> 00:30:34,500
+Not gonna lie, always happens.
+
+657
+00:30:34,660 --> 00:30:35,720
+Oh wait, what the...
+
+658
+00:30:35,720 --> 00:30:37,320
+Oh my god, that's so cool.
+
+659
+00:30:37,420 --> 00:30:39,080
+Now he's moving his...
+
+660
+00:30:41,060 --> 00:30:42,320
+Like, he's looking down.
+
+661
+00:30:43,800 --> 00:30:45,000
+Look at him go.
+
+662
+00:30:45,560 --> 00:30:48,440
+Look at him, look at his stance up.
+
+663
+00:30:50,920 --> 00:30:51,820
+No, it's a weird...
+
+664
+00:30:51,820 --> 00:30:53,140
+This is a group effort, guys.
+
+665
+00:30:53,140 --> 00:30:54,000
+Giving him some...
+
+666
+00:30:54,580 --> 00:30:55,520
+Owl legs.
+
+667
+00:30:56,000 --> 00:30:56,680
+Like, imagine.
+
+668
+00:31:02,340 --> 00:31:03,560
+Or else, like...
+
+669
+00:31:03,560 --> 00:31:04,080
+Imagine.
+
+670
+00:31:05,280 --> 00:31:07,420
+No, no, no, not like that.
+
+671
+00:31:08,480 --> 00:31:10,160
+I think this looks fine so far.
+
+672
+00:31:10,160 --> 00:31:11,000
+Yeah, this looks fine.
+
+673
+00:31:11,100 --> 00:31:11,520
+Yeah, yeah.
+
+674
+00:31:12,200 --> 00:31:14,600
+Let's let us adding...
+
+675
+00:31:14,600 --> 00:31:17,160
+Adding more of his knees visible.
+
+676
+00:31:18,580 --> 00:31:20,280
+Oh my god, look at you go.
+
+677
+00:31:20,500 --> 00:31:21,820
+You're like...
+
+678
+00:31:21,820 --> 00:31:23,760
+Look at your stance, guys.
+
+679
+00:31:24,660 --> 00:31:25,660
+Wah, wah.
+
+680
+00:31:26,260 --> 00:31:27,020
+It's so...
+
+681
+00:31:27,020 --> 00:31:28,120
+It's so funny.
+
+682
+00:31:30,880 --> 00:31:33,880
+It's the squats and dragoons, come on.
+
+683
+00:31:35,900 --> 00:31:38,440
+The power stance right there.
+
+684
+00:31:39,880 --> 00:31:42,300
+He looks up to others.
+
+685
+00:31:43,080 --> 00:31:45,500
+Or down to others from his position.
+
+686
+00:31:46,440 --> 00:31:47,860
+Oh my god, look at him.
+
+687
+00:31:47,860 --> 00:31:49,660
+Oh my god, wait, and then...
+
+688
+00:31:49,660 --> 00:31:50,480
+Elongate the tail.
+
+689
+00:31:50,640 --> 00:31:52,060
+Oh my god, the two tails too.
+
+690
+00:31:52,980 --> 00:31:54,640
+And those possibilities.
+
+691
+00:31:58,380 --> 00:31:59,300
+What's up?
+
+692
+00:32:00,820 --> 00:32:01,700
+I'm the...
+
+693
+00:32:01,700 --> 00:32:04,320
+I am a good idea person, okay, guys?
+
+694
+00:32:04,660 --> 00:32:05,980
+I'm basically...
+
+695
+00:32:05,980 --> 00:32:08,820
+I'm basically like my idol, Thomas...
+
+696
+00:32:08,820 --> 00:32:09,780
+Thomas Edison.
+
+697
+00:32:11,000 --> 00:32:11,640
+Wait.
+
+698
+00:32:13,580 --> 00:32:14,540
+Is that his name?
+
+699
+00:32:18,580 --> 00:32:21,080
+So now, look how he looks, how...
+
+700
+00:32:21,080 --> 00:32:22,680
+This is already so squishy.
+
+701
+00:32:23,260 --> 00:32:25,720
+Oh my god, he's so squishy.
+
+702
+00:32:26,240 --> 00:32:28,200
+Oh my god, look at him.
+
+703
+00:32:29,700 --> 00:32:31,200
+It's so adorable.
+
+704
+00:32:32,200 --> 00:32:33,280
+Oh my god.
+
+705
+00:32:33,800 --> 00:32:35,740
+You know, you're like Tesla...
+
+706
+00:32:35,740 --> 00:32:37,460
+And I'm like Thomas Edison.
+
+707
+00:32:39,000 --> 00:32:40,200
+I need to...
+
+708
+00:32:40,200 --> 00:32:41,220
+I need to say something.
+
+709
+00:32:41,220 --> 00:32:41,760
+I'm...
+
+710
+00:32:45,460 --> 00:32:46,800
+Don't tell anyone.
+
+711
+00:32:47,120 --> 00:32:49,380
+This is our project that we made together.
+
+712
+00:32:53,040 --> 00:32:54,720
+We made this.
+
+713
+00:32:57,820 --> 00:33:00,300
+I'm so innocent, I don't know.
+
+714
+00:33:02,420 --> 00:33:03,700
+I'm special.
+
+715
+00:33:04,990 --> 00:33:05,640
+That's right, Tesla.
+
+716
+00:33:05,660 --> 00:33:07,600
+My mom tells me always I'm a special person.
+
+717
+00:33:07,840 --> 00:33:09,160
+That's right, Tesla.
+
+718
+00:33:09,160 --> 00:33:11,260
+You're very special.
+
+719
+00:33:11,560 --> 00:33:14,620
+Now, can you send that file to me while I claim...
+
+720
+00:33:15,160 --> 00:33:16,620
+Oh no, baby!
+
+721
+00:33:16,880 --> 00:33:18,540
+The copyright.
+
+722
+00:33:22,720 --> 00:33:24,060
+I'm a slow...
+
+723
+00:33:24,060 --> 00:33:25,420
+I'm a slow one.
+
+724
+00:33:30,880 --> 00:33:32,880
+Oopsie, oopsie, oopsie.
+
+725
+00:33:34,520 --> 00:33:36,360
+I'm not Tesla, I'm more cool.
+
+726
+00:33:36,940 --> 00:33:39,860
+You're more cool than Nikolas Tesla?
+
+727
+00:33:40,480 --> 00:33:41,480
+Oh man.
+
+728
+00:33:42,000 --> 00:33:43,860
+Rest in peace, Nikolas Tesla.
+
+729
+00:33:44,420 --> 00:33:45,000
+Oh my god.
+
+730
+00:33:45,280 --> 00:33:47,680
+Wait, can we like inflate the dragoon?
+
+731
+00:33:49,120 --> 00:33:49,520
+Yes.
+
+732
+00:33:50,660 --> 00:33:51,640
+Look at this.
+
+733
+00:33:52,400 --> 00:33:54,600
+And now he always gets this one.
+
+734
+00:33:54,800 --> 00:33:56,220
+No, okay, not like that.
+
+735
+00:33:56,540 --> 00:33:57,140
+No, no, no.
+
+736
+00:33:57,580 --> 00:33:58,060
+Wait, wait, wait.
+
+737
+00:33:58,060 --> 00:33:58,760
+That's like a toggle.
+
+738
+00:33:59,360 --> 00:34:00,420
+That's like a...
+
+739
+00:34:00,420 --> 00:34:03,360
+That's what toggle games like, to give him...
+
+740
+00:34:04,240 --> 00:34:05,160
+A real big brain.
+
+741
+00:34:05,160 --> 00:34:06,620
+Oh my god, wait!
+
+742
+00:34:07,820 --> 00:34:10,000
+There is so many possibilities here.
+
+743
+00:34:10,100 --> 00:34:12,080
+There's so many possibilities.
+
+744
+00:34:12,500 --> 00:34:14,060
+That's the issue of being a rigger.
+
+745
+00:34:14,300 --> 00:34:15,780
+There are so many possibilities.
+
+746
+00:34:16,260 --> 00:34:18,560
+Guys, if I learn how to do live 2D...
+
+747
+00:34:18,560 --> 00:34:20,540
+Imagine what I can do.
+
+748
+00:34:22,960 --> 00:34:24,620
+Imagine the power you would have.
+
+749
+00:34:30,300 --> 00:34:31,960
+Oh my god.
+
+750
+00:34:32,660 --> 00:34:34,060
+How do we inflate it?
+
+751
+00:34:35,060 --> 00:34:39,500
+I mean, what's also possible is to make like...
+
+752
+00:34:39,500 --> 00:34:39,920
+Wait a minute.
+
+753
+00:34:42,780 --> 00:34:43,840
+Long fail.
+
+754
+00:34:44,080 --> 00:34:45,320
+Oops, this is caps.
+
+755
+00:34:45,560 --> 00:34:46,220
+Long fails.
+
+756
+00:34:47,220 --> 00:34:47,440
+One.
+
+757
+00:34:49,300 --> 00:34:50,320
+Stop saying...
+
+758
+00:34:50,660 --> 00:34:53,720
+Okay, how do we make him fat?
+
+759
+00:34:55,860 --> 00:34:58,140
+I mean, this is also possible.
+
+760
+00:34:58,460 --> 00:34:59,200
+Oh my...
+
+761
+00:34:59,200 --> 00:35:04,920
+I was thinking now of making him real long.
+
+762
+00:35:05,200 --> 00:35:06,840
+Oh wait, no, that's great!
+
+763
+00:35:06,960 --> 00:35:07,920
+Wait, I love that!
+
+764
+00:35:08,460 --> 00:35:08,880
+Wait!
+
+765
+00:35:10,920 --> 00:35:11,580
+Hello.
+
+766
+00:35:14,540 --> 00:35:17,120
+Mama calls me her big boy.
+
+767
+00:35:18,320 --> 00:35:19,160
+Wait, wait, wait.
+
+768
+00:35:19,160 --> 00:35:20,260
+How does this end?
+
+769
+00:35:20,580 --> 00:35:21,600
+Oh my gosh, hello.
+
+770
+00:35:21,600 --> 00:35:21,620
+Wait, wait, wait.
+
+771
+00:35:21,620 --> 00:35:24,040
+Then we put the face up top.
+
+772
+00:35:25,820 --> 00:35:26,300
+Yes!
+
+773
+00:35:26,920 --> 00:35:28,120
+Wait a minute, I need to...
+
+774
+00:35:28,120 --> 00:35:29,940
+This is what I mean with...
+
+775
+00:35:29,940 --> 00:35:32,160
+Stop, stop, you are on the wrong layer.
+
+776
+00:35:32,760 --> 00:35:34,260
+I never choose a layer.
+
+777
+00:35:37,840 --> 00:35:38,960
+Long face.
+
+778
+00:35:39,120 --> 00:35:41,520
+Let's do this as a toggle and put up the...
+
+779
+00:35:41,520 --> 00:35:42,120
+Yeah, yeah, yeah.
+
+780
+00:35:42,820 --> 00:35:43,380
+Pants.
+
+781
+00:35:43,940 --> 00:35:47,700
+This is what happens when long goon and regular goon get married.
+
+782
+00:35:48,160 --> 00:35:50,160
+They create an abomination.
+
+783
+00:35:51,940 --> 00:35:53,240
+Then we...
+
+784
+00:35:56,040 --> 00:35:58,240
+Then you can look like...
+
+785
+00:35:58,240 --> 00:36:01,020
+Oh my god, wait, that's so good!
+
+786
+00:36:01,580 --> 00:36:02,000
+Wait.
+
+787
+00:36:02,380 --> 00:36:04,420
+Wait for his hair back up top.
+
+788
+00:36:06,720 --> 00:36:11,280
+Oh my god, can you push the yellow part to a higher note?
+
+789
+00:36:12,160 --> 00:36:13,240
+Which yellow part?
+
+790
+00:36:13,380 --> 00:36:16,240
+The white part, higher.
+
+791
+00:36:16,240 --> 00:36:16,760
+The white?
+
+792
+00:36:17,020 --> 00:36:18,720
+Of course we can.
+
+793
+00:36:19,320 --> 00:36:20,140
+Of course.
+
+794
+00:36:20,140 --> 00:36:23,080
+Mama cost me her special big boy.
+
+795
+00:36:25,640 --> 00:36:26,960
+Here we are.
+
+796
+00:36:27,600 --> 00:36:29,480
+Okay, what does that look like?
+
+797
+00:36:32,040 --> 00:36:33,280
+Actually, it's this way.
+
+798
+00:36:33,400 --> 00:36:35,280
+So now we have this one, then...
+
+799
+00:36:35,280 --> 00:36:36,060
+We have long face.
+
+800
+00:36:40,100 --> 00:36:41,520
+Oh my god, it's so good.
+
+801
+00:36:45,500 --> 00:36:46,540
+Motomoto likes you.
+
+802
+00:36:46,540 --> 00:36:47,660
+You look so funny too.
+
+803
+00:36:51,200 --> 00:36:53,140
+I'm so excited, and then...
+
+804
+00:36:55,920 --> 00:36:57,800
+He's very excited.
+
+805
+00:37:04,880 --> 00:37:06,140
+It's so funny.
+
+806
+00:37:06,440 --> 00:37:07,360
+That's so good.
+
+807
+00:37:07,780 --> 00:37:09,280
+That's so good, I love it.
+
+808
+00:37:10,340 --> 00:37:11,520
+I love it.
+
+809
+00:37:12,400 --> 00:37:14,360
+What else do we have to do here?
+
+810
+00:37:15,240 --> 00:37:17,240
+Okay, so now we can add...
+
+811
+00:37:17,240 --> 00:37:19,360
+Oh wait, first of all, we didn't finish the tail.
+
+812
+00:37:19,360 --> 00:37:22,400
+Oh true, we were so distracted with everything else.
+
+813
+00:37:22,520 --> 00:37:24,920
+I can't believe we forgot the tail.
+
+814
+00:37:25,180 --> 00:37:26,900
+How could this happen to us?
+
+815
+00:37:27,020 --> 00:37:27,140
+Poor tail.
+
+816
+00:37:29,220 --> 00:37:30,560
+Poor little tail.
+
+817
+00:37:30,620 --> 00:37:33,880
+Wow, I wonder how we forgot the tail, guys.
+
+818
+00:37:34,400 --> 00:37:37,540
+What could have caused us to forget about it?
+
+819
+00:37:39,520 --> 00:37:42,320
+When we get there, so now we have...
+
+820
+00:37:42,320 --> 00:37:44,480
+We can make the tail excited.
+
+821
+00:37:45,020 --> 00:37:46,300
+Here's the tail, wait, let's see.
+
+822
+00:37:46,300 --> 00:37:49,100
+So now if we, let me see if this works.
+
+823
+00:37:49,500 --> 00:37:49,740
+Alright.
+
+824
+00:37:50,560 --> 00:37:51,000
+Where is it?
+
+825
+00:37:52,980 --> 00:37:53,480
+Ah, here.
+
+826
+00:37:55,100 --> 00:37:58,960
+Tail excited, I need to choose the tail wag here.
+
+827
+00:37:59,800 --> 00:38:02,620
+So now we can see the tail wag.
+
+828
+00:38:02,680 --> 00:38:05,500
+Guys, don't worry, I did not forget the water balloons, I sent it over.
+
+829
+00:38:06,820 --> 00:38:08,380
+I sent the PNGs over.
+
+830
+00:38:08,620 --> 00:38:12,580
+Like now, if he's excited, we can make his tail more jiggly.
+
+831
+00:38:12,860 --> 00:38:15,540
+I just need to add more physics to it.
+
+832
+00:38:15,540 --> 00:38:17,640
+I love it, I love physics, guys.
+
+833
+00:38:18,420 --> 00:38:21,160
+Or we just add the tail.
+
+834
+00:38:21,560 --> 00:38:24,480
+Physics, body, y, x, y.
+
+835
+00:38:24,720 --> 00:38:26,300
+Physics is so fun.
+
+836
+00:38:27,260 --> 00:38:31,660
+Physics are the most funny thing alive to me, because you can just...
+
+837
+00:38:31,660 --> 00:38:36,180
+Like, let me show you, like, what happens if you push the physics way too far.
+
+838
+00:38:36,720 --> 00:38:37,440
+Oh, what?
+
+839
+00:38:37,700 --> 00:38:39,180
+What do you mean by that?
+
+840
+00:38:39,800 --> 00:38:41,320
+Like, he really jumps.
+
+841
+00:38:41,440 --> 00:38:43,200
+This is the maximum physics.
+
+842
+00:38:43,460 --> 00:38:45,980
+Like, okay, I could go even more, but...
+
+843
+00:38:45,980 --> 00:38:49,460
+You can see the difference from this to this.
+
+844
+00:38:49,540 --> 00:38:54,180
+And now, let me tell you, if you rig breasts, it can be very, very...
+
+845
+00:38:54,960 --> 00:38:55,480
+Special.
+
+846
+00:38:56,780 --> 00:38:57,900
+Like breasts flying above a whole screen.
+
+847
+00:38:57,900 --> 00:38:58,740
+Even more special?
+
+848
+00:39:00,500 --> 00:39:01,020
+Yes.
+
+849
+00:39:01,540 --> 00:39:02,680
+It can be dangerous.
+
+850
+00:39:03,400 --> 00:39:06,200
+Oh my god, oh my god, Dragoons, you can be even more special.
+
+851
+00:39:09,360 --> 00:39:13,660
+Like, with those balloons, we can make funny things to happen.
+
+852
+00:39:17,440 --> 00:39:18,380
+You see that?
+
+853
+00:39:18,460 --> 00:39:20,440
+She knows about the water balloons.
+
+854
+00:39:22,220 --> 00:39:27,480
+So, let me show you, like, now when the body moves, we can see this little, small...
+
+855
+00:39:27,480 --> 00:39:29,620
+Oh my god, look at you, you're animated.
+
+856
+00:39:30,020 --> 00:39:30,560
+That's so cute.
+
+857
+00:39:31,560 --> 00:39:33,640
+Oh my god, it's so cute!
+
+858
+00:39:34,380 --> 00:39:36,180
+And of course, we want this with those...
+
+859
+00:39:37,100 --> 00:39:37,540
+Arms.
+
+860
+00:39:37,540 --> 00:39:38,940
+Yeah, yeah, yeah.
+
+861
+00:39:38,960 --> 00:39:39,880
+Little arms.
+
+862
+00:39:43,540 --> 00:39:45,120
+Let me see, let me see.
+
+863
+00:39:46,100 --> 00:39:50,480
+Actually, we also can let them talk, by the way.
+
+864
+00:39:50,480 --> 00:39:51,460
+Oh yeah, yeah, yeah.
+
+865
+00:39:52,580 --> 00:39:54,440
+Yes, no, I love that!
+
+866
+00:39:54,780 --> 00:39:57,020
+No, no, no, it should be...
+
+867
+00:39:57,020 --> 00:39:58,180
+Like Canadians.
+
+868
+00:39:59,600 --> 00:40:00,940
+Wait, what's the other option?
+
+869
+00:40:01,520 --> 00:40:02,680
+What's the other one?
+
+870
+00:40:02,900 --> 00:40:06,840
+The other option would be more subtle, like the mouth, really.
+
+871
+00:40:09,420 --> 00:40:10,340
+Like, going...
+
+872
+00:40:10,340 --> 00:40:12,640
+Oh no, no, I like the first one.
+
+873
+00:40:13,200 --> 00:40:16,660
+I think, yeah, I think it's more funny to do...
+
+874
+00:40:16,660 --> 00:40:17,260
+Yeah, yeah.
+
+875
+00:40:17,600 --> 00:40:19,840
+With the Canadian dragons.
+
+876
+00:40:21,120 --> 00:40:22,920
+And then you make it like...
+
+877
+00:40:22,920 --> 00:40:23,200
+Like Canadians.
+
+878
+00:40:24,000 --> 00:40:24,700
+Oh my god.
+
+879
+00:40:26,360 --> 00:40:27,280
+Onto this.
+
+880
+00:40:27,960 --> 00:40:29,760
+So, like, it's so funny.
+
+881
+00:40:31,680 --> 00:40:32,580
+Oh my god.
+
+882
+00:40:32,580 --> 00:40:34,620
+We make it work, we make it nicely work.
+
+883
+00:40:34,760 --> 00:40:35,120
+Yeah, yeah, yeah.
+
+884
+00:40:35,980 --> 00:40:38,720
+So we add some arm physics.
+
+885
+00:40:40,020 --> 00:40:40,520
+Arm...
+
+886
+00:40:40,960 --> 00:40:41,780
+Arm, what?
+
+887
+00:40:44,780 --> 00:40:46,200
+One is enough.
+
+888
+00:40:48,460 --> 00:40:51,820
+Oh, I have arm physics already.
+
+889
+00:40:54,220 --> 00:40:55,280
+Wait a minute.
+
+890
+00:40:56,240 --> 00:40:57,660
+I got bamboozled!
+
+891
+00:40:59,440 --> 00:41:00,880
+Okay, okay, okay, okay.
+
+892
+00:41:01,040 --> 00:41:05,320
+So now we add some arm physics to make it even more cuter and jiggly.
+
+893
+00:41:06,680 --> 00:41:09,400
+Because it's important to have a jiggly fella.
+
+894
+00:41:10,240 --> 00:41:12,700
+Of course, jiggle physics is everything, guys.
+
+895
+00:41:13,660 --> 00:41:15,000
+It's everything.
+
+896
+00:41:15,580 --> 00:41:16,300
+Yeah, see?
+
+897
+00:41:16,620 --> 00:41:18,940
+I have jiggle physics too, guys.
+
+898
+00:41:19,000 --> 00:41:19,900
+Look at that.
+
+899
+00:41:23,020 --> 00:41:24,980
+So, we have...
+
+900
+00:41:24,980 --> 00:41:29,940
+Those little tiny arms.
+
+901
+00:41:30,520 --> 00:41:30,940
+Yeah.
+
+902
+00:41:31,860 --> 00:41:35,020
+So, like, we have one ear ready.
+
+903
+00:41:35,260 --> 00:41:36,620
+So let's arm arm.
+
+904
+00:41:36,780 --> 00:41:40,540
+We bet that for the left and right, those legs too and stuff.
+
+905
+00:41:41,240 --> 00:41:43,420
+So, let me add this on.
+
+906
+00:41:45,260 --> 00:41:51,820
+This is like the percentage of the effect of this you set up for the physics on each angle.
+
+907
+00:41:52,100 --> 00:41:55,540
+Like how much it's getting used, you can say.
+
+908
+00:41:55,700 --> 00:41:56,760
+Are you guys taking notes?
+
+909
+00:41:57,760 --> 00:42:02,220
+I'm saying uh-huh, but I'm not really understanding that much, but like uh-huh.
+
+910
+00:42:02,700 --> 00:42:04,380
+But you can see the jiggle.
+
+911
+00:42:05,000 --> 00:42:08,480
+So you put numbers in and then jiggle starts.
+
+912
+00:42:09,380 --> 00:42:09,880
+Yes.
+
+913
+00:42:10,080 --> 00:42:10,540
+Oh.
+
+914
+00:42:10,760 --> 00:42:12,560
+And if the jiggle happens, we are all happy.
+
+915
+00:42:12,760 --> 00:42:15,420
+Oh, I get it.
+
+916
+00:42:15,520 --> 00:42:17,200
+I understand now.
+
+917
+00:42:18,000 --> 00:42:19,040
+Are you sure?
+
+918
+00:42:19,600 --> 00:42:20,520
+Yeah, yeah.
+
+919
+00:42:20,700 --> 00:42:22,780
+Numbers in, jiggles up.
+
+920
+00:42:24,900 --> 00:42:25,420
+Exactly.
+
+921
+00:42:26,020 --> 00:42:26,660
+Yeah, yes.
+
+922
+00:42:26,800 --> 00:42:27,340
+Guys, see?
+
+923
+00:42:27,420 --> 00:42:28,140
+I can learn.
+
+924
+00:42:28,640 --> 00:42:29,960
+Guys, I get it.
+
+925
+00:42:30,220 --> 00:42:31,360
+I get it, guys.
+
+926
+00:42:34,000 --> 00:42:35,800
+So, we return this.
+
+927
+00:42:36,140 --> 00:42:38,520
+And now we add this part.
+
+928
+00:42:40,060 --> 00:42:41,460
+And this part.
+
+929
+00:42:42,080 --> 00:42:42,780
+And then we see...
+
+930
+00:42:44,600 --> 00:42:49,000
+Like now we have those small, tiny, fluffy physics.
+
+931
+00:42:49,560 --> 00:42:51,240
+Oh my god, look at you.
+
+932
+00:42:52,480 --> 00:42:53,780
+Isn't that cute?
+
+933
+00:42:54,080 --> 00:42:55,080
+That's so cute.
+
+934
+00:42:55,240 --> 00:42:56,520
+That's actually so cute.
+
+935
+00:42:56,840 --> 00:42:59,420
+Alright, should we do left and right now?
+
+936
+00:42:59,660 --> 00:43:00,640
+Or is there something else?
+
+937
+00:43:01,060 --> 00:43:01,100
+Yes.
+
+938
+00:43:01,100 --> 00:43:03,660
+Okay, so we know what we want for left and right.
+
+939
+00:43:06,060 --> 00:43:08,140
+You know that you want a butt?
+
+940
+00:43:08,340 --> 00:43:11,480
+Yeah, I want like one butt cheek showing at least.
+
+941
+00:43:12,420 --> 00:43:13,700
+Okay, okay, okay.
+
+942
+00:43:13,700 --> 00:43:13,960
+Okay.
+
+943
+00:43:16,880 --> 00:43:18,700
+Like, first of all, we add...
+
+944
+00:43:19,660 --> 00:43:20,560
+These angles.
+
+945
+00:43:21,300 --> 00:43:24,620
+And when we are done with the body angle, like...
+
+946
+00:43:24,620 --> 00:43:25,860
+Wait, can the tail...
+
+947
+00:43:27,700 --> 00:43:28,740
+Where is the tail?
+
+948
+00:43:29,480 --> 00:43:30,820
+I can't see the tail.
+
+949
+00:43:31,020 --> 00:43:32,200
+Where is the tail?
+
+950
+00:43:32,600 --> 00:43:34,780
+Oh no, she lost the tail.
+
+951
+00:43:35,720 --> 00:43:39,300
+Oh no, you can't get excited anymore, Draco.
+
+952
+00:43:39,480 --> 00:43:40,840
+She lost the tail.
+
+953
+00:43:41,840 --> 00:43:43,380
+What will she do?
+
+954
+00:43:45,660 --> 00:43:46,800
+Wait, so...
+
+955
+00:43:46,800 --> 00:43:48,840
+How will the dragoon get excited?
+
+956
+00:43:50,420 --> 00:43:52,220
+That's a very important question.
+
+957
+00:43:54,560 --> 00:43:57,220
+So, right now we have this here.
+
+958
+00:43:58,000 --> 00:44:00,880
+Actually, if we do this here right now...
+
+959
+00:44:01,720 --> 00:44:03,920
+One little part moves... Wait.
+
+960
+00:44:04,660 --> 00:44:07,240
+No, this needs to be lower.
+
+961
+00:44:09,380 --> 00:44:10,560
+You want that.
+
+962
+00:44:10,880 --> 00:44:13,900
+There's a little bit behind the other hair.
+
+963
+00:44:14,420 --> 00:44:14,660
+Yeah.
+
+964
+00:44:14,780 --> 00:44:16,300
+It's a hair thingy.
+
+965
+00:44:16,420 --> 00:44:19,040
+I don't know, like...
+
+966
+00:44:19,040 --> 00:44:19,500
+You know?
+
+967
+00:44:19,700 --> 00:44:22,320
+Wait, shouldn't it be like to the back when he turns?
+
+968
+00:44:23,020 --> 00:44:23,520
+Like the hair?
+
+969
+00:44:23,540 --> 00:44:24,580
+I think so, yes.
+
+970
+00:44:26,300 --> 00:44:27,340
+Like, here.
+
+971
+00:44:28,140 --> 00:44:30,360
+Shouldn't it move to the left side, the hair?
+
+972
+00:44:31,360 --> 00:44:32,980
+Because of like, perspective?
+
+973
+00:44:34,000 --> 00:44:35,060
+Actually, yes.
+
+974
+00:44:35,680 --> 00:44:40,360
+But with the round birdie object, it can be a little bit more stylized.
+
+975
+00:44:40,360 --> 00:44:40,560
+Oh, I see.
+
+976
+00:44:40,760 --> 00:44:42,120
+Okay, that's fine.
+
+977
+00:44:42,280 --> 00:44:43,820
+It's a very special bird.
+
+978
+00:44:45,560 --> 00:44:46,080
+Okay.
+
+979
+00:44:46,760 --> 00:44:48,300
+No way, that looks too weird.
+
+980
+00:44:49,260 --> 00:44:55,220
+Yeah, because right now, if we go logical on this one, it would go so much in the back.
+
+981
+00:44:55,400 --> 00:44:56,840
+It will look a little bit weird.
+
+982
+00:44:57,320 --> 00:45:00,060
+Actually, on a round object, it wouldn't move much.
+
+983
+00:45:00,060 --> 00:45:01,600
+It's a very special bird.
+
+984
+00:45:01,600 --> 00:45:01,700
+Weird.
+
+985
+00:45:03,800 --> 00:45:05,180
+That's what you say!
+
+986
+00:45:06,760 --> 00:45:07,660
+Not me.
+
+987
+00:45:09,460 --> 00:45:11,460
+Let's stop for a moment.
+
+988
+00:45:11,560 --> 00:45:13,300
+You agreed, you're part of the problem.
+
+989
+00:45:15,900 --> 00:45:16,760
+I'm not.
+
+990
+00:45:17,240 --> 00:45:19,660
+You're part of the problem, you're controlling it.
+
+991
+00:45:20,720 --> 00:45:23,180
+I mean, that's kind of true.
+
+992
+00:45:25,260 --> 00:45:26,420
+But look at him.
+
+993
+00:45:26,580 --> 00:45:28,760
+Oh my god, okay, that's cute.
+
+994
+00:45:28,940 --> 00:45:29,760
+That's cute.
+
+995
+00:45:30,200 --> 00:45:30,780
+I like that.
+
+996
+00:45:30,780 --> 00:45:31,720
+So...
+
+997
+00:45:32,560 --> 00:45:35,380
+Of course, we add this part here.
+
+998
+00:45:35,700 --> 00:45:36,460
+Oh my god.
+
+999
+00:45:37,000 --> 00:45:38,020
+Look at you go.
+
+1000
+00:45:39,360 --> 00:45:39,920
+Oh, wait.
+
+1001
+00:45:40,140 --> 00:45:42,280
+I can't wait for my favorite part, guys.
+
+1002
+00:45:43,060 --> 00:45:48,520
+I feel like your favorite part has something to do...
+
+1003
+00:45:48,520 --> 00:45:50,080
+This is my second favorite part.
+
+1004
+00:45:51,340 --> 00:45:54,260
+We haven't done my favorite part yet, guys.
+
+1005
+00:45:56,840 --> 00:45:57,440
+So...
+
+1006
+00:45:57,440 --> 00:46:01,540
+Of course, we switch the inner part to here.
+
+1007
+00:46:01,840 --> 00:46:04,480
+The white tummy part.
+
+1008
+00:46:05,320 --> 00:46:08,640
+Because the tummy part needs to be more round.
+
+1009
+00:46:10,240 --> 00:46:15,840
+And then we need to add the armys because right now they are stuck to their place.
+
+1010
+00:46:16,800 --> 00:46:18,840
+No one will stop me.
+
+1011
+00:46:19,200 --> 00:46:20,260
+This is for charity.
+
+1012
+00:46:21,240 --> 00:46:23,080
+You hate charity, guys?
+
+1013
+00:46:23,500 --> 00:46:26,000
+Wow, you want to stop charity?
+
+1014
+00:46:26,000 --> 00:46:27,580
+That's fucked.
+
+1015
+00:46:30,240 --> 00:46:32,020
+We have this here.
+
+1016
+00:46:32,240 --> 00:46:33,200
+Like now we can look...
+
+1017
+00:46:34,000 --> 00:46:42,440
+Like now we need to see how much we can connect those corners with each other to make it work.
+
+1018
+00:46:43,600 --> 00:46:46,320
+But it's simple because we have here a simple thing.
+
+1019
+00:46:46,500 --> 00:46:49,340
+It doesn't need to be...
+
+1020
+00:46:49,340 --> 00:46:50,000
+Wait.
+
+1021
+00:46:51,080 --> 00:46:54,540
+Let me see if we can get this behind a little bit.
+
+1022
+00:46:54,540 --> 00:46:56,100
+Oh, yeah.
+
+1023
+00:46:57,660 --> 00:47:00,200
+This is here in front still.
+
+1024
+00:47:04,350 --> 00:47:09,310
+And then this goes a little bit to the back.
+
+1025
+00:47:09,550 --> 00:47:11,790
+Because after a certain point...
+
+1026
+00:47:11,790 --> 00:47:12,950
+Yeah, they should go behind.
+
+1027
+00:47:13,370 --> 00:47:13,870
+Yeah, yeah, yeah.
+
+1028
+00:47:14,010 --> 00:47:15,050
+Wait, what?
+
+1029
+00:47:19,570 --> 00:47:20,310
+Magic!
+
+1030
+00:47:22,530 --> 00:47:24,110
+Look at that go!
+
+1031
+00:47:25,710 --> 00:47:29,450
+Like now he can turn a tiny little bit.
+
+1032
+00:47:29,810 --> 00:47:31,770
+Oh my god, magic!
+
+1033
+00:47:32,790 --> 00:47:33,770
+Look at that!
+
+1034
+00:47:34,770 --> 00:47:38,090
+It still looks a little bit fake to the side here right now.
+
+1035
+00:47:38,270 --> 00:47:39,250
+Like it has...
+
+1036
+00:47:39,250 --> 00:47:44,050
+I'm so confused what I'm doing.
+
+1037
+00:47:44,330 --> 00:47:45,490
+I think you're doing great.
+
+1038
+00:47:46,150 --> 00:47:47,910
+In my head it looks great.
+
+1039
+00:47:48,650 --> 00:47:54,830
+You know, the thing with making subtitles is you do it again and again until you think it fits.
+
+1040
+00:47:55,450 --> 00:47:56,510
+It's the magic behind.
+
+1041
+00:47:57,510 --> 00:47:58,770
+Taking a lot of time.
+
+1042
+00:48:03,340 --> 00:48:05,720
+So we have just this part here.
+
+1043
+00:48:06,720 --> 00:48:07,660
+This will be covered.
+
+1044
+00:48:07,860 --> 00:48:11,640
+The weird movement of the hair will be covered with physics.
+
+1045
+00:48:12,260 --> 00:48:13,220
+You know, like...
+
+1046
+00:48:13,220 --> 00:48:13,880
+Yeah, yeah, yeah.
+
+1047
+00:48:15,040 --> 00:48:16,700
+The tail goes wild.
+
+1048
+00:48:16,840 --> 00:48:17,820
+The tail goes vroom.
+
+1049
+00:48:18,760 --> 00:48:19,340
+Alright.
+
+1050
+00:48:20,560 --> 00:48:21,680
+It's so adorable.
+
+1051
+00:48:21,900 --> 00:48:22,860
+Yeah, it's so cute.
+
+1052
+00:48:23,000 --> 00:48:26,260
+Wait, shouldn't the other arm also move to the left too?
+
+1053
+00:48:27,280 --> 00:48:29,220
+To the side a little bit.
+
+1054
+00:48:29,420 --> 00:48:30,200
+Yeah, yeah, yeah.
+
+1055
+00:48:30,540 --> 00:48:36,520
+I was thinking too, but I choose that this goes behind the body because it's already on the side here.
+
+1056
+00:48:36,880 --> 00:48:39,360
+And this is so, like, more near the face.
+
+1057
+00:48:39,680 --> 00:48:42,840
+So I thought if I go too far to the side it could look weird.
+
+1058
+00:48:42,840 --> 00:48:43,920
+Oh yeah, that's true.
+
+1059
+00:48:44,200 --> 00:48:45,280
+It'll be weird, yeah.
+
+1060
+00:48:45,860 --> 00:48:46,240
+Alright.
+
+1061
+00:48:46,540 --> 00:48:49,260
+This is what at least I was thinking right now.
+
+1062
+00:48:49,260 --> 00:48:50,040
+Now it actually looks good.
+
+1063
+00:48:50,060 --> 00:48:52,060
+That it might be a little bit far down.
+
+1064
+00:48:52,740 --> 00:48:52,980
+Yeah.
+
+1065
+00:48:54,020 --> 00:48:54,380
+Yeah.
+
+1066
+00:48:55,280 --> 00:49:03,580
+Sometimes it's a real tough decision what to do because sometimes it looks a little bit better if you do it a little bit style-wise.
+
+1067
+00:49:03,580 --> 00:49:03,700
+Yeah, yeah.
+
+1068
+00:49:04,080 --> 00:49:09,920
+And not like how it is meant to be in real life.
+
+1069
+00:49:13,160 --> 00:49:18,340
+So, let me add some physics on this part.
+
+1070
+00:49:18,340 --> 00:49:22,840
+My god, how... so many physics, guys.
+
+1071
+00:49:23,820 --> 00:49:27,080
+Yeah, and even... this is just a small part.
+
+1072
+00:49:27,200 --> 00:49:32,060
+Like, I don't add too many physics here because we want to keep it simple to finish it in one stream.
+
+1073
+00:49:34,420 --> 00:49:39,800
+But otherwise, like, the normal VTuber models, they have so many physics.
+
+1074
+00:49:40,000 --> 00:49:44,440
+Like, you can scroll so long on this parameter thing.
+
+1075
+00:49:44,440 --> 00:49:49,380
+Like, having 100, 200 parameters, just one model.
+
+1076
+00:49:50,740 --> 00:49:52,840
+Sounds not so much, but it is.
+
+1077
+00:49:52,980 --> 00:49:53,740
+Wait, how much is this?
+
+1078
+00:49:55,460 --> 00:49:56,540
+This one here?
+
+1079
+00:49:56,740 --> 00:49:57,040
+Yeah.
+
+1080
+00:49:57,900 --> 00:49:58,840
+Not much.
+
+1081
+00:49:58,980 --> 00:50:01,440
+Like, I don't have the body angles here.
+
+1082
+00:50:01,540 --> 00:50:04,520
+We have head angle X, Y, Z.
+
+1083
+00:50:04,960 --> 00:50:05,980
+I open, close.
+
+1084
+00:50:06,140 --> 00:50:07,060
+I smile or something.
+
+1085
+00:50:07,200 --> 00:50:09,500
+I could delete too because we don't need that.
+
+1086
+00:50:10,440 --> 00:50:12,500
+We can have eye physics added.
+
+1087
+00:50:13,400 --> 00:50:15,840
+I love the eye blinks.
+
+1088
+00:50:18,060 --> 00:50:20,280
+Like, how does this look?
+
+1089
+00:50:20,360 --> 00:50:21,180
+This is amazing.
+
+1090
+00:50:23,600 --> 00:50:24,360
+Beautiful.
+
+1091
+00:50:25,360 --> 00:50:28,480
+And then, beautiful movement.
+
+1092
+00:50:30,360 --> 00:50:33,280
+Guys, this was our idea, guys.
+
+1093
+00:50:33,520 --> 00:50:36,440
+You can tell this is... we did this together.
+
+1094
+00:50:39,720 --> 00:50:41,980
+You had the great ideas, right?
+
+1095
+00:50:41,980 --> 00:50:42,180
+Yeah.
+
+1096
+00:50:42,440 --> 00:50:43,820
+Wait, so how do we do the cheeks?
+
+1097
+00:50:44,640 --> 00:50:45,440
+The cheeks.
+
+1098
+00:50:45,620 --> 00:50:51,200
+So, whenever they turn around like this, let me try to get...
+
+1099
+00:50:53,620 --> 00:50:57,840
+This is a very spiky cheek like this, imagine.
+
+1100
+00:50:58,480 --> 00:50:59,900
+Oh my gosh.
+
+1101
+00:51:05,420 --> 00:51:10,280
+Oh, and then like a little... you can just do a little butt showing, like just a tiny little bump.
+
+1102
+00:51:12,920 --> 00:51:15,800
+Do you mean like in front, like here?
+
+1103
+00:51:16,480 --> 00:51:19,140
+Okay, so this is... Okay, I'm gonna do it on paint.
+
+1104
+00:51:21,140 --> 00:51:26,260
+Okay, so this is my vision on how I think we could do it.
+
+1105
+00:51:32,610 --> 00:51:34,590
+Wait a minute, I need to turn.
+
+1106
+00:51:37,600 --> 00:51:39,680
+I wanna see what you're doing.
+
+1107
+00:51:46,720 --> 00:51:47,700
+Wait, wait, wait.
+
+1108
+00:51:47,760 --> 00:51:48,440
+I need to see.
+
+1109
+00:51:49,360 --> 00:51:51,360
+I'm drawing it on paint right now.
+
+1110
+00:51:51,500 --> 00:51:52,820
+This is my vision.
+
+1111
+00:51:54,920 --> 00:51:56,320
+I'm scared to see it.
+
+1112
+00:51:56,520 --> 00:51:58,120
+I'm so scared.
+
+1113
+00:51:59,420 --> 00:52:00,700
+Okay, okay, okay.
+
+1114
+00:52:00,740 --> 00:52:01,440
+Show me, show me.
+
+1115
+00:52:01,620 --> 00:52:04,140
+I posted it in the chat.
+
+1116
+00:52:08,360 --> 00:52:10,760
+This looks... special.
+
+1117
+00:52:12,180 --> 00:52:12,900
+Wait, wait.
+
+1118
+00:52:13,080 --> 00:52:14,420
+I think we can do it.
+
+1119
+00:52:14,420 --> 00:52:17,020
+I have an idea, I have an idea.
+
+1120
+00:52:17,220 --> 00:52:18,340
+Guys, this is what I sent.
+
+1121
+00:52:18,340 --> 00:52:19,700
+I'll show you guys what I sent here.
+
+1122
+00:52:19,800 --> 00:52:22,180
+I'll show you guys what I sent here.
+
+1123
+00:52:22,600 --> 00:52:23,300
+Let me add it.
+
+1124
+00:52:23,540 --> 00:52:28,540
+Let me open Photoshop so I can show you how...
+
+1125
+00:52:28,540 --> 00:52:31,280
+Not I can show you, I will add the butt cheek for it.
+
+1126
+00:52:31,540 --> 00:52:32,700
+Okay, nice.
+
+1127
+00:52:33,060 --> 00:52:35,920
+Okay, so guys, this is what I sent here.
+
+1128
+00:52:36,100 --> 00:52:40,400
+I was like, so this is my vision on how I think it could look like.
+
+1129
+00:52:44,800 --> 00:52:46,360
+And I sent you this.
+
+1130
+00:52:48,480 --> 00:52:50,480
+Wait a minute, wait a minute.
+
+1131
+00:52:50,700 --> 00:52:52,220
+We are going to do this.
+
+1132
+00:52:58,560 --> 00:53:00,700
+Okay, so we have this one here.
+
+1133
+00:53:00,960 --> 00:53:03,200
+It almost looks like the model.
+
+1134
+00:53:03,560 --> 00:53:04,560
+That's what I'm saying.
+
+1135
+00:53:06,740 --> 00:53:08,860
+It almost looks just like it.
+
+1136
+00:53:10,260 --> 00:53:11,860
+So we want like...
+
+1137
+00:53:14,580 --> 00:53:16,320
+Oh my god, yes!
+
+1138
+00:53:19,430 --> 00:53:22,790
+We want another butt cheek like you have the butt crack here.
+
+1139
+00:53:22,850 --> 00:53:24,170
+Yeah, yeah, yeah, yeah.
+
+1140
+00:53:24,170 --> 00:53:26,210
+Just a tiny one showing on the side.
+
+1141
+00:53:26,330 --> 00:53:29,470
+Okay, okay, I'll use this one and copy paste it for the side.
+
+1142
+00:53:29,470 --> 00:53:30,430
+Okay, but that's so tiny.
+
+1143
+00:53:30,630 --> 00:53:31,670
+It's got to be lumpier.
+
+1144
+00:53:32,550 --> 00:53:34,370
+Okay, okay, you want a big butt.
+
+1145
+00:53:34,610 --> 00:53:35,250
+Yeah, yeah.
+
+1146
+00:53:35,530 --> 00:53:37,170
+No, we want a big butt.
+
+1147
+00:53:38,030 --> 00:53:38,430
+Imagine.
+
+1148
+00:53:39,930 --> 00:53:40,870
+Wait, wait, wait.
+
+1149
+00:53:41,030 --> 00:53:43,070
+That looks like he has something going on.
+
+1150
+00:53:45,090 --> 00:53:45,490
+Wait.
+
+1151
+00:53:48,390 --> 00:53:49,190
+Maybe like...
+
+1152
+00:53:49,190 --> 00:53:51,970
+Oh yeah, yeah, yeah, yeah, that's good, that's good.
+
+1153
+00:53:52,270 --> 00:53:52,830
+That was good.
+
+1154
+00:53:53,810 --> 00:53:55,970
+No, no, no, just a little bit more.
+
+1155
+00:53:56,810 --> 00:53:57,570
+No, that's too much.
+
+1156
+00:53:57,570 --> 00:53:58,290
+Oh wait, this was too much?
+
+1157
+00:53:58,370 --> 00:53:58,690
+Yeah, yeah, yeah.
+
+1158
+00:53:59,010 --> 00:54:00,310
+Wait, wait, wait.
+
+1159
+00:54:01,050 --> 00:54:02,210
+No, no, wait, wait, wait.
+
+1160
+00:54:02,530 --> 00:54:02,970
+This one?
+
+1161
+00:54:03,310 --> 00:54:05,050
+I mean I can squish it to...
+
+1162
+00:54:05,050 --> 00:54:07,830
+And then we have like another butt showing up too.
+
+1163
+00:54:08,390 --> 00:54:10,810
+So like, it looks like he has two butts.
+
+1164
+00:54:13,870 --> 00:54:15,390
+So like, you know, he has two butts.
+
+1165
+00:54:15,450 --> 00:54:16,250
+Sorry, two butts.
+
+1166
+00:54:17,930 --> 00:54:21,270
+I want to ask right now why two butts?
+
+1167
+00:54:21,750 --> 00:54:22,050
+Okay.
+
+1168
+00:54:23,490 --> 00:54:24,670
+Wait, wait, wait.
+
+1169
+00:54:24,830 --> 00:54:28,030
+So then like the other butt is just like barely peeking, you know?
+
+1170
+00:54:29,890 --> 00:54:30,690
+Wait a minute.
+
+1171
+00:54:31,130 --> 00:54:31,850
+Yes, yes, yes.
+
+1172
+00:54:32,010 --> 00:54:32,410
+Wait.
+
+1173
+00:54:32,730 --> 00:54:34,290
+Yeah, yeah, you get it, you get it.
+
+1174
+00:54:34,290 --> 00:54:35,710
+Oh, yes!
+
+1175
+00:54:36,050 --> 00:54:36,750
+Yes!
+
+1176
+00:54:37,970 --> 00:54:38,870
+Yes!
+
+1177
+00:54:38,970 --> 00:54:40,910
+We have a beautiful butt.
+
+1178
+00:54:41,030 --> 00:54:41,610
+Yes!
+
+1179
+00:54:41,910 --> 00:54:42,930
+Like he's turning.
+
+1180
+00:54:43,630 --> 00:54:43,790
+Yes!
+
+1181
+00:54:43,990 --> 00:54:45,310
+What are you looking for?
+
+1182
+00:54:45,690 --> 00:54:47,630
+Oh my god, yes.
+
+1183
+00:54:48,170 --> 00:54:49,530
+That's so good.
+
+1184
+00:54:53,050 --> 00:54:55,770
+The vision is there.
+
+1185
+00:54:59,000 --> 00:55:00,050
+It's there.
+
+1186
+00:55:00,850 --> 00:55:02,090
+It's so pretty, right?
+
+1187
+00:55:02,490 --> 00:55:03,650
+It is so nice.
+
+1188
+00:55:03,810 --> 00:55:06,110
+Let's add those two butt cheeks here.
+
+1189
+00:55:06,110 --> 00:55:06,510
+Yes, it's beautiful.
+
+1190
+00:55:06,670 --> 00:55:08,770
+It looks just like my vision right here.
+
+1191
+00:55:09,150 --> 00:55:12,130
+It looks exactly like what I said, guys.
+
+1192
+00:55:14,670 --> 00:55:16,630
+So we have this one.
+
+1193
+00:55:17,030 --> 00:55:19,950
+And then we draw here the butt cheek out.
+
+1194
+00:55:20,170 --> 00:55:21,050
+So we have...
+
+1195
+00:55:22,350 --> 00:55:22,570
+What?
+
+1196
+00:55:22,890 --> 00:55:26,970
+Okay, and now we are going to export this beautiful butt cheeks.
+
+1197
+00:55:27,510 --> 00:55:27,730
+Yeah.
+
+1198
+00:55:27,870 --> 00:55:28,130
+Into the model.
+
+1199
+00:55:28,130 --> 00:55:29,390
+There you go.
+
+1200
+00:55:29,450 --> 00:55:30,370
+Guys, look at that.
+
+1201
+00:55:30,490 --> 00:55:34,050
+My vision was like... It was fucking perfect.
+
+1202
+00:55:34,330 --> 00:55:37,770
+Like what I drafted out to the real thing.
+
+1203
+00:55:37,890 --> 00:55:39,490
+It looks... It's just one to one.
+
+1204
+00:55:40,710 --> 00:55:42,630
+It's exactly one to one.
+
+1205
+00:55:42,690 --> 00:55:43,930
+Dragoon butt cheeks.
+
+1206
+00:55:44,370 --> 00:55:44,910
+Oh, yeah.
+
+1207
+00:55:44,970 --> 00:55:46,030
+There we go.
+
+1208
+00:55:48,030 --> 00:55:48,990
+Oh, true!
+
+1209
+00:55:49,430 --> 00:55:51,090
+We should add a little highlight to it.
+
+1210
+00:55:51,090 --> 00:55:52,210
+A little white shine.
+
+1211
+00:55:53,130 --> 00:55:55,210
+The white shine... Oh, no problem.
+
+1212
+00:55:55,330 --> 00:55:55,810
+We can do it.
+
+1213
+00:55:55,890 --> 00:55:56,850
+Oh, yes!
+
+1214
+00:55:57,550 --> 00:56:00,430
+Let's make the white shine to it.
+
+1215
+00:56:00,510 --> 00:56:01,890
+That's no problem.
+
+1216
+00:56:03,490 --> 00:56:04,470
+Here we are.
+
+1217
+00:56:05,350 --> 00:56:05,990
+Good ideas.
+
+1218
+00:56:06,090 --> 00:56:07,550
+There's no bad ideas, guys.
+
+1219
+00:56:10,110 --> 00:56:11,770
+Let's do this here.
+
+1220
+00:56:13,390 --> 00:56:14,090
+Oh, my gosh.
+
+1221
+00:56:14,550 --> 00:56:15,190
+Like...
+
+1222
+00:56:15,190 --> 00:56:15,910
+Look at this.
+
+1223
+00:56:15,990 --> 00:56:17,210
+Oh, my God!
+
+1224
+00:56:17,290 --> 00:56:17,930
+Yes!
+
+1225
+00:56:21,510 --> 00:56:24,650
+It should be both of them, right?
+
+1226
+00:56:24,650 --> 00:56:26,730
+Yes, yes.
+
+1227
+00:56:26,850 --> 00:56:30,530
+I have the shine separated, so the shine connects with the butt.
+
+1228
+00:56:32,230 --> 00:56:33,350
+It's super special.
+
+1229
+00:56:35,690 --> 00:56:36,210
+Save.
+
+1230
+00:56:37,350 --> 00:56:38,770
+Underneath this one.
+
+1231
+00:56:38,930 --> 00:56:40,450
+Then we save this one.
+
+1232
+00:56:41,070 --> 00:56:41,930
+This one.
+
+1233
+00:56:42,090 --> 00:56:43,650
+And then we come...
+
+1234
+00:56:44,670 --> 00:56:46,090
+I have so many things here.
+
+1235
+00:56:46,230 --> 00:56:46,450
+Okay.
+
+1236
+00:56:46,830 --> 00:56:48,610
+Dragoon butt cheeks.
+
+1237
+00:56:49,350 --> 00:56:50,110
+Oh, my God.
+
+1238
+00:56:51,290 --> 00:56:52,090
+Here we are.
+
+1239
+00:56:52,190 --> 00:56:53,290
+We have the butt cheeks here.
+
+1240
+00:56:53,290 --> 00:56:53,810
+Oh, my God.
+
+1241
+00:56:53,810 --> 00:56:55,150
+It looks beautiful.
+
+1242
+00:56:55,930 --> 00:56:57,790
+I'm so excited, guys.
+
+1243
+00:56:58,030 --> 00:57:00,990
+I feel like... It looks like he's touching his...
+
+1244
+00:57:00,990 --> 00:57:02,190
+Oh, my God.
+
+1245
+00:57:02,210 --> 00:57:02,330
+Wait.
+
+1246
+00:57:02,390 --> 00:57:03,910
+He should... He's spanking his butt.
+
+1247
+00:57:04,310 --> 00:57:04,990
+Oh, my God.
+
+1248
+00:57:04,990 --> 00:57:05,870
+No, he should.
+
+1249
+00:57:06,330 --> 00:57:07,290
+He should...
+
+1250
+00:57:09,250 --> 00:57:11,170
+You feel like... You see that?
+
+1251
+00:57:13,230 --> 00:57:14,270
+This is...
+
+1252
+00:57:16,030 --> 00:57:18,550
+Happy to be a Dragoon?
+
+1253
+00:57:18,670 --> 00:57:23,150
+Oh, you better be happy with what I'm doing right now.
+
+1254
+00:57:24,150 --> 00:57:26,230
+It is so... Wait.
+
+1255
+00:57:26,670 --> 00:57:27,490
+Wait, wait, wait.
+
+1256
+00:57:27,790 --> 00:57:28,590
+Do we have another one?
+
+1257
+00:57:28,590 --> 00:57:29,390
+That should be a toggle.
+
+1258
+00:57:29,570 --> 00:57:31,970
+You know, like those animations and stuff that you can do?
+
+1259
+00:57:32,690 --> 00:57:36,630
+There should be an animation where he just caresses his butt cheek.
+
+1260
+00:57:39,110 --> 00:57:40,090
+I think... Wait.
+
+1261
+00:57:40,630 --> 00:57:41,790
+Okay, now I have it.
+
+1262
+00:57:41,830 --> 00:57:42,690
+I was curious.
+
+1263
+00:57:42,690 --> 00:57:44,910
+Like having his...
+
+1264
+00:57:45,930 --> 00:57:46,530
+Yes!
+
+1265
+00:57:46,730 --> 00:57:48,970
+That should be... Can you add an animation for that?
+
+1266
+00:57:49,050 --> 00:57:49,930
+Where he does that?
+
+1267
+00:57:51,310 --> 00:57:54,270
+Can you add an animation for that?
+
+1268
+00:57:54,610 --> 00:57:57,830
+Because I know some skin suits have animations.
+
+1269
+00:57:59,150 --> 00:57:59,630
+Yes!
+
+1270
+00:58:02,990 --> 00:58:03,590
+Okay.
+
+1271
+00:58:06,150 --> 00:58:08,170
+I was distracted for a bit.
+
+1272
+00:58:08,310 --> 00:58:09,030
+I was distracted.
+
+1273
+00:58:09,930 --> 00:58:11,490
+Okay, don't get jealous.
+
+1274
+00:58:11,630 --> 00:58:13,150
+She's the one that's doing it.
+
+1275
+00:58:13,450 --> 00:58:14,990
+She's the... What do you mean?
+
+1276
+00:58:15,850 --> 00:58:17,530
+She's the one that's doing it.
+
+1277
+00:58:17,550 --> 00:58:18,930
+I just smacked the cheek.
+
+1278
+00:58:19,010 --> 00:58:20,510
+She fucking caressed it.
+
+1279
+00:58:23,850 --> 00:58:28,170
+I need to... It was looking at me like it wanted to be you.
+
+1280
+00:58:28,390 --> 00:58:28,890
+Look at it.
+
+1281
+00:58:29,590 --> 00:58:31,430
+I've gone too far.
+
+1282
+00:58:31,910 --> 00:58:33,030
+This is a group effort.
+
+1283
+00:58:36,490 --> 00:58:37,970
+This is a group effort.
+
+1284
+00:58:37,970 --> 00:58:41,030
+Imagine having those butt cheeks like...
+
+1285
+00:58:44,690 --> 00:58:45,170
+Like...
+
+1286
+00:58:45,170 --> 00:58:46,110
+No, okay.
+
+1287
+00:58:46,230 --> 00:58:46,830
+This needs to stop.
+
+1288
+00:58:46,950 --> 00:58:48,650
+Oh my gosh, this is too much.
+
+1289
+00:58:48,910 --> 00:58:51,490
+What do you mean this is too much?
+
+1290
+00:58:52,190 --> 00:58:54,810
+I mean, I was slapping his butt cheeks together.
+
+1291
+00:58:55,310 --> 00:58:56,570
+I mean, that's fine.
+
+1292
+00:58:56,810 --> 00:59:00,310
+Oh my gosh, imagine if you turn more... Wait, wait, wait, wait.
+
+1293
+00:59:00,410 --> 00:59:01,190
+I have the idea.
+
+1294
+00:59:01,830 --> 00:59:03,730
+She has more ideas.
+
+1295
+00:59:04,890 --> 00:59:09,370
+So, right now the butt would be... I mean, logical would be here, but...
+
+1296
+00:59:10,190 --> 00:59:12,610
+Let me have it here behind.
+
+1297
+00:59:14,670 --> 00:59:15,150
+Then...
+
+1298
+00:59:15,150 --> 00:59:15,790
+Comes here.
+
+1299
+00:59:19,190 --> 00:59:20,070
+Wait, let me...
+
+1300
+00:59:20,530 --> 00:59:23,030
+I think we need to make a toggle with this position.
+
+1301
+00:59:23,390 --> 00:59:24,010
+Oh, true.
+
+1302
+00:59:24,250 --> 00:59:27,190
+I think it could be weird from the moving...
+
+1303
+00:59:27,190 --> 00:59:27,630
+Yeah.
+
+1304
+00:59:27,990 --> 00:59:29,690
+Like, to the moving one here.
+
+1305
+00:59:29,690 --> 00:59:32,590
+But, let's make it a toggle butt cheek toggle.
+
+1306
+00:59:32,890 --> 00:59:33,850
+Oh, that's true.
+
+1307
+00:59:34,110 --> 00:59:34,910
+That's so true.
+
+1308
+00:59:35,630 --> 00:59:36,870
+A toggle just for the butt.
+
+1309
+00:59:37,270 --> 00:59:38,610
+Oh, I like how you think.
+
+1310
+00:59:38,870 --> 00:59:39,830
+Then he...
+
+1311
+00:59:39,830 --> 00:59:42,930
+Wait, and then we make something like this with...
+
+1312
+00:59:45,050 --> 00:59:45,610
+Chicken...
+
+1313
+00:59:47,070 --> 00:59:47,630
+Arm...
+
+1314
+00:59:47,630 --> 00:59:48,990
+Butt touch cheek.
+
+1315
+00:59:50,370 --> 00:59:52,710
+So, we make an idle for it, then.
+
+1316
+00:59:54,470 --> 00:59:57,090
+So, how do we want to have...
+
+1317
+00:59:57,090 --> 00:59:59,150
+Like, we can make...
+
+1318
+01:00:00,350 --> 01:00:02,310
+Like, first of all...
+
+1319
+01:00:02,310 --> 01:00:03,170
+How would she get in trouble?
+
+1320
+01:00:03,330 --> 01:00:04,710
+It's a fucking chicken.
+
+1321
+01:00:06,310 --> 01:00:07,270
+I don't...
+
+1322
+01:00:07,270 --> 01:00:10,790
+If Witcher or anything would do it, I mean, like...
+
+1323
+01:00:10,790 --> 01:00:11,810
+That would be weird.
+
+1324
+01:00:13,750 --> 01:00:16,370
+This chicken is a dragon.
+
+1325
+01:00:16,750 --> 01:00:19,030
+How would she get in trouble?
+
+1326
+01:00:19,650 --> 01:00:23,550
+I mean, actually, maybe I could be a little bit careful with...
+
+1327
+01:00:23,550 --> 01:00:24,590
+No, no, no, that's...
+
+1328
+01:00:24,590 --> 01:00:25,090
+This one here?
+
+1329
+01:00:25,330 --> 01:00:26,690
+No, no, no, no, that's...
+
+1330
+01:00:28,150 --> 01:00:29,250
+I'm sorry.
+
+1331
+01:00:32,350 --> 01:00:34,350
+That should be an animation.
+
+1332
+01:00:34,510 --> 01:00:35,630
+That should be an animation.
+
+1333
+01:00:36,230 --> 01:00:37,310
+That should be an animation.
+
+1334
+01:00:37,890 --> 01:00:38,510
+Yeah, yeah, yeah.
+
+1335
+01:00:41,350 --> 01:00:42,390
+I can't...
+
+1336
+01:00:42,390 --> 01:00:44,050
+This is so hilarious.
+
+1337
+01:00:44,890 --> 01:00:46,090
+It's so hilarious.
+
+1338
+01:00:46,810 --> 01:00:48,130
+Okay, wait, wait, wait, wait.
+
+1339
+01:00:50,770 --> 01:00:51,470
+But...
+
+1340
+01:00:51,470 --> 01:00:51,910
+Let's see.
+
+1341
+01:00:52,610 --> 01:00:56,000
+What has happened to us?
+
+1342
+01:00:56,690 --> 01:00:57,890
+You have become...
+
+1343
+01:00:57,890 --> 01:01:00,390
+You have evolved to something even greater.
+
+1344
+01:01:01,870 --> 01:01:02,550
+Now...
+
+1345
+01:01:02,550 --> 01:01:04,110
+We add the...
+
+1346
+01:01:04,110 --> 01:01:04,690
+Butt...
+
+1347
+01:01:06,230 --> 01:01:07,470
+Appearing toggle.
+
+1348
+01:01:07,950 --> 01:01:10,870
+The butt appearing toggle.
+
+1349
+01:01:12,310 --> 01:01:14,230
+I mean, what should I call it?
+
+1350
+01:01:14,310 --> 01:01:14,870
+Like, butt toggle?
+
+1351
+01:01:15,010 --> 01:01:15,770
+That's too boring.
+
+1352
+01:01:16,270 --> 01:01:17,630
+Butt appears.
+
+1353
+01:01:18,610 --> 01:01:20,250
+The butt jumps here.
+
+1354
+01:01:21,410 --> 01:01:24,050
+Wait, I have the idea what happens when...
+
+1355
+01:01:24,050 --> 01:01:24,430
+Oh, wait.
+
+1356
+01:01:24,710 --> 01:01:25,410
+We need to...
+
+1357
+01:01:25,410 --> 01:01:26,170
+We were...
+
+1358
+01:01:26,170 --> 01:01:27,050
+Reflect.
+
+1359
+01:01:27,270 --> 01:01:29,070
+Because right now I was doing this.
+
+1360
+01:01:29,670 --> 01:01:32,490
+So now it appears and we won't have...
+
+1361
+01:01:33,790 --> 01:01:34,510
+Like...
+
+1362
+01:01:34,510 --> 01:01:36,570
+Appearing out of nowhere.
+
+1363
+01:01:37,570 --> 01:01:41,490
+You just came back from butt implants, guys.
+
+1364
+01:01:42,350 --> 01:01:45,250
+Welcome back, the surgery was a success.
+
+1365
+01:01:48,230 --> 01:01:49,330
+I have the idea.
+
+1366
+01:01:51,990 --> 01:01:53,370
+Oh my god.
+
+1367
+01:01:53,390 --> 01:01:54,630
+Oh no, what if...
+
+1368
+01:01:54,630 --> 01:01:55,510
+It was a success, guys.
+
+1369
+01:01:55,510 --> 01:01:56,190
+Oh no, I have a...
+
+1370
+01:01:56,190 --> 01:01:58,230
+I have a very evil idea.
+
+1371
+01:01:58,610 --> 01:01:59,290
+Oh, nice.
+
+1372
+01:01:59,410 --> 01:02:00,530
+I love your ideas.
+
+1373
+01:02:01,550 --> 01:02:02,470
+Oh no, I...
+
+1374
+01:02:02,470 --> 01:02:03,490
+I'm scared.
+
+1375
+01:02:04,050 --> 01:02:04,650
+I can't do this.
+
+1376
+01:02:05,750 --> 01:02:06,470
+I can't do this.
+
+1377
+01:02:14,790 --> 01:02:15,350
+Okay.
+
+1378
+01:02:35,210 --> 01:02:36,710
+Guys, that wasn't me.
+
+1379
+01:02:37,170 --> 01:02:38,950
+That wasn't me!
+
+1380
+01:02:39,650 --> 01:02:40,830
+I can't...
+
+1381
+01:02:42,170 --> 01:02:44,030
+Man, you are German.
+
+1382
+01:02:51,010 --> 01:02:55,590
+After this idea, okay?
+
+1383
+01:02:56,130 --> 01:02:57,570
+If no one would say it right...
+
+1384
+01:02:58,750 --> 01:03:01,370
+Slap the butt or anything else.
+
+1385
+01:03:02,470 --> 01:03:03,430
+Holy fuck.
+
+1386
+01:03:05,610 --> 01:03:07,050
+I can't do this at all.
+
+1387
+01:03:08,030 --> 01:03:09,670
+I ghost right up to hell.
+
+1388
+01:03:09,670 --> 01:03:10,450
+Fuck.
+
+1389
+01:03:12,210 --> 01:03:13,570
+Oh my god.
+
+1390
+01:03:14,130 --> 01:03:15,470
+What do you mean, I did this?
+
+1391
+01:03:21,760 --> 01:03:23,300
+I did it also.
+
+1392
+01:03:25,430 --> 01:03:26,290
+I just...
+
+1393
+01:03:29,690 --> 01:03:31,090
+I'm sweating so...
+
+1394
+01:03:31,090 --> 01:03:31,930
+Wait, wait, wait, wait, wait.
+
+1395
+01:03:32,110 --> 01:03:37,270
+Actually, I only wanted to rig as a toggle, like the butt comes out, okay?
+
+1396
+01:03:37,350 --> 01:03:39,450
+This was my first intention.
+
+1397
+01:03:39,650 --> 01:03:41,750
+But then, it came to my mind...
+
+1398
+01:03:41,750 --> 01:03:42,630
+Wait a minute.
+
+1399
+01:03:43,070 --> 01:03:44,210
+Wait a minute.
+
+1400
+01:03:44,210 --> 01:03:45,210
+What if...
+
+1401
+01:03:46,150 --> 01:03:47,850
+Oh, yes, yes.
+
+1402
+01:03:48,010 --> 01:03:48,450
+Sure.
+
+1403
+01:03:49,850 --> 01:03:52,690
+I can't stop thinking of it anymore.
+
+1404
+01:03:53,610 --> 01:03:55,070
+You're haunting my dreams.
+
+1405
+01:03:56,910 --> 01:03:58,750
+Yeah, yeah, let's just say that.
+
+1406
+01:03:59,490 --> 01:04:00,910
+Shame on me!
+
+1407
+01:04:01,510 --> 01:04:03,750
+I did not do anything there!
+
+1408
+01:04:04,410 --> 01:04:06,570
+I just wanted butt cheeks, guys.
+
+1409
+01:04:06,690 --> 01:04:07,230
+That's all.
+
+1410
+01:04:12,390 --> 01:04:13,390
+Okay, okay.
+
+1411
+01:04:13,390 --> 01:04:14,570
+But where do we put the tail?
+
+1412
+01:04:16,870 --> 01:04:18,250
+This is a good question.
+
+1413
+01:04:18,350 --> 01:04:19,390
+What if we do it...
+
+1414
+01:04:19,390 --> 01:04:20,210
+Wait, wait.
+
+1415
+01:04:20,250 --> 01:04:21,010
+Should we put the tail?
+
+1416
+01:04:21,590 --> 01:04:22,010
+Yeah, yeah.
+
+1417
+01:04:22,070 --> 01:04:22,350
+No, no.
+
+1418
+01:04:22,410 --> 01:04:23,090
+We should put it...
+
+1419
+01:04:23,090 --> 01:04:26,210
+It would float up, because he wants to show the assets, you know?
+
+1420
+01:04:27,030 --> 01:04:28,510
+And that looks very wrong.
+
+1421
+01:04:28,710 --> 01:04:29,850
+That looks...
+
+1422
+01:04:31,210 --> 01:04:33,710
+It should like float up, because he's presenting it.
+
+1423
+01:04:35,610 --> 01:04:37,170
+Yeah, yeah, yeah, yeah.
+
+1424
+01:04:38,610 --> 01:04:39,330
+Like this?
+
+1425
+01:04:39,850 --> 01:04:40,570
+No, just...
+
+1426
+01:04:40,570 --> 01:04:41,430
+No, stop.
+
+1427
+01:04:41,610 --> 01:04:42,830
+No, no, no, no.
+
+1428
+01:04:42,830 --> 01:04:44,590
+Especially when you elongate the tail.
+
+1429
+01:04:44,590 --> 01:04:46,250
+We can't have the tail with the butt cheeks.
+
+1430
+01:04:46,710 --> 01:04:47,710
+Okay, okay.
+
+1431
+01:04:47,710 --> 01:04:51,290
+So like, when the butt cheek shows up, the tail disappears.
+
+1432
+01:04:52,170 --> 01:04:52,350
+Yes.
+
+1433
+01:04:52,510 --> 01:04:53,630
+Can you attach the tail in the front?
+
+1434
+01:05:02,770 --> 01:05:03,670
+It's getting...
+
+1435
+01:05:03,670 --> 01:05:07,190
+It's getting very, very, very, very, very, very problematic.
+
+1436
+01:05:11,930 --> 01:05:12,370
+Okay.
+
+1437
+01:05:13,030 --> 01:05:18,410
+Okay, so when the butt cheeks comes out, the tail like gets absorbed, so the butt cheeks gets bigger.
+
+1438
+01:05:18,750 --> 01:05:21,350
+So like, that's why the tail's gone.
+
+1439
+01:05:22,690 --> 01:05:23,890
+Ah, yeah, yeah, yeah.
+
+1440
+01:05:23,890 --> 01:05:24,450
+Yeah, yeah, yeah.
+
+1441
+01:05:24,510 --> 01:05:26,230
+It's transforming into the butt cheeks.
+
+1442
+01:05:26,230 --> 01:05:26,830
+Yeah, yeah, yeah, exactly.
+
+1443
+01:05:27,010 --> 01:05:28,030
+Yes, exactly.
+
+1444
+01:05:28,210 --> 01:05:30,050
+That's the...
+
+1445
+01:05:30,050 --> 01:05:32,190
+We chopped off this for the surgery.
+
+1446
+01:05:32,550 --> 01:05:37,190
+For the surgery, to make it more cheeked up, we cut off the tail and used it as an implant.
+
+1447
+01:05:37,350 --> 01:05:37,670
+Oh, no.
+
+1448
+01:05:37,670 --> 01:05:39,950
+The tail becomes the butt implants.
+
+1449
+01:05:41,430 --> 01:05:42,670
+It's like Fullmetal Alchemist.
+
+1450
+01:05:44,230 --> 01:05:45,570
+Oh, yes!
+
+1451
+01:05:45,570 --> 01:05:47,150
+Equal exchange, you know?
+
+1452
+01:05:49,350 --> 01:05:52,330
+We Fullmetal Alchemist your tail into a butt cheek.
+
+1453
+01:05:54,830 --> 01:05:56,650
+Fullmetal Alchemist, that's true, that's true.
+
+1454
+01:05:56,730 --> 01:05:57,830
+I mean, it does work.
+
+1455
+01:05:58,170 --> 01:06:01,830
+But, oh my gosh, my chat is like, Mimi gets a Twitch bot part 2.
+
+1456
+01:06:02,350 --> 01:06:06,150
+Because I was getting a Twitch bot once when I was rigging.
+
+1457
+01:06:07,910 --> 01:06:10,830
+I think something slipped through.
+
+1458
+01:06:12,030 --> 01:06:14,670
+Now I'm scared all the time whenever I'm rigging.
+
+1459
+01:06:16,810 --> 01:06:19,830
+Oh my god, wait, can you do that?
+
+1460
+01:06:21,010 --> 01:06:21,310
+What?
+
+1461
+01:06:21,690 --> 01:06:22,930
+What do we do?
+
+1462
+01:06:23,290 --> 01:06:24,110
+The jiggle of the butt.
+
+1463
+01:06:24,110 --> 01:06:26,090
+Yeah, I'm adding the jiggles on the butt.
+
+1464
+01:06:26,110 --> 01:06:27,830
+Oh my god, oh, it's perfect.
+
+1465
+01:06:32,050 --> 01:06:33,230
+Wait, wait, wait, wait.
+
+1466
+01:06:33,310 --> 01:06:35,010
+We want to have a...
+
+1467
+01:06:35,010 --> 01:06:37,990
+Not this one moves a little bit too much.
+
+1468
+01:06:38,130 --> 01:06:39,510
+Maybe a little bit less.
+
+1469
+01:06:42,110 --> 01:06:44,330
+Like one is moving more than the other.
+
+1470
+01:06:45,470 --> 01:06:47,410
+Oh wait, now there's like...
+
+1471
+01:06:47,410 --> 01:06:48,870
+What happened to...
+
+1472
+01:06:48,870 --> 01:06:50,350
+Wait, wait, wait.
+
+1473
+01:06:50,950 --> 01:06:52,450
+There's still one butt cheek.
+
+1474
+01:06:55,270 --> 01:06:56,710
+Oh my gosh, wait.
+
+1475
+01:06:57,270 --> 01:06:57,530
+Okay.
+
+1476
+01:06:58,870 --> 01:07:01,250
+Okay, okay, now we have...
+
+1477
+01:07:01,250 --> 01:07:04,210
+Okay, this one is a little bit buggy, but no problem, let's see.
+
+1478
+01:07:04,950 --> 01:07:06,110
+And then, how do we...
+
+1479
+01:07:06,110 --> 01:07:08,790
+Oh, now we will have butt cheeks physics whenever, wait.
+
+1480
+01:07:08,790 --> 01:07:10,970
+Butt cheek physics.
+
+1481
+01:07:11,370 --> 01:07:12,750
+Okay, how does it form?
+
+1482
+01:07:14,490 --> 01:07:15,730
+Wait, wait, wait.
+
+1483
+01:07:15,850 --> 01:07:18,710
+It will appear now in a second, like I just need to...
+
+1484
+01:07:21,470 --> 01:07:23,730
+I don't know where the arm is going.
+
+1485
+01:07:28,610 --> 01:07:30,990
+The arm was searching for something.
+
+1486
+01:07:32,050 --> 01:07:33,550
+He's like, where is it?
+
+1487
+01:07:36,030 --> 01:07:37,790
+I can't, I'm dying.
+
+1488
+01:07:40,250 --> 01:07:43,510
+There was a premature arm there, right there.
+
+1489
+01:07:43,810 --> 01:07:45,210
+He's like, where is it?
+
+1490
+01:07:47,550 --> 01:07:48,470
+Oh, wait.
+
+1491
+01:07:49,610 --> 01:07:52,410
+Like now, even if it appears atop this...
+
+1492
+01:07:53,090 --> 01:07:54,690
+Oh wait, what happened to...
+
+1493
+01:07:54,690 --> 01:07:56,450
+Wait, wait, what's going on with the butt?
+
+1494
+01:07:58,390 --> 01:07:59,510
+Like, imagine...
+
+1495
+01:07:59,510 --> 01:08:00,150
+It appears...
+
+1496
+01:08:01,030 --> 01:08:03,070
+Oh my god, look at the jiggle on the butt!
+
+1497
+01:08:04,290 --> 01:08:06,310
+Oh my god, look at the pierce!
+
+1498
+01:08:06,310 --> 01:08:07,370
+That's so nice.
+
+1499
+01:08:12,770 --> 01:08:14,210
+I'm just crying.
+
+1500
+01:08:15,430 --> 01:08:21,530
+And now we need to edit the angles to the butt.
+
+1501
+01:08:22,050 --> 01:08:22,530
+Yeah, yeah, yeah.
+
+1502
+01:08:22,790 --> 01:08:24,750
+Body Y angle.
+
+1503
+01:08:24,930 --> 01:08:28,050
+I forgot about my T, guys, so don't be...
+
+1504
+01:08:28,050 --> 01:08:29,330
+Oh, you should get your T!
+
+1505
+01:08:29,330 --> 01:08:31,410
+Yeah, yeah, you keep rigging, I'll be right back.
+
+1506
+01:08:31,890 --> 01:08:32,330
+Okay.
+
+1507
+01:08:33,430 --> 01:08:34,750
+Okay, chat, we are alone.
+
+1508
+01:08:35,550 --> 01:08:37,970
+No one saw my butt thing, right?
+
+1509
+01:08:38,490 --> 01:08:40,290
+That's good, no one saw that.
+
+1510
+01:08:46,190 --> 01:08:48,910
+I'm scared Twitch is not going to ban me, right?
+
+1511
+01:08:49,390 --> 01:08:49,830
+Builders?
+
+1512
+01:08:49,950 --> 01:08:50,610
+I hope not.
+
+1513
+01:08:50,950 --> 01:08:51,430
+Imagine.
+
+1514
+01:08:52,190 --> 01:08:53,010
+Yeah, only...
+
+1515
+01:08:53,010 --> 01:08:54,170
+This is a chicken's butt.
+
+1516
+01:08:54,250 --> 01:08:55,730
+I think this is safe to go.
+
+1517
+01:08:56,190 --> 01:08:57,510
+This is safe to go.
+
+1518
+01:08:57,630 --> 01:08:58,430
+Chicken butt.
+
+1519
+01:09:02,580 --> 01:09:04,020
+Oh, I'm dying.
+
+1520
+01:09:04,320 --> 01:09:10,840
+If someone would have told me, like, I would rig a chicken's butt in two years...
+
+1521
+01:09:10,840 --> 01:09:12,960
+Never I would have imagined I would do it.
+
+1522
+01:09:14,560 --> 01:09:16,860
+I can't save anyone from you.
+
+1523
+01:09:16,980 --> 01:09:18,500
+I want to rig those butt cheeks.
+
+1524
+01:09:18,620 --> 01:09:19,620
+They are so funny.
+
+1525
+01:09:20,400 --> 01:09:22,920
+I really love Curse rigging things.
+
+1526
+01:09:23,340 --> 01:09:24,700
+Not gonna lie, they're so funny.
+
+1527
+01:09:25,860 --> 01:09:27,300
+I really love that.
+
+1528
+01:09:29,980 --> 01:09:32,000
+Life is very strange.
+
+1529
+01:09:32,180 --> 01:09:32,660
+YouTube save.
+
+1530
+01:09:32,980 --> 01:09:34,460
+Yeah, that's actually true.
+
+1531
+01:09:34,540 --> 01:09:37,580
+YouTube save, but Twitch can't be a real meanie.
+
+1532
+01:09:40,160 --> 01:09:41,840
+Twitch doesn't like...
+
+1533
+01:09:42,960 --> 01:09:44,080
+butt physics.
+
+1534
+01:09:47,240 --> 01:09:50,680
+She can't be stopped anymore, even without talking.
+
+1535
+01:09:50,880 --> 01:09:51,660
+No, never.
+
+1536
+01:09:53,320 --> 01:09:57,040
+And every one of you can have fun with those, with this little feller.
+
+1537
+01:09:58,320 --> 01:09:58,880
+Like...
+
+1538
+01:09:58,880 --> 01:10:01,060
+Imagine having...
+
+1539
+01:10:01,060 --> 01:10:02,960
+Oops, I always put the...
+
+1540
+01:10:04,120 --> 01:10:04,680
+Like...
+
+1541
+01:10:04,680 --> 01:10:06,280
+We only need to connect the butt.
+
+1542
+01:10:07,680 --> 01:10:08,980
+And it will be so funny.
+
+1543
+01:10:09,710 --> 01:10:12,220
+Ah, wait.
+
+1544
+01:10:12,600 --> 01:10:12,920
+Wait.
+
+1545
+01:10:13,360 --> 01:10:16,880
+Wait a minute, we need to connect the leggies to it.
+
+1546
+01:10:19,740 --> 01:10:24,080
+We want to have them connected to the chicken.
+
+1547
+01:10:27,660 --> 01:10:28,280
+And...
+
+1548
+01:10:28,280 --> 01:10:29,100
+Like this.
+
+1549
+01:10:30,300 --> 01:10:32,980
+We can add the...
+
+1550
+01:10:32,980 --> 01:10:34,420
+Chicken butt.
+
+1551
+01:10:34,920 --> 01:10:35,920
+What I need to see...
+
+1552
+01:10:35,920 --> 01:10:36,160
+Oh my god.
+
+1553
+01:10:36,700 --> 01:10:37,540
+Look at him go.
+
+1554
+01:10:38,900 --> 01:10:39,620
+Yes.
+
+1555
+01:10:43,000 --> 01:10:45,960
+What the fuck is wrong with the butt?
+
+1556
+01:10:46,980 --> 01:10:47,820
+It comes up.
+
+1557
+01:10:48,560 --> 01:10:54,260
+Oh my god, he's a freak.
+
+1558
+01:11:00,260 --> 01:11:02,080
+Look at this.
+
+1559
+01:11:02,200 --> 01:11:05,880
+Oh, we need to fix the arm here, you know.
+
+1560
+01:11:08,460 --> 01:11:09,820
+It's not...
+
+1561
+01:11:09,820 --> 01:11:12,140
+It's not doing anything saucy, okay?
+
+1562
+01:11:13,360 --> 01:11:15,420
+Oh my god, he's beautiful.
+
+1563
+01:11:16,320 --> 01:11:17,860
+My little freaking boy.
+
+1564
+01:11:18,840 --> 01:11:20,480
+Like, look at this now here.
+
+1565
+01:11:20,940 --> 01:11:22,800
+This is the base we have so far.
+
+1566
+01:11:23,100 --> 01:11:24,620
+Yeah, but his tail is gone.
+
+1567
+01:11:26,240 --> 01:11:31,760
+Yeah, right now because I'm scared of what's happening right now when the butt is activated.
+
+1568
+01:11:33,340 --> 01:11:34,680
+And then here...
+
+1569
+01:11:34,680 --> 01:11:35,860
+We need to...
+
+1570
+01:11:35,860 --> 01:11:38,060
+We need to change how the butt works right.
+
+1571
+01:11:38,200 --> 01:11:39,780
+Right now it looks like the...
+
+1572
+01:11:40,360 --> 01:11:42,960
+Dragon is moving, but without the...
+
+1573
+01:11:42,960 --> 01:11:44,880
+But his butt stays on the same.
+
+1574
+01:11:45,200 --> 01:11:46,540
+I like how, like...
+
+1575
+01:11:46,540 --> 01:11:50,680
+The butt physics is, like, so much more advanced than any...
+
+1576
+01:11:52,200 --> 01:11:53,320
+Anything else.
+
+1577
+01:11:55,060 --> 01:11:56,800
+It's a special...
+
+1578
+01:11:58,400 --> 01:11:59,920
+Wait, wait, what if I...
+
+1579
+01:12:00,500 --> 01:12:01,060
+Wait.
+
+1580
+01:12:02,220 --> 01:12:04,080
+Okay, right now this works.
+
+1581
+01:12:04,080 --> 01:12:05,260
+And now we can...
+
+1582
+01:12:06,400 --> 01:12:07,280
+No, I always...
+
+1583
+01:12:08,580 --> 01:12:11,100
+So, and then we add...
+
+1584
+01:12:11,100 --> 01:12:12,520
+I think, like this.
+
+1585
+01:12:12,940 --> 01:12:15,880
+I mean, it looks still wrong, but I think it will work out.
+
+1586
+01:12:16,020 --> 01:12:16,980
+At least it has a butt.
+
+1587
+01:12:17,420 --> 01:12:18,220
+We should be thankful.
+
+1588
+01:12:19,020 --> 01:12:19,880
+You should be thankful.
+
+1589
+01:12:20,160 --> 01:12:22,280
+Guys, the surgery might not be a success.
+
+1590
+01:12:23,440 --> 01:12:25,420
+We put it in the wrong area.
+
+1591
+01:12:28,980 --> 01:12:31,580
+Just a tiny bit, but at least it's there.
+
+1592
+01:12:32,360 --> 01:12:33,440
+At least it's there.
+
+1593
+01:12:33,440 --> 01:12:35,280
+That's the most important thing.
+
+1594
+01:12:35,320 --> 01:12:36,600
+Sorry, the surgery...
+
+1595
+01:12:36,600 --> 01:12:38,980
+We might have botched the surgery a little bit.
+
+1596
+01:12:39,200 --> 01:12:40,860
+But at least it looks good.
+
+1597
+01:12:42,420 --> 01:12:44,200
+At least the jiggle is there.
+
+1598
+01:12:46,560 --> 01:12:47,960
+What's happening there?
+
+1599
+01:12:48,000 --> 01:12:48,860
+I have no idea.
+
+1600
+01:12:52,920 --> 01:12:54,400
+It has a very...
+
+1601
+01:12:54,400 --> 01:12:55,140
+Actually, wait.
+
+1602
+01:12:55,860 --> 01:12:59,000
+It wasn't as equivalent as the exchange as it was.
+
+1603
+01:12:59,140 --> 01:13:00,220
+I have no idea.
+
+1604
+01:13:00,440 --> 01:13:02,740
+At least I want my tail back.
+
+1605
+01:13:05,740 --> 01:13:07,380
+Guys, this is better than a tail.
+
+1606
+01:13:07,460 --> 01:13:08,240
+What do you mean?
+
+1607
+01:13:10,900 --> 01:13:11,500
+Guys, no.
+
+1608
+01:13:11,600 --> 01:13:13,800
+Don't sue for medical malpractice, guys.
+
+1609
+01:13:13,960 --> 01:13:14,900
+I think...
+
+1610
+01:13:14,900 --> 01:13:15,540
+Okay, look.
+
+1611
+01:13:15,720 --> 01:13:17,780
+Even though it was placed wrong...
+
+1612
+01:13:17,780 --> 01:13:18,440
+It still...
+
+1613
+01:13:18,440 --> 01:13:19,800
+At least it looks good.
+
+1614
+01:13:21,240 --> 01:13:23,280
+What if we have it like this now?
+
+1615
+01:13:23,560 --> 01:13:25,380
+Now, it's wrongly placed.
+
+1616
+01:13:25,800 --> 01:13:28,200
+But it has always the butt with the toggle.
+
+1617
+01:13:29,980 --> 01:13:31,480
+As long as, you know...
+
+1618
+01:13:31,480 --> 01:13:31,560
+It's fine.
+
+1619
+01:13:34,600 --> 01:13:36,220
+The butt is a little bit wrong.
+
+1620
+01:13:36,600 --> 01:13:37,060
+Why is it...
+
+1621
+01:13:37,060 --> 01:13:40,420
+Can we not make it disappear when he's facing in the front?
+
+1622
+01:13:40,740 --> 01:13:42,200
+I was gonna say like...
+
+1623
+01:13:42,200 --> 01:13:43,740
+Are we gonna move it to the front?
+
+1624
+01:13:44,340 --> 01:13:46,700
+Wait, is that TOS if we move that to the front?
+
+1625
+01:13:48,240 --> 01:13:49,720
+I would be scared.
+
+1626
+01:13:51,280 --> 01:13:53,360
+Imagine getting banned for that.
+
+1627
+01:13:55,200 --> 01:13:57,060
+Banned because of a chicken butt.
+
+1628
+01:13:59,800 --> 01:14:01,660
+Could be me, I swear.
+
+1629
+01:14:02,480 --> 01:14:04,180
+My luck would be like this.
+
+1630
+01:14:04,820 --> 01:14:07,400
+Okay, like...
+
+1631
+01:14:07,400 --> 01:14:08,160
+Okay.
+
+1632
+01:14:08,760 --> 01:14:10,620
+This is going to be the worst.
+
+1633
+01:14:14,680 --> 01:14:16,360
+My butt's up here.
+
+1634
+01:14:18,900 --> 01:14:21,360
+Oh no, I have so many of them.
+
+1635
+01:14:21,540 --> 01:14:22,260
+Yeah, like...
+
+1636
+01:14:22,680 --> 01:14:24,900
+When it's over there, I think the butt shouldn't be showing.
+
+1637
+01:14:25,960 --> 01:14:27,140
+Can I have it here?
+
+1638
+01:14:27,940 --> 01:14:30,700
+But this is going to be so hard to have it here.
+
+1639
+01:14:37,610 --> 01:14:41,670
+The butt comes out from nowhere from the back and the front.
+
+1640
+01:14:41,910 --> 01:14:42,810
+Hello, here I am.
+
+1641
+01:14:43,110 --> 01:14:43,790
+I just...
+
+1642
+01:14:43,790 --> 01:14:45,450
+I want to be here too.
+
+1643
+01:14:46,490 --> 01:14:46,750
+Hello.
+
+1644
+01:14:50,320 --> 01:14:51,160
+I'm here.
+
+1645
+01:14:52,600 --> 01:14:54,280
+I see double chin.
+
+1646
+01:14:54,660 --> 01:14:55,200
+Oh no.
+
+1647
+01:14:56,080 --> 01:14:57,040
+It's coming out.
+
+1648
+01:14:57,040 --> 01:14:57,460
+Can we...
+
+1649
+01:14:57,460 --> 01:15:00,620
+Can we get them to work with this part of it?
+
+1650
+01:15:01,760 --> 01:15:02,440
+Just curious.
+
+1651
+01:15:02,600 --> 01:15:05,300
+This is the most time we spent on the rigging part, by the way.
+
+1652
+01:15:05,380 --> 01:15:07,180
+The butt has taken most of our time.
+
+1653
+01:15:07,940 --> 01:15:09,740
+It's the most important part.
+
+1654
+01:15:16,050 --> 01:15:20,290
+This is absolutely the most important part of rigging.
+
+1655
+01:15:20,410 --> 01:15:21,570
+You think about this.
+
+1656
+01:15:21,730 --> 01:15:23,230
+Oh my god, wait.
+
+1657
+01:15:24,970 --> 01:15:26,610
+Wait, yeah, yeah, wait, wait, wait.
+
+1658
+01:15:27,390 --> 01:15:28,710
+Wait, wait.
+
+1659
+01:15:28,770 --> 01:15:29,990
+Further down, further down.
+
+1660
+01:15:30,150 --> 01:15:31,410
+No, it should be further down.
+
+1661
+01:15:33,770 --> 01:15:34,550
+No, no, no.
+
+1662
+01:15:34,590 --> 01:15:35,630
+Oh my god.
+
+1663
+01:15:35,690 --> 01:15:36,950
+The double chin.
+
+1664
+01:15:37,170 --> 01:15:38,610
+Oh, you're...
+
+1665
+01:15:42,010 --> 01:15:45,290
+Yeah, yeah.
+
+1666
+01:15:45,490 --> 01:15:46,550
+And then...
+
+1667
+01:15:46,550 --> 01:15:48,530
+Wait, remove the last one.
+
+1668
+01:15:48,730 --> 01:15:49,850
+Remove the second one.
+
+1669
+01:15:50,570 --> 01:15:51,130
+This one?
+
+1670
+01:15:51,390 --> 01:15:51,970
+Yeah, yeah.
+
+1671
+01:15:52,170 --> 01:15:55,490
+And then, can you make the line to the left just...
+
+1672
+01:16:03,330 --> 01:16:04,490
+This was your chat.
+
+1673
+01:16:04,590 --> 01:16:05,530
+This is not on me.
+
+1674
+01:16:08,530 --> 01:16:09,970
+Wait, can you give him eye bags?
+
+1675
+01:16:10,430 --> 01:16:11,590
+Can you give him eye bags?
+
+1676
+01:16:11,690 --> 01:16:12,330
+Oh, eye bags.
+
+1677
+01:16:12,470 --> 01:16:13,070
+Let me see.
+
+1678
+01:16:13,290 --> 01:16:13,670
+Like...
+
+1679
+01:16:13,670 --> 01:16:15,170
+I mean, this is like...
+
+1680
+01:16:15,170 --> 01:16:16,290
+Like, if we can...
+
+1681
+01:16:16,290 --> 01:16:16,790
+Wait a minute.
+
+1682
+01:16:25,740 --> 01:16:28,460
+Okay, but then darken the bags a little bit.
+
+1683
+01:16:29,400 --> 01:16:30,360
+Let me see.
+
+1684
+01:16:30,360 --> 01:16:32,480
+Let me see if it's possible.
+
+1685
+01:16:33,140 --> 01:16:34,040
+I think I did good.
+
+1686
+01:16:35,480 --> 01:16:36,120
+Yeah, yeah.
+
+1687
+01:16:36,120 --> 01:16:37,360
+Keep darkening a little bit.
+
+1688
+01:16:38,780 --> 01:16:42,220
+A little bit more to this color.
+
+1689
+01:16:42,980 --> 01:16:47,300
+I mean, let me make the line here a little bit more rounded for this part.
+
+1690
+01:16:47,880 --> 01:16:54,600
+Oh my god!
+
+1691
+01:16:59,030 --> 01:17:00,510
+This is really depressing.
+
+1692
+01:17:03,310 --> 01:17:04,170
+Okay.
+
+1693
+01:17:05,950 --> 01:17:07,110
+Here we go.
+
+1694
+01:17:07,230 --> 01:17:07,510
+Here we are.
+
+1695
+01:17:08,650 --> 01:17:12,190
+This impression has gone too far.
+
+1696
+01:17:13,790 --> 01:17:14,790
+Oh, then we have...
+
+1697
+01:17:18,420 --> 01:17:19,670
+What the fuck?
+
+1698
+01:17:19,770 --> 01:17:20,570
+What was that?
+
+1699
+01:17:20,910 --> 01:17:21,820
+You just like...
+
+1700
+01:17:22,710 --> 01:17:24,010
+What was that?
+
+1701
+01:17:26,250 --> 01:17:29,110
+Maybe I've rigged everything on the butt.
+
+1702
+01:17:31,750 --> 01:17:32,190
+What?
+
+1703
+01:17:32,190 --> 01:17:34,150
+But this looks very wrong, like...
+
+1704
+01:17:40,030 --> 01:17:42,330
+This is how your boobs would have been.
+
+1705
+01:17:46,490 --> 01:17:47,670
+You should keep that.
+
+1706
+01:17:47,770 --> 01:17:48,670
+No, you should keep that.
+
+1707
+01:17:48,750 --> 01:17:49,190
+That's good.
+
+1708
+01:17:49,690 --> 01:17:51,770
+I can keep that, but after stream.
+
+1709
+01:17:51,890 --> 01:17:53,450
+Because I know for sure if it's...
+
+1710
+01:17:53,450 --> 01:17:56,970
+If it's looking like a boob, but just a little tiny bit.
+
+1711
+01:18:00,250 --> 01:18:01,350
+But this is...
+
+1712
+01:18:02,530 --> 01:18:03,150
+That's great.
+
+1713
+01:18:03,430 --> 01:18:03,750
+Special.
+
+1714
+01:18:04,690 --> 01:18:05,250
+Okay, okay.
+
+1715
+01:18:05,390 --> 01:18:07,850
+So, what else do we have to do?
+
+1716
+01:18:09,150 --> 01:18:12,110
+We could add now physics to the...
+
+1717
+01:18:12,810 --> 01:18:14,530
+Of course, to the double cheeks.
+
+1718
+01:18:14,610 --> 01:18:15,430
+Yeah, yeah, yeah.
+
+1719
+01:18:15,790 --> 01:18:17,130
+Well, first of all, the hair.
+
+1720
+01:18:17,430 --> 01:18:18,410
+Let's add the hair.
+
+1721
+01:18:18,730 --> 01:18:20,770
+Only happy little accidents, guys.
+
+1722
+01:18:21,570 --> 01:18:23,330
+Wait, what the fuck happened?
+
+1723
+01:18:23,330 --> 01:18:23,950
+What happened?
+
+1724
+01:18:26,550 --> 01:18:28,730
+Butt cheeks are making a dance party.
+
+1725
+01:18:29,170 --> 01:18:30,330
+Oh my god.
+
+1726
+01:18:32,510 --> 01:18:36,330
+These are things that can help very easily if you...
+
+1727
+01:18:38,690 --> 01:18:40,270
+Not undo the params.
+
+1728
+01:18:40,450 --> 01:18:41,570
+Like, now it's working, like...
+
+1729
+01:18:41,570 --> 01:18:42,210
+Okay, okay.
+
+1730
+01:18:42,270 --> 01:18:43,650
+I was like, what happened?
+
+1731
+01:18:43,890 --> 01:18:45,190
+Oh, you look so depressed.
+
+1732
+01:18:46,550 --> 01:18:48,030
+You look so sad.
+
+1733
+01:18:48,410 --> 01:18:49,910
+No, don't be sad.
+
+1734
+01:18:50,110 --> 01:18:50,930
+Turn to the left.
+
+1735
+01:18:51,130 --> 01:18:52,330
+Don't be sad when you turn...
+
+1736
+01:18:52,330 --> 01:18:55,730
+Wait, wait, when you turn to the left, you won't be sad anymore.
+
+1737
+01:18:56,950 --> 01:18:58,570
+Oh, you gotta fix that.
+
+1738
+01:18:58,790 --> 01:18:59,730
+You gotta fix that.
+
+1739
+01:19:02,270 --> 01:19:04,530
+Wait, wait, we make the butt disappear.
+
+1740
+01:19:04,790 --> 01:19:07,530
+But let me add the toggle for the chin.
+
+1741
+01:19:08,530 --> 01:19:09,650
+Extra chin.
+
+1742
+01:19:10,790 --> 01:19:13,030
+No, you guys look beautiful.
+
+1743
+01:19:14,110 --> 01:19:16,230
+You guys look so beautiful.
+
+1744
+01:19:16,670 --> 01:19:18,350
+The sad twerking.
+
+1745
+01:19:19,690 --> 01:19:22,620
+I was starting with this being like...
+
+1746
+01:19:23,110 --> 01:19:26,290
+Like a special gift for the community.
+
+1747
+01:19:26,490 --> 01:19:27,230
+And now, what have I done?
+
+1748
+01:19:27,230 --> 01:19:28,290
+It is so special.
+
+1749
+01:19:28,290 --> 01:19:29,330
+What have I done?
+
+1750
+01:19:29,370 --> 01:19:30,810
+It's so special.
+
+1751
+01:19:31,250 --> 01:19:33,030
+I think they love it.
+
+1752
+01:19:33,590 --> 01:19:35,350
+The saggy is a dragoon.
+
+1753
+01:19:36,990 --> 01:19:38,310
+Depressed dragoon.
+
+1754
+01:19:39,850 --> 01:19:40,950
+Here we are.
+
+1755
+01:19:41,290 --> 01:19:43,570
+This cake is all I have.
+
+1756
+01:19:47,210 --> 01:19:48,350
+No, we delete.
+
+1757
+01:19:48,610 --> 01:19:49,490
+Oh, like we have the Ivex toggle.
+
+1758
+01:19:49,490 --> 01:19:51,070
+You guys look so cool.
+
+1759
+01:19:51,310 --> 01:19:52,010
+What do you mean?
+
+1760
+01:19:55,570 --> 01:19:58,470
+For the extra chin toggle, we can make it more...
+
+1761
+01:19:58,470 --> 01:20:00,210
+More funny appearing.
+
+1762
+01:20:00,530 --> 01:20:02,090
+Like coming out here.
+
+1763
+01:20:03,830 --> 01:20:06,450
+And then it appears like...
+
+1764
+01:20:06,450 --> 01:20:06,990
+Like this.
+
+1765
+01:20:07,030 --> 01:20:08,230
+It looks a little bit...
+
+1766
+01:20:08,230 --> 01:20:09,830
+Like it's just growing.
+
+1767
+01:20:12,490 --> 01:20:13,490
+It's good.
+
+1768
+01:20:13,490 --> 01:20:14,710
+I love it.
+
+1769
+01:20:16,470 --> 01:20:17,790
+It's so special.
+
+1770
+01:20:18,250 --> 01:20:19,370
+It's so special.
+
+1771
+01:20:19,990 --> 01:20:21,150
+Oh, wait.
+
+1772
+01:20:21,250 --> 01:20:23,970
+Yeah, we have the arm jiggles.
+
+1773
+01:20:24,230 --> 01:20:27,530
+Let me add this with the upper part here.
+
+1774
+01:20:32,650 --> 01:20:33,790
+This one.
+
+1775
+01:20:34,470 --> 01:20:38,050
+Let me connect those lines because it looks weird.
+
+1776
+01:20:44,970 --> 01:20:46,990
+And let me see how it looks.
+
+1777
+01:20:46,990 --> 01:20:48,650
+I always check out...
+
+1778
+01:20:48,650 --> 01:20:49,450
+Like, look at this.
+
+1779
+01:20:49,890 --> 01:20:51,170
+Look, this looks so squishy.
+
+1780
+01:20:51,950 --> 01:20:53,050
+It's so squishy.
+
+1781
+01:20:53,830 --> 01:20:55,330
+See, look at that, guys.
+
+1782
+01:20:55,430 --> 01:20:56,230
+You look beautiful.
+
+1783
+01:20:57,430 --> 01:20:57,890
+See?
+
+1784
+01:20:59,630 --> 01:21:01,050
+Just trust the process.
+
+1785
+01:21:01,330 --> 01:21:03,150
+Yeah, trust the process, guys.
+
+1786
+01:21:03,270 --> 01:21:03,950
+Look at that.
+
+1787
+01:21:04,010 --> 01:21:04,810
+It's beautiful.
+
+1788
+01:21:06,590 --> 01:21:06,970
+I know.
+
+1789
+01:21:07,090 --> 01:21:12,230
+It looks so cute.
+
+1790
+01:21:12,230 --> 01:21:17,250
+And now what we can do is like making an eye animation.
+
+1791
+01:21:22,150 --> 01:21:25,090
+I need to save my model before...
+
+1792
+01:21:25,090 --> 01:21:25,890
+Oh yeah, true.
+
+1793
+01:21:26,150 --> 01:21:28,670
+It would suck if we just lost everything.
+
+1794
+01:21:29,050 --> 01:21:31,010
+After everything we went through.
+
+1795
+01:21:31,090 --> 01:21:31,630
+Imagine.
+
+1796
+01:21:31,910 --> 01:21:33,510
+No, this would be so sad.
+
+1797
+01:21:33,890 --> 01:21:34,770
+So, here we are.
+
+1798
+01:21:35,050 --> 01:21:37,050
+We add the eye animation.
+
+1799
+01:21:37,330 --> 01:21:39,070
+That is the animation for the eyes.
+
+1800
+01:21:39,070 --> 01:21:42,250
+Now, that makes it like open.
+
+1801
+01:21:42,430 --> 01:21:42,930
+Wait, wait, wait.
+
+1802
+01:21:42,950 --> 01:21:43,450
+Are you done?
+
+1803
+01:21:44,710 --> 01:21:46,670
+For the base settings, yes.
+
+1804
+01:21:46,970 --> 01:21:47,270
+Wait, no.
+
+1805
+01:21:48,370 --> 01:21:50,030
+We didn't add water balloons.
+
+1806
+01:21:50,830 --> 01:21:51,210
+Yes, yes.
+
+1807
+01:21:51,210 --> 01:21:51,590
+Don't worry.
+
+1808
+01:21:51,730 --> 01:21:52,810
+We wanna add them.
+
+1809
+01:21:52,990 --> 01:21:53,470
+We will add them.
+
+1810
+01:21:53,530 --> 01:21:57,810
+I just gotta be sure that we remember the most important part.
+
+1811
+01:21:58,010 --> 01:22:01,930
+I just need to be sure we remember the most important part of this entire project.
+
+1812
+01:22:01,950 --> 01:22:02,970
+This is very important.
+
+1813
+01:22:03,850 --> 01:22:07,110
+Let me save them here.
+
+1814
+01:22:07,510 --> 01:22:08,510
+I can add them.
+
+1815
+01:22:08,510 --> 01:22:11,010
+But just let me do one thing.
+
+1816
+01:22:12,430 --> 01:22:17,050
+I want to add the idol for it.
+
+1817
+01:22:19,050 --> 01:22:22,510
+Because I want to have the idol for it, like...
+
+1818
+01:22:23,850 --> 01:22:24,190
+Here?
+
+1819
+01:22:29,630 --> 01:22:32,270
+Having it a little bit...
+
+1820
+01:22:32,270 --> 01:22:34,850
+You should like, unsync his play so it's like...
+
+1821
+01:22:34,850 --> 01:22:36,250
+Yes, yes.
+
+1822
+01:22:36,250 --> 01:22:38,170
+Yeah, yeah, so one eye first.
+
+1823
+01:22:38,370 --> 01:22:40,570
+Yes, you know exactly what I mean.
+
+1824
+01:22:43,090 --> 01:22:43,690
+Then...
+
+1825
+01:22:44,090 --> 01:22:45,570
+We open this one up.
+
+1826
+01:22:46,350 --> 01:22:48,970
+We wait with the other one a tiny little bit.
+
+1827
+01:22:49,170 --> 01:22:50,870
+Open it up.
+
+1828
+01:22:51,590 --> 01:22:53,130
+So, let me see.
+
+1829
+01:22:57,650 --> 01:22:59,170
+We just add this.
+
+1830
+01:23:00,450 --> 01:23:04,950
+And now, we are going to add the balloons.
+
+1831
+01:23:05,650 --> 01:23:06,130
+Yes.
+
+1832
+01:23:06,470 --> 01:23:08,770
+Oh, you see the balloons I sent you?
+
+1833
+01:23:09,530 --> 01:23:10,950
+Yes, I downloaded them.
+
+1834
+01:23:14,350 --> 01:23:18,290
+Good thing is, I can just import it here.
+
+1835
+01:23:19,770 --> 01:23:20,670
+As new art mesh.
+
+1836
+01:23:22,510 --> 01:23:23,470
+Yeah, so...
+
+1837
+01:23:23,470 --> 01:23:26,870
+So, we can make it smaller or squish it a little bit.
+
+1838
+01:23:27,350 --> 01:23:28,290
+If needed to be.
+
+1839
+01:23:28,490 --> 01:23:28,950
+And then...
+
+1840
+01:23:28,950 --> 01:23:29,770
+And then...
+
+1841
+01:23:32,790 --> 01:23:34,530
+Oh my god, wait, wait, wait, wait.
+
+1842
+01:23:34,630 --> 01:23:35,670
+Is that bannable?
+
+1843
+01:23:35,950 --> 01:23:36,630
+When you...
+
+1844
+01:23:36,630 --> 01:23:39,850
+There should be a toggle where it just spawns in when you're teabagging.
+
+1845
+01:23:40,590 --> 01:23:41,650
+Oh my gosh!
+
+1846
+01:23:42,070 --> 01:23:42,870
+No, I would...
+
+1847
+01:23:42,870 --> 01:23:44,110
+No, I wouldn't do that.
+
+1848
+01:23:44,250 --> 01:23:44,910
+Okay, okay.
+
+1849
+01:23:44,910 --> 01:23:46,170
+I can edit for you.
+
+1850
+01:23:46,250 --> 01:23:46,650
+Don't...
+
+1851
+01:23:46,650 --> 01:23:47,250
+No problem.
+
+1852
+01:23:47,370 --> 01:23:48,570
+I can edit for you.
+
+1853
+01:23:49,170 --> 01:23:49,610
+But...
+
+1854
+01:23:49,610 --> 01:23:51,850
+Doing that on stream can be...
+
+1855
+01:23:56,290 --> 01:23:57,190
+Okay, okay.
+
+1856
+01:23:57,290 --> 01:23:57,950
+And then...
+
+1857
+01:23:57,950 --> 01:24:01,050
+Do you think you can add jiggle fixes on a PNG?
+
+1858
+01:24:01,890 --> 01:24:03,550
+Of course I can.
+
+1859
+01:24:03,670 --> 01:24:04,230
+I can't...
+
+1860
+01:24:04,230 --> 01:24:06,950
+I can't have, like, different...
+
+1861
+01:24:06,950 --> 01:24:08,150
+But we can do something.
+
+1862
+01:24:08,290 --> 01:24:08,930
+Let me try.
+
+1863
+01:24:09,150 --> 01:24:10,390
+Let me try some...
+
+1864
+01:24:10,390 --> 01:24:13,250
+Or we can create our own water balloon and just copy the design.
+
+1865
+01:24:14,350 --> 01:24:14,670
+Oh, wait.
+
+1866
+01:24:14,730 --> 01:24:16,350
+I have the idea of ideas.
+
+1867
+01:24:16,530 --> 01:24:16,670
+Wait.
+
+1868
+01:24:16,910 --> 01:24:17,950
+Delete this here.
+
+1869
+01:24:18,370 --> 01:24:20,950
+I add them in Photoshop and this just...
+
+1870
+01:24:21,790 --> 01:24:25,350
+Put them into blue balloon and...
+
+1871
+01:24:25,350 --> 01:24:25,870
+Water balloon.
+
+1872
+01:24:25,870 --> 01:24:26,690
+Or just...
+
+1873
+01:24:27,870 --> 01:24:28,830
+That's perfect.
+
+1874
+01:24:29,710 --> 01:24:31,170
+We can do it.
+
+1875
+01:24:32,050 --> 01:24:33,470
+As nothing is impossible.
+
+1876
+01:24:33,790 --> 01:24:35,010
+Imagine that then for cheap bagging.
+
+1877
+01:24:37,030 --> 01:24:38,770
+I can't get those out of my head.
+
+1878
+01:24:38,830 --> 01:24:39,470
+I will do that.
+
+1879
+01:24:39,890 --> 01:24:40,750
+I need to do it later.
+
+1880
+01:24:40,930 --> 01:24:41,490
+It's so funny.
+
+1881
+01:24:48,350 --> 01:24:51,430
+So, what I'm having here right now is...
+
+1882
+01:24:52,010 --> 01:24:52,490
+Balloons.
+
+1883
+01:24:54,230 --> 01:24:55,110
+I'm going to cut them.
+
+1884
+01:24:55,110 --> 01:24:57,770
+They are very simple, so...
+
+1885
+01:24:57,770 --> 01:25:00,210
+I hope it will be relatively fast.
+
+1886
+01:25:00,950 --> 01:25:01,490
+Wait still.
+
+1887
+01:25:01,670 --> 01:25:03,670
+I don't use Photoshop so often.
+
+1888
+01:25:04,610 --> 01:25:07,070
+Where is my magic tool?
+
+1889
+01:25:08,750 --> 01:25:08,970
+Here.
+
+1890
+01:25:09,610 --> 01:25:10,250
+My...
+
+1891
+01:25:10,250 --> 01:25:10,590
+This one.
+
+1892
+01:25:15,910 --> 01:25:18,730
+We are going to erase this part here.
+
+1893
+01:25:19,710 --> 01:25:21,110
+So we have the...
+
+1894
+01:25:21,630 --> 01:25:22,550
+Oh, just the blue?
+
+1895
+01:25:23,210 --> 01:25:25,730
+And I will use the blue one.
+
+1896
+01:25:25,950 --> 01:25:28,530
+Copy-paste it and make it in a different color.
+
+1897
+01:25:28,790 --> 01:25:29,850
+Because then it will work too.
+
+1898
+01:25:30,010 --> 01:25:31,110
+Because then we have two balloons.
+
+1899
+01:25:31,110 --> 01:25:31,830
+That's true.
+
+1900
+01:25:33,290 --> 01:25:34,090
+It's super easy.
+
+1901
+01:25:34,110 --> 01:25:34,790
+Oh, she's cooking.
+
+1902
+01:25:34,950 --> 01:25:35,810
+She's cooking, guys.
+
+1903
+01:25:36,370 --> 01:25:37,070
+This is her idea.
+
+1904
+01:25:37,250 --> 01:25:39,050
+Remember, this is her...
+
+1905
+01:25:40,630 --> 01:25:42,370
+Remember, this is her idea.
+
+1906
+01:25:45,710 --> 01:25:47,990
+I mean, I had some questionable ideas.
+
+1907
+01:25:48,410 --> 01:25:49,810
+But that's not...
+
+1908
+01:25:49,810 --> 01:25:51,090
+I'm innocent in this one.
+
+1909
+01:25:52,970 --> 01:25:54,550
+And now we copy...
+
+1910
+01:25:55,110 --> 01:25:55,850
+Not this one.
+
+1911
+01:25:57,130 --> 01:25:58,570
+Copy-paste this one.
+
+1912
+01:25:59,950 --> 01:26:01,790
+And have it in a different color.
+
+1913
+01:26:01,950 --> 01:26:03,850
+Which one do we like to get?
+
+1914
+01:26:04,670 --> 01:26:05,950
+I think orange was good.
+
+1915
+01:26:06,370 --> 01:26:07,710
+I think orange was really good.
+
+1916
+01:26:09,030 --> 01:26:11,430
+Let me get something similar to orange.
+
+1917
+01:26:13,510 --> 01:26:14,730
+I'm not so good with...
+
+1918
+01:26:20,550 --> 01:26:21,810
+Let me try this.
+
+1919
+01:26:21,910 --> 01:26:25,010
+And then we get some colors on there.
+
+1920
+01:26:28,510 --> 01:26:29,150
+Like...
+
+1921
+01:26:29,150 --> 01:26:31,430
+Then we get some saturation.
+
+1922
+01:26:33,470 --> 01:26:36,510
+I'm just trying to get near this.
+
+1923
+01:26:46,640 --> 01:26:47,500
+Oh, wait.
+
+1924
+01:26:47,540 --> 01:26:48,720
+I can do it like this.
+
+1925
+01:26:49,080 --> 01:26:49,440
+Wait.
+
+1926
+01:26:50,080 --> 01:26:54,460
+We take the exact color from this one, actually.
+
+1927
+01:26:55,460 --> 01:26:57,200
+And put it in here.
+
+1928
+01:26:59,220 --> 01:26:59,800
+She's cooking.
+
+1929
+01:27:00,020 --> 01:27:02,080
+Then we take this one.
+
+1930
+01:27:02,080 --> 01:27:04,560
+Put it in here.
+
+1931
+01:27:05,100 --> 01:27:07,200
+And we take this one.
+
+1932
+01:27:10,920 --> 01:27:12,000
+So, okay.
+
+1933
+01:27:12,460 --> 01:27:13,000
+We have it.
+
+1934
+01:27:13,540 --> 01:27:14,340
+Okay, we are done.
+
+1935
+01:27:14,820 --> 01:27:15,960
+We're adding this one now.
+
+1936
+01:27:16,440 --> 01:27:17,500
+As a PSD.
+
+1937
+01:27:17,740 --> 01:27:19,520
+And we have our balloons ready.
+
+1938
+01:27:20,020 --> 01:27:22,020
+And left and right separated, actually.
+
+1939
+01:27:22,220 --> 01:27:23,260
+That's a good thing.
+
+1940
+01:27:26,280 --> 01:27:26,840
+So...
+
+1941
+01:27:26,840 --> 01:27:28,080
+Save under...
+
+1942
+01:27:29,480 --> 01:27:30,040
+Balloons.
+
+1943
+01:27:30,040 --> 01:27:32,980
+And then we can include that into this file.
+
+1944
+01:27:33,700 --> 01:27:33,820
+Here.
+
+1945
+01:27:36,820 --> 01:27:38,560
+Now we have them separated here.
+
+1946
+01:27:40,420 --> 01:27:41,180
+Okay, okay.
+
+1947
+01:27:41,300 --> 01:27:42,740
+You want one in each hand?
+
+1948
+01:27:42,800 --> 01:27:43,760
+Yeah, yeah, yeah.
+
+1949
+01:27:43,880 --> 01:27:44,820
+So like...
+
+1950
+01:27:44,820 --> 01:27:45,580
+No, no, no.
+
+1951
+01:27:45,900 --> 01:27:46,740
+It should be in front.
+
+1952
+01:27:46,900 --> 01:27:47,900
+Yeah, right here.
+
+1953
+01:27:47,940 --> 01:27:49,140
+Can we like...
+
+1954
+01:27:49,140 --> 01:27:50,140
+Oh, we can make it like...
+
+1955
+01:27:50,140 --> 01:27:51,680
+Yeah, right here.
+
+1956
+01:27:51,800 --> 01:27:54,040
+And then the arms will hold on to it.
+
+1957
+01:27:55,380 --> 01:27:59,040
+And then when you go up and down, the balloon starts jiggling.
+
+1958
+01:28:00,040 --> 01:28:00,440
+Okay.
+
+1959
+01:28:00,740 --> 01:28:01,560
+Easy peasy.
+
+1960
+01:28:03,280 --> 01:28:03,600
+Okay.
+
+1961
+01:28:03,820 --> 01:28:04,620
+Holding arms.
+
+1962
+01:28:04,820 --> 01:28:07,040
+So we copy-paste now...
+
+1963
+01:28:08,160 --> 01:28:10,200
+Those arms and make a toggle.
+
+1964
+01:28:13,200 --> 01:28:14,660
+Main arms.
+
+1965
+01:28:15,060 --> 01:28:15,240
+Yeah.
+
+1966
+01:28:16,900 --> 01:28:17,300
+So...
+
+1967
+01:28:17,700 --> 01:28:19,080
+Toggle is...
+
+1968
+01:28:19,080 --> 01:28:20,260
+Main arms.
+
+1969
+01:28:20,660 --> 01:28:20,820
+No.
+
+1970
+01:28:21,040 --> 01:28:21,540
+Balloon.
+
+1971
+01:28:21,940 --> 01:28:22,960
+Balloon holding.
+
+1972
+01:28:23,600 --> 01:28:29,520
+So for the balloon holding, we are going to make them...
+
+1973
+01:28:29,520 --> 01:28:31,340
+Do it a little bit easy now.
+
+1974
+01:28:32,980 --> 01:28:35,940
+Because I will make the transition later.
+
+1975
+01:28:36,260 --> 01:28:36,680
+Uh-huh.
+
+1976
+01:28:36,940 --> 01:28:41,080
+To make sure we go fastly to the ultimate...
+
+1977
+01:28:43,340 --> 01:28:45,040
+Jiggle physics of the balloons.
+
+1978
+01:28:45,300 --> 01:28:46,280
+This is very important.
+
+1979
+01:28:46,620 --> 01:28:47,300
+We need those.
+
+1980
+01:28:47,740 --> 01:28:48,980
+Yes, yes, yes.
+
+1981
+01:28:49,040 --> 01:28:49,460
+Yes.
+
+1982
+01:28:49,520 --> 01:28:50,160
+I understand.
+
+1983
+01:28:51,260 --> 01:28:51,960
+I understand.
+
+1984
+01:28:55,600 --> 01:28:56,180
+So...
+
+1985
+01:28:56,180 --> 01:28:59,100
+Why is the chin still there?
+
+1986
+01:28:59,980 --> 01:29:00,800
+Oh, oh, oh.
+
+1987
+01:29:00,840 --> 01:29:01,240
+I mean...
+
+1988
+01:29:01,920 --> 01:29:02,340
+I like...
+
+1989
+01:29:02,340 --> 01:29:04,100
+My chat was like, why is it still there?
+
+1990
+01:29:06,620 --> 01:29:09,260
+Do we want the...
+
+1991
+01:29:09,260 --> 01:29:11,500
+The arm should be a little bit above, right?
+
+1992
+01:29:11,580 --> 01:29:13,560
+Like, it should be above the balloons.
+
+1993
+01:29:13,760 --> 01:29:15,680
+This means like...
+
+1994
+01:29:15,680 --> 01:29:15,960
+Here?
+
+1995
+01:29:18,860 --> 01:29:20,200
+What do you think?
+
+1996
+01:29:24,080 --> 01:29:27,120
+It should be placed like this, maybe?
+
+1997
+01:29:28,320 --> 01:29:29,720
+Oh, yeah, yeah, yeah, yeah.
+
+1998
+01:29:34,450 --> 01:29:35,050
+Yes.
+
+1999
+01:29:35,350 --> 01:29:36,830
+Also, let me add the tail again.
+
+2000
+01:29:38,230 --> 01:29:40,490
+The tail was gone for too long.
+
+2001
+01:29:40,850 --> 01:29:41,790
+Oh my god.
+
+2002
+01:29:42,630 --> 01:29:43,050
+Look at it.
+
+2003
+01:29:43,250 --> 01:29:43,510
+Yes.
+
+2004
+01:29:43,730 --> 01:29:44,870
+Now we have some balloons.
+
+2005
+01:29:45,370 --> 01:29:45,450
+It's beautiful.
+
+2006
+01:29:47,190 --> 01:29:51,230
+So, I'll have here this one and...
+
+2007
+01:29:51,230 --> 01:29:54,170
+We add the balloon toggle here.
+
+2008
+01:29:55,890 --> 01:29:56,490
+Balloons.
+
+2009
+01:29:56,890 --> 01:29:57,250
+Here.
+
+2010
+01:30:01,870 --> 01:30:04,950
+On body Y, so they will move already with the body.
+
+2011
+01:30:05,110 --> 01:30:06,490
+Like, this looks awkward.
+
+2012
+01:30:08,130 --> 01:30:09,970
+It has everything on it.
+
+2013
+01:30:11,450 --> 01:30:12,870
+So, I'll delete this.
+
+2014
+01:30:13,930 --> 01:30:15,130
+And we make...
+
+2015
+01:30:15,730 --> 01:30:18,590
+The balloon toggle here.
+
+2016
+01:30:19,310 --> 01:30:20,430
+Balloon toggle.
+
+2017
+01:30:21,410 --> 01:30:23,070
+Guys, this is the final stretch.
+
+2018
+01:30:23,890 --> 01:30:27,070
+After this, the dragoon is basically like done.
+
+2019
+01:30:27,610 --> 01:30:28,130
+Wait, right?
+
+2020
+01:30:28,390 --> 01:30:28,950
+Yes.
+
+2021
+01:30:28,970 --> 01:30:30,390
+Oh, this is the last thing.
+
+2022
+01:30:30,390 --> 01:30:33,250
+This is the last thing for our dragoons.
+
+2023
+01:30:34,850 --> 01:30:35,970
+We can...
+
+2024
+01:30:35,970 --> 01:30:39,590
+I would add all those things you mentioned before.
+
+2025
+01:30:39,770 --> 01:30:41,770
+I will add them still for the community.
+
+2026
+01:30:43,730 --> 01:30:45,650
+And I will send it to you.
+
+2027
+01:30:45,790 --> 01:30:47,990
+So, you can just post it or release it.
+
+2028
+01:30:48,050 --> 01:30:49,650
+Or I just post it on my Twitter.
+
+2029
+01:30:49,990 --> 01:30:51,090
+I am Thomas Edison.
+
+2030
+01:30:55,350 --> 01:30:58,830
+Our group project together that we made.
+
+2031
+01:30:59,610 --> 01:31:01,610
+Working together, guys.
+
+2032
+01:31:02,070 --> 01:31:04,270
+We worked so hard together.
+
+2033
+01:31:06,590 --> 01:31:08,590
+I'll be Thomas Edison.
+
+2034
+01:31:08,850 --> 01:31:09,710
+I'll be my Oshie.
+
+2035
+01:31:10,070 --> 01:31:11,770
+I can be just like my Oshie.
+
+2036
+01:31:11,830 --> 01:31:12,490
+Oh my god.
+
+2037
+01:31:13,570 --> 01:31:16,210
+So, this is the balloon toggle.
+
+2038
+01:31:16,810 --> 01:31:17,410
+Here we are.
+
+2039
+01:31:19,450 --> 01:31:21,830
+I just wrote balloon golding.
+
+2040
+01:31:22,330 --> 01:31:24,110
+I mean balloon holding.
+
+2041
+01:31:25,590 --> 01:31:26,610
+Not golding.
+
+2042
+01:31:27,460 --> 01:31:28,850
+So, here this is...
+
+2043
+01:31:29,420 --> 01:31:30,610
+This is on like...
+
+2044
+01:31:33,790 --> 01:31:34,970
+It's alright, Arnold.
+
+2045
+01:31:35,210 --> 01:31:36,870
+We make it on one so...
+
+2046
+01:31:36,870 --> 01:31:37,930
+It's just like balloon time.
+
+2047
+01:31:39,010 --> 01:31:40,150
+It's balloon time.
+
+2048
+01:31:40,630 --> 01:31:42,270
+It's a fun time.
+
+2049
+01:31:43,170 --> 01:31:44,710
+He's like holding his balloon.
+
+2050
+01:31:45,170 --> 01:31:45,620
+He's like...
+
+2051
+01:31:48,690 --> 01:31:49,270
+So...
+
+2052
+01:31:49,270 --> 01:31:49,710
+Oh, wait.
+
+2053
+01:31:49,870 --> 01:31:52,290
+Let me get this camera thing out of the way.
+
+2054
+01:31:53,230 --> 01:31:54,290
+Here we are.
+
+2055
+01:31:54,290 --> 01:31:58,550
+So, now we need to add this a little bit to the angles, you know.
+
+2056
+01:32:00,290 --> 01:32:04,110
+I want that they take it with them.
+
+2057
+01:32:04,190 --> 01:32:04,530
+Okay.
+
+2058
+01:32:06,550 --> 01:32:10,890
+We just make it very simple because we're going to add those physics here.
+
+2059
+01:32:11,950 --> 01:32:13,230
+Oh, this is buggy.
+
+2060
+01:32:13,870 --> 01:32:15,270
+I'll do it later.
+
+2061
+01:32:15,690 --> 01:32:18,090
+First of all, the wonderful balloons.
+
+2062
+01:32:18,870 --> 01:32:20,770
+Now, of course, we go low.
+
+2063
+01:32:21,690 --> 01:32:22,730
+This looks...
+
+2064
+01:32:23,990 --> 01:32:24,510
+Yeah.
+
+2065
+01:32:26,330 --> 01:32:27,310
+Oh, my gosh.
+
+2066
+01:32:27,450 --> 01:32:29,070
+It brings the villain.
+
+2067
+01:32:29,690 --> 01:32:31,370
+He puts the balloon down.
+
+2068
+01:32:32,730 --> 01:32:34,930
+Like, now we are here, but don't worry.
+
+2069
+01:32:34,930 --> 01:32:36,310
+He puts the balloon down.
+
+2070
+01:32:38,390 --> 01:32:41,170
+So, this one here was going to get changed.
+
+2071
+01:32:41,290 --> 01:32:41,530
+Okay.
+
+2072
+01:32:41,730 --> 01:32:43,730
+So, now we are rigging the...
+
+2073
+01:32:45,510 --> 01:32:47,090
+Why is this so above?
+
+2074
+01:32:47,370 --> 01:32:48,410
+What happened there?
+
+2075
+01:32:48,990 --> 01:32:49,910
+Why is this here?
+
+2076
+01:32:50,090 --> 01:32:50,850
+Don't worry.
+
+2077
+01:32:51,070 --> 01:32:51,610
+I got that.
+
+2078
+01:32:52,730 --> 01:32:53,070
+Here.
+
+2079
+01:32:56,850 --> 01:32:57,530
+No.
+
+2080
+01:32:57,750 --> 01:32:58,410
+What do you think?
+
+2081
+01:32:58,550 --> 01:33:00,010
+Maybe, like, here?
+
+2082
+01:33:00,210 --> 01:33:00,670
+Folding?
+
+2083
+01:33:00,810 --> 01:33:00,930
+Here.
+
+2084
+01:33:03,810 --> 01:33:05,370
+We have it, like, here.
+
+2085
+01:33:06,350 --> 01:33:06,850
+Okay.
+
+2086
+01:33:08,410 --> 01:33:10,310
+Okay, now we...
+
+2087
+01:33:10,310 --> 01:33:10,890
+Oops.
+
+2088
+01:33:11,810 --> 01:33:12,490
+Okay.
+
+2089
+01:33:15,450 --> 01:33:15,790
+Okay.
+
+2090
+01:33:16,310 --> 01:33:17,950
+Balloon R.
+
+2091
+01:33:18,810 --> 01:33:24,730
+We make them separate into L and R for a little bit more dynamic.
+
+2092
+01:33:25,050 --> 01:33:25,850
+For up and down.
+
+2093
+01:33:26,090 --> 01:33:29,050
+Like, you know, when they slam, like...
+
+2094
+01:33:29,050 --> 01:33:29,250
+Yeah.
+
+2095
+01:33:29,550 --> 01:33:31,570
+Oh, my God.
+
+2096
+01:33:31,810 --> 01:33:33,110
+Oh, my God.
+
+2097
+01:33:33,370 --> 01:33:34,990
+Oh, my God.
+
+2098
+01:33:35,290 --> 01:33:37,030
+Someone put a brawn.
+
+2099
+01:33:39,610 --> 01:33:42,090
+Oh, like, brawnless.
+
+2100
+01:33:42,250 --> 01:33:43,830
+Wow, Dragoon.
+
+2101
+01:33:44,650 --> 01:33:46,670
+Let them swing free, I guess.
+
+2102
+01:33:48,710 --> 01:33:50,030
+Let them free.
+
+2103
+01:33:50,650 --> 01:33:52,030
+They need some fresh air.
+
+2104
+01:33:52,270 --> 01:33:53,110
+Free the balloons.
+
+2105
+01:33:54,450 --> 01:33:55,270
+Balloon one.
+
+2106
+01:33:56,030 --> 01:33:56,630
+Y1.
+
+2107
+01:33:57,090 --> 01:34:01,870
+For Y1, we make them, like, you know...
+
+2108
+01:34:01,870 --> 01:34:03,270
+It's filled with water.
+
+2109
+01:34:03,430 --> 01:34:06,090
+That means, like, we need to stretch it a little bit.
+
+2110
+01:34:06,330 --> 01:34:06,510
+Oh, that's true.
+
+2111
+01:34:06,510 --> 01:34:07,730
+And make them here together.
+
+2112
+01:34:09,850 --> 01:34:11,330
+And make them up.
+
+2113
+01:34:11,350 --> 01:34:11,670
+Okay.
+
+2114
+01:34:12,590 --> 01:34:13,790
+I agree.
+
+2115
+01:34:14,530 --> 01:34:15,530
+I agree.
+
+2116
+01:34:16,750 --> 01:34:18,870
+We are just making balloons.
+
+2117
+01:34:19,070 --> 01:34:19,990
+That's very important.
+
+2118
+01:34:20,010 --> 01:34:21,430
+Yeah, guys, they're just balloons.
+
+2119
+01:34:23,950 --> 01:34:27,790
+Oh, my God.
+
+2120
+01:34:30,710 --> 01:34:31,870
+That's what you do.
+
+2121
+01:34:32,010 --> 01:34:34,030
+That's what you get for freeing the balloons.
+
+2122
+01:34:36,150 --> 01:34:37,170
+That's true.
+
+2123
+01:34:38,210 --> 01:34:42,650
+And actually, like, logical, we have here this tiny thing.
+
+2124
+01:34:42,650 --> 01:34:45,770
+It would stretch to this part, so...
+
+2125
+01:34:49,150 --> 01:34:52,990
+Goes this up, and then this a little bit down.
+
+2126
+01:34:55,790 --> 01:34:57,790
+I just like this.
+
+2127
+01:34:57,930 --> 01:35:00,570
+And then, of course, we have the arm physics for it.
+
+2128
+01:35:00,950 --> 01:35:02,810
+Arm with balloons.
+
+2129
+01:35:03,670 --> 01:35:05,690
+Because they move with the balloons.
+
+2130
+01:35:05,830 --> 01:35:06,030
+Yeah.
+
+2131
+01:35:06,770 --> 01:35:10,050
+Like this, right?
+
+2132
+01:35:10,050 --> 01:35:12,790
+So, the arm goes a little bit down.
+
+2133
+01:35:13,550 --> 01:35:15,030
+Then a little bit up.
+
+2134
+01:35:15,730 --> 01:35:16,930
+And, of course, the balloon, too.
+
+2135
+01:35:17,570 --> 01:35:22,570
+Like having...
+
+2136
+01:35:23,590 --> 01:35:24,570
+A little bit less.
+
+2137
+01:35:25,830 --> 01:35:26,810
+Oh, my God.
+
+2138
+01:35:27,590 --> 01:35:28,030
+Nice.
+
+2139
+01:35:28,190 --> 01:35:28,670
+Let me see.
+
+2140
+01:35:28,850 --> 01:35:30,970
+Let's see how we've done this.
+
+2141
+01:35:31,070 --> 01:35:31,350
+Oh, wait.
+
+2142
+01:35:31,410 --> 01:35:33,130
+We need another R physics.
+
+2143
+01:35:33,850 --> 01:35:34,290
+R2.
+
+2144
+01:35:34,890 --> 01:35:35,330
+Balloon.
+
+2145
+01:35:35,750 --> 01:35:38,390
+Guys, we're learning how to do jiggle physics, guys.
+
+2146
+01:35:39,550 --> 01:35:41,050
+But on water balloons.
+
+2147
+01:35:42,570 --> 01:35:44,610
+Of course, water balloons.
+
+2148
+01:35:45,330 --> 01:35:46,370
+That's the most safe...
+
+2149
+01:35:46,370 --> 01:35:47,010
+Yeah.
+
+2150
+01:35:47,990 --> 01:35:49,670
+That's just water balloons, guys.
+
+2151
+01:35:51,010 --> 01:35:53,910
+I've never been a kid before holding your water balloons.
+
+2152
+01:35:56,910 --> 01:35:57,590
+So...
+
+2153
+01:35:57,590 --> 01:35:59,170
+Balloon Y.
+
+2154
+01:35:59,510 --> 01:36:01,210
+We make the balloon Y now.
+
+2155
+01:36:02,510 --> 01:36:03,510
+Take this.
+
+2156
+01:36:05,190 --> 01:36:06,710
+Add one of...
+
+2157
+01:36:06,710 --> 01:36:07,990
+Two physics points.
+
+2158
+01:36:08,150 --> 01:36:09,950
+And let's see how this will look.
+
+2159
+01:36:10,490 --> 01:36:11,610
+Oh, my God.
+
+2160
+01:36:11,610 --> 01:36:12,930
+Oh, my God.
+
+2161
+01:36:13,070 --> 01:36:14,410
+Wait, wait, wait, wait, wait, wait.
+
+2162
+01:36:14,450 --> 01:36:15,670
+Maybe this one one.
+
+2163
+01:36:19,150 --> 01:36:20,690
+This looks so fun.
+
+2164
+01:36:21,450 --> 01:36:22,270
+Oh, my God.
+
+2165
+01:36:22,490 --> 01:36:23,970
+Oh, my God.
+
+2166
+01:36:24,250 --> 01:36:25,230
+Okay, okay.
+
+2167
+01:36:25,350 --> 01:36:28,010
+Can we add that to the orange one?
+
+2168
+01:36:30,170 --> 01:36:31,290
+Wait, wait, wait.
+
+2169
+01:36:31,430 --> 01:36:32,050
+I have another...
+
+2170
+01:36:32,470 --> 01:36:33,510
+I have another R physics.
+
+2171
+01:36:33,770 --> 01:36:34,350
+Wait, wait, wait.
+
+2172
+01:36:35,590 --> 01:36:36,290
+Oh, my God.
+
+2173
+01:36:36,290 --> 01:36:37,030
+We add this.
+
+2174
+01:36:38,490 --> 01:36:42,350
+We need to get them slam together if we add this one.
+
+2175
+01:36:42,530 --> 01:36:42,710
+What?
+
+2176
+01:36:43,550 --> 01:36:46,050
+You gotta get them to slam together.
+
+2177
+01:36:46,170 --> 01:36:47,510
+Oh, my God.
+
+2178
+01:36:51,690 --> 01:36:53,370
+This is important, okay?
+
+2179
+01:36:53,430 --> 01:36:54,310
+That's so important.
+
+2180
+01:36:54,390 --> 01:36:57,250
+No, guys, she knows exactly how physics work, guys.
+
+2181
+01:36:58,110 --> 01:36:58,670
+She...
+
+2182
+01:36:59,610 --> 01:37:01,370
+She knows how it works.
+
+2183
+01:37:01,850 --> 01:37:04,190
+She knows how the physics works, guys.
+
+2184
+01:37:04,310 --> 01:37:05,430
+It's very important.
+
+2185
+01:37:07,850 --> 01:37:09,250
+So, so, so.
+
+2186
+01:37:09,370 --> 01:37:12,770
+Now we add the physics here.
+
+2187
+01:37:12,910 --> 01:37:13,210
+Yeah.
+
+2188
+01:37:14,370 --> 01:37:16,490
+We make one for the Y now.
+
+2189
+01:37:16,870 --> 01:37:20,290
+Of course, I forgot to take my param again.
+
+2190
+01:37:21,010 --> 01:37:22,610
+I just say it because I'm nervous.
+
+2191
+01:37:24,150 --> 01:37:27,770
+Why are you bringing water balloons?
+
+2192
+01:37:36,130 --> 01:37:37,450
+We are making this together.
+
+2193
+01:37:39,250 --> 01:37:40,370
+And now...
+
+2194
+01:37:40,370 --> 01:37:41,810
+This is the important part.
+
+2195
+01:37:43,190 --> 01:37:45,010
+I really love the stretchy physics.
+
+2196
+01:37:48,970 --> 01:37:50,150
+You sure do.
+
+2197
+01:37:50,290 --> 01:37:53,590
+I can tell you are very experienced with these stretches.
+
+2198
+01:37:55,990 --> 01:37:57,810
+I call them the...
+
+2199
+01:37:57,810 --> 01:37:59,510
+Actually, I don't have a name for them.
+
+2200
+01:38:00,870 --> 01:38:03,270
+I thought I would be faster with a name, but nope.
+
+2201
+01:38:03,430 --> 01:38:05,570
+I call them the physics of doom.
+
+2202
+01:38:07,230 --> 01:38:08,130
+It's just...
+
+2203
+01:38:09,030 --> 01:38:10,530
+It's just chicken physics.
+
+2204
+01:38:10,650 --> 01:38:11,790
+It's like pudding physics.
+
+2205
+01:38:11,790 --> 01:38:12,210
+It's pudding.
+
+2206
+01:38:12,830 --> 01:38:13,890
+Boing, boing, guys.
+
+2207
+01:38:16,590 --> 01:38:18,430
+Look, he's having fun.
+
+2208
+01:38:18,970 --> 01:38:20,670
+Look at him go.
+
+2209
+01:38:24,720 --> 01:38:26,080
+I love it.
+
+2210
+01:38:26,960 --> 01:38:28,000
+It's beautiful.
+
+2211
+01:38:28,580 --> 01:38:29,660
+Look at it go.
+
+2212
+01:38:32,860 --> 01:38:34,860
+Let me see how this looks.
+
+2213
+01:38:35,000 --> 01:38:38,840
+It's a lot of trial and error until you are happy with those physics.
+
+2214
+01:38:38,840 --> 01:38:43,120
+Now you can see here, the physics goes a little bit more down to the orange.
+
+2215
+01:38:43,300 --> 01:38:44,620
+And I like this a little bit more.
+
+2216
+01:38:44,920 --> 01:38:46,480
+It's good that it's not the same, too.
+
+2217
+01:38:46,600 --> 01:38:48,660
+Because it's like, you know...
+
+2218
+01:38:49,600 --> 01:38:51,600
+The left side is bigger, you know.
+
+2219
+01:38:56,380 --> 01:38:57,560
+Look at this.
+
+2220
+01:38:57,700 --> 01:38:57,880
+Yay.
+
+2221
+01:38:58,520 --> 01:39:00,940
+Imagine you would have them on a different position.
+
+2222
+01:39:02,880 --> 01:39:03,640
+Oh my god.
+
+2223
+01:39:03,780 --> 01:39:05,260
+What would it look like if there's...
+
+2224
+01:39:05,260 --> 01:39:05,520
+Okay.
+
+2225
+01:39:06,200 --> 01:39:09,200
+What would it look like if she looks left side with it, too?
+
+2226
+01:39:10,420 --> 01:39:12,480
+Left side and then...
+
+2227
+01:39:12,480 --> 01:39:14,620
+Or right side and then with the butt.
+
+2228
+01:39:17,180 --> 01:39:20,200
+Let me just see why the tail is...
+
+2229
+01:39:20,200 --> 01:39:21,700
+So funky here.
+
+2230
+01:39:23,660 --> 01:39:25,220
+Wait, is this tail long?
+
+2231
+01:39:25,420 --> 01:39:26,960
+You want the shorter tail?
+
+2232
+01:39:28,460 --> 01:39:31,740
+Because the shorter tail goes so far up and I have no idea why.
+
+2233
+01:39:32,740 --> 01:39:34,160
+He's very happy.
+
+2234
+01:39:35,480 --> 01:39:38,560
+He's just happy to sleep.
+
+2235
+01:39:39,120 --> 01:39:40,140
+He's tired.
+
+2236
+01:39:40,600 --> 01:39:42,400
+Yes, that's right, Dragoon.
+
+2237
+01:39:42,940 --> 01:39:44,300
+Dance for me.
+
+2238
+01:39:45,340 --> 01:39:45,960
+Okay, okay.
+
+2239
+01:39:46,320 --> 01:39:48,080
+So now we have this one.
+
+2240
+01:39:50,580 --> 01:39:51,360
+It's so...
+
+2241
+01:39:51,360 --> 01:39:52,140
+It's beautiful.
+
+2242
+01:39:52,600 --> 01:39:53,320
+Oh my god, wait.
+
+2243
+01:39:53,360 --> 01:39:53,980
+Is it done?
+
+2244
+01:39:55,200 --> 01:39:56,160
+Albus, Albus.
+
+2245
+01:39:56,220 --> 01:39:56,940
+We got it, Albus.
+
+2246
+01:39:57,020 --> 01:39:57,900
+Just a second.
+
+2247
+01:39:59,680 --> 01:40:00,120
+Right.
+
+2248
+01:40:00,400 --> 01:40:01,560
+We need to add the...
+
+2249
+01:40:01,560 --> 01:40:05,940
+Physic for the balloons on X and then we are done.
+
+2250
+01:40:06,040 --> 01:40:07,320
+Oh my god.
+
+2251
+01:40:07,380 --> 01:40:07,540
+And then...
+
+2252
+01:40:07,540 --> 01:40:11,060
+I can't believe we did all of this within like two hours.
+
+2253
+01:40:11,200 --> 01:40:12,340
+That's crazy.
+
+2254
+01:40:13,380 --> 01:40:13,940
+Yes.
+
+2255
+01:40:14,580 --> 01:40:16,600
+Only the X now here.
+
+2256
+01:40:16,860 --> 01:40:18,840
+We add this for this one, too.
+
+2257
+01:40:18,880 --> 01:40:20,020
+And then we are done.
+
+2258
+01:40:20,840 --> 01:40:22,780
+And then we see how it looks fully.
+
+2259
+01:40:31,440 --> 01:40:32,000
+Okay.
+
+2260
+01:40:32,260 --> 01:40:33,380
+We did it, guys.
+
+2261
+01:40:37,690 --> 01:40:37,990
+So...
+
+2262
+01:40:38,610 --> 01:40:41,210
+And now, balloon X.
+
+2263
+01:40:41,770 --> 01:40:45,510
+I just forgot the second L, but no problem here.
+
+2264
+01:40:47,550 --> 01:40:49,050
+And now we need to...
+
+2265
+01:40:49,050 --> 01:40:51,710
+We put this into the numbers and then...
+
+2266
+01:40:55,570 --> 01:40:57,170
+Oh my god, guys.
+
+2267
+01:40:57,270 --> 01:40:58,450
+Look at you go.
+
+2268
+01:40:58,970 --> 01:41:00,950
+Look at you go.
+
+2269
+01:41:03,430 --> 01:41:04,030
+Yes.
+
+2270
+01:41:04,350 --> 01:41:05,570
+So now this is it.
+
+2271
+01:41:05,610 --> 01:41:07,050
+This is what we've done on stream.
+
+2272
+01:41:07,910 --> 01:41:14,290
+Of course, before sending out, I would just adjust some things to make it more fitting.
+
+2273
+01:41:14,530 --> 01:41:18,350
+Adjust some stuff and add the auto toggles and adjust a little bit to...
+
+2274
+01:41:18,350 --> 01:41:20,210
+Oh my god, guys.
+
+2275
+01:41:21,510 --> 01:41:23,910
+And then you are free to do whatever you like with it.
+
+2276
+01:41:23,970 --> 01:41:26,050
+Oh my god, everybody.
+
+2277
+01:41:26,630 --> 01:41:27,970
+That was beautiful.
+
+2278
+01:41:28,210 --> 01:41:31,770
+She did all of this within two hours.
+
+2279
+01:41:31,930 --> 01:41:33,970
+That's actually crazy.
+
+2280
+01:41:34,740 --> 01:41:39,390
+We had special requests, guys.
+
+2281
+01:41:39,690 --> 01:41:40,890
+Look at that.
+
+2282
+01:41:42,050 --> 01:41:43,730
+Oh my god.
+
+2283
+01:41:44,250 --> 01:41:46,970
+Wow, that was actually really interesting.
+
+2284
+01:41:47,350 --> 01:41:48,610
+Thank you for like...
+
+2285
+01:41:48,610 --> 01:41:52,170
+I'm glad we did this as our collab.
+
+2286
+01:41:52,390 --> 01:41:55,010
+That was very interesting to see and everything.
+
+2287
+01:41:55,070 --> 01:41:57,410
+That was a very nice experience, not gonna lie.
+
+2288
+01:41:58,470 --> 01:41:59,070
+You're welcome.
+
+2289
+01:41:59,190 --> 01:42:03,090
+I was very happy and it was super fun to show some things off.
+
+2290
+01:42:05,010 --> 01:42:07,110
+I'm not banned on Twitch, so...
+
+2291
+01:42:07,850 --> 01:42:09,090
+See, she's okay.
+
+2292
+01:42:09,290 --> 01:42:10,810
+It's not my fault, guys.
+
+2293
+01:42:11,390 --> 01:42:13,530
+Minya is okay, guys.
+
+2294
+01:42:13,850 --> 01:42:16,170
+But yes, please check her out on Twitch.
+
+2295
+01:42:16,210 --> 01:42:21,390
+She does a lot of rigging stuff and she also plays a lot of video games as well on her Twitch.
+
+2296
+01:42:22,250 --> 01:42:23,910
+But yeah, it was a great experience.
+
+2297
+01:42:24,770 --> 01:42:27,830
+Let me link your Twitch real quick for those who want to check her out.
+
+2298
+01:42:27,850 --> 01:42:28,850
+Thank you so much.
+
+2299
+01:42:29,050 --> 01:42:30,410
+But yeah, thank you.
+
+2300
+01:42:30,590 --> 01:42:32,930
+That was such a great experience in general.
+
+2301
+01:42:32,930 --> 01:42:34,550
+I felt like I learned a lot.
+
+2302
+01:42:34,670 --> 01:42:36,230
+I don't know how you did all this, but...
+
+2303
+01:42:36,230 --> 01:42:39,930
+I feel like I learned a lot in general, even though I don't know what you did.
+
+2304
+01:42:43,670 --> 01:42:48,610
+Also, I want to say thank you to the one that was recommending me, Alex.
+
+2305
+01:42:48,830 --> 01:42:52,050
+Yeah, huge shoutout to Alex for setting this up for us.
+
+2306
+01:42:52,170 --> 01:42:53,610
+But it was really nice to meet.
+
+2307
+01:42:53,630 --> 01:42:56,590
+This is our first time actually talking in voice together.
+
+2308
+01:42:56,730 --> 01:43:01,390
+Because we were just organizing this collab and I'm really busy too.
+
+2309
+01:43:02,690 --> 01:43:10,270
+It was sort of really difficult to organize because I was sick, then I was busy, then I was sick again.
+
+2310
+01:43:10,730 --> 01:43:12,930
+Then I got better and then I got sick again.
+
+2311
+01:43:15,270 --> 01:43:16,410
+But we made it.
+
+2312
+01:43:16,830 --> 01:43:17,690
+We made it.
+
+2313
+01:43:17,830 --> 01:43:18,850
+We're finally here.
+
+2314
+01:43:19,610 --> 01:43:20,750
+But yes, thank you again.
+
+2315
+01:43:20,990 --> 01:43:22,410
+It was really great talking to you.
+
+2316
+01:43:22,490 --> 01:43:24,170
+It was really great meeting you too.
+
+2317
+01:43:24,590 --> 01:43:25,650
+I had a great time.
+
+2318
+01:43:25,710 --> 01:43:25,830
+Thank you.
+
+2319
+01:43:26,890 --> 01:43:29,030
+But please, feel free to check her out.
+
+2320
+01:43:29,190 --> 01:43:30,510
+Follow her on Twitch.
+
+2321
+01:43:30,510 --> 01:43:32,150
+Show her some love.
+
+2322
+01:43:32,490 --> 01:43:34,010
+But thank you again.
+
+2323
+01:43:34,510 --> 01:43:40,510
+I had a great experience and we did some really fucked up shit, but...
+
+2324
+01:43:40,510 --> 01:43:42,010
+I can't wait to...
+
+2325
+01:43:42,010 --> 01:43:46,750
+I can't wait to release the Dragoon for people.
+
+2326
+01:43:48,050 --> 01:43:51,030
+I hope we can see many people playing with it.
+
+2327
+01:43:52,330 --> 01:43:52,930
+Imagine.
+
+2328
+01:43:54,050 --> 01:43:56,130
+Do you have any final words you want to say?
+
+2329
+01:43:57,370 --> 01:44:00,010
+I was super nervous at the start.
+
+2330
+01:44:01,250 --> 01:44:03,830
+But I'm so happy it went so well.
+
+2331
+01:44:03,970 --> 01:44:05,930
+Thank you, Doki, for this nice experience.
+
+2332
+01:44:06,630 --> 01:44:07,850
+It was super funny.
+
+2333
+01:44:08,490 --> 01:44:09,450
+Yeah, it was.
+
+2334
+01:44:09,490 --> 01:44:10,590
+It was actually really...
+
+2335
+01:44:10,590 --> 01:44:11,410
+It was so fun.
+
+2336
+01:44:12,110 --> 01:44:13,170
+But thank you again.
+
+2337
+01:44:13,290 --> 01:44:15,830
+Yes, if you want to actually learn more about rigging, I know like...
+
+2338
+01:44:15,830 --> 01:44:20,590
+I'm pretty sure in your own solo streams, you do teach more about the rigging process.
+
+2339
+01:44:21,090 --> 01:44:23,250
+Rather than us fucking around.
+
+2340
+01:44:23,690 --> 01:44:25,830
+Adding Jingle Physics to everything.
+
+2341
+01:44:28,290 --> 01:44:29,730
+Why did you laugh so hard?
+
+2342
+01:44:29,730 --> 01:44:32,030
+I'm gonna go rest my voice now.
+
+2343
+01:44:32,390 --> 01:44:33,470
+Thank you again.
+
+2344
+01:44:34,110 --> 01:44:36,910
+I'm gonna talk to my Dragoons real quick.
+
+2345
+01:44:37,090 --> 01:44:37,890
+And I guess you'll talk to...
+
+2346
+01:44:37,890 --> 01:44:38,690
+What are your fans called?
+
+2347
+01:44:39,050 --> 01:44:40,530
+Yes, I will do as well.
+
+2348
+01:44:40,610 --> 01:44:41,730
+Thank you so much.
+
+2349
+01:44:41,850 --> 01:44:42,730
+Yeah, thank you.
+
+2350
+01:44:43,730 --> 01:44:44,550
+Rest well.
+
+2351
+01:44:44,710 --> 01:44:45,130
+Thank you.
+
+2352
+01:44:45,210 --> 01:44:47,630
+Yeah, my voice is so dead right now at this point.
+
+2353
+01:44:48,750 --> 01:44:49,930
+I laughed too much.
+
+2354
+01:44:51,310 --> 01:44:52,910
+Alright, thank you again.
+
+2355
+01:44:53,010 --> 01:44:54,190
+I'll see you next time.
+
+2356
+01:44:55,150 --> 01:44:55,750
+Bye-bye.
+
+2357
+01:44:55,930 --> 01:44:56,850
+Bye-bye.
+
+2358
+01:44:56,990 --> 01:44:57,510
+Bye-bye.
+
+2359
+01:44:57,630 --> 01:44:59,050
+I'm gonna talk to my Dragoons now.
+
+2360
+01:44:59,050 --> 01:44:59,410
+Bye-bye.
+
+2361
+01:45:02,310 --> 01:45:05,330
+Oh my god, okay, my voice is so dead now.
+
+2362
+01:45:05,490 --> 01:45:06,930
+I laughed way too much.
+
+2363
+01:45:09,050 --> 01:45:10,530
+It was a great experience.
+
+2364
+01:45:11,050 --> 01:45:19,330
+I am going to rest my voice, because I do have a meet and greet for TakuFest and a panel later today.
+
+2365
+01:45:19,590 --> 01:45:22,470
+So, I have 3, 4, 5...I have 4 hours to rest my voice.
+
+2366
+01:45:22,810 --> 01:45:24,070
+So, thank you again, everybody!
+
+2367
+01:45:24,070 --> 01:45:30,250
+A huge shout-out again to Alex for bidding on a charity auction collab and letting me meet Mimyoi.
+
+2368
+01:45:30,530 --> 01:45:35,370
+And I had a great time talking to her throughout the stream and just doing all these crazy shit.
+
+2369
+01:45:35,710 --> 01:45:37,370
+I'm gonna rest my voice now, as always.
+
+2370
+01:45:38,170 --> 01:45:41,270
+As always, everybody, stay hydrated.
+
+2371
+01:45:41,790 --> 01:45:44,210
+Posture check, get a move-around to get that blood flowing.
+
+2372
+01:45:44,530 --> 01:45:48,250
+And if you stay up for me, head to bed, because you deserve it.
+
+2373
+01:45:48,630 --> 01:45:51,290
+Tonight, 5PM stream is cancelled, by the way.
+
+2374
+01:45:51,290 --> 01:45:54,910
+The stream at 5PM is cancelled, because you didn't listen to me.
+
+2375
+01:45:55,190 --> 01:45:56,690
+Anyway, bye, everyone!
+
+2376
+01:45:57,090 --> 01:45:57,530
+Bye!
+
+2377
+01:45:59,610 --> 01:46:00,510
+Where's my ending screen?
+
+2378
+01:46:00,590 --> 01:46:00,930
+Oh, there it is.
+
+2379
+01:46:00,990 --> 01:46:01,310
+Bye!
+
