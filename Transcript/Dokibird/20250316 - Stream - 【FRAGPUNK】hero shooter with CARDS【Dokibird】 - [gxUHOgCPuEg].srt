@@ -1,0 +1,10948 @@
+1
+00:03:42,610 --> 00:03:43,930
+Hello everybody!
+
+2
+00:03:44,510 --> 00:03:45,510
+Hello, hello!
+
+3
+00:03:46,490 --> 00:03:51,850
+Alright, so today we are gonna be checking out the game FragPunk.
+
+4
+00:03:52,790 --> 00:03:59,010
+Apparently, a lot of people have been talking about this game because it is another hero shooter.
+
+5
+00:03:59,230 --> 00:04:00,430
+Yes, another one.
+
+6
+00:04:01,070 --> 00:04:04,010
+It actually has a lot of reviews on Steam.
+
+7
+00:04:04,350 --> 00:04:09,690
+I think it's because it's not as popular right now as it should be.
+
+8
+00:04:09,690 --> 00:04:11,650
+Because of Marble Rivals, not gonna lie.
+
+9
+00:04:12,250 --> 00:04:20,650
+Because Marble Rivals has overtaken the shooter world.
+
+10
+00:04:21,090 --> 00:04:33,230
+Any other shooting games, either it's first person or third person, sort of gets overshadowed by Marble Rivals in general.
+
+11
+00:04:34,110 --> 00:04:39,390
+So basically, FragPunk is a tactical shooter.
+
+12
+00:04:39,390 --> 00:04:44,030
+I know, as a resident can never understand tactical shooter player.
+
+13
+00:04:46,710 --> 00:04:49,370
+But I understand hero shooters.
+
+14
+00:04:49,890 --> 00:04:53,890
+But like, my brain still cannot comprehend tactical shooters yet.
+
+15
+00:04:54,290 --> 00:04:55,030
+Or will never.
+
+16
+00:04:55,250 --> 00:04:55,950
+Or never will.
+
+17
+00:04:56,030 --> 00:04:56,510
+I don't know.
+
+18
+00:04:56,850 --> 00:04:58,630
+I'm just too impatient for it.
+
+19
+00:04:58,910 --> 00:05:02,950
+But there is a little twist regarding FragPunk.
+
+20
+00:05:03,290 --> 00:05:05,270
+Because it is also...
+
+21
+00:05:05,270 --> 00:05:06,370
+They always do this.
+
+22
+00:05:06,370 --> 00:05:10,050
+They always try to be like, we are a tactical shooter with a twist.
+
+23
+00:05:10,190 --> 00:05:12,370
+But basically, it's sort of like...
+
+24
+00:05:14,770 --> 00:05:18,290
+They say that they're like high movement and stuff like that.
+
+25
+00:05:18,330 --> 00:05:21,650
+But I assume the TTK is also incredibly low.
+
+26
+00:05:23,290 --> 00:05:27,510
+But the twist is that you use... there is a card system.
+
+27
+00:05:27,790 --> 00:05:32,450
+So you can build a card deck to change the round of each game.
+
+28
+00:05:32,450 --> 00:05:36,430
+So every player has its own cards that they can activate.
+
+29
+00:05:36,910 --> 00:05:39,950
+And that is the twist for this game.
+
+30
+00:05:40,430 --> 00:05:42,390
+It has a lot of reviews.
+
+31
+00:05:42,550 --> 00:05:43,950
+It is also free to play.
+
+32
+00:05:44,350 --> 00:05:50,210
+I honestly think if this game released at a later time, it would be very popular.
+
+33
+00:05:50,310 --> 00:05:59,570
+It literally has 22,000 reviews for a game that came out last week.
+
+34
+00:05:59,570 --> 00:06:07,350
+So I legitimately think that if this game came out later in the year, it could be really popular.
+
+35
+00:06:07,970 --> 00:06:11,810
+But Marvel Rivals is still at its peak in terms of popularity.
+
+36
+00:06:12,250 --> 00:06:16,290
+So it definitely got overshadowed by it.
+
+37
+00:06:18,290 --> 00:06:20,630
+But yeah, I've never tried it before.
+
+38
+00:06:20,910 --> 00:06:25,110
+I saw a lot of people were talking about it for like two...
+
+39
+00:06:25,110 --> 00:06:32,670
+I'm pretty sure it was just a lot of people who were sponsored were playing it.
+
+40
+00:06:32,790 --> 00:06:38,910
+Yeah, I think it's also because a lot of the content creators who normally play FPS games or shooter games are just playing Rivals.
+
+41
+00:06:39,110 --> 00:06:41,150
+So they're not really playing FragPunk.
+
+42
+00:06:41,370 --> 00:06:44,570
+But I heard their player base is still really high.
+
+43
+00:06:44,730 --> 00:06:46,130
+It's still pretty decent.
+
+44
+00:06:46,990 --> 00:06:53,090
+It's just that unfortunately, a lot of the content creators only played the game for like two to three days.
+
+45
+00:06:53,090 --> 00:06:55,750
+And then they just swapped over to Rivals.
+
+46
+00:06:56,070 --> 00:06:57,090
+Back to...
+
+47
+00:06:57,090 --> 00:07:00,150
+Back to Rivals.
+
+48
+00:07:00,910 --> 00:07:03,590
+But yeah, I am looking forward to trying it out.
+
+49
+00:07:04,030 --> 00:07:05,590
+Just seeing how it is.
+
+50
+00:07:05,650 --> 00:07:09,510
+I'm not really much of a tactical shooter person, but like I can still aim.
+
+51
+00:07:09,910 --> 00:07:10,350
+I just...
+
+52
+00:07:11,110 --> 00:07:17,450
+My brain just doesn't do well with tactical shooter because I'm not that patient to wait.
+
+53
+00:07:21,590 --> 00:07:25,930
+I'm just not that patient when it comes to tactical shooters.
+
+54
+00:07:26,050 --> 00:07:32,850
+But I am very interested in the card system because I was reading through it.
+
+55
+00:07:33,270 --> 00:07:39,670
+And there's a lot of like there's a lot of random things you can do with the card system like the card deck that you build.
+
+56
+00:07:40,990 --> 00:07:43,190
+So it will be interesting to see.
+
+57
+00:07:43,330 --> 00:07:46,610
+There's also like 1v1 duels as well in the game modes.
+
+58
+00:07:46,610 --> 00:07:48,570
+So like yeah, I'm going in blind.
+
+59
+00:07:48,850 --> 00:07:53,470
+I haven't seen any actual gameplay footage of Frag Punk.
+
+60
+00:07:53,690 --> 00:07:58,110
+I've only seen like I saw the trailer and that's really it just to see like, okay, what is this about?
+
+61
+00:07:58,210 --> 00:08:04,710
+Like what really what like just to like just see a trailer just to sort of have a good idea going in.
+
+62
+00:08:05,170 --> 00:08:08,850
+But I have not actually watched any streams of it.
+
+63
+00:08:08,850 --> 00:08:12,290
+I just seen like I just seen like streamers mentioning about it.
+
+64
+00:08:12,370 --> 00:08:17,490
+And then it's all like, you know, I saw the Shroud versus like I saw that they did like a Shroud versus TenZ thing.
+
+65
+00:08:17,810 --> 00:08:20,590
+Because TenZ is like heavily sponsored by Frag Punk.
+
+66
+00:08:23,290 --> 00:08:27,070
+And because it is a tactical shooter.
+
+67
+00:08:27,210 --> 00:08:30,830
+So of course it like fits his whole like branding and stuff like that.
+
+68
+00:08:30,850 --> 00:08:34,310
+I think he has like a card in there that's dedicated to TenZ.
+
+69
+00:08:34,450 --> 00:08:36,510
+So that's all I know about Frag Punk.
+
+70
+00:08:37,650 --> 00:08:39,570
+But yeah, can't wait to see it.
+
+71
+00:08:39,630 --> 00:08:40,790
+Anyway, story time.
+
+72
+00:08:41,710 --> 00:08:46,550
+This is a very short story time about Doki Ember Doge.
+
+73
+00:08:46,610 --> 00:08:49,370
+About that because it was a little freaky.
+
+74
+00:08:49,790 --> 00:08:52,270
+But basically, this is a quick story time.
+
+75
+00:08:52,990 --> 00:08:54,370
+I think it was two days ago.
+
+76
+00:08:54,570 --> 00:08:55,850
+I was going to talk about this two days ago.
+
+77
+00:08:56,130 --> 00:08:58,250
+But I think I wasn't streaming.
+
+78
+00:08:58,610 --> 00:08:59,850
+I wasn't doing a public stream yesterday.
+
+79
+00:08:59,890 --> 00:09:04,610
+So I want to talk about this like on a public stream because it was a member stream yesterday.
+
+80
+00:09:04,610 --> 00:09:08,270
+But basically, very short story.
+
+81
+00:09:09,750 --> 00:09:14,690
+I normally do his night walks at like 2 to 3 AM.
+
+82
+00:09:15,610 --> 00:09:21,270
+And I woke up at like around 3 AM because I was super tired two days ago.
+
+83
+00:09:21,310 --> 00:09:22,230
+I mean we all know why.
+
+84
+00:09:22,510 --> 00:09:26,450
+I did like a 7 hour Marvel Rivals grind sesh.
+
+85
+00:09:27,670 --> 00:09:29,270
+So of course I was really tired.
+
+86
+00:09:29,630 --> 00:09:31,710
+And I went straight to nap time.
+
+87
+00:09:31,930 --> 00:09:33,330
+And then I woke up.
+
+88
+00:09:33,330 --> 00:09:35,510
+I was like hey Doki.
+
+89
+00:09:35,750 --> 00:09:36,510
+Alright dad.
+
+90
+00:09:37,010 --> 00:09:38,830
+It's walkies time.
+
+91
+00:09:39,050 --> 00:09:40,310
+Walkies time.
+
+92
+00:09:40,530 --> 00:09:42,710
+And I was just like yippee.
+
+93
+00:09:42,990 --> 00:09:44,190
+Walkies time.
+
+94
+00:09:44,610 --> 00:09:44,890
+Alright.
+
+95
+00:09:45,490 --> 00:09:48,210
+So I pressed the button for the elevator.
+
+96
+00:09:48,670 --> 00:09:51,250
+And then for some fucking reason.
+
+97
+00:09:52,130 --> 00:09:55,430
+He refused to go in the elevator.
+
+98
+00:09:56,090 --> 00:09:57,530
+And I was freaked out.
+
+99
+00:09:57,670 --> 00:09:59,670
+Because I was like it's 3 in the morning.
+
+100
+00:10:00,190 --> 00:10:01,990
+Why do you not want to go into this elevator?
+
+101
+00:10:01,990 --> 00:10:03,810
+Like I was trying to pull him into the elevator.
+
+102
+00:10:04,050 --> 00:10:05,950
+And he refused to go in.
+
+103
+00:10:06,070 --> 00:10:07,970
+And that actually freaked me out.
+
+104
+00:10:08,170 --> 00:10:10,410
+Because I was like oh my god.
+
+105
+00:10:10,710 --> 00:10:11,590
+And then I was like.
+
+106
+00:10:12,050 --> 00:10:13,790
+Oh maybe he just doesn't want to go downstairs.
+
+107
+00:10:14,530 --> 00:10:15,370
+And then so.
+
+108
+00:10:16,010 --> 00:10:17,970
+So then I waited for that elevator.
+
+109
+00:10:18,270 --> 00:10:19,370
+And then the elevator went down.
+
+110
+00:10:19,810 --> 00:10:21,590
+The craziest part is that.
+
+111
+00:10:21,990 --> 00:10:23,530
+That elevator went down.
+
+112
+00:10:23,830 --> 00:10:24,570
+Or up I don't know.
+
+113
+00:10:24,650 --> 00:10:25,270
+It like left.
+
+114
+00:10:25,670 --> 00:10:26,290
+So then I pressed.
+
+115
+00:10:26,390 --> 00:10:27,770
+Because like after the doors closed.
+
+116
+00:10:28,170 --> 00:10:29,390
+I pressed the button again.
+
+117
+00:10:29,390 --> 00:10:31,010
+And then a different elevator.
+
+118
+00:10:32,050 --> 00:10:32,870
+Came back up.
+
+119
+00:10:33,070 --> 00:10:34,150
+Because usually I'm like.
+
+120
+00:10:34,370 --> 00:10:36,170
+Who the fuck is also taking the elevator.
+
+121
+00:10:36,710 --> 00:10:37,650
+At 3 in the morning.
+
+122
+00:10:37,810 --> 00:10:38,710
+I was like really confused.
+
+123
+00:10:38,770 --> 00:10:39,110
+Because usually.
+
+124
+00:10:39,510 --> 00:10:40,150
+Like you know.
+
+125
+00:10:40,210 --> 00:10:41,150
+The elevator is all free.
+
+126
+00:10:41,290 --> 00:10:42,390
+Like there's 3 different elevators.
+
+127
+00:10:42,490 --> 00:10:43,330
+And you're usually all free.
+
+128
+00:10:43,450 --> 00:10:44,290
+At 3 in the morning.
+
+129
+00:10:44,650 --> 00:10:46,330
+Because who else is out there.
+
+130
+00:10:46,430 --> 00:10:47,610
+Being a freak like me.
+
+131
+00:10:47,710 --> 00:10:48,770
+Walking my dog.
+
+132
+00:10:48,850 --> 00:10:49,930
+At 3 in the morning.
+
+133
+00:10:50,530 --> 00:10:51,470
+And then so like.
+
+134
+00:10:51,590 --> 00:10:52,770
+The moment the door closes.
+
+135
+00:10:53,050 --> 00:10:53,690
+I was like.
+
+136
+00:10:53,750 --> 00:10:54,570
+I'm gonna press the button.
+
+137
+00:10:54,730 --> 00:10:55,410
+And I waited like.
+
+138
+00:10:55,570 --> 00:10:56,990
+One like 4 seconds.
+
+139
+00:10:57,430 --> 00:10:58,450
+And usually you know.
+
+140
+00:10:58,450 --> 00:10:59,490
+It will be the same elevator.
+
+141
+00:10:59,710 --> 00:11:00,070
+Unless.
+
+142
+00:11:00,990 --> 00:11:02,490
+Unless someone else takes it.
+
+143
+00:11:02,750 --> 00:11:03,190
+And then.
+
+144
+00:11:03,670 --> 00:11:04,450
+I pressed again.
+
+145
+00:11:04,590 --> 00:11:05,690
+And it was a different elevator.
+
+146
+00:11:05,770 --> 00:11:07,230
+I had to wait for a different elevator.
+
+147
+00:11:07,410 --> 00:11:08,290
+And he was fine.
+
+148
+00:11:08,690 --> 00:11:09,210
+He was.
+
+149
+00:11:09,890 --> 00:11:10,250
+Fine.
+
+150
+00:11:10,430 --> 00:11:11,030
+With going in.
+
+151
+00:11:11,090 --> 00:11:11,490
+I was like.
+
+152
+00:11:11,530 --> 00:11:11,730
+Alright.
+
+153
+00:11:11,950 --> 00:11:12,410
+Let's go in.
+
+154
+00:11:12,490 --> 00:11:12,910
+And he was like.
+
+155
+00:11:12,950 --> 00:11:13,210
+Alright.
+
+156
+00:11:13,410 --> 00:11:13,770
+Yay.
+
+157
+00:11:14,610 --> 00:11:15,250
+He like.
+
+158
+00:11:15,610 --> 00:11:17,510
+He didn't avoid the elevator at all.
+
+159
+00:11:17,570 --> 00:11:18,130
+He was just like.
+
+160
+00:11:18,170 --> 00:11:18,430
+Okay.
+
+161
+00:11:18,570 --> 00:11:19,310
+Like it was normal.
+
+162
+00:11:19,710 --> 00:11:20,370
+And then I.
+
+163
+00:11:20,650 --> 00:11:22,030
+I was so freaked out.
+
+164
+00:11:22,150 --> 00:11:22,730
+Because I was like.
+
+165
+00:11:23,010 --> 00:11:24,650
+Was the other elevator like.
+
+166
+00:11:25,110 --> 00:11:25,830
+Fucking haunted.
+
+167
+00:11:25,830 --> 00:11:26,170
+Like.
+
+168
+00:11:26,390 --> 00:11:27,390
+I was like.
+
+169
+00:11:27,390 --> 00:11:28,250
+I was like.
+
+170
+00:11:28,330 --> 00:11:28,770
+I'm like.
+
+171
+00:11:29,090 --> 00:11:30,330
+With the ghost.
+
+172
+00:11:30,510 --> 00:11:31,450
+Is that elevator gonna.
+
+173
+00:11:31,630 --> 00:11:32,250
+Was that like.
+
+174
+00:11:32,470 --> 00:11:33,890
+A final destination.
+
+175
+00:11:34,290 --> 00:11:34,730
+Premonition.
+
+176
+00:11:34,910 --> 00:11:35,730
+From my dog.
+
+177
+00:11:35,970 --> 00:11:36,250
+Like.
+
+178
+00:11:36,350 --> 00:11:37,690
+Did he fucking got a vision.
+
+179
+00:11:38,030 --> 00:11:38,270
+From.
+
+180
+00:11:38,450 --> 00:11:38,570
+Like.
+
+181
+00:11:38,650 --> 00:11:40,230
+A final destination vision.
+
+182
+00:11:40,430 --> 00:11:40,810
+And then.
+
+183
+00:11:40,870 --> 00:11:41,890
+We were gonna die.
+
+184
+00:11:41,970 --> 00:11:43,190
+In that fucking elevator.
+
+185
+00:11:43,490 --> 00:11:44,030
+If I.
+
+186
+00:11:44,230 --> 00:11:46,230
+Went to that specific elevator.
+
+187
+00:11:46,770 --> 00:11:47,370
+And I was like.
+
+188
+00:11:47,990 --> 00:11:49,350
+I was so freaked out.
+
+189
+00:11:49,430 --> 00:11:50,070
+Two days ago.
+
+190
+00:11:50,170 --> 00:11:50,450
+Because.
+
+191
+00:11:50,590 --> 00:11:50,730
+I.
+
+192
+00:11:51,010 --> 00:11:51,690
+He never.
+
+193
+00:11:51,910 --> 00:11:52,050
+Had.
+
+194
+00:11:52,270 --> 00:11:53,490
+He's never done that before.
+
+195
+00:11:53,530 --> 00:11:54,170
+By the way chat.
+
+196
+00:11:54,170 --> 00:11:55,330
+He has never.
+
+197
+00:11:55,870 --> 00:11:56,390
+Um.
+
+198
+00:11:57,290 --> 00:11:58,330
+He has never.
+
+199
+00:11:58,890 --> 00:11:59,170
+Avoided.
+
+200
+00:11:59,590 --> 00:12:00,150
+An elevator.
+
+201
+00:12:00,470 --> 00:12:00,550
+Before.
+
+202
+00:12:00,950 --> 00:12:01,250
+Like.
+
+203
+00:12:01,410 --> 00:12:02,450
+He would be fine.
+
+204
+00:12:02,810 --> 00:12:03,530
+Going in.
+
+205
+00:12:03,790 --> 00:12:04,110
+It was.
+
+206
+00:12:04,210 --> 00:12:05,270
+This was the first time.
+
+207
+00:12:05,390 --> 00:12:06,370
+He refused.
+
+208
+00:12:06,490 --> 00:12:07,610
+To go inside.
+
+209
+00:12:07,890 --> 00:12:08,130
+Like.
+
+210
+00:12:08,150 --> 00:12:09,030
+I was pulling him.
+
+211
+00:12:09,090 --> 00:12:09,590
+And he was just.
+
+212
+00:12:09,690 --> 00:12:10,570
+Standing his ground.
+
+213
+00:12:10,830 --> 00:12:11,150
+He's like.
+
+214
+00:12:11,590 --> 00:12:11,930
+No.
+
+215
+00:12:12,270 --> 00:12:12,710
+He's like.
+
+216
+00:12:13,130 --> 00:12:13,430
+Mmm.
+
+217
+00:12:13,930 --> 00:12:14,390
+Mmm.
+
+218
+00:12:14,850 --> 00:12:17,010
+He refused to go in.
+
+219
+00:12:17,790 --> 00:12:17,970
+And.
+
+220
+00:12:18,170 --> 00:12:18,970
+That actually.
+
+221
+00:12:19,310 --> 00:12:20,110
+Kinda like.
+
+222
+00:12:20,410 --> 00:12:21,250
+Scared me.
+
+223
+00:12:21,590 --> 00:12:22,010
+And then.
+
+224
+00:12:22,130 --> 00:12:22,630
+I like.
+
+225
+00:12:22,630 --> 00:12:23,910
+I came down.
+
+226
+00:12:24,070 --> 00:12:25,050
+And I looked at the elevator.
+
+227
+00:12:25,310 --> 00:12:25,490
+I was like.
+
+228
+00:12:25,590 --> 00:12:25,930
+Did anyone.
+
+229
+00:12:26,150 --> 00:12:26,830
+I was just like.
+
+230
+00:12:27,370 --> 00:12:27,690
+Is the elevator.
+
+231
+00:12:28,170 --> 00:12:28,570
+Okay.
+
+232
+00:12:28,890 --> 00:12:29,110
+And like.
+
+233
+00:12:29,190 --> 00:12:30,330
+When I got to the first floor.
+
+234
+00:12:30,570 --> 00:12:31,870
+I made sure to look at the.
+
+235
+00:12:31,950 --> 00:12:32,630
+Cause it shows like.
+
+236
+00:12:32,710 --> 00:12:33,270
+What floor they are.
+
+237
+00:12:33,530 --> 00:12:34,090
+I was like.
+
+238
+00:12:34,610 --> 00:12:35,150
+Is the elevator.
+
+239
+00:12:35,210 --> 00:12:35,490
+You know.
+
+240
+00:12:35,610 --> 00:12:35,850
+I was like.
+
+241
+00:12:36,470 --> 00:12:37,190
+Cause like.
+
+242
+00:12:37,210 --> 00:12:37,890
+Did the rope snap.
+
+243
+00:12:38,370 --> 00:12:38,850
+I was like.
+
+244
+00:12:38,870 --> 00:12:39,250
+You know.
+
+245
+00:12:40,070 --> 00:12:40,990
+In my head.
+
+246
+00:12:41,210 --> 00:12:42,090
+I was just like.
+
+247
+00:12:42,270 --> 00:12:43,650
+Did the rope snap.
+
+248
+00:12:44,090 --> 00:12:44,490
+Like.
+
+249
+00:12:44,490 --> 00:12:45,930
+Is the elevator.
+
+250
+00:12:46,910 --> 00:12:47,710
+Still there.
+
+251
+00:12:48,170 --> 00:12:48,390
+And.
+
+252
+00:12:48,830 --> 00:12:49,530
+I was like.
+
+253
+00:12:49,570 --> 00:12:49,810
+You know.
+
+254
+00:12:49,810 --> 00:12:50,670
+Did the cable.
+
+255
+00:12:50,970 --> 00:12:51,250
+Snap.
+
+256
+00:12:51,390 --> 00:12:51,870
+Or anything.
+
+257
+00:12:52,250 --> 00:12:52,690
+Cause.
+
+258
+00:12:52,910 --> 00:12:53,290
+I was.
+
+259
+00:12:53,670 --> 00:12:54,110
+Incredibly.
+
+260
+00:12:54,290 --> 00:12:54,870
+Freaked out.
+
+261
+00:12:55,050 --> 00:12:55,550
+About it.
+
+262
+00:13:01,030 --> 00:13:01,470
+So.
+
+263
+00:13:02,250 --> 00:13:02,690
+Anyway.
+
+264
+00:13:02,790 --> 00:13:03,210
+The elevator.
+
+265
+00:13:03,330 --> 00:13:03,790
+Is fine.
+
+266
+00:13:03,970 --> 00:13:04,390
+Cause like.
+
+267
+00:13:04,450 --> 00:13:05,030
+It was still.
+
+268
+00:13:05,150 --> 00:13:05,570
+Working.
+
+269
+00:13:05,670 --> 00:13:06,050
+That one.
+
+270
+00:13:06,150 --> 00:13:06,590
+Elevator.
+
+271
+00:13:06,750 --> 00:13:07,050
+That.
+
+272
+00:13:07,250 --> 00:13:07,850
+Dad refused.
+
+273
+00:13:07,890 --> 00:13:08,390
+To go in.
+
+274
+00:13:08,430 --> 00:13:08,890
+Was still.
+
+275
+00:13:09,010 --> 00:13:09,250
+Working.
+
+276
+00:13:09,310 --> 00:13:09,930
+The next day.
+
+277
+00:13:10,030 --> 00:13:10,590
+So I assumed.
+
+278
+00:13:10,650 --> 00:13:10,870
+Like.
+
+279
+00:13:10,930 --> 00:13:11,710
+Nothing bad.
+
+280
+00:13:11,930 --> 00:13:12,370
+Happened.
+
+281
+00:13:12,510 --> 00:13:12,750
+So.
+
+282
+00:13:16,810 --> 00:13:17,670
+I don't know.
+
+283
+00:13:17,670 --> 00:13:18,330
+Anyway.
+
+284
+00:13:18,590 --> 00:13:19,990
+That's my story time.
+
+285
+00:13:20,110 --> 00:13:20,930
+I was incredibly.
+
+286
+00:13:20,970 --> 00:13:21,690
+Freaked out.
+
+287
+00:13:22,030 --> 00:13:22,190
+Cause.
+
+288
+00:13:22,850 --> 00:13:23,750
+I should really.
+
+289
+00:13:24,070 --> 00:13:24,750
+Stop walking him.
+
+290
+00:13:24,910 --> 00:13:25,910
+At three in the morning.
+
+291
+00:13:26,110 --> 00:13:26,910
+Because like.
+
+292
+00:13:27,150 --> 00:13:27,830
+I don't know.
+
+293
+00:13:27,970 --> 00:13:28,490
+Feels like.
+
+294
+00:13:28,770 --> 00:13:29,290
+I don't know.
+
+295
+00:13:29,390 --> 00:13:30,230
+It just makes me.
+
+296
+00:13:30,470 --> 00:13:30,750
+Much more.
+
+297
+00:13:31,010 --> 00:13:31,450
+Anxious.
+
+298
+00:13:31,610 --> 00:13:32,010
+And like.
+
+299
+00:13:32,490 --> 00:13:32,930
+Paranoid.
+
+300
+00:13:32,970 --> 00:13:34,130
+About the supernatural.
+
+301
+00:13:34,670 --> 00:13:35,430
+Cause it's like.
+
+302
+00:13:35,470 --> 00:13:35,730
+You know.
+
+303
+00:13:35,810 --> 00:13:36,870
+It's three in the morning.
+
+304
+00:13:37,030 --> 00:13:37,570
+And then like.
+
+305
+00:13:37,630 --> 00:13:38,710
+Anything can happen.
+
+306
+00:13:38,810 --> 00:13:40,010
+In three in the morning.
+
+307
+00:13:43,750 --> 00:13:44,190
+No.
+
+308
+00:13:44,950 --> 00:13:45,390
+Really.
+
+309
+00:13:45,930 --> 00:13:46,350
+So.
+
+310
+00:13:46,490 --> 00:13:46,710
+Yeah.
+
+311
+00:13:46,750 --> 00:13:47,570
+I need to start.
+
+312
+00:13:47,570 --> 00:13:49,450
+I need to stop doing that.
+
+313
+00:13:50,690 --> 00:13:51,090
+Um.
+
+314
+00:13:51,890 --> 00:13:52,250
+Anyway.
+
+315
+00:13:53,130 --> 00:13:53,450
+Winter.
+
+316
+00:13:53,770 --> 00:13:54,550
+Thank you for the super chat.
+
+317
+00:13:54,630 --> 00:13:54,850
+Thank you.
+
+318
+00:13:54,910 --> 00:13:55,430
+Thank you.
+
+319
+00:13:55,550 --> 00:13:56,050
+Hi Doki.
+
+320
+00:13:56,230 --> 00:13:57,670
+You missed my super chat yesterday.
+
+321
+00:13:57,770 --> 00:13:58,330
+It was my birthday.
+
+322
+00:13:58,450 --> 00:13:59,490
+Can I get a happy potty?
+
+323
+00:13:59,550 --> 00:13:59,990
+Of course.
+
+324
+00:14:00,070 --> 00:14:00,330
+Winter.
+
+325
+00:14:00,450 --> 00:14:01,430
+Thank you for the super chat.
+
+326
+00:14:01,530 --> 00:14:01,750
+Thank you.
+
+327
+00:14:01,790 --> 00:14:02,350
+Thank you.
+
+328
+00:14:02,470 --> 00:14:03,710
+Happy belated birthday to you.
+
+329
+00:14:03,730 --> 00:14:04,670
+I'm sorry I missed it.
+
+330
+00:14:04,990 --> 00:14:05,130
+Um.
+
+331
+00:14:05,230 --> 00:14:06,750
+Happy birthday to you.
+
+332
+00:14:07,090 --> 00:14:08,630
+Happy birthday to you.
+
+333
+00:14:08,830 --> 00:14:11,030
+Happy birthday dear Winter.
+
+334
+00:14:11,710 --> 00:14:13,310
+Happy birthday to you.
+
+335
+00:14:13,430 --> 00:14:13,830
+Yeah.
+
+336
+00:14:14,030 --> 00:14:14,830
+Happy birthday.
+
+337
+00:14:15,570 --> 00:14:15,990
+Next scene.
+
+338
+00:14:16,110 --> 00:14:17,050
+Thank you for the super chat.
+
+339
+00:14:17,170 --> 00:14:17,450
+Thank you.
+
+340
+00:14:17,450 --> 00:14:18,130
+Thank you.
+
+341
+00:14:18,230 --> 00:14:18,610
+Thank you.
+
+342
+00:14:18,610 --> 00:14:22,290
+Also, the first elevator probably just smelled like a man.
+
+343
+00:14:22,590 --> 00:14:23,510
+Thank you for the super chat.
+
+344
+00:14:23,590 --> 00:14:23,850
+Thank you.
+
+345
+00:14:24,090 --> 00:14:24,250
+Thank you.
+
+346
+00:14:24,470 --> 00:14:26,950
+Also, today he got into a fight with several dogs.
+
+347
+00:14:27,250 --> 00:14:29,530
+Well, I won't say got into a fight.
+
+348
+00:14:30,070 --> 00:14:30,310
+Um.
+
+349
+00:14:30,330 --> 00:14:33,170
+He would just see a dog and then he'd be like, no.
+
+350
+00:14:34,990 --> 00:14:37,550
+He'd be like, get away from me.
+
+351
+00:14:38,590 --> 00:14:39,530
+There was a corgi.
+
+352
+00:14:40,010 --> 00:14:40,750
+We were walking.
+
+353
+00:14:40,830 --> 00:14:44,150
+We did a drive by for another dog for the crossroads.
+
+354
+00:14:44,250 --> 00:14:45,590
+So we walked past the crossroads.
+
+355
+00:14:45,590 --> 00:14:49,470
+And the corgi, like, was so happy to see my dog.
+
+356
+00:14:49,810 --> 00:14:53,370
+And then I thought it was okay because he wasn't barking, you know.
+
+357
+00:14:53,830 --> 00:14:55,310
+He wasn't barking at all.
+
+358
+00:14:55,470 --> 00:14:57,710
+And the moment they, like, touched noses.
+
+359
+00:14:57,950 --> 00:14:58,450
+Uh.
+
+360
+00:14:58,510 --> 00:14:59,530
+Dad was like.
+
+361
+00:15:00,130 --> 00:15:00,230
+No.
+
+362
+00:15:00,730 --> 00:15:03,670
+Like, try to nip the corgi.
+
+363
+00:15:03,930 --> 00:15:06,070
+Like, they were like snout to snout.
+
+364
+00:15:06,370 --> 00:15:07,770
+And then he was like.
+
+365
+00:15:08,070 --> 00:15:09,990
+He just, like, went for it.
+
+366
+00:15:10,930 --> 00:15:13,990
+And then obviously the corgi freaked out.
+
+367
+00:15:13,990 --> 00:15:14,730
+Because he was like.
+
+368
+00:15:14,990 --> 00:15:15,590
+I was like.
+
+369
+00:15:15,790 --> 00:15:16,770
+I thought we were.
+
+370
+00:15:16,950 --> 00:15:18,350
+I thought we were friends.
+
+371
+00:15:18,490 --> 00:15:20,030
+I thought we were going to be friends.
+
+372
+00:15:20,450 --> 00:15:21,630
+Like, it was so.
+
+373
+00:15:21,810 --> 00:15:23,130
+I thought it was going to be okay.
+
+374
+00:15:23,210 --> 00:15:24,990
+Because he didn't bark at the corgi, too.
+
+375
+00:15:25,270 --> 00:15:25,730
+He literally.
+
+376
+00:15:25,970 --> 00:15:27,410
+They were like nose to nose.
+
+377
+00:15:27,850 --> 00:15:29,450
+The corgi was, like, so happy.
+
+378
+00:15:29,690 --> 00:15:31,330
+And then he just went for it.
+
+379
+00:15:33,670 --> 00:15:34,630
+The corgi was like.
+
+380
+00:15:34,790 --> 00:15:35,630
+Not friend.
+
+381
+00:15:36,110 --> 00:15:36,810
+And dad was like.
+
+382
+00:15:37,130 --> 00:15:38,050
+Not friend.
+
+383
+00:15:39,930 --> 00:15:41,390
+And then he just starts barking.
+
+384
+00:15:41,950 --> 00:15:43,390
+He just actually starts barking.
+
+385
+00:15:43,390 --> 00:15:44,270
+And I have to pull him away.
+
+386
+00:15:44,370 --> 00:15:44,570
+I'm like.
+
+387
+00:15:44,650 --> 00:15:45,410
+I'm so sorry.
+
+388
+00:15:46,510 --> 00:15:46,830
+I'm.
+
+389
+00:15:47,450 --> 00:15:48,730
+I'm so sorry.
+
+390
+00:15:49,090 --> 00:15:49,470
+But, like.
+
+391
+00:15:49,610 --> 00:15:51,730
+I think it's just because he's trying to protect me.
+
+392
+00:15:51,850 --> 00:15:53,470
+Because when he's with the babysitter.
+
+393
+00:15:53,750 --> 00:15:56,350
+He loves hanging out with other dogs.
+
+394
+00:15:56,690 --> 00:15:57,450
+Like, he's like.
+
+395
+00:15:57,610 --> 00:15:57,930
+Yay!
+
+396
+00:15:58,370 --> 00:15:58,690
+Friends!
+
+397
+00:15:59,330 --> 00:16:00,210
+Because the babysitter is like.
+
+398
+00:16:00,230 --> 00:16:01,610
+Is it okay if I babysit.
+
+399
+00:16:01,970 --> 00:16:03,290
+Like, if I have another dog here.
+
+400
+00:16:03,370 --> 00:16:04,170
+Like, if it's an emergency.
+
+401
+00:16:04,470 --> 00:16:04,690
+Like, you know.
+
+402
+00:16:04,710 --> 00:16:05,310
+If I'm sick.
+
+403
+00:16:05,670 --> 00:16:06,170
+Or, like.
+
+404
+00:16:06,170 --> 00:16:06,910
+If I had to, like.
+
+405
+00:16:06,930 --> 00:16:07,750
+Get babysitter.
+
+406
+00:16:07,930 --> 00:16:08,670
+Or dog sitter.
+
+407
+00:16:08,830 --> 00:16:09,690
+At the last minute.
+
+408
+00:16:10,630 --> 00:16:11,750
+The dog sitter would be like.
+
+409
+00:16:11,750 --> 00:16:13,630
+Is it okay if we have another dog.
+
+410
+00:16:13,830 --> 00:16:14,410
+In the apartment.
+
+411
+00:16:14,650 --> 00:16:14,850
+Or, like.
+
+412
+00:16:14,890 --> 00:16:15,130
+I'm sorry.
+
+413
+00:16:15,190 --> 00:16:15,610
+In the house.
+
+414
+00:16:15,710 --> 00:16:16,070
+And they're like.
+
+415
+00:16:16,170 --> 00:16:16,290
+Yeah.
+
+416
+00:16:16,390 --> 00:16:16,550
+No.
+
+417
+00:16:16,610 --> 00:16:16,810
+I was like.
+
+418
+00:16:16,870 --> 00:16:17,030
+Yeah.
+
+419
+00:16:17,050 --> 00:16:17,910
+It should be fine.
+
+420
+00:16:17,970 --> 00:16:18,270
+Like.
+
+421
+00:16:19,130 --> 00:16:20,050
+And then, like.
+
+422
+00:16:20,050 --> 00:16:20,450
+She's like.
+
+423
+00:16:20,490 --> 00:16:20,690
+Yeah.
+
+424
+00:16:20,750 --> 00:16:21,230
+Oh my god.
+
+425
+00:16:21,250 --> 00:16:23,010
+He did so well with the other dog.
+
+426
+00:16:23,230 --> 00:16:23,630
+So, like.
+
+427
+00:16:23,630 --> 00:16:25,410
+He's okay with other dogs.
+
+428
+00:16:25,470 --> 00:16:25,930
+When, like.
+
+429
+00:16:25,950 --> 00:16:26,890
+We're not on walks.
+
+430
+00:16:26,930 --> 00:16:27,310
+I think.
+
+431
+00:16:27,610 --> 00:16:27,930
+When, like.
+
+432
+00:16:27,930 --> 00:16:29,030
+I'm not with him.
+
+433
+00:16:29,330 --> 00:16:29,690
+But, like.
+
+434
+00:16:29,710 --> 00:16:31,970
+He's not okay with other dogs.
+
+435
+00:16:31,970 --> 00:16:33,050
+When it's just me and him.
+
+436
+00:16:33,270 --> 00:16:33,870
+It's actually.
+
+437
+00:16:33,950 --> 00:16:34,430
+I don't know.
+
+438
+00:16:34,430 --> 00:16:36,290
+I don't know what the fuck is going on in his head.
+
+439
+00:16:36,290 --> 00:16:36,670
+I.
+
+440
+00:16:39,030 --> 00:16:39,910
+Not so.
+
+441
+00:16:40,490 --> 00:16:41,750
+Thank you for the super chat.
+
+442
+00:16:41,870 --> 00:16:42,090
+Thank you.
+
+443
+00:16:42,190 --> 00:16:42,630
+Thank you.
+
+444
+00:16:43,090 --> 00:16:44,590
+First, a mystery flip phone.
+
+445
+00:16:44,830 --> 00:16:46,550
+Now, the ghost elevator.
+
+446
+00:16:47,230 --> 00:16:52,410
+Doki is missing all her side quests on the AM dad walk.
+
+447
+00:16:52,770 --> 00:16:54,090
+Thank you for the super chat.
+
+448
+00:16:54,210 --> 00:16:54,570
+Thank you.
+
+449
+00:16:54,650 --> 00:16:55,270
+Thank you.
+
+450
+00:16:55,690 --> 00:16:56,130
+J1.
+
+451
+00:16:56,230 --> 00:16:56,910
+Thank you for the super chat.
+
+452
+00:16:57,010 --> 00:16:57,290
+Thank you.
+
+453
+00:16:57,350 --> 00:16:58,070
+Thank you.
+
+454
+00:16:59,230 --> 00:16:59,670
+Um.
+
+455
+00:17:00,530 --> 00:17:00,970
+Um.
+
+456
+00:17:01,090 --> 00:17:01,250
+But.
+
+457
+00:17:01,330 --> 00:17:02,030
+That's why.
+
+458
+00:17:02,190 --> 00:17:02,670
+I'm very.
+
+459
+00:17:02,930 --> 00:17:03,070
+Also.
+
+460
+00:17:03,250 --> 00:17:04,130
+To address your thing.
+
+461
+00:17:04,210 --> 00:17:04,410
+That's why.
+
+462
+00:17:04,410 --> 00:17:04,690
+I'm like.
+
+463
+00:17:04,890 --> 00:17:05,390
+Very secretive.
+
+464
+00:17:05,530 --> 00:17:05,550
+Like.
+
+465
+00:17:05,750 --> 00:17:07,690
+Very private about my personal life.
+
+466
+00:17:07,810 --> 00:17:08,130
+Guys.
+
+467
+00:17:08,610 --> 00:17:08,790
+Um.
+
+468
+00:17:08,850 --> 00:17:09,010
+But, yes.
+
+469
+00:17:09,030 --> 00:17:10,170
+Thank you for the super chat.
+
+470
+00:17:10,250 --> 00:17:10,550
+Thank you.
+
+471
+00:17:10,610 --> 00:17:11,350
+Thank you.
+
+472
+00:17:11,810 --> 00:17:12,150
+Anyway.
+
+473
+00:17:12,810 --> 00:17:13,150
+Um.
+
+474
+00:17:13,170 --> 00:17:14,230
+Let's check out.
+
+475
+00:17:14,390 --> 00:17:14,950
+Frack bug.
+
+476
+00:17:16,330 --> 00:17:16,670
+Um.
+
+477
+00:17:17,490 --> 00:17:17,790
+So.
+
+478
+00:17:18,190 --> 00:17:18,490
+Yeah.
+
+479
+00:17:18,630 --> 00:17:19,150
+I booted.
+
+480
+00:17:19,190 --> 00:17:19,310
+I.
+
+481
+00:17:19,430 --> 00:17:20,050
+I have not boot.
+
+482
+00:17:20,090 --> 00:17:20,990
+I booted the game.
+
+483
+00:17:21,110 --> 00:17:21,830
+Before the stream.
+
+484
+00:17:21,990 --> 00:17:23,650
+But, then it showed a cut scene.
+
+485
+00:17:24,050 --> 00:17:24,690
+And then.
+
+486
+00:17:24,830 --> 00:17:25,110
+Like.
+
+487
+00:17:25,210 --> 00:17:26,150
+I didn't close the game.
+
+488
+00:17:26,250 --> 00:17:26,710
+Cause I was like.
+
+489
+00:17:26,790 --> 00:17:28,530
+So, I hope we still get the cut scene.
+
+490
+00:17:28,590 --> 00:17:29,070
+Cause I was like.
+
+491
+00:17:29,070 --> 00:17:29,510
+Oh.
+
+492
+00:17:29,590 --> 00:17:30,030
+Maybe.
+
+493
+00:17:30,330 --> 00:17:31,590
+Chat would want to see this.
+
+494
+00:17:31,750 --> 00:17:32,050
+So.
+
+495
+00:17:33,330 --> 00:17:33,770
+So.
+
+496
+00:17:34,110 --> 00:17:34,590
+We'll see.
+
+497
+00:17:34,710 --> 00:17:35,050
+I was like.
+
+498
+00:17:35,090 --> 00:17:35,250
+Oh.
+
+499
+00:17:35,290 --> 00:17:35,530
+Maybe.
+
+500
+00:17:35,990 --> 00:17:38,110
+Chat would want to see this cut scene.
+
+501
+00:17:39,270 --> 00:17:39,710
+Alright.
+
+502
+00:17:39,830 --> 00:17:40,570
+Let's see.
+
+503
+00:17:44,240 --> 00:17:44,680
+Alright.
+
+504
+00:17:45,580 --> 00:17:46,740
+Let's see if it works.
+
+505
+00:17:47,600 --> 00:17:47,960
+Uh.
+
+506
+00:17:47,980 --> 00:17:49,880
+I hope we still get the cut scene then.
+
+507
+00:17:50,580 --> 00:17:51,740
+I hope we still get it.
+
+508
+00:17:53,300 --> 00:17:53,740
+Uh.
+
+509
+00:17:53,980 --> 00:17:54,980
+I'm booting it up.
+
+510
+00:17:55,120 --> 00:17:55,300
+Okay.
+
+511
+00:17:55,380 --> 00:17:55,880
+Frack bug.
+
+512
+00:17:56,020 --> 00:17:57,080
+I hope we didn't miss it.
+
+513
+00:17:58,300 --> 00:17:58,740
+Uh.
+
+514
+00:18:02,630 --> 00:18:03,070
+Okay.
+
+515
+00:18:03,110 --> 00:18:04,130
+Why is it not playing?
+
+516
+00:18:04,270 --> 00:18:05,030
+Where's the sound?
+
+517
+00:18:05,630 --> 00:18:05,890
+Oh.
+
+518
+00:18:06,050 --> 00:18:06,170
+Okay.
+
+519
+00:18:06,250 --> 00:18:07,270
+I just didn't tab in.
+
+520
+00:18:07,570 --> 00:18:08,050
+I...
+
+521
+00:18:08,050 --> 00:18:09,010
+I was like.
+
+522
+00:18:09,250 --> 00:18:09,590
+No.
+
+523
+00:18:09,990 --> 00:18:10,650
+Did I...
+
+524
+00:18:10,650 --> 00:18:12,570
+Did it not give me the cut scene?
+
+525
+00:18:13,190 --> 00:18:15,030
+Because I skipped it?
+
+526
+00:18:16,270 --> 00:18:16,830
+Oh.
+
+527
+00:18:17,490 --> 00:18:19,950
+I didn't even get to see the cut scene, guys.
+
+528
+00:18:23,640 --> 00:18:24,200
+No.
+
+529
+00:18:24,820 --> 00:18:27,560
+I wanted to see the cut scene.
+
+530
+00:18:31,140 --> 00:18:32,380
+That's messed up.
+
+531
+00:18:33,040 --> 00:18:33,320
+Okay.
+
+532
+00:18:33,380 --> 00:18:34,180
+Entering game.
+
+533
+00:18:34,180 --> 00:18:35,000
+No.
+
+534
+00:18:36,440 --> 00:18:37,900
+It looked so good.
+
+535
+00:18:41,850 --> 00:18:42,370
+Alright.
+
+536
+00:18:42,730 --> 00:18:43,250
+Uh.
+
+537
+00:18:43,630 --> 00:18:43,870
+Yeah.
+
+538
+00:18:44,030 --> 00:18:44,290
+Okay.
+
+539
+00:18:44,390 --> 00:18:45,930
+Let's do voice chat.
+
+540
+00:18:46,610 --> 00:18:46,970
+Uh.
+
+541
+00:18:47,170 --> 00:18:48,310
+Push the talk button.
+
+542
+00:18:48,510 --> 00:18:50,090
+How do I change my push the talk button?
+
+543
+00:18:51,030 --> 00:18:52,070
+Voice input.
+
+544
+00:18:52,490 --> 00:18:53,110
+It won't let me.
+
+545
+00:18:53,530 --> 00:18:53,830
+Okay.
+
+546
+00:18:53,990 --> 00:18:54,490
+That's fine.
+
+547
+00:18:55,130 --> 00:18:56,830
+Anti-dizziness preset.
+
+548
+00:18:57,290 --> 00:18:57,710
+Sure.
+
+549
+00:18:59,010 --> 00:18:59,530
+Anti...
+
+550
+00:18:59,530 --> 00:19:03,150
+I mean, I don't get motion sickness, so it doesn't really matter for me.
+
+551
+00:19:03,350 --> 00:19:03,610
+Oh.
+
+552
+00:19:03,630 --> 00:19:04,750
+I'm so sad.
+
+553
+00:19:05,450 --> 00:19:06,870
+I didn't get to see the cut scene.
+
+554
+00:19:06,870 --> 00:19:06,910
+I didn't get to see the cut scene.
+
+555
+00:19:06,910 --> 00:19:09,030
+That's a cool cut scene.
+
+556
+00:19:09,910 --> 00:19:11,510
+The music's dope, though.
+
+557
+00:19:11,690 --> 00:19:12,590
+I like the music.
+
+558
+00:19:14,110 --> 00:19:14,490
+Alright.
+
+559
+00:19:14,790 --> 00:19:16,770
+To keep our community safe, we record nice.
+
+560
+00:19:16,950 --> 00:19:17,510
+Thank you, Spy.
+
+561
+00:19:18,550 --> 00:19:20,610
+I love it when they keep my data.
+
+562
+00:19:21,350 --> 00:19:22,290
+That's my favorite.
+
+563
+00:19:22,470 --> 00:19:22,970
+It's alright.
+
+564
+00:19:23,550 --> 00:19:25,630
+Everybody has my data already.
+
+565
+00:19:25,930 --> 00:19:26,550
+So, what's...
+
+566
+00:19:26,550 --> 00:19:28,750
+So, what's wrong with one more company?
+
+567
+00:19:31,490 --> 00:19:32,390
+That's alright.
+
+568
+00:19:32,730 --> 00:19:34,990
+One more company having my data?
+
+569
+00:19:35,630 --> 00:19:36,770
+That's alright.
+
+570
+00:19:37,450 --> 00:19:39,910
+I'm not linking my account though.
+
+571
+00:19:40,510 --> 00:19:41,650
+So true.
+
+572
+00:19:42,850 --> 00:19:43,930
+So real.
+
+573
+00:19:44,510 --> 00:19:49,630
+I already have several Gmail accounts, and I say yes to accept all cookies.
+
+574
+00:19:56,150 --> 00:19:57,770
+There's the card system!
+
+575
+00:20:00,040 --> 00:20:02,650
+I like the graphics for this.
+
+576
+00:20:14,820 --> 00:20:15,840
+Is that me?
+
+577
+00:20:16,240 --> 00:20:22,080
+Is that what we call the hero slash agent slash legend slash... are we Lancers?
+
+578
+00:20:23,600 --> 00:20:28,120
+I like how every game has to have its own word for the character they select.
+
+579
+00:20:28,920 --> 00:20:30,800
+Because they all want to be special.
+
+580
+00:20:35,890 --> 00:20:38,540
+My Lancer, Agent, Legend, Hero...
+
+581
+00:20:50,920 --> 00:20:52,880
+Pick your Lancers, guys.
+
+582
+00:20:55,160 --> 00:20:57,380
+They don't want to be copyrighted.
+
+583
+00:20:57,460 --> 00:20:58,680
+My operative, be true.
+
+584
+00:20:59,100 --> 00:21:00,340
+My operative...
+
+585
+00:21:01,840 --> 00:21:03,340
+Jesus Christ, okay.
+
+586
+00:21:04,020 --> 00:21:07,020
+Alright, bring up the overall volume and then...
+
+587
+00:21:08,280 --> 00:21:09,880
+Uh, alright, let me...
+
+588
+00:21:09,880 --> 00:21:11,440
+Contact customer service?
+
+589
+00:21:11,600 --> 00:21:12,840
+There's a customer service?
+
+590
+00:21:13,400 --> 00:21:14,480
+Alright, uh...
+
+591
+00:21:16,840 --> 00:21:19,820
+Hold forward, back, sir, melee?
+
+592
+00:21:20,480 --> 00:21:21,800
+There's a melee weapon.
+
+593
+00:21:22,600 --> 00:21:24,680
+Uh, jumps, Jesus, okay.
+
+594
+00:21:25,320 --> 00:21:28,080
+Jumps, okay, walk, hold, last...
+
+595
+00:21:28,680 --> 00:21:29,920
+Whoa, okay, guys, sorry.
+
+596
+00:21:30,260 --> 00:21:33,700
+I sort of get overwhelmed when I'm not familiar with the settings, guys.
+
+597
+00:21:35,200 --> 00:21:42,180
+When I'm not... when I'm not familiar with the settings, it's just... whoa, that's... whoa, that's a lot, okay.
+
+598
+00:21:46,400 --> 00:21:48,900
+There's just a lot going in here.
+
+599
+00:21:52,980 --> 00:21:54,100
+Let's see...
+
+600
+00:21:54,100 --> 00:21:57,260
+Oh, no, Doki, you're getting doxxed.
+
+601
+00:21:57,300 --> 00:21:58,680
+Is that your real... no.
+
+602
+00:21:59,180 --> 00:22:00,360
+Okay, here's some lore.
+
+603
+00:22:00,740 --> 00:22:04,000
+Okay, the reason why this says Sunny...
+
+604
+00:22:04,000 --> 00:22:07,400
+is that that is the name of my very first dog.
+
+605
+00:22:07,980 --> 00:22:13,460
+And, um, I always, like, have accounts named after my very first dog.
+
+606
+00:22:14,220 --> 00:22:15,420
+And his name was Sunny.
+
+607
+00:22:16,360 --> 00:22:19,620
+So that's, like, a little lore behind the... behind the scenes.
+
+608
+00:22:20,220 --> 00:22:20,740
+Uh...
+
+609
+00:22:22,920 --> 00:22:26,200
+Oh, my, you doxxed your first dog?
+
+610
+00:22:26,880 --> 00:22:28,760
+I can't believe it.
+
+611
+00:22:28,840 --> 00:22:30,640
+All right, he's dead, guys.
+
+612
+00:22:30,780 --> 00:22:33,480
+Like, he's been dead for years, guys.
+
+613
+00:22:33,520 --> 00:22:34,840
+It's my very first dog.
+
+614
+00:22:35,240 --> 00:22:35,840
+How am I...
+
+615
+00:22:36,220 --> 00:22:37,140
+Yankie cares?
+
+616
+00:22:37,460 --> 00:22:40,180
+I can't ask permission on a dog that's not alive.
+
+617
+00:22:40,620 --> 00:22:42,360
+Don't say that.
+
+618
+00:22:43,160 --> 00:22:46,300
+To be fair, I don't even ask dad's permission on things.
+
+619
+00:22:49,620 --> 00:22:52,120
+You doxxed your dead dog.
+
+620
+00:22:52,240 --> 00:22:52,870
+That's so...
+
+621
+00:22:53,340 --> 00:22:53,880
+Fuck, guys.
+
+622
+00:22:53,960 --> 00:22:55,440
+It's been a long time.
+
+623
+00:22:55,600 --> 00:23:00,420
+When I say first dog, I meant that dog... I had, like, that dog...
+
+624
+00:23:01,080 --> 00:23:03,340
+was around before I was born.
+
+625
+00:23:03,760 --> 00:23:06,980
+So, like, I had... guys, I had time to move on.
+
+626
+00:23:08,560 --> 00:23:11,440
+Guys, I had a lot of time to move on from that.
+
+627
+00:23:11,940 --> 00:23:15,420
+Uh, 0.58.
+
+628
+00:23:17,060 --> 00:23:17,600
+Um...
+
+629
+00:23:17,600 --> 00:23:25,400
+But yeah, I always have, like, my PCs are always named after, uh, my... so it's been, like, 70 years.
+
+630
+00:23:25,900 --> 00:23:31,180
+Uh, so my PC has been named after... I always name my PCs after him.
+
+631
+00:23:31,640 --> 00:23:35,540
+And, uh, and also, um...
+
+632
+00:23:35,540 --> 00:23:41,160
+Um, that's why I like the color yellow a lot, because it was based off of my dog's name, Sunny.
+
+633
+00:23:41,660 --> 00:23:44,180
+And it just reminds me of my first dog a lot.
+
+634
+00:23:44,240 --> 00:23:47,140
+And also, like, you know, I was like, oh, Sunny, like, yellow.
+
+635
+00:23:47,140 --> 00:23:51,080
+You know, so that's why, like, um, that's why yellow...
+
+636
+00:23:51,620 --> 00:23:53,420
+What is my favorite color, too?
+
+637
+00:23:53,700 --> 00:23:55,980
+Uh, because it just reminds me of my first dog.
+
+638
+00:23:56,580 --> 00:23:58,440
+Um, little Laura there.
+
+639
+00:23:58,960 --> 00:24:02,380
+Uh, for those who are wondering what kind of breed he was, he was...
+
+640
+00:24:02,380 --> 00:24:04,060
+He was a really fancy breed.
+
+641
+00:24:04,140 --> 00:24:04,940
+He was a purebred.
+
+642
+00:24:05,540 --> 00:24:11,280
+Um, I know because my parents will always brag about, like, how he was, like, a bushy dog.
+
+643
+00:24:13,000 --> 00:24:15,060
+It was, uh, what are they called?
+
+644
+00:24:15,920 --> 00:24:17,700
+They're not Eskimo dogs.
+
+645
+00:24:18,100 --> 00:24:18,700
+They're...
+
+646
+00:24:18,700 --> 00:24:23,120
+They're, like, uh, long-haired white dog.
+
+647
+00:24:24,940 --> 00:24:25,540
+Um...
+
+648
+00:24:25,540 --> 00:24:28,080
+Oh, yeah, they're... What are these called?
+
+649
+00:24:28,780 --> 00:24:29,380
+Samoyed.
+
+650
+00:24:29,600 --> 00:24:30,200
+Yeah, yeah.
+
+651
+00:24:30,340 --> 00:24:31,120
+He was, uh...
+
+652
+00:24:31,960 --> 00:24:38,180
+He was a Samoyed, and his parents, uh, he was a purebred Samoyed.
+
+653
+00:24:38,320 --> 00:24:40,000
+I don't know if I'm, like, pronouncing correctly.
+
+654
+00:24:40,520 --> 00:24:45,460
+And his parents were, like, award-winning dogs, uh, back then.
+
+655
+00:24:45,820 --> 00:24:55,100
+And when I was little, I remembered I would, like, tie... When I was, like, a little... a little bird, I would, um, tie my...
+
+656
+00:24:55,100 --> 00:24:56,400
+Oh, I remember it was back then.
+
+657
+00:24:56,520 --> 00:25:03,800
+I had a scooter, and I would, like, tie my, uh, my, like, leash... his leash to my scooter, and he would pull me around.
+
+658
+00:25:03,940 --> 00:25:04,580
+I was, like, yay!
+
+659
+00:25:08,780 --> 00:25:10,620
+I'd be, like, yay!
+
+660
+00:25:10,620 --> 00:25:10,840
+Yay!
+
+661
+00:25:14,260 --> 00:25:18,100
+So those were, like, some happy memories I had, uh, with him.
+
+662
+00:25:18,160 --> 00:25:19,860
+But he was, like, he was very pretty.
+
+663
+00:25:20,360 --> 00:25:30,800
+Um, I mean, he was a fucking purebred, like, parents were actual high-class, uh, beauty contest winners or some fucking shit.
+
+664
+00:25:31,200 --> 00:25:33,320
+And, uh, apparently very expensive.
+
+665
+00:25:34,020 --> 00:25:38,160
+Um, and yeah, that's why, uh, he was a great... He was a great first dog.
+
+666
+00:25:38,580 --> 00:25:41,340
+Uh, they're terrible guard dogs.
+
+667
+00:25:41,420 --> 00:25:44,640
+Yeah, he was a... I don't think he was, like, aggressive at all.
+
+668
+00:25:44,900 --> 00:25:48,040
+He was never, like, super aggressive.
+
+669
+00:25:48,800 --> 00:25:53,280
+Um, and he was always, like, super friendly from what I remembered back then was a little bird.
+
+670
+00:25:53,720 --> 00:25:55,840
+Uh, but yeah, a little lure there, a little...
+
+671
+00:25:56,420 --> 00:25:58,480
+little, like, lure drop there.
+
+672
+00:25:59,240 --> 00:26:08,800
+And then when I... and then we also, as I got older, um, uh, we also got a second dog, and his name was, uh, Bobo.
+
+673
+00:26:09,100 --> 00:26:11,360
+And he was, like, my first wiener dog.
+
+674
+00:26:11,840 --> 00:26:14,940
+And because I was like, I want to... I want a second dog.
+
+675
+00:26:15,000 --> 00:26:17,400
+I want to pick my dog breed.
+
+676
+00:26:17,660 --> 00:26:20,480
+Because I was like, you guys gotta pick a dog breed.
+
+677
+00:26:20,640 --> 00:26:24,080
+I want to pick a dog, and I want it to be an inside dog.
+
+678
+00:26:24,220 --> 00:26:27,320
+Because Sonny was never allowed inside our house.
+
+679
+00:26:27,520 --> 00:26:32,520
+Um, because he sheds... he sheds, uh, dog's dog number two.
+
+680
+00:26:32,940 --> 00:26:35,540
+Anyway, um, yeah, that's right, Bobo.
+
+681
+00:26:35,700 --> 00:26:37,520
+That was his first name.
+
+682
+00:26:41,700 --> 00:26:47,160
+And, and he was also, like, black and, uh, brown, like, like, you know, like Dad.
+
+683
+00:26:47,540 --> 00:26:55,120
+And, uh, and, uh, I wanted an inside dog because, like, Sonny was not allowed inside because he shed a lot.
+
+684
+00:26:55,320 --> 00:26:57,240
+So, like, I wanted an inside dog.
+
+685
+00:26:57,260 --> 00:27:01,920
+So my parents let me pick, uh, went to the pet store, and he... they let me pick a dog.
+
+686
+00:27:02,640 --> 00:27:09,680
+Um, and, you know, this was back then when people didn't realize that buying dogs from the pet store was not a great idea.
+
+687
+00:27:10,640 --> 00:27:13,140
+You know, that was back then.
+
+688
+00:27:13,200 --> 00:27:14,780
+We didn't know back then, okay?
+
+689
+00:27:15,140 --> 00:27:21,060
+We didn't know buying dogs at the pet shop was, like, not a great thing to do, okay?
+
+690
+00:27:21,120 --> 00:27:22,820
+That was old times.
+
+691
+00:27:22,920 --> 00:27:23,820
+We didn't know.
+
+692
+00:27:25,920 --> 00:27:31,540
+But anyway, Bobo was also a purebred dachshund, a purebred wiener dog.
+
+693
+00:27:32,000 --> 00:27:36,760
+And, um, and he... he was a fucking menace.
+
+694
+00:27:39,020 --> 00:27:47,600
+Like, every time we, like, let him, like, we... because we had, like, a gate, um, that would lead down to where Sonny is, uh, outside.
+
+695
+00:27:47,880 --> 00:27:57,200
+So then, like, we had to put on these, like, um, these, like, gate covers, like, these whole gate covers because, like, it's like a gate.
+
+696
+00:27:57,200 --> 00:28:06,180
+So he would... Bobo would slide through the gate to get to Sonny and then get... slide through the other gate to run away.
+
+697
+00:28:06,860 --> 00:28:08,960
+Because he's like, outside!
+
+698
+00:28:10,280 --> 00:28:10,700
+Yeah!
+
+699
+00:28:11,220 --> 00:28:20,360
+So we had to cover the gates with these, like, wire stuff so it wouldn't... because, like, it was... okay, I'll give a visual for it.
+
+700
+00:28:20,600 --> 00:28:21,060
+I'm sorry.
+
+701
+00:28:21,100 --> 00:28:21,780
+I'm not playing.
+
+702
+00:28:24,060 --> 00:28:26,840
+I'll give a visual as to what this would look like.
+
+703
+00:28:26,900 --> 00:28:28,560
+I'm gonna try it out on Payne real quick.
+
+704
+00:28:28,780 --> 00:28:30,340
+So, okay, so...
+
+705
+00:28:31,640 --> 00:28:37,340
+So the gate would look like this and then the dog would be like, yay!
+
+706
+00:28:37,540 --> 00:28:38,000
+Oh, wait.
+
+707
+00:28:38,300 --> 00:28:39,160
+Okay, let's see.
+
+708
+00:28:39,360 --> 00:28:41,500
+And then he would be like, yay!
+
+709
+00:28:43,300 --> 00:28:45,500
+I get to go outside!
+
+710
+00:28:47,280 --> 00:28:54,040
+And then, so, because of that, we had to cover the gate because he would always try...
+
+711
+00:28:56,180 --> 00:29:05,840
+He would always try to slip through the gate to, like, get to Sonny and then slip through the other gate that's to the outside.
+
+712
+00:29:06,440 --> 00:29:08,200
+Because he's like, outside!
+
+713
+00:29:09,800 --> 00:29:11,280
+And he would do this.
+
+714
+00:29:11,680 --> 00:29:13,320
+So, like, this is basically it.
+
+715
+00:29:13,360 --> 00:29:18,860
+So the gates, you know, vertical-wise, he could slip through it and it didn't matter.
+
+716
+00:29:19,060 --> 00:29:26,060
+It wasn't, like, it wasn't that... Okay, by the way, the gate was, like, supposed... It wasn't even, like, that wide.
+
+717
+00:29:26,280 --> 00:29:29,300
+He could, like, just slip through it.
+
+718
+00:29:29,440 --> 00:29:33,660
+Like, he actually, like, forced himself through the gate hole.
+
+719
+00:29:34,980 --> 00:29:44,920
+So because of that, we had to, like, put these covers in there to make it so he couldn't and he would still try to slip through.
+
+720
+00:29:45,580 --> 00:29:47,060
+And, like, he would, like, jump.
+
+721
+00:29:47,240 --> 00:29:49,800
+He would try to jump through, like, here.
+
+722
+00:29:49,940 --> 00:29:54,620
+Like, he'd be like, well, if I can't slip through, I'm gonna jump over it.
+
+723
+00:29:54,980 --> 00:30:01,680
+And he would, he would try.
+
+724
+00:30:01,900 --> 00:30:04,480
+It was basically, like, a jailbreak situation.
+
+725
+00:30:04,860 --> 00:30:06,200
+So he was not allowed.
+
+726
+00:30:06,760 --> 00:30:06,960
+So...
+
+727
+00:30:07,500 --> 00:30:11,320
+So he tried to not allow him, like, to...
+
+728
+00:30:11,320 --> 00:30:15,640
+through that gate too much because he was a fucking menace.
+
+729
+00:30:17,080 --> 00:30:18,440
+That's so...
+
+730
+00:30:18,440 --> 00:30:19,720
+Outside!
+
+731
+00:30:21,600 --> 00:30:22,000
+Yay!
+
+732
+00:30:26,460 --> 00:30:30,220
+Um, but yeah, no, he really loved trying.
+
+733
+00:30:30,320 --> 00:30:33,000
+He really loved doing the whole prison break situation.
+
+734
+00:30:37,280 --> 00:30:43,980
+Uh, but yeah, anyway, those were the story of my first wiener dog and my very first dog.
+
+735
+00:30:44,080 --> 00:30:47,480
+I will buy this as a print if it will sign.
+
+736
+00:30:47,820 --> 00:30:55,600
+Anyway, and then there's... and I guess I can... there was the big dog, the big Samoyed, and he was like...
+
+737
+00:30:56,240 --> 00:30:58,580
+He's just like...
+
+738
+00:30:58,580 --> 00:31:00,600
+He's like, hey there, buddy.
+
+739
+00:31:01,320 --> 00:31:01,900
+Hey there, buddy.
+
+740
+00:31:04,280 --> 00:31:12,420
+And then there's the other dog on the other side and he'd be like, hey there, buddy, what you doing there?
+
+741
+00:31:12,860 --> 00:31:16,360
+What you doing there?
+
+742
+00:31:19,840 --> 00:31:22,740
+The big chill and relaxed dog.
+
+743
+00:31:23,200 --> 00:31:27,420
+All right, so that's the other, all right, that's the story of my first two dogs.
+
+744
+00:31:28,220 --> 00:31:31,480
+All right, back to... back to Frag Punk.
+
+745
+00:31:31,800 --> 00:31:33,520
+Uh, all right, let's see.
+
+746
+00:31:33,580 --> 00:31:34,300
+How do I...
+
+747
+00:31:34,300 --> 00:31:35,560
+How do I do this?
+
+748
+00:31:35,680 --> 00:31:36,440
+Automatic sprint.
+
+749
+00:31:37,300 --> 00:31:38,420
+Uh, cameras.
+
+750
+00:31:38,680 --> 00:31:39,660
+Okay, no camera.
+
+751
+00:31:39,820 --> 00:31:42,980
+Jesus, there's so... no FOV sprint scaling.
+
+752
+00:31:43,180 --> 00:31:43,540
+The fuck?
+
+753
+00:31:43,600 --> 00:31:45,400
+Why would that ever be a thing?
+
+754
+00:31:45,980 --> 00:31:46,460
+I don't know.
+
+755
+00:31:46,540 --> 00:31:48,740
+I feel like that's very stupid to have.
+
+756
+00:31:48,800 --> 00:31:50,620
+Like, why would you ever want to change your FOV?
+
+757
+00:31:52,360 --> 00:31:57,180
+Um, now we know their name and how they look like too.
+
+758
+00:31:57,600 --> 00:31:59,460
+Oh my god, Doki.
+
+759
+00:31:59,900 --> 00:32:01,520
+Why would you do that?
+
+760
+00:32:01,720 --> 00:32:03,740
+Why, how dare you dox them?
+
+761
+00:32:07,240 --> 00:32:09,180
+Um, Winter, thank you for the super chat.
+
+762
+00:32:09,300 --> 00:32:09,600
+Thank you.
+
+763
+00:32:09,660 --> 00:32:10,280
+Thank you.
+
+764
+00:32:10,320 --> 00:32:11,340
+So that's your first pet.
+
+765
+00:32:11,440 --> 00:32:14,740
+What about your mother's maiden name in elementary school?
+
+766
+00:32:14,880 --> 00:32:15,820
+You went to.
+
+767
+00:32:16,260 --> 00:32:17,080
+Thank you for the super chat.
+
+768
+00:32:17,160 --> 00:32:17,420
+Thank you.
+
+769
+00:32:17,500 --> 00:32:18,120
+Thank you.
+
+770
+00:32:18,580 --> 00:32:19,860
+Gambit, thank you for the super chat.
+
+771
+00:32:19,940 --> 00:32:20,140
+Thank you.
+
+772
+00:32:20,200 --> 00:32:20,560
+Thank you.
+
+773
+00:32:20,760 --> 00:32:23,520
+I thought you were just a Dragon Ball fan with the yellow hair.
+
+774
+00:32:23,640 --> 00:32:24,480
+Thank you for the super chat.
+
+775
+00:32:24,880 --> 00:32:25,380
+Uh, thank you.
+
+776
+00:32:25,420 --> 00:32:26,080
+Thank you.
+
+777
+00:32:26,520 --> 00:32:28,540
+Um, Fudge Top, thank you for the super chat.
+
+778
+00:32:28,620 --> 00:32:28,820
+Thank you.
+
+779
+00:32:28,860 --> 00:32:29,440
+Thank you.
+
+780
+00:32:29,740 --> 00:32:32,140
+I love how Sunny is the absolute opposite of Dad.
+
+781
+00:32:32,220 --> 00:32:32,960
+Imagine if they met.
+
+782
+00:32:33,060 --> 00:32:34,420
+Bobo sounds so fun though.
+
+783
+00:32:34,800 --> 00:32:36,640
+I think like it's just a wiener dog thing.
+
+784
+00:32:36,700 --> 00:32:46,200
+They've all been like little menaces throughout my, like all the wiener dogs I've owned have all been like, um, little brats and I don't know where they get that from.
+
+785
+00:32:46,540 --> 00:32:47,360
+Thank you for the super chat.
+
+786
+00:32:47,460 --> 00:32:47,720
+Thank you.
+
+787
+00:32:47,800 --> 00:32:48,480
+Thank you.
+
+788
+00:32:48,880 --> 00:32:49,960
+All right, let me see.
+
+789
+00:32:50,080 --> 00:32:53,400
+Is there anything else I need to change for this?
+
+790
+00:32:55,320 --> 00:32:55,760
+Uh...
+
+791
+00:32:55,760 --> 00:32:57,020
+Uh, sensitivity.
+
+792
+00:32:57,600 --> 00:32:58,980
+I got my sense in.
+
+793
+00:32:59,080 --> 00:33:00,580
+We're not using a controller.
+
+794
+00:33:01,200 --> 00:33:02,120
+Full screen.
+
+795
+00:33:02,740 --> 00:33:03,220
+FOV.
+
+796
+00:33:03,440 --> 00:33:07,360
+I assume 105 should be okay.
+
+797
+00:33:07,540 --> 00:33:08,080
+Let's see.
+
+798
+00:33:08,320 --> 00:33:09,000
+Let's just do...
+
+799
+00:33:10,060 --> 00:33:11,120
+Let's do 1010.
+
+800
+00:33:11,660 --> 00:33:12,140
+I don't know.
+
+801
+00:33:12,180 --> 00:33:13,640
+It seems like 1010.
+
+802
+00:33:14,300 --> 00:33:14,840
+I don't know.
+
+803
+00:33:14,960 --> 00:33:15,940
+Let's just actually 105.
+
+804
+00:33:16,440 --> 00:33:17,220
+Let's do the center.
+
+805
+00:33:17,820 --> 00:33:20,480
+I don't want it to be too big of a difference.
+
+806
+00:33:21,280 --> 00:33:22,740
+Visual auto setting.
+
+807
+00:33:23,140 --> 00:33:24,140
+I mean, we'll just do medium.
+
+808
+00:33:24,300 --> 00:33:28,020
+Usually I put it on low, but like, uh, I'm curious.
+
+809
+00:33:28,220 --> 00:33:29,720
+I'm actually curious for now.
+
+810
+00:33:29,820 --> 00:33:30,100
+Oh, yeah.
+
+811
+00:33:30,180 --> 00:33:31,800
+Music to a 70.
+
+812
+00:33:33,780 --> 00:33:34,220
+Uh...
+
+813
+00:33:34,220 --> 00:33:35,640
+Voice chat volume.
+
+814
+00:33:36,600 --> 00:33:39,480
+My push to... Why can't I change my push to talk?
+
+815
+00:33:39,880 --> 00:33:40,940
+Oh, there it is.
+
+816
+00:33:41,280 --> 00:33:41,520
+Okay.
+
+817
+00:33:41,600 --> 00:33:42,440
+Push to talk.
+
+818
+00:33:42,480 --> 00:33:42,960
+Is that...
+
+819
+00:33:43,840 --> 00:33:45,040
+All right, that's fine.
+
+820
+00:33:45,440 --> 00:33:46,680
+And that should be good.
+
+821
+00:33:46,720 --> 00:33:47,920
+That should be all my settings.
+
+822
+00:33:48,160 --> 00:33:49,100
+Apply, please.
+
+823
+00:33:50,480 --> 00:33:52,220
+Uh, Sarah, thank you for the super chat.
+
+824
+00:33:52,320 --> 00:33:52,580
+Thank you.
+
+825
+00:33:52,640 --> 00:33:53,220
+Thank you.
+
+826
+00:33:53,600 --> 00:34:00,920
+My dad, when he was younger, literally broke the lock of our backyard gate because he was overly excited to hang out with the neighborhood strays.
+
+827
+00:34:01,360 --> 00:34:02,060
+Thank you for the super chat.
+
+828
+00:34:02,140 --> 00:34:02,360
+Thank you.
+
+829
+00:34:02,440 --> 00:34:02,880
+Thank you.
+
+830
+00:34:03,200 --> 00:34:04,480
+But it's still so like...
+
+831
+00:34:05,240 --> 00:34:07,700
+I'm not a huge fan of the sense.
+
+832
+00:34:07,880 --> 00:34:09,340
+It's so high.
+
+833
+00:34:10,100 --> 00:34:13,120
+It feels really high for some reason.
+
+834
+00:34:13,800 --> 00:34:15,160
+From what I'm used to.
+
+835
+00:34:15,400 --> 00:34:16,600
+Okay, maybe zero.
+
+836
+00:34:16,840 --> 00:34:18,560
+Maybe I'll turn it down by 10.
+
+837
+00:34:18,560 --> 00:34:20,500
+Also, the crosshair fucking sucks.
+
+838
+00:34:20,640 --> 00:34:21,140
+Let me...
+
+839
+00:34:21,680 --> 00:34:23,120
+Oh my god, this is worse.
+
+840
+00:34:23,540 --> 00:34:23,900
+All right.
+
+841
+00:34:24,260 --> 00:34:25,200
+Oh, fuck.
+
+842
+00:34:25,360 --> 00:34:27,720
+Okay, time to make my crosshair, guys.
+
+843
+00:34:27,980 --> 00:34:29,120
+I use green.
+
+844
+00:34:29,940 --> 00:34:31,300
+Oh my god.
+
+845
+00:34:31,360 --> 00:34:31,660
+Okay.
+
+846
+00:34:31,940 --> 00:34:34,920
+Uh, give me my center dot, I guess.
+
+847
+00:34:35,780 --> 00:34:37,520
+Um, we'll use... I use dot.
+
+848
+00:34:38,360 --> 00:34:39,860
+I think dot is like the best.
+
+849
+00:34:41,040 --> 00:34:41,560
+Um...
+
+850
+00:34:41,560 --> 00:34:42,440
+Fuck, okay.
+
+851
+00:34:44,820 --> 00:34:46,220
+Give me a sec.
+
+852
+00:34:46,260 --> 00:34:50,860
+I'm trying to figure out how to uh, fine crosshair.
+
+853
+00:34:51,700 --> 00:34:52,340
+Static.
+
+854
+00:34:52,520 --> 00:34:54,120
+I don't care when it moves.
+
+855
+00:34:54,220 --> 00:34:55,120
+How do I make it bigger?
+
+856
+00:34:56,720 --> 00:34:57,700
+What the fuck?
+
+857
+00:34:58,660 --> 00:34:59,540
+Is it thickness?
+
+858
+00:35:00,440 --> 00:35:01,460
+The fuck?
+
+859
+00:35:02,220 --> 00:35:03,900
+Why is it like that?
+
+860
+00:35:04,980 --> 00:35:08,840
+What the fuck is wrong with my... Okay, six.
+
+861
+00:35:09,500 --> 00:35:10,140
+Six.
+
+862
+00:35:11,000 --> 00:35:11,560
+I guess.
+
+863
+00:35:11,680 --> 00:35:12,260
+Okay, four.
+
+864
+00:35:12,960 --> 00:35:15,060
+All right, that should be it.
+
+865
+00:35:15,080 --> 00:35:15,680
+Fine?
+
+866
+00:35:15,860 --> 00:35:17,100
+Question mark.
+
+867
+00:35:17,740 --> 00:35:18,560
+Like I don't understand.
+
+868
+00:35:18,660 --> 00:35:19,400
+Oh shit.
+
+869
+00:35:19,480 --> 00:35:19,760
+Okay.
+
+870
+00:35:19,780 --> 00:35:20,860
+No, that's not fine.
+
+871
+00:35:21,480 --> 00:35:24,020
+Okay, put all of that on four then.
+
+872
+00:35:24,580 --> 00:35:26,560
+Okay, that should be fine?
+
+873
+00:35:26,700 --> 00:35:27,540
+Question mark.
+
+874
+00:35:29,580 --> 00:35:31,400
+Um, I fuck it.
+
+875
+00:35:31,660 --> 00:35:32,440
+That works.
+
+876
+00:35:32,940 --> 00:35:34,000
+I don't need this.
+
+877
+00:35:34,100 --> 00:35:35,180
+All right, that's good.
+
+878
+00:35:36,240 --> 00:35:37,380
+Okay, there we go.
+
+879
+00:35:37,620 --> 00:35:38,500
+We're okay now.
+
+880
+00:35:39,840 --> 00:35:41,580
+Okay, WASD, crouch.
+
+881
+00:35:46,150 --> 00:35:48,330
+This does not feel like...
+
+882
+00:35:48,890 --> 00:35:49,190
+Good.
+
+883
+00:35:49,290 --> 00:35:51,050
+This does not feel like Apex movement.
+
+884
+00:35:53,230 --> 00:35:53,810
+Okay.
+
+885
+00:35:57,120 --> 00:35:58,440
+Okay, nice.
+
+886
+00:36:03,900 --> 00:36:05,260
+Okay, nice.
+
+887
+00:36:05,620 --> 00:36:06,580
+All right, that's good practice.
+
+888
+00:36:07,180 --> 00:36:09,520
+I don't know if I like the sense at all.
+
+889
+00:36:09,660 --> 00:36:15,540
+Maybe, maybe I'll go do 53 maybe?
+
+890
+00:36:16,100 --> 00:36:16,540
+Okay.
+
+891
+00:36:17,800 --> 00:36:19,720
+Almost like it isn't Apex.
+
+892
+00:36:19,840 --> 00:36:19,980
+What?
+
+893
+00:36:20,020 --> 00:36:22,040
+They said there'd be Apex-like movement.
+
+894
+00:36:24,780 --> 00:36:25,720
+No?
+
+895
+00:36:26,620 --> 00:36:27,380
+But it's a shooter!
+
+896
+00:36:28,540 --> 00:36:30,440
+Okay, press Q to use skill.
+
+897
+00:36:31,020 --> 00:36:31,260
+God.
+
+898
+00:36:31,880 --> 00:36:32,480
+God.
+
+899
+00:36:32,940 --> 00:36:33,540
+Guard.
+
+900
+00:36:34,360 --> 00:36:35,200
+Vengeance.
+
+901
+00:36:38,050 --> 00:36:38,520
+Okay.
+
+902
+00:36:40,440 --> 00:36:42,220
+What an unfortunate name.
+
+903
+00:36:46,200 --> 00:36:49,240
+What an unfortunate name.
+
+904
+00:36:49,460 --> 00:36:51,280
+Let's try out their skills.
+
+905
+00:36:51,820 --> 00:36:53,460
+Press anywhere to continue.
+
+906
+00:36:55,400 --> 00:36:57,820
+Click on the lancer list.
+
+907
+00:36:58,020 --> 00:36:59,220
+You can view and choose different lancers.
+
+908
+00:37:03,560 --> 00:37:15,460
+Okay, there is broker, a shoulder launch rocket that causes explosive damage and knocks back enemies who are within a certain range.
+
+909
+00:37:16,300 --> 00:37:20,400
+Once you select the lancer, click the next button or weapon slots to choose a weapon.
+
+910
+00:37:20,860 --> 00:37:22,120
+Oh wait, she reads it out for me.
+
+911
+00:37:22,180 --> 00:37:23,180
+Why the fuck am I reading?
+
+912
+00:37:24,340 --> 00:37:25,020
+Okay.
+
+913
+00:37:26,780 --> 00:37:29,560
+There's the shoulder launch, the throwable gadget.
+
+914
+00:37:29,760 --> 00:37:31,060
+Oh no, not the smokes.
+
+915
+00:37:31,380 --> 00:37:34,580
+This is one of the reasons why I cannot do tactical shooters.
+
+916
+00:37:34,760 --> 00:37:35,380
+All the util.
+
+917
+00:37:37,140 --> 00:37:39,960
+I hate util so much.
+
+918
+00:37:40,880 --> 00:37:45,280
+I feel like that's like the biggest problem with Valorant right now.
+
+919
+00:37:45,580 --> 00:37:48,860
+Is that there's so much like every new character.
+
+920
+00:37:49,320 --> 00:38:01,980
+They add newer utilities and newer like like um visual clutter to the game so that now when you play Valorant at its current state, you can't see anything.
+
+921
+00:38:03,090 --> 00:38:10,220
+The spam is so bad now in Valorant that like it's like where's the gameplay?
+
+922
+00:38:10,820 --> 00:38:12,960
+It's like where's the game anymore?
+
+923
+00:38:14,860 --> 00:38:19,860
+That's why I can't I can't handle Valorant 2 now at its current state.
+
+924
+00:38:20,530 --> 00:38:22,740
+The visual clutter is just too much for me.
+
+925
+00:38:23,320 --> 00:38:24,020
+Deploys a...
+
+926
+00:38:24,700 --> 00:38:26,500
+Oh, this looks like...
+
+927
+00:38:26,500 --> 00:38:28,080
+She looks like D.Va a little.
+
+928
+00:38:28,640 --> 00:38:33,080
+Deploys a multi-function tactical that can be controlled remotely.
+
+929
+00:38:33,860 --> 00:38:36,640
+Plays a lot for my three pieces of cover across.
+
+930
+00:38:37,020 --> 00:38:37,780
+Throw a sentry turret.
+
+931
+00:38:37,960 --> 00:38:39,600
+Oh, she's like, what's your name?
+
+932
+00:38:40,380 --> 00:38:43,240
+Um, the one that puts turrets out in Valorant?
+
+933
+00:38:44,340 --> 00:38:45,740
+Um, I forgot.
+
+934
+00:38:47,480 --> 00:38:48,060
+Uh...
+
+935
+00:38:48,660 --> 00:38:49,140
+Pathogen.
+
+936
+00:38:49,260 --> 00:38:51,520
+Oh, this is basically the green girl.
+
+937
+00:38:52,380 --> 00:38:53,980
+There was a biomedical device.
+
+938
+00:38:54,100 --> 00:38:54,380
+Oh, wait.
+
+939
+00:38:54,460 --> 00:38:55,520
+No, she can heal.
+
+940
+00:38:55,680 --> 00:39:00,120
+It creates a healing field restoring health on to all allies.
+
+941
+00:39:00,260 --> 00:39:01,240
+Oh, she's the healer.
+
+942
+00:39:01,460 --> 00:39:03,100
+Enacts a destructo fungus wall.
+
+943
+00:39:03,980 --> 00:39:05,620
+Throwables that be activated manually.
+
+944
+00:39:05,820 --> 00:39:07,660
+Lancers will damage over time.
+
+945
+00:39:08,220 --> 00:39:09,300
+Is immune to poison.
+
+946
+00:39:09,420 --> 00:39:12,740
+Yeah, that's this is like killjoy and the other one is the viper.
+
+947
+00:39:12,980 --> 00:39:13,260
+Yeah.
+
+948
+00:39:13,260 --> 00:39:15,840
+Loon, thank you for your very first super chat.
+
+949
+00:39:15,960 --> 00:39:16,240
+Thank you.
+
+950
+00:39:16,300 --> 00:39:17,040
+Thank you.
+
+951
+00:39:17,380 --> 00:39:17,780
+Hi, Doki.
+
+952
+00:39:17,880 --> 00:39:18,800
+It's my birthday today.
+
+953
+00:39:18,900 --> 00:39:20,640
+Been watching you for four years.
+
+954
+00:39:20,940 --> 00:39:22,640
+Thank you for always making my daily streams.
+
+955
+00:39:22,740 --> 00:39:23,300
+Of course.
+
+956
+00:39:23,660 --> 00:39:25,160
+Happy birthday, Loon.
+
+957
+00:39:25,400 --> 00:39:27,020
+Happy birthday to you.
+
+958
+00:39:27,320 --> 00:39:28,980
+Happy birthday to you.
+
+959
+00:39:29,240 --> 00:39:31,040
+Happy birthday, dear Loon.
+
+960
+00:39:31,560 --> 00:39:33,200
+Happy birthday to you.
+
+961
+00:39:33,320 --> 00:39:34,480
+Yeah, happy birthday!
+
+962
+00:39:35,660 --> 00:39:36,940
+Let's try nitro.
+
+963
+00:39:38,380 --> 00:39:38,880
+Fuck.
+
+964
+00:39:41,240 --> 00:39:42,560
+Um, fuck.
+
+965
+00:39:42,740 --> 00:39:43,460
+Which one's the AK?
+
+966
+00:39:45,280 --> 00:39:50,380
+Guys, which one looks like the AK, guys?
+
+967
+00:39:55,900 --> 00:39:57,380
+Any assault rifle?
+
+968
+00:40:01,000 --> 00:40:01,660
+Okay.
+
+969
+00:40:02,260 --> 00:40:02,560
+All right.
+
+970
+00:40:02,620 --> 00:40:04,160
+I can't wait to miss all my shots.
+
+971
+00:40:04,160 --> 00:40:06,160
+Oh, wait, I can axe too.
+
+972
+00:40:06,260 --> 00:40:09,540
+Wait, there's different damages for the axes as well?
+
+973
+00:40:10,120 --> 00:40:10,480
+Wait.
+
+974
+00:40:12,500 --> 00:40:13,560
+Why would I?
+
+975
+00:40:14,860 --> 00:40:15,820
+What the fuck?
+
+976
+00:40:15,900 --> 00:40:18,340
+The axe seems like a stronger weapon.
+
+977
+00:40:19,920 --> 00:40:23,000
+Then the- it literally has like more damage.
+
+978
+00:40:23,140 --> 00:40:26,400
+Why the fuck would I use- why the fuck would I use a knife?
+
+979
+00:40:27,280 --> 00:40:29,160
+The speed is the same.
+
+980
+00:40:30,620 --> 00:40:31,960
+No, it's the same.
+
+981
+00:40:32,120 --> 00:40:32,440
+Look.
+
+982
+00:40:32,440 --> 00:40:33,700
+Look, guys.
+
+983
+00:40:33,900 --> 00:40:35,260
+It's literally the same.
+
+984
+00:40:36,760 --> 00:40:38,080
+The charge melee?
+
+985
+00:40:38,480 --> 00:40:39,640
+There's a charge melee?
+
+986
+00:40:40,120 --> 00:40:41,720
+Where the fuck does that say?
+
+987
+00:40:43,540 --> 00:40:45,620
+The stats are all the same.
+
+988
+00:40:46,100 --> 00:40:47,980
+Oh, do I just run faster with the knife?
+
+989
+00:40:48,000 --> 00:40:50,020
+I mean, look at- I'm just like wondering.
+
+990
+00:40:51,700 --> 00:40:52,220
+Um...
+
+991
+00:40:52,920 --> 00:40:53,620
+Like, look.
+
+992
+00:40:53,880 --> 00:40:54,500
+Look at that.
+
+993
+00:40:55,600 --> 00:40:58,440
+I'm like, what's the- Look at that.
+
+994
+00:40:58,600 --> 00:40:59,180
+Like, see, look.
+
+995
+00:40:59,260 --> 00:41:03,300
+The stats are literally the same in terms of like charge rate and everything.
+
+996
+00:41:03,480 --> 00:41:04,760
+The damage is stronger.
+
+997
+00:41:05,360 --> 00:41:10,420
+Like- Like, yeah, I'm like, why the fuck would I pick the knife when the damage is higher?
+
+998
+00:41:11,740 --> 00:41:13,100
+I'm so confused.
+
+999
+00:41:13,820 --> 00:41:15,580
+No, the range is higher too.
+
+1000
+00:41:16,180 --> 00:41:17,880
+The axe has a higher range.
+
+1001
+00:41:18,000 --> 00:41:19,140
+I'm so confused.
+
+1002
+00:41:19,560 --> 00:41:21,120
+Why would I ever pick the knife?
+
+1003
+00:41:21,320 --> 00:41:22,540
+Does it just have better skin?
+
+1004
+00:41:23,000 --> 00:41:28,340
+Like, no, the fucking attack range on the axe is better too.
+
+1005
+00:41:29,520 --> 00:41:35,060
+That doesn't make any sense because the charge time is 1.5 seconds and it's still 1.5 seconds.
+
+1006
+00:41:35,180 --> 00:41:36,660
+Everything else is the same.
+
+1007
+00:41:37,220 --> 00:41:39,660
+Yeah, the attack frames are the same too.
+
+1008
+00:41:39,980 --> 00:41:41,280
+Guys, I don't understand.
+
+1009
+00:41:42,040 --> 00:41:44,140
+Is it just because like the knives have better skins?
+
+1010
+00:41:46,860 --> 00:41:47,980
+No drawbacks?
+
+1011
+00:41:48,440 --> 00:41:48,940
+All right.
+
+1012
+00:41:49,900 --> 00:41:50,520
+I don't understand.
+
+1013
+00:41:50,560 --> 00:41:51,500
+I just don't understand.
+
+1014
+00:41:52,540 --> 00:41:54,340
+Okay, now let's try out some drawbacks.
+
+1015
+00:41:54,760 --> 00:41:55,880
+Jesus, the recoil.
+
+1016
+00:41:58,760 --> 00:41:59,240
+Okay.
+
+1017
+00:42:05,410 --> 00:42:06,450
+Look at him run.
+
+1018
+00:42:07,970 --> 00:42:09,170
+All right, nice.
+
+1019
+00:42:10,390 --> 00:42:11,090
+They're all dead.
+
+1020
+00:42:13,570 --> 00:42:14,530
+Oh, okay.
+
+1021
+00:42:15,390 --> 00:42:16,350
+When you feel like it.
+
+1022
+00:42:16,770 --> 00:42:19,050
+Wait, oh my god, look at this little guy.
+
+1023
+00:42:19,750 --> 00:42:21,430
+Wait, I have to control him?
+
+1024
+00:42:22,690 --> 00:42:24,090
+Look at him go!
+
+1025
+00:42:26,550 --> 00:42:27,030
+Pew!
+
+1026
+00:42:28,010 --> 00:42:28,430
+Pew!
+
+1027
+00:42:31,210 --> 00:42:32,670
+Can I fall off?
+
+1028
+00:42:33,030 --> 00:42:34,510
+No, I can't.
+
+1029
+00:42:35,010 --> 00:42:35,850
+Oh my god.
+
+1030
+00:42:35,950 --> 00:42:37,170
+Okay, so that's that.
+
+1031
+00:42:37,230 --> 00:42:37,890
+What's this?
+
+1032
+00:42:38,830 --> 00:42:40,170
+Okay, there's my wall.
+
+1033
+00:42:41,190 --> 00:42:42,090
+And I can go back.
+
+1034
+00:42:42,150 --> 00:42:43,150
+I can go back down!
+
+1035
+00:42:44,090 --> 00:42:44,510
+Yeah!
+
+1036
+00:42:46,050 --> 00:42:46,850
+Can I break this?
+
+1037
+00:42:46,910 --> 00:42:48,250
+Oh, I can break it in one hit.
+
+1038
+00:42:48,790 --> 00:42:50,630
+Wait, what's the point of having this wall?
+
+1039
+00:42:53,610 --> 00:42:55,030
+Oh, I guess like that?
+
+1040
+00:42:56,310 --> 00:42:57,570
+That's a tiny ass wall.
+
+1041
+00:42:59,070 --> 00:43:01,310
+Okay, and then yeah, it feels like Siege.
+
+1042
+00:43:01,430 --> 00:43:02,270
+And then what's this?
+
+1043
+00:43:05,250 --> 00:43:06,550
+I forgot what this was.
+
+1044
+00:43:08,290 --> 00:43:09,210
+What do you do?
+
+1045
+00:43:09,930 --> 00:43:11,090
+What the fuck do you do?
+
+1046
+00:43:12,290 --> 00:43:13,170
+What is this?
+
+1047
+00:43:13,510 --> 00:43:14,750
+Oh, it's a sentry turret.
+
+1048
+00:43:14,870 --> 00:43:15,450
+Oh, okay.
+
+1049
+00:43:15,610 --> 00:43:16,330
+It's a sentry turret.
+
+1050
+00:43:16,390 --> 00:43:17,130
+All right, let's look at...
+
+1051
+00:43:17,810 --> 00:43:19,770
+Okay, I want to see what her abilities are.
+
+1052
+00:43:20,890 --> 00:43:22,030
+So that's the heal.
+
+1053
+00:43:23,850 --> 00:43:24,650
+And then...
+
+1054
+00:43:25,370 --> 00:43:28,250
+And then this is like the poison, right?
+
+1055
+00:43:29,250 --> 00:43:30,830
+No, this is the poison.
+
+1056
+00:43:32,530 --> 00:43:33,510
+How do I activate?
+
+1057
+00:43:33,670 --> 00:43:34,950
+Okay, this is the poison.
+
+1058
+00:43:35,230 --> 00:43:37,390
+And this is also a wall that I built.
+
+1059
+00:43:38,050 --> 00:43:39,830
+I guess I built this wall too.
+
+1060
+00:43:40,950 --> 00:43:41,870
+I guess.
+
+1061
+00:43:43,030 --> 00:43:44,930
+All right, that's a wall.
+
+1062
+00:43:47,010 --> 00:43:49,190
+Yeah, that can... Oh, they can block doors?
+
+1063
+00:43:49,430 --> 00:43:50,670
+Oh, it's like a rampart.
+
+1064
+00:43:50,910 --> 00:43:52,150
+A rampart door then.
+
+1065
+00:43:52,790 --> 00:43:53,910
+Oh, I see.
+
+1066
+00:43:54,470 --> 00:43:55,190
+Okay, I see.
+
+1067
+00:43:55,290 --> 00:43:56,230
+Can I only build two?
+
+1068
+00:43:56,310 --> 00:43:57,210
+I can only build two.
+
+1069
+00:43:57,730 --> 00:43:59,230
+Okay, what about...
+
+1070
+00:43:59,230 --> 00:44:02,770
+I don't think I want to use... I don't think I want to use broker though.
+
+1071
+00:44:04,290 --> 00:44:04,750
+Uh...
+
+1072
+00:44:04,750 --> 00:44:07,110
+Smoke... Yeah, I'm not doing smoke shit.
+
+1073
+00:44:07,270 --> 00:44:08,370
+Like, excuse me.
+
+1074
+00:44:08,410 --> 00:44:09,810
+I'm not doing smokes, guys.
+
+1075
+00:44:10,170 --> 00:44:11,990
+I'll never understand smokes.
+
+1076
+00:44:16,130 --> 00:44:18,510
+I'll never understand, chat.
+
+1077
+00:44:19,570 --> 00:44:22,930
+I let someone else smoke... do smoke stuff.
+
+1078
+00:44:23,850 --> 00:44:25,790
+Okay, the shards.
+
+1079
+00:44:31,230 --> 00:44:33,610
+Yeah, smoking's bad for you anyway.
+
+1080
+00:44:38,110 --> 00:44:39,810
+Deploy one combat bot.
+
+1081
+00:44:40,350 --> 00:44:41,410
+Explore... exposes.
+
+1082
+00:44:41,670 --> 00:44:42,650
+This is so RNG.
+
+1083
+00:44:42,850 --> 00:44:44,830
+Can you even make a rank game out of this?
+
+1084
+00:44:44,890 --> 00:44:45,970
+It's so RNG.
+
+1085
+00:44:50,890 --> 00:44:53,230
+I mean, I guess that gold was a gold card?
+
+1086
+00:44:53,530 --> 00:44:54,650
+It is gold.
+
+1087
+00:44:57,190 --> 00:44:59,390
+But I could kill my teammates.
+
+1088
+00:44:59,890 --> 00:45:02,010
+Like, this is so RNG.
+
+1089
+00:45:05,470 --> 00:45:06,070
+Yeah,
+
+1090
+00:45:15,760 --> 00:45:18,040
+but wouldn't getting the cards be RNG as well?
+
+1091
+00:45:26,960 --> 00:45:27,360
+Okay.
+
+1092
+00:45:34,960 --> 00:45:37,220
+Okay, but it's every...
+
+1093
+00:45:38,860 --> 00:45:40,280
+Wait, I don't want to click that one.
+
+1094
+00:45:41,000 --> 00:45:43,840
+No, I want the cooler cards.
+
+1095
+00:45:45,020 --> 00:45:45,780
+What?
+
+1096
+00:45:49,850 --> 00:45:51,890
+Wait, I can activate more than one?
+
+1097
+00:45:55,830 --> 00:45:57,490
+Oh shit, okay.
+
+1098
+00:45:58,910 --> 00:46:01,590
+Oh, so each team gets three cards.
+
+1099
+00:46:02,370 --> 00:46:02,890
+Oh.
+
+1100
+00:46:06,130 --> 00:46:07,950
+So each team gets three.
+
+1101
+00:46:08,210 --> 00:46:10,290
+Okay, I get it.
+
+1102
+00:46:10,290 --> 00:46:12,290
+You chose...
+
+1103
+00:46:12,290 --> 00:46:13,830
+Use your shard card.
+
+1104
+00:46:14,250 --> 00:46:14,870
+Break it.
+
+1105
+00:46:15,450 --> 00:46:16,210
+All right now.
+
+1106
+00:46:16,490 --> 00:46:16,910
+Oh.
+
+1107
+00:46:17,730 --> 00:46:20,510
+Once you've planted the converter, it'll detect nearby enemies.
+
+1108
+00:46:20,530 --> 00:46:21,790
+Okay, that's interesting.
+
+1109
+00:46:27,910 --> 00:46:30,430
+All right, that's my bomb.
+
+1110
+00:46:31,210 --> 00:46:32,010
+Plant the converter.
+
+1111
+00:46:32,450 --> 00:46:32,730
+Okay.
+
+1112
+00:46:34,630 --> 00:46:36,330
+Wait, it's just me and the bot.
+
+1113
+00:46:37,970 --> 00:46:39,330
+Wait, that's not fair.
+
+1114
+00:46:39,850 --> 00:46:40,770
+Where's my other teammates?
+
+1115
+00:46:44,490 --> 00:46:47,570
+Wait, how come they get...
+
+1116
+00:46:47,570 --> 00:46:48,950
+That's not fair.
+
+1117
+00:46:49,530 --> 00:46:50,470
+Oh shit.
+
+1118
+00:46:51,090 --> 00:46:51,910
+Oh shit.
+
+1119
+00:46:52,450 --> 00:46:53,250
+Don't shoot me.
+
+1120
+00:46:53,650 --> 00:46:54,450
+Don't shoot me.
+
+1121
+00:46:54,870 --> 00:46:56,030
+Oh fuck, wait.
+
+1122
+00:46:56,310 --> 00:46:58,350
+Wait, how do I... Oh my god, I didn't realize.
+
+1123
+00:46:58,630 --> 00:46:58,870
+Okay.
+
+1124
+00:46:59,510 --> 00:47:00,450
+I didn't realize.
+
+1125
+00:47:00,830 --> 00:47:02,630
+Okay, now you can shoot me.
+
+1126
+00:47:03,050 --> 00:47:03,750
+Okay, sorry.
+
+1127
+00:47:03,830 --> 00:47:06,690
+I didn't realize this damage was actually fucking terrible.
+
+1128
+00:47:07,350 --> 00:47:07,790
+I...
+
+1129
+00:47:09,410 --> 00:47:10,550
+That was so...
+
+1130
+00:47:10,550 --> 00:47:15,410
+Such... Oh my god, the damage is so low.
+
+1131
+00:47:15,870 --> 00:47:17,250
+What the fuck?
+
+1132
+00:47:17,390 --> 00:47:17,730
+Okay.
+
+1133
+00:47:18,090 --> 00:47:19,350
+Well now I know.
+
+1134
+00:47:19,470 --> 00:47:22,270
+Now I know the damage is fucking low as hell.
+
+1135
+00:47:23,270 --> 00:47:25,590
+All right, me...
+
+1136
+00:47:25,590 --> 00:47:26,590
+Am I timed?
+
+1137
+00:47:27,610 --> 00:47:28,610
+No, I'm not.
+
+1138
+00:47:28,670 --> 00:47:29,150
+It's practice.
+
+1139
+00:47:29,430 --> 00:47:31,510
+Okay, I just want to up the volume a little bit more.
+
+1140
+00:47:32,190 --> 00:47:35,710
+Oh my god, the damage was so low on that.
+
+1141
+00:47:35,770 --> 00:47:36,510
+I was not prepared.
+
+1142
+00:47:38,890 --> 00:47:41,350
+Okay, hold for the plant the bomb.
+
+1143
+00:47:42,570 --> 00:47:45,650
+I thought he would do more damage.
+
+1144
+00:47:52,900 --> 00:47:54,400
+Wait, that's it?
+
+1145
+00:47:56,660 --> 00:47:57,560
+That's it?
+
+1146
+00:47:58,740 --> 00:47:59,780
+Fucking hell.
+
+1147
+00:48:00,100 --> 00:48:00,940
+Get out of here.
+
+1148
+00:48:03,000 --> 00:48:04,560
+That's it for the eyes?
+
+1149
+00:48:04,700 --> 00:48:05,500
+So bad.
+
+1150
+00:48:07,100 --> 00:48:08,240
+The eye is so bad.
+
+1151
+00:48:08,240 --> 00:48:09,440
+So fucking bad.
+
+1152
+00:48:12,400 --> 00:48:16,920
+I mean, I guess if you're like paying attention more.
+
+1153
+00:48:22,210 --> 00:48:22,810
+All right.
+
+1154
+00:48:25,130 --> 00:48:26,030
+Is that it?
+
+1155
+00:48:27,130 --> 00:48:27,410
+Anyone?
+
+1156
+00:48:30,750 --> 00:48:34,190
+I was like, okay, I have to aim down sight.
+
+1157
+00:48:34,990 --> 00:48:35,710
+All right, goodbye.
+
+1158
+00:48:37,430 --> 00:48:39,270
+Oh, I don't die from my own bomb.
+
+1159
+00:48:39,750 --> 00:48:40,430
+No, I'm dead.
+
+1160
+00:48:46,650 --> 00:48:47,170
+I'm dead.
+
+1161
+00:48:47,170 --> 00:48:49,870
+I guess if it's not just me, it would be better.
+
+1162
+00:48:50,250 --> 00:48:51,290
+I feel like the wall...
+
+1163
+00:48:51,290 --> 00:48:53,830
+I guess they have to nerf the wall hack a little bit.
+
+1164
+00:48:54,270 --> 00:48:54,550
+Okay.
+
+1165
+00:48:55,750 --> 00:48:56,270
+Not...
+
+1166
+00:48:56,270 --> 00:48:57,170
+Doki.
+
+1167
+00:48:59,250 --> 00:49:01,710
+Yes, nobody stole my identity.
+
+1168
+00:49:02,690 --> 00:49:04,630
+You can't be unlocked by completing matches.
+
+1169
+00:49:04,910 --> 00:49:05,430
+Oh, cool.
+
+1170
+00:49:06,770 --> 00:49:07,910
+Do I get to pick?
+
+1171
+00:49:08,850 --> 00:49:10,190
+Oh, I get to receive.
+
+1172
+00:49:10,490 --> 00:49:11,530
+Enemy heads are bigger.
+
+1173
+00:49:11,770 --> 00:49:12,870
+Jesus Christ.
+
+1174
+00:49:13,150 --> 00:49:14,170
+What the fuck?
+
+1175
+00:49:14,270 --> 00:49:15,250
+Wait, what's the cat one?
+
+1176
+00:49:16,230 --> 00:49:18,510
+A fiery hound follows you by...
+
+1177
+00:49:18,510 --> 00:49:20,090
+What are these?
+
+1178
+00:49:20,890 --> 00:49:21,530
+Okay.
+
+1179
+00:49:22,070 --> 00:49:22,410
+Okay.
+
+1180
+00:49:22,510 --> 00:49:22,870
+Let's see.
+
+1181
+00:49:22,970 --> 00:49:24,310
+Removes one target sight.
+
+1182
+00:49:24,350 --> 00:49:26,530
+No healing for enemies.
+
+1183
+00:49:26,810 --> 00:49:28,130
+Jesus Christ.
+
+1184
+00:49:29,270 --> 00:49:30,570
+Okay, let's see.
+
+1185
+00:49:31,570 --> 00:49:33,110
+Explodes on impact.
+
+1186
+00:49:33,350 --> 00:49:34,810
+That seems very broken.
+
+1187
+00:49:35,290 --> 00:49:38,930
+For four shards, that seems really broken.
+
+1188
+00:49:39,350 --> 00:49:39,590
+All right.
+
+1189
+00:49:39,630 --> 00:49:40,230
+I like this.
+
+1190
+00:49:40,370 --> 00:49:41,410
+Let's shoot teammates to heal.
+
+1191
+00:49:41,570 --> 00:49:42,370
+Gain double jump.
+
+1192
+00:49:42,930 --> 00:49:44,110
+Enhance a random weapon.
+
+1193
+00:49:44,230 --> 00:49:45,630
+Releases flashbang.
+
+1194
+00:49:46,250 --> 00:49:47,230
+Diffuse time.
+
+1195
+00:49:47,410 --> 00:49:48,070
+Slowly lands.
+
+1196
+00:49:48,370 --> 00:49:49,510
+Snowy landscape.
+
+1197
+00:49:49,650 --> 00:49:50,730
+Oh, I like this.
+
+1198
+00:49:51,150 --> 00:49:51,970
+That seems fun.
+
+1199
+00:49:52,390 --> 00:49:57,810
+Equip a turtle on your back to block bullets from behind.
+
+1200
+00:49:58,350 --> 00:50:01,330
+No fucking back shots allowed.
+
+1201
+00:50:01,870 --> 00:50:02,750
+All right.
+
+1202
+00:50:03,070 --> 00:50:03,290
+Okay.
+
+1203
+00:50:03,330 --> 00:50:04,450
+We tried that one.
+
+1204
+00:50:04,890 --> 00:50:06,030
+I don't know if this is good.
+
+1205
+00:50:06,150 --> 00:50:09,270
+I feel like that's more detrimental than good.
+
+1206
+00:50:10,910 --> 00:50:11,970
+What else?
+
+1207
+00:50:12,630 --> 00:50:13,630
+Iron hand.
+
+1208
+00:50:13,990 --> 00:50:15,090
+Emergency evac.
+
+1209
+00:50:15,250 --> 00:50:17,290
+Exposes all enemies in sight.
+
+1210
+00:50:17,830 --> 00:50:18,490
+Elbow shard.
+
+1211
+00:50:18,630 --> 00:50:19,250
+Point screen.
+
+1212
+00:50:19,570 --> 00:50:20,370
+Close court.
+
+1213
+00:50:20,670 --> 00:50:21,610
+Blows away.
+
+1214
+00:50:22,030 --> 00:50:23,090
+That's fun.
+
+1215
+00:50:23,670 --> 00:50:25,150
+What the fuck is this?
+
+1216
+00:50:25,190 --> 00:50:27,190
+You can sleep to heal yours?
+
+1217
+00:50:27,210 --> 00:50:27,790
+What the fuck?
+
+1218
+00:50:27,810 --> 00:50:29,090
+What the fuck is that?
+
+1219
+00:50:29,450 --> 00:50:31,790
+All right, let me get- I realized I forgot to get my water.
+
+1220
+00:50:31,990 --> 00:50:33,470
+I'll be right back, chat.
+
+1221
+00:51:14,760 --> 00:51:16,520
+Guys, I forgot to bring my water.
+
+1222
+00:51:16,720 --> 00:51:20,560
+Like, some of these are like, oh my- some of these are like, scary.
+
+1223
+00:51:26,800 --> 00:51:30,340
+Yeah, it's a little scary, guys.
+
+1224
+00:51:33,520 --> 00:51:35,220
+All right, let's see.
+
+1225
+00:51:37,700 --> 00:51:38,500
+Let's see.
+
+1226
+00:51:39,040 --> 00:51:39,520
+Receive.
+
+1227
+00:51:40,180 --> 00:51:41,080
+Here's another gift.
+
+1228
+00:51:41,180 --> 00:51:41,780
+Check it out.
+
+1229
+00:51:41,880 --> 00:51:42,440
+What did I get?
+
+1230
+00:51:43,100 --> 00:51:44,140
+CDs are rewards.
+
+1231
+00:51:44,260 --> 00:51:44,800
+Oh, fuck.
+
+1232
+00:51:44,820 --> 00:51:45,720
+A battle pass.
+
+1233
+00:51:45,920 --> 00:51:47,040
+Whoa-wee!
+
+1234
+00:51:47,640 --> 00:51:50,900
+Unless you pay me, I'll never spend money on your game.
+
+1235
+00:51:51,840 --> 00:51:53,120
+All right, standard.
+
+1236
+00:51:53,940 --> 00:51:55,920
+I don't want- there's death match.
+
+1237
+00:51:57,280 --> 00:51:57,760
+Ranked.
+
+1238
+00:51:57,760 --> 00:51:58,240
+Outbreak.
+
+1239
+00:51:58,320 --> 00:51:59,000
+What's outbreak?
+
+1240
+00:52:01,320 --> 00:52:02,280
+Parasite's trident effect.
+
+1241
+00:52:02,380 --> 00:52:04,680
+Oh, this is like, survive- like, what is it called?
+
+1242
+00:52:04,900 --> 00:52:07,400
+The- What?
+
+1243
+00:52:07,900 --> 00:52:09,200
+That's a Gmod mode.
+
+1244
+00:52:10,520 --> 00:52:10,960
+Um...
+
+1245
+00:52:10,960 --> 00:52:12,560
+That's a famous Gmod mode.
+
+1246
+00:52:12,620 --> 00:52:13,660
+I don't remember what it's called.
+
+1247
+00:52:14,640 --> 00:52:15,080
+Infection.
+
+1248
+00:52:15,140 --> 00:52:15,740
+Yeah, yeah!
+
+1249
+00:52:16,140 --> 00:52:16,580
+Infection.
+
+1250
+00:52:17,220 --> 00:52:18,760
+Oh, they have infection, too.
+
+1251
+00:52:19,280 --> 00:52:21,200
+Oh, there's sniper death match.
+
+1252
+00:52:21,300 --> 00:52:22,780
+Oh my god.
+
+1253
+00:52:22,860 --> 00:52:24,080
+Wait, I still don't want to play this.
+
+1254
+00:52:24,520 --> 00:52:26,680
+I want to play- What's shard?
+
+1255
+00:52:28,360 --> 00:52:32,960
+Uh, use shard to make the rules engage in a bestest- Jesus, there's so many different rules.
+
+1256
+00:52:33,600 --> 00:52:35,160
+Oh, there's the 1v1.
+
+1257
+00:52:35,380 --> 00:52:36,900
+Okay, there's the 1v1.
+
+1258
+00:52:38,280 --> 00:52:39,180
+Is that Halo?
+
+1259
+00:52:39,400 --> 00:52:41,520
+I only know it from- I know it from, uh...
+
+1260
+00:52:42,620 --> 00:52:43,340
+Um, Gmod.
+
+1261
+00:52:43,620 --> 00:52:45,060
+I used to play- I won't play this one.
+
+1262
+00:52:45,340 --> 00:52:46,920
+I'll get absolutely destroyed.
+
+1263
+00:52:50,040 --> 00:52:51,340
+Training base, PVE.
+
+1264
+00:52:51,680 --> 00:52:52,680
+Oh wait, these are warning.
+
+1265
+00:52:52,840 --> 00:52:55,300
+Oh wait, war- Okay, let's do scrimmage while we wait.
+
+1266
+00:52:55,880 --> 00:52:57,440
+I won't get absolutely destroyed.
+
+1267
+00:52:57,580 --> 00:52:58,200
+Let's do it.
+
+1268
+00:52:59,140 --> 00:53:02,320
+You- you just- Oh my god, we cannot escape Marvel, right?
+
+1269
+00:53:05,100 --> 00:53:06,180
+Oh shit.
+
+1270
+00:53:07,100 --> 00:53:08,400
+We'll never escape.
+
+1271
+00:53:08,800 --> 00:53:09,880
+I was like, what?
+
+1272
+00:53:10,020 --> 00:53:10,720
+You yourself?
+
+1273
+00:53:11,240 --> 00:53:12,580
+That's a rival's map.
+
+1274
+00:53:14,280 --> 00:53:15,820
+Also, I upped the volume sound guy.
+
+1275
+00:53:15,920 --> 00:53:17,000
+What do you think now?
+
+1276
+00:53:17,920 --> 00:53:19,200
+Time for snipery.
+
+1277
+00:53:19,440 --> 00:53:21,680
+All right, let's see if I can do this.
+
+1278
+00:53:22,460 --> 00:53:23,460
+Um, does it really matter?
+
+1279
+00:53:26,100 --> 00:53:26,960
+High life?
+
+1280
+00:53:27,420 --> 00:53:27,840
+Whoa.
+
+1281
+00:53:29,000 --> 00:53:30,480
+Um, I don't know.
+
+1282
+00:53:30,660 --> 00:53:31,180
+We'll try.
+
+1283
+00:53:31,380 --> 00:53:33,440
+I don't know which one is an actual good weapon.
+
+1284
+00:53:36,500 --> 00:53:39,200
+Let's get absolutely destroyed, I guess.
+
+1285
+00:53:40,560 --> 00:53:42,300
+Wait, people are sniping?
+
+1286
+00:53:42,440 --> 00:53:43,580
+Oh my god.
+
+1287
+00:53:47,810 --> 00:53:48,590
+Bro, okay.
+
+1288
+00:53:48,670 --> 00:53:49,630
+These guys are too good.
+
+1289
+00:53:53,930 --> 00:53:55,330
+What the fuck?
+
+1290
+00:53:55,850 --> 00:53:57,210
+You gotta collect?
+
+1291
+00:53:57,750 --> 00:53:58,090
+Bro!
+
+1292
+00:54:02,500 --> 00:54:03,740
+Where are they?
+
+1293
+00:54:03,800 --> 00:54:08,600
+I can't- Okay.
+
+1294
+00:54:10,280 --> 00:54:10,840
+Okay.
+
+1295
+00:54:16,190 --> 00:54:20,470
+I'm like, I'm- oh, I don't like- maybe this gun is not it.
+
+1296
+00:54:22,730 --> 00:54:25,470
+Or maybe I'm just not headshotting, who knows.
+
+1297
+00:54:27,270 --> 00:54:27,830
+What?!
+
+1298
+00:54:27,830 --> 00:54:29,290
+I'm getting destroyed!
+
+1299
+00:54:30,150 --> 00:54:33,090
+Jesus Christ, I'm getting absolutely destroyed.
+
+1300
+00:54:35,430 --> 00:54:38,230
+It's like a- it's like peeker's advantage.
+
+1301
+00:54:40,790 --> 00:54:41,270
+What?!
+
+1302
+00:54:41,270 --> 00:54:41,750
+Where?!
+
+1303
+00:54:41,750 --> 00:54:44,110
+Okay, now I remember why I hate sniper mode, guys.
+
+1304
+00:54:49,890 --> 00:54:51,690
+Are you serious?!
+
+1305
+00:54:51,690 --> 00:54:52,610
+Holy shit!
+
+1306
+00:54:54,970 --> 00:54:57,390
+It's whoever has peeker's advantage!
+
+1307
+00:54:59,370 --> 00:55:02,110
+Whoever sees the other one first, except for me.
+
+1308
+00:55:02,930 --> 00:55:04,170
+Except for me, though.
+
+1309
+00:55:04,390 --> 00:55:10,410
+It doesn't work on me, though, because I- It doesn't work on me, unfortunately.
+
+1310
+00:55:12,270 --> 00:55:13,770
+Because I can't headshot.
+
+1311
+00:55:16,550 --> 00:55:17,530
+There we go.
+
+1312
+00:55:18,550 --> 00:55:20,330
+I just can't headshot, guys.
+
+1313
+00:55:22,610 --> 00:55:23,170
+No!
+
+1314
+00:55:27,560 --> 00:55:29,140
+Wait, how does they heal?
+
+1315
+00:55:29,260 --> 00:55:29,800
+Do you see that?
+
+1316
+00:55:29,860 --> 00:55:30,940
+They heal themselves.
+
+1317
+00:55:36,590 --> 00:55:38,190
+Fucking hell, that's not fair.
+
+1318
+00:55:39,150 --> 00:55:39,710
+What?!
+
+1319
+00:55:39,710 --> 00:55:40,630
+I can't- oh!
+
+1320
+00:55:44,410 --> 00:55:45,890
+That was a headshot!
+
+1321
+00:55:45,890 --> 00:55:46,490
+What?!
+
+1322
+00:55:47,350 --> 00:55:48,370
+That's bullshit.
+
+1323
+00:55:48,750 --> 00:55:51,130
+That was absolutely a headshot.
+
+1324
+00:55:54,270 --> 00:55:56,890
+That was 100% a headshot.
+
+1325
+00:55:57,830 --> 00:55:59,250
+Fuck me, I guess.
+
+1326
+00:55:59,930 --> 00:56:00,630
+No head.
+
+1327
+00:56:04,200 --> 00:56:05,300
+Oh my god.
+
+1328
+00:56:06,080 --> 00:56:07,560
+Is this gun bad?
+
+1329
+00:56:07,780 --> 00:56:08,740
+I think- wait, I don't know.
+
+1330
+00:56:08,780 --> 00:56:10,220
+Am I using the wrong gun?
+
+1331
+00:56:10,500 --> 00:56:11,600
+Should I use this one?
+
+1332
+00:56:14,340 --> 00:56:15,660
+All right, let's see.
+
+1333
+00:56:15,920 --> 00:56:17,040
+Is this gun is better?
+
+1334
+00:56:17,800 --> 00:56:18,140
+Guys.
+
+1335
+00:56:18,860 --> 00:56:21,800
+Oh my god, I was using the wrong gun!
+
+1336
+00:56:24,860 --> 00:56:26,580
+Okay, okay, yeah.
+
+1337
+00:56:28,580 --> 00:56:31,720
+I was using the wrong gun.
+
+1338
+00:56:31,940 --> 00:56:35,360
+This is- yeah, yeah, this is the off!
+
+1339
+00:56:35,620 --> 00:56:37,620
+This is the off, guys!
+
+1340
+00:56:42,560 --> 00:56:43,740
+That makes sense now.
+
+1341
+00:56:44,020 --> 00:56:45,880
+No wonder!
+
+1342
+00:56:46,380 --> 00:56:47,020
+Guys!
+
+1343
+00:56:47,780 --> 00:56:49,480
+Oh, yeah, absolutely.
+
+1344
+00:56:50,380 --> 00:56:53,580
+Yeah, I was not using the right one.
+
+1345
+00:56:53,800 --> 00:56:55,920
+I was not using the off, guys.
+
+1346
+00:56:56,940 --> 00:56:59,720
+No, okay, that makes a lot more sense now.
+
+1347
+00:56:59,820 --> 00:57:02,620
+No wonder everybody was fucking one-shotting me.
+
+1348
+00:57:02,700 --> 00:57:03,940
+I was so confused.
+
+1349
+00:57:04,380 --> 00:57:06,520
+I'm not washed, guys!
+
+1350
+00:57:07,040 --> 00:57:08,520
+I was not washed.
+
+1351
+00:57:08,600 --> 00:57:11,240
+I was just using the wrong gun in general.
+
+1352
+00:57:14,720 --> 00:57:20,040
+I was using the fucking scout instead of the actual gun.
+
+1353
+00:57:21,100 --> 00:57:22,260
+I didn't know!
+
+1354
+00:57:22,680 --> 00:57:24,000
+I didn't know!
+
+1355
+00:57:25,000 --> 00:57:26,680
+Oh my god, I didn't see this person.
+
+1356
+00:57:27,080 --> 00:57:32,320
+Wait, everybody's playing like the- the healer, but you can't even use class abilities.
+
+1357
+00:57:33,120 --> 00:57:34,200
+Why are they all using them?
+
+1358
+00:57:36,380 --> 00:57:37,520
+Oh shit, okay.
+
+1359
+00:57:38,300 --> 00:57:40,420
+I was trying- oh my god, he got fucking knifed!
+
+1360
+00:57:40,600 --> 00:57:43,280
+Okay, now I'm actually getting kills though, and that makes me happy.
+
+1361
+00:57:43,790 --> 00:57:46,560
+Guys, I'm- I'm happy because I'm actually getting kills now.
+
+1362
+00:57:49,940 --> 00:57:52,120
+Wait, that's fucking right.
+
+1363
+00:57:52,220 --> 00:57:53,040
+That's right!
+
+1364
+00:57:55,620 --> 00:57:57,240
+That's fucking right.
+
+1365
+00:57:58,100 --> 00:57:59,020
+It's okay.
+
+1366
+00:57:59,080 --> 00:58:02,200
+I was sandbagging in the beginning, guys.
+
+1367
+00:58:02,280 --> 00:58:03,400
+I was sandbagging.
+
+1368
+00:58:06,660 --> 00:58:07,220
+Yes!
+
+1369
+00:58:07,220 --> 00:58:07,960
+We know now.
+
+1370
+00:58:08,100 --> 00:58:08,620
+We know.
+
+1371
+00:58:08,980 --> 00:58:11,840
+I was sandbagging, but now I know what to use.
+
+1372
+00:58:12,260 --> 00:58:18,240
+The guild authorizes you to lock in the key and say thank you for the super chat.
+
+1373
+00:58:18,380 --> 00:58:19,580
+Thank you, thank you.
+
+1374
+00:58:19,980 --> 00:58:22,720
+Guys, I was literally sandbagging, okay?
+
+1375
+00:58:23,180 --> 00:58:24,660
+Now that I know.
+
+1376
+00:58:24,920 --> 00:58:28,720
+Now that I know which one's the actual off gun.
+
+1377
+00:58:29,020 --> 00:58:30,820
+Look, I figured it out.
+
+1378
+00:58:31,080 --> 00:58:32,840
+I was like, how am I not?
+
+1379
+00:58:32,840 --> 00:58:35,960
+I was like, how the fuck am I not?
+
+1380
+00:58:36,100 --> 00:58:36,640
+Oh shit, nice.
+
+1381
+00:58:36,700 --> 00:58:37,420
+I can have stickers.
+
+1382
+00:58:38,700 --> 00:58:39,660
+What is this?
+
+1383
+00:58:40,300 --> 00:58:42,340
+Oh, I can put the stickers on my gun, right?
+
+1384
+00:58:43,260 --> 00:58:45,340
+Okay, I- I'm gonna redeem myself.
+
+1385
+00:58:45,500 --> 00:58:49,320
+Jesus, there's so many like cosmetics and everything.
+
+1386
+00:58:49,920 --> 00:58:53,100
+Um, wait, how do I- my- I don't care about that.
+
+1387
+00:58:53,340 --> 00:58:54,040
+I won't play.
+
+1388
+00:58:54,880 --> 00:58:56,020
+How do I play again?
+
+1389
+00:58:56,880 --> 00:59:00,300
+God, there's- God, lobby, arsenal.
+
+1390
+00:59:00,700 --> 00:59:03,540
+How do I play my- how do I play a video game?
+
+1391
+00:59:05,860 --> 00:59:07,580
+Which- there's so many.
+
+1392
+00:59:07,840 --> 00:59:08,880
+Which one is it?
+
+1393
+00:59:09,460 --> 00:59:10,600
+Wait, oh, there it is.
+
+1394
+00:59:10,660 --> 00:59:12,020
+Oh, there's the play button.
+
+1395
+00:59:12,180 --> 00:59:12,560
+I'm sorry.
+
+1396
+00:59:12,680 --> 00:59:13,940
+It was in a different font.
+
+1397
+00:59:14,020 --> 00:59:15,020
+I was so confused.
+
+1398
+00:59:15,380 --> 00:59:17,900
+Okay, guys, I have to do this again, guys.
+
+1399
+00:59:21,300 --> 00:59:22,560
+It was just weird.
+
+1400
+00:59:22,680 --> 00:59:23,860
+It was in a weird font.
+
+1401
+00:59:24,020 --> 00:59:24,940
+I got confused.
+
+1402
+00:59:25,560 --> 00:59:27,560
+I got- I got confused.
+
+1403
+00:59:27,840 --> 00:59:29,400
+It blends in.
+
+1404
+00:59:30,200 --> 00:59:32,200
+It blends in, chat.
+
+1405
+00:59:36,300 --> 00:59:42,080
+It's not like- it's not actually- it's not like intuitive at all.
+
+1406
+00:59:42,220 --> 00:59:47,400
+Okay, now that I know what- now that I know how to use the sniper rifle, this is it.
+
+1407
+00:59:47,420 --> 00:59:48,660
+I'm gonna redeem myself, guys.
+
+1408
+00:59:48,780 --> 00:59:50,380
+I'm gonna redeem myself right here.
+
+1409
+00:59:50,980 --> 00:59:51,940
+I swear to god.
+
+1410
+00:59:53,360 --> 00:59:59,880
+Now that I know- now that I know, this is the actual sniper that everyone uses.
+
+1411
+01:00:00,640 --> 01:00:01,040
+See?
+
+1412
+01:00:01,480 --> 01:00:02,560
+I told you.
+
+1413
+01:00:04,760 --> 01:00:05,640
+Oh, shit.
+
+1414
+01:00:07,100 --> 01:00:09,720
+Oh my god, he's fucking crazy!
+
+1415
+01:00:12,260 --> 01:00:14,540
+Guys, I figured it out, guys.
+
+1416
+01:00:16,460 --> 01:00:18,540
+Oh, Juice WRLD, you go, Juice WRLD.
+
+1417
+01:00:20,660 --> 01:00:21,560
+Somebody here.
+
+1418
+01:00:23,200 --> 01:00:24,460
+Somebody on this side.
+
+1419
+01:00:25,220 --> 01:00:26,040
+Wait, what?
+
+1420
+01:00:26,360 --> 01:00:26,840
+123?
+
+1421
+01:00:28,140 --> 01:00:29,140
+There we go.
+
+1422
+01:00:29,800 --> 01:00:30,360
+There we go.
+
+1423
+01:00:30,360 --> 01:00:31,900
+See, look at that headshot now.
+
+1424
+01:00:32,380 --> 01:00:33,040
+Look at that.
+
+1425
+01:00:37,000 --> 01:00:38,260
+Look at that, guys.
+
+1426
+01:00:38,460 --> 01:00:38,940
+Headshot.
+
+1427
+01:00:39,640 --> 01:00:41,740
+Look at that quickscope headshot, too.
+
+1428
+01:00:41,820 --> 01:00:43,660
+That was crazy of me to do.
+
+1429
+01:00:48,470 --> 01:00:49,290
+I'm gaming.
+
+1430
+01:00:50,590 --> 01:00:52,510
+I just need like- oh.
+
+1431
+01:00:53,390 --> 01:00:55,310
+Oh my god, 123!
+
+1432
+01:00:55,830 --> 01:00:56,770
+He should be dead!
+
+1433
+01:00:57,170 --> 01:00:59,150
+He should absolutely be dead!
+
+1434
+01:01:01,070 --> 01:01:01,790
+123!
+
+1435
+01:01:07,010 --> 01:01:09,030
+That guy should not be alive.
+
+1436
+01:01:11,110 --> 01:01:12,410
+That's fucking right.
+
+1437
+01:01:13,670 --> 01:01:14,550
+Get out of here.
+
+1438
+01:01:17,030 --> 01:01:19,530
+No, I got crossed!
+
+1439
+01:01:19,910 --> 01:01:22,790
+That was a headshot!
+
+1440
+01:01:23,850 --> 01:01:26,970
+That would have been a headshot if I didn't get crossed!
+
+1441
+01:01:28,470 --> 01:01:29,210
+There we go.
+
+1442
+01:01:29,270 --> 01:01:30,170
+Get out of here.
+
+1443
+01:01:31,830 --> 01:01:33,030
+Get out- no!
+
+1444
+01:01:34,990 --> 01:01:36,490
+There's too many footsteps.
+
+1445
+01:01:36,690 --> 01:01:40,450
+I don't know this game enough to figure out where the head- where they're going.
+
+1446
+01:01:42,370 --> 01:01:43,230
+Okay, nice.
+
+1447
+01:01:44,550 --> 01:01:47,530
+There's way too many footsteps around me.
+
+1448
+01:01:49,550 --> 01:01:50,510
+Oh, shit!
+
+1449
+01:01:51,390 --> 01:01:52,730
+That's fucking right.
+
+1450
+01:01:52,890 --> 01:01:54,210
+I told you!
+
+1451
+01:01:54,410 --> 01:01:55,010
+Oh, fuck!
+
+1452
+01:01:56,050 --> 01:01:57,730
+I told you!
+
+1453
+01:01:59,510 --> 01:02:01,150
+I told you!
+
+1454
+01:02:01,530 --> 01:02:05,410
+Now that I figure- I told you I can play shooters.
+
+1455
+01:02:05,750 --> 01:02:07,370
+I have the aim.
+
+1456
+01:02:07,490 --> 01:02:08,930
+I told you, guys.
+
+1457
+01:02:12,450 --> 01:02:16,330
+When I have the aim, I'm unstoppable.
+
+1458
+01:02:16,630 --> 01:02:17,270
+I'm 5 HP.
+
+1459
+01:02:17,270 --> 01:02:17,310
+Oh, baby.
+
+1460
+01:02:19,800 --> 01:02:21,050
+Get shit on!
+
+1461
+01:02:22,180 --> 01:02:23,790
+I still got it.
+
+1462
+01:02:24,550 --> 01:02:26,670
+I still fucking got it.
+
+1463
+01:02:28,030 --> 01:02:29,770
+That's fucking right, baby.
+
+1464
+01:02:31,500 --> 01:02:32,770
+That's fucking right.
+
+1465
+01:02:33,630 --> 01:02:35,010
+It don't matter.
+
+1466
+01:02:39,320 --> 01:02:40,910
+You fucking coward!
+
+1467
+01:02:41,290 --> 01:02:42,670
+You're such a coward!
+
+1468
+01:02:43,230 --> 01:02:45,310
+You're such a little bitch!
+
+1469
+01:02:45,310 --> 01:02:48,130
+I just scared your baby.
+
+1470
+01:02:48,830 --> 01:02:51,890
+You have to camp to kill me, you fucker.
+
+1471
+01:02:52,430 --> 01:02:53,770
+You're so bad.
+
+1472
+01:02:53,850 --> 01:02:56,950
+Imagine camping just to try and get a kill.
+
+1473
+01:03:00,470 --> 01:03:03,560
+That's such a little bitch boy right there.
+
+1474
+01:03:05,410 --> 01:03:06,870
+I see you there.
+
+1475
+01:03:10,170 --> 01:03:11,310
+Be better.
+
+1476
+01:03:15,310 --> 01:03:17,990
+Actually know how to play, bro.
+
+1477
+01:03:20,370 --> 01:03:21,190
+I know.
+
+1478
+01:03:25,670 --> 01:03:27,030
+That's a Q-Rate.
+
+1479
+01:03:27,210 --> 01:03:28,390
+I'm better than you.
+
+1480
+01:03:30,390 --> 01:03:32,430
+Jesus Christ, your honor.
+
+1481
+01:03:33,250 --> 01:03:34,470
+I know I'm better.
+
+1482
+01:03:37,450 --> 01:03:38,090
+Redeemed.
+
+1483
+01:03:38,230 --> 01:03:39,450
+That's a Q-Rate.
+
+1484
+01:03:41,110 --> 01:03:43,390
+I know I'm better than you.
+
+1485
+01:03:43,390 --> 01:03:47,750
+Now that I don't have a fucking scout and an AWP.
+
+1486
+01:03:49,070 --> 01:03:49,690
+No!
+
+1487
+01:03:50,150 --> 01:03:51,830
+I got shot in the back!
+
+1488
+01:03:51,930 --> 01:03:52,670
+Who shot me?
+
+1489
+01:03:53,390 --> 01:03:54,610
+Who's that whore?
+
+1490
+01:03:57,190 --> 01:03:58,530
+Who are you?
+
+1491
+01:03:59,430 --> 01:04:00,850
+You know you're bad.
+
+1492
+01:04:02,450 --> 01:04:05,150
+You have to backshot me to kill me.
+
+1493
+01:04:06,490 --> 01:04:09,110
+Oh my god, there you go.
+
+1494
+01:04:09,150 --> 01:04:09,830
+I shot your leg.
+
+1495
+01:04:10,090 --> 01:04:10,970
+I'll take that.
+
+1496
+01:04:14,210 --> 01:04:15,870
+I'll take that leg shot.
+
+1497
+01:04:16,030 --> 01:04:17,450
+Bro, that's fucked.
+
+1498
+01:04:17,550 --> 01:04:19,130
+That's actual fuck.
+
+1499
+01:04:19,190 --> 01:04:20,970
+He got camped so hard there.
+
+1500
+01:04:21,850 --> 01:04:22,570
+No,
+
+1501
+01:04:26,670 --> 01:04:27,110
+what?
+
+1502
+01:04:28,410 --> 01:04:30,090
+I keep getting backshot.
+
+1503
+01:04:32,470 --> 01:04:33,530
+That's messed up.
+
+1504
+01:04:33,650 --> 01:04:34,850
+Yeah, we did it.
+
+1505
+01:04:35,030 --> 01:04:35,750
+Yippee!
+
+1506
+01:04:36,290 --> 01:04:37,190
+That's right.
+
+1507
+01:04:37,890 --> 01:04:38,970
+Top fragger.
+
+1508
+01:04:39,170 --> 01:04:40,150
+That's me.
+
+1509
+01:04:40,630 --> 01:04:42,470
+Wait, I'm not even the highlight?
+
+1510
+01:04:42,470 --> 01:04:43,570
+I got a
+
+1511
+01:04:46,670 --> 01:04:47,090
+fuck.
+
+1512
+01:04:47,470 --> 01:04:49,930
+My kills are so much cooler.
+
+1513
+01:04:53,630 --> 01:04:56,770
+My kills are so much cooler than that.
+
+1514
+01:04:57,090 --> 01:04:58,970
+I can't believe it.
+
+1515
+01:04:59,050 --> 01:05:00,290
+That was so lame.
+
+1516
+01:05:00,710 --> 01:05:01,910
+That was so lame.
+
+1517
+01:05:02,030 --> 01:05:04,550
+I literally got like four headshots in a row.
+
+1518
+01:05:09,630 --> 01:05:10,990
+All right.
+
+1519
+01:05:11,850 --> 01:05:12,970
+See you guys.
+
+1520
+01:05:13,110 --> 01:05:14,450
+I told you I'm not washed.
+
+1521
+01:05:14,510 --> 01:05:15,290
+Look at that.
+
+1522
+01:05:15,570 --> 01:05:16,890
+Look at that chat.
+
+1523
+01:05:17,010 --> 01:05:18,170
+I told you.
+
+1524
+01:05:19,590 --> 01:05:21,230
+The W and W.
+
+1525
+01:05:21,270 --> 01:05:22,590
+No, what do you mean?
+
+1526
+01:05:23,450 --> 01:05:26,110
+I literally carried so hard.
+
+1527
+01:05:27,530 --> 01:05:28,990
+Thank you for the super chat.
+
+1528
+01:05:29,110 --> 01:05:29,470
+Thank you.
+
+1529
+01:05:29,530 --> 01:05:29,930
+Thank you.
+
+1530
+01:05:29,930 --> 01:05:30,210
+Come on.
+
+1531
+01:05:30,270 --> 01:05:31,790
+I got a no scope too.
+
+1532
+01:05:32,050 --> 01:05:33,790
+I got a no scope.
+
+1533
+01:05:34,170 --> 01:05:36,110
+Um, no scope headshot.
+
+1534
+01:05:36,230 --> 01:05:37,570
+Like come on.
+
+1535
+01:05:37,750 --> 01:05:40,170
+I deserve so much more.
+
+1536
+01:05:40,650 --> 01:05:40,930
+I...
+
+1537
+01:05:42,410 --> 01:05:45,450
+I missed the toxic gamer ASMR.
+
+1538
+01:05:48,470 --> 01:05:51,110
+All right, let's see.
+
+1539
+01:05:52,950 --> 01:05:54,970
+Oh, wait, there's no W in Doki Bird.
+
+1540
+01:05:55,110 --> 01:05:55,730
+Wait, you're right.
+
+1541
+01:05:56,730 --> 01:06:00,430
+There's no W in Doki Bird.
+
+1542
+01:06:00,910 --> 01:06:02,530
+All right, completing matches.
+
+1543
+01:06:02,650 --> 01:06:03,510
+So I'm not washed.
+
+1544
+01:06:03,670 --> 01:06:04,250
+Oh my god.
+
+1545
+01:06:04,310 --> 01:06:04,910
+You're sorry guys.
+
+1546
+01:06:04,970 --> 01:06:06,010
+I can't spell either.
+
+1547
+01:06:06,710 --> 01:06:07,770
+Oh my god.
+
+1548
+01:06:07,810 --> 01:06:08,090
+Okay.
+
+1549
+01:06:08,810 --> 01:06:09,370
+How do I?
+
+1550
+01:06:09,550 --> 01:06:10,850
+I like the...
+
+1551
+01:06:10,930 --> 01:06:12,130
+How do I?
+
+1552
+01:06:12,810 --> 01:06:13,550
+Oh my gosh.
+
+1553
+01:06:13,650 --> 01:06:14,790
+I'm so confused.
+
+1554
+01:06:15,090 --> 01:06:15,730
+I'm so...
+
+1555
+01:06:16,770 --> 01:06:17,550
+Card sleeve.
+
+1556
+01:06:17,710 --> 01:06:19,010
+Oh, I can like put cards...
+
+1557
+01:06:19,990 --> 01:06:22,010
+card sleeves on my cards?
+
+1558
+01:06:24,270 --> 01:06:27,150
+Not washed, still toxic, broken bot.
+
+1559
+01:06:27,270 --> 01:06:28,290
+Thank you for the super chat.
+
+1560
+01:06:28,370 --> 01:06:28,670
+Thank you.
+
+1561
+01:06:28,730 --> 01:06:29,430
+Thank you.
+
+1562
+01:06:29,810 --> 01:06:31,030
+All right now...
+
+1563
+01:06:31,030 --> 01:06:33,730
+Okay, now that I feel warmed up now, I think I can...
+
+1564
+01:06:34,330 --> 01:06:36,470
+I think I can do a standard game mode.
+
+1565
+01:06:37,010 --> 01:06:38,150
+I think I can do it.
+
+1566
+01:06:38,470 --> 01:06:42,310
+I'm gonna... I'm gonna get beat up, but like I think I can do it.
+
+1567
+01:06:44,150 --> 01:06:45,130
+There we go.
+
+1568
+01:06:45,910 --> 01:06:47,470
+There is no L in Doki.
+
+1569
+01:06:49,090 --> 01:06:50,990
+Thank you for the super chat.
+
+1570
+01:06:51,110 --> 01:06:51,390
+Thank you.
+
+1571
+01:06:51,410 --> 01:06:52,110
+Thank you.
+
+1572
+01:06:53,070 --> 01:06:56,050
+I like the non-tactical shooter of this game so far.
+
+1573
+01:06:58,590 --> 01:06:59,790
+Wait, I'm spectating?
+
+1574
+01:07:00,010 --> 01:07:01,390
+Am I like... Oh my god.
+
+1575
+01:07:01,430 --> 01:07:02,490
+Am I fucking filling?
+
+1576
+01:07:02,730 --> 01:07:03,550
+Am I filling?
+
+1577
+01:07:03,870 --> 01:07:04,890
+God damn it.
+
+1578
+01:07:05,830 --> 01:07:07,210
+Why am I always a filler?
+
+1579
+01:07:07,670 --> 01:07:08,750
+Half a minute to go.
+
+1580
+01:07:09,030 --> 01:07:09,850
+What's going on?
+
+1581
+01:07:09,930 --> 01:07:11,170
+Is he the only one alive?
+
+1582
+01:07:13,770 --> 01:07:14,430
+Wait, what?
+
+1583
+01:07:15,810 --> 01:07:19,350
+What the fuck is going on in my team?
+
+1584
+01:07:19,670 --> 01:07:20,730
+Oh my god.
+
+1585
+01:07:20,790 --> 01:07:22,710
+Why do I have to fill for this?
+
+1586
+01:07:23,270 --> 01:07:23,410
+Why?
+
+1587
+01:07:25,010 --> 01:07:25,530
+No!
+
+1588
+01:07:28,970 --> 01:07:30,010
+All right.
+
+1589
+01:07:30,930 --> 01:07:32,890
+Click on add to inject and activate.
+
+1590
+01:07:33,210 --> 01:07:35,010
+Like or dislike to let your team know what you want.
+
+1591
+01:07:35,110 --> 01:07:36,210
+Click the refresh button.
+
+1592
+01:07:36,410 --> 01:07:37,370
+Okay, um...
+
+1593
+01:07:40,810 --> 01:07:41,330
+Sure.
+
+1594
+01:07:48,460 --> 01:07:48,980
+Um...
+
+1595
+01:07:49,760 --> 01:07:50,280
+Sure.
+
+1596
+01:07:50,540 --> 01:07:51,860
+I don't know what I'm doing.
+
+1597
+01:07:52,120 --> 01:07:53,680
+Oh, I like that character.
+
+1598
+01:07:54,100 --> 01:07:56,660
+Okay, let's try this.
+
+1599
+01:08:01,090 --> 01:08:01,610
+Uh...
+
+1600
+01:08:01,610 --> 01:08:02,190
+Sure.
+
+1601
+01:08:02,190 --> 01:08:03,290
+Sure.
+
+1602
+01:08:03,390 --> 01:08:04,870
+All right.
+
+1603
+01:08:06,510 --> 01:08:09,390
+I don't know if my... What is this?
+
+1604
+01:08:11,770 --> 01:08:12,890
+The fuck?
+
+1605
+01:08:14,630 --> 01:08:15,990
+What the fuck?
+
+1606
+01:08:16,130 --> 01:08:16,590
+Where am I?
+
+1607
+01:08:16,710 --> 01:08:17,450
+Okay, I'm B.
+
+1608
+01:08:18,290 --> 01:08:19,850
+Oh, I don't know these maps.
+
+1609
+01:08:22,920 --> 01:08:29,020
+Okay, going rotating the A, doing the tactical shooter, part of the tactical shooter.
+
+1610
+01:08:40,950 --> 01:08:41,950
+Oh my god.
+
+1611
+01:08:43,110 --> 01:08:44,310
+Oh my god.
+
+1612
+01:08:44,310 --> 01:08:44,690
+Okay.
+
+1613
+01:08:48,630 --> 01:08:49,390
+Okay.
+
+1614
+01:08:54,460 --> 01:08:55,220
+No!
+
+1615
+01:08:55,420 --> 01:08:56,120
+What?
+
+1616
+01:08:56,500 --> 01:08:57,940
+He had a sniper?
+
+1617
+01:08:59,200 --> 01:09:00,860
+God damn it.
+
+1618
+01:09:01,540 --> 01:09:04,120
+He had a fucking... Oh my god.
+
+1619
+01:09:05,880 --> 01:09:09,740
+I didn't... I was like, how did he kill me that fast?
+
+1620
+01:09:09,780 --> 01:09:10,520
+That fucker.
+
+1621
+01:09:10,840 --> 01:09:12,240
+That fucker.
+
+1622
+01:09:13,800 --> 01:09:15,800
+Look, I literally was filling.
+
+1623
+01:09:15,920 --> 01:09:17,780
+Guys, I had to fill.
+
+1624
+01:09:18,100 --> 01:09:19,440
+I had four people.
+
+1625
+01:09:19,660 --> 01:09:22,080
+One of them wasn't even... I had to fill, guys.
+
+1626
+01:09:22,240 --> 01:09:23,380
+That doesn't count.
+
+1627
+01:09:23,780 --> 01:09:27,440
+I... Guys, I'm... I had the most healing on myself.
+
+1628
+01:09:29,960 --> 01:09:33,960
+I got... I got a fucking... I like came in.
+
+1629
+01:09:34,060 --> 01:09:35,160
+I was like, okay, guys.
+
+1630
+01:09:35,340 --> 01:09:36,660
+I got the most healing.
+
+1631
+01:09:36,820 --> 01:09:38,100
+What did you do?
+
+1632
+01:09:38,300 --> 01:09:39,880
+You had four...
+
+1633
+01:09:39,880 --> 01:09:42,060
+How'd you have less damage than me?
+
+1634
+01:09:42,340 --> 01:09:45,380
+You played the entire four games.
+
+1635
+01:09:45,880 --> 01:09:46,120
+How?
+
+1636
+01:09:46,520 --> 01:09:47,240
+Okay.
+
+1637
+01:09:47,380 --> 01:09:48,100
+Okay, never mind.
+
+1638
+01:09:48,460 --> 01:09:52,580
+You played four games and you're only 20 points below me?
+
+1639
+01:09:55,220 --> 01:10:00,740
+How do you play four matches and be 20 points below me in damage?
+
+1640
+01:10:01,340 --> 01:10:03,100
+Like, how is that possible?
+
+1641
+01:10:08,440 --> 01:10:09,820
+That's actually crazy.
+
+1642
+01:10:10,180 --> 01:10:11,660
+That guy should definitely uninstall.
+
+1643
+01:10:12,740 --> 01:10:15,040
+FPS games are not for him.
+
+1644
+01:10:16,840 --> 01:10:19,340
+Okay, can I actually play the game now?
+
+1645
+01:10:19,640 --> 01:10:21,040
+Tab, woman slayer.
+
+1646
+01:10:28,030 --> 01:10:33,690
+All right, the reason the last person left.
+
+1647
+01:10:35,790 --> 01:10:37,870
+All right, take your time.
+
+1648
+01:10:38,710 --> 01:10:42,790
+Spawn self grass on all weapons for free once.
+
+1649
+01:10:42,950 --> 01:10:43,750
+Bro, I like that.
+
+1650
+01:10:43,830 --> 01:10:44,830
+Do we have enough points?
+
+1651
+01:10:45,970 --> 01:10:47,850
+I want all weapons to be free.
+
+1652
+01:10:50,370 --> 01:10:50,930
+Yay!
+
+1653
+01:10:55,410 --> 01:10:55,970
+Explosive.
+
+1654
+01:10:56,050 --> 01:10:58,070
+Okay, I want to play as her.
+
+1655
+01:10:59,010 --> 01:11:01,930
+And then I get my AK and this.
+
+1656
+01:11:02,930 --> 01:11:04,570
+All right, I'm good.
+
+1657
+01:11:05,750 --> 01:11:06,230
+Okay.
+
+1658
+01:11:06,350 --> 01:11:08,650
+Okay, I think the turret shit is fucking stupid.
+
+1659
+01:11:09,210 --> 01:11:10,770
+Okay, let me see.
+
+1660
+01:11:10,850 --> 01:11:12,450
+How do I- where do I put my turret?
+
+1661
+01:11:13,150 --> 01:11:14,750
+I guess I'll put one here.
+
+1662
+01:11:15,150 --> 01:11:17,990
+Bro, I don't- I don't know how to do this turret shit, man.
+
+1663
+01:11:18,730 --> 01:11:25,290
+Like, I don't- I don't know how to do this turret shit, guys.
+
+1664
+01:11:32,170 --> 01:11:33,790
+What am I looking at anyway?
+
+1665
+01:11:35,610 --> 01:11:37,050
+What do I look at?
+
+1666
+01:11:39,850 --> 01:11:41,350
+Jesus Christ, okay.
+
+1667
+01:11:41,670 --> 01:11:44,710
+Oh my god, am I- okay.
+
+1668
+01:11:48,290 --> 01:11:49,070
+Oh, fuck.
+
+1669
+01:11:50,290 --> 01:11:50,610
+Q.
+
+1670
+01:11:52,270 --> 01:11:53,370
+Wait, we did it.
+
+1671
+01:11:54,010 --> 01:11:55,270
+We did it.
+
+1672
+01:11:56,050 --> 01:11:57,510
+I was trying to put a wall.
+
+1673
+01:11:57,890 --> 01:11:59,330
+I wanted to put a wall.
+
+1674
+01:12:00,130 --> 01:12:02,290
+I was like, what- what- what is this tornado?
+
+1675
+01:12:03,010 --> 01:12:04,010
+What is- oh.
+
+1676
+01:12:04,010 --> 01:12:04,610
+Oh.
+
+1677
+01:12:06,050 --> 01:12:07,610
+The curse of Ra.
+
+1678
+01:12:07,770 --> 01:12:09,030
+I was so confused.
+
+1679
+01:12:09,150 --> 01:12:15,190
+I was like, what is this tornado in my- take off your health bar, swapping health with your turret, shoot enemies.
+
+1680
+01:12:15,390 --> 01:12:16,430
+Yeah, let's just get that.
+
+1681
+01:12:17,010 --> 01:12:18,050
+That seems good.
+
+1682
+01:12:18,130 --> 01:12:18,670
+Do we have enough?
+
+1683
+01:12:18,770 --> 01:12:20,650
+Mr. Sick, I see you have two shards.
+
+1684
+01:12:20,750 --> 01:12:21,890
+Put that fucker in.
+
+1685
+01:12:22,830 --> 01:12:23,750
+Okay, nice.
+
+1686
+01:12:26,250 --> 01:12:27,050
+Cure shot.
+
+1687
+01:12:27,190 --> 01:12:29,050
+Okay, nice.
+
+1688
+01:12:32,150 --> 01:12:32,610
+Uh...
+
+1689
+01:12:34,010 --> 01:12:36,170
+Okay, we can heal ourselves now.
+
+1690
+01:12:37,990 --> 01:12:40,230
+Mr. Si- dude, how?
+
+1691
+01:12:40,510 --> 01:12:41,850
+Why is it my team?
+
+1692
+01:12:42,390 --> 01:12:43,770
+How is that possible?
+
+1693
+01:12:46,050 --> 01:12:46,650
+Um...
+
+1694
+01:12:46,650 --> 01:12:48,230
+I don't fucking know.
+
+1695
+01:12:48,370 --> 01:12:49,650
+I'm so confused.
+
+1696
+01:12:49,750 --> 01:12:50,950
+I'll put the turret here.
+
+1697
+01:12:51,210 --> 01:12:53,730
+And then another turret here.
+
+1698
+01:12:54,230 --> 01:12:56,650
+And then I'll- I'll put...
+
+1699
+01:13:00,330 --> 01:13:01,970
+I feel like I hear somebody here.
+
+1700
+01:13:01,970 --> 01:13:05,650
+I definitely hear someone here.
+
+1701
+01:13:09,720 --> 01:13:10,400
+Okay.
+
+1702
+01:13:16,620 --> 01:13:17,580
+All right.
+
+1703
+01:13:18,920 --> 01:13:19,600
+5v3.
+
+1704
+01:13:21,820 --> 01:13:23,160
+Where do I walk?
+
+1705
+01:13:26,760 --> 01:13:28,280
+There's no walk in this game.
+
+1706
+01:13:32,820 --> 01:13:34,060
+Where are they?
+
+1707
+01:13:35,900 --> 01:13:38,120
+Can I burst through this wall?
+
+1708
+01:13:38,320 --> 01:13:38,600
+No.
+
+1709
+01:13:39,360 --> 01:13:41,540
+Wait, maybe I- oh, I can heal my Ronin.
+
+1710
+01:13:43,320 --> 01:13:44,720
+There you go, you're full HP.
+
+1711
+01:13:44,940 --> 01:13:46,100
+Don't need to thank me.
+
+1712
+01:13:46,720 --> 01:13:47,300
+Oh, fuck.
+
+1713
+01:13:47,380 --> 01:13:49,500
+We gotta- they're at A site.
+
+1714
+01:13:54,010 --> 01:13:55,410
+All right, I'm heading to A.
+
+1715
+01:13:58,920 --> 01:14:01,000
+I'm heading to A and see if I'll die.
+
+1716
+01:14:03,620 --> 01:14:05,740
+All right, guys, you believe in me?
+
+1717
+01:14:06,140 --> 01:14:07,140
+Because I don't.
+
+1718
+01:14:14,930 --> 01:14:16,150
+Okay, I do actually.
+
+1719
+01:14:21,580 --> 01:14:22,860
+No, I have to reload!
+
+1720
+01:14:23,460 --> 01:14:24,300
+Get the turret!
+
+1721
+01:14:25,440 --> 01:14:28,160
+There you go, I had to reload.
+
+1722
+01:14:29,200 --> 01:14:32,160
+I didn't even see- wait, you can put turrets on the walls?
+
+1723
+01:14:33,660 --> 01:14:35,980
+Can I change my outfit?
+
+1724
+01:14:36,560 --> 01:14:39,060
+Wait, the turrets slow you down.
+
+1725
+01:14:40,380 --> 01:14:43,660
+I didn't realize the turrets could slow you down.
+
+1726
+01:14:43,760 --> 01:14:44,580
+That's fucked.
+
+1727
+01:14:45,420 --> 01:14:47,440
+That launches projectiles?
+
+1728
+01:14:47,600 --> 01:14:49,660
+Deploy two charge bots on your team?
+
+1729
+01:14:49,700 --> 01:14:50,780
+I want two charge bots.
+
+1730
+01:14:51,280 --> 01:14:52,720
+You just need one more- woman slayer!
+
+1731
+01:14:53,080 --> 01:14:55,360
+I know you have two points, woman slayer!
+
+1732
+01:14:55,700 --> 01:14:56,020
+Nice.
+
+1733
+01:14:56,280 --> 01:14:56,700
+There you go.
+
+1734
+01:14:57,060 --> 01:14:57,500
+There you go.
+
+1735
+01:14:57,580 --> 01:14:58,360
+We're fine now.
+
+1736
+01:15:02,280 --> 01:15:03,080
+There you go.
+
+1737
+01:15:04,700 --> 01:15:05,400
+Thank god.
+
+1738
+01:15:05,560 --> 01:15:08,680
+Now I have- Now it's like- it's like what?
+
+1739
+01:15:08,880 --> 01:15:10,860
+It's like how many players?
+
+1740
+01:15:11,140 --> 01:15:13,900
+It's like 7v2 now?
+
+1741
+01:15:14,000 --> 01:15:14,600
+Let's go.
+
+1742
+01:15:16,920 --> 01:15:17,600
+7v2!
+
+1743
+01:15:17,780 --> 01:15:19,700
+Bro, that's so fucked.
+
+1744
+01:15:19,840 --> 01:15:22,380
+Imagine having a 7v2, that shit.
+
+1745
+01:15:22,940 --> 01:15:25,700
+Oh my god, you can put it against the wall!
+
+1746
+01:15:25,980 --> 01:15:27,520
+That's so fucked!
+
+1747
+01:15:27,560 --> 01:15:27,900
+Okay.
+
+1748
+01:15:28,660 --> 01:15:31,220
+What if I just put like a one here?
+
+1749
+01:15:32,840 --> 01:15:33,840
+Like that.
+
+1750
+01:15:36,180 --> 01:15:37,760
+Bro, that's crazy broken.
+
+1751
+01:15:38,200 --> 01:15:38,640
+Nice.
+
+1752
+01:15:43,700 --> 01:15:44,980
+Oh wait, he's killing everybody.
+
+1753
+01:15:45,220 --> 01:15:45,920
+Let's go.
+
+1754
+01:15:47,520 --> 01:15:51,300
+How do I- can I- I feel like if I drop down there, I'm gonna die.
+
+1755
+01:15:53,200 --> 01:15:54,060
+Oh, we did it.
+
+1756
+01:15:54,100 --> 01:15:54,540
+We won.
+
+1757
+01:15:55,780 --> 01:15:57,820
+I can put them on a ceiling too?
+
+1758
+01:15:58,520 --> 01:15:59,520
+Wait, really?
+
+1759
+01:15:59,940 --> 01:16:02,080
+Bro, okay, this guy seems fucking broken.
+
+1760
+01:16:03,120 --> 01:16:04,980
+Now I'm sitting right in front of him.
+
+1761
+01:16:05,360 --> 01:16:09,180
+0.5 seconds after the light turns green.
+
+1762
+01:16:09,340 --> 01:16:11,160
+Kira, thank you for the super chat.
+
+1763
+01:16:11,380 --> 01:16:11,780
+Thank you.
+
+1764
+01:16:12,040 --> 01:16:12,720
+Thank you.
+
+1765
+01:16:14,600 --> 01:16:17,320
+Okay, now that- wait, are we still going?
+
+1766
+01:16:18,260 --> 01:16:19,520
+Oh, now we're attack.
+
+1767
+01:16:19,640 --> 01:16:20,500
+Wait, how much is this?
+
+1768
+01:16:20,500 --> 01:16:23,860
+The best of- oh, it's best of- oh, it's all the way to four.
+
+1769
+01:16:23,980 --> 01:16:24,260
+Okay.
+
+1770
+01:16:26,220 --> 01:16:29,660
+Uh, plant itself, double shard points, gain this round.
+
+1771
+01:16:30,560 --> 01:16:31,620
+Mr. Sick!
+
+1772
+01:16:32,500 --> 01:16:32,960
+Rodan!
+
+1773
+01:16:33,580 --> 01:16:34,620
+Oh my god.
+
+1774
+01:16:34,740 --> 01:16:36,120
+Oh, oh, we can have everything.
+
+1775
+01:16:36,260 --> 01:16:36,680
+Let's go.
+
+1776
+01:16:36,920 --> 01:16:38,140
+Let's just- fuck it.
+
+1777
+01:16:40,060 --> 01:16:42,100
+Just have everything, I guess.
+
+1778
+01:16:44,220 --> 01:16:46,980
+All right, so what were ours again?
+
+1779
+01:16:47,260 --> 01:16:50,040
+We have throw the plant and invest in the future.
+
+1780
+01:16:50,220 --> 01:16:51,220
+Frozen wasteland.
+
+1781
+01:16:51,320 --> 01:16:52,480
+Oh, it's gonna be slippery.
+
+1782
+01:16:52,680 --> 01:16:53,520
+Wait, how do I slide?
+
+1783
+01:16:56,640 --> 01:17:00,380
+Oh, I have to- Oh, I have to do that.
+
+1784
+01:17:01,940 --> 01:17:02,740
+Okay.
+
+1785
+01:17:04,840 --> 01:17:05,900
+I have to jump.
+
+1786
+01:17:20,000 --> 01:17:20,800
+Okay.
+
+1787
+01:17:23,940 --> 01:17:25,560
+The fuck are all these?
+
+1788
+01:17:28,820 --> 01:17:29,820
+You're not real.
+
+1789
+01:17:30,380 --> 01:17:32,320
+There's no way you're real.
+
+1790
+01:17:35,400 --> 01:17:40,440
+It's just like my- It's just like my tools!
+
+1791
+01:17:46,520 --> 01:17:52,460
+I have - Who the fuck has destroyed my drones?
+
+1792
+01:17:52,840 --> 01:17:58,060
+It's just like what's going- No, my U2!
+
+1793
+01:18:00,160 --> 01:18:01,920
+That's crazy.
+
+1794
+01:18:02,460 --> 01:18:04,520
+That's actually crazy.
+
+1795
+01:18:04,980 --> 01:18:06,440
+Holy fuck.
+
+1796
+01:18:08,160 --> 01:18:11,040
+Baby's first tactical shooters.
+
+1797
+01:18:11,600 --> 01:18:13,900
+He was raising the kids.
+
+1798
+01:18:14,300 --> 01:18:16,500
+How could you do that to him?
+
+1799
+01:18:16,520 --> 01:18:20,040
+He was trying- I'll do one more of the normal one.
+
+1800
+01:18:20,320 --> 01:18:21,980
+Not my robot!
+
+1801
+01:18:27,100 --> 01:18:29,340
+He was devastated.
+
+1802
+01:18:30,460 --> 01:18:33,520
+He was so- No, my first game was a real person.
+
+1803
+01:18:34,060 --> 01:18:37,080
+My first game and what I filled were real people.
+
+1804
+01:18:37,220 --> 01:18:39,520
+I refuse to believe they were not real.
+
+1805
+01:18:39,860 --> 01:18:43,420
+Like that guy hit a fucking headshot on me insta.
+
+1806
+01:18:47,320 --> 01:18:51,000
+When I filled that game, I knew they were real.
+
+1807
+01:18:59,220 --> 01:19:01,400
+Bots with aimbot.
+
+1808
+01:19:02,180 --> 01:19:03,540
+To lay an egg?
+
+1809
+01:19:03,620 --> 01:19:06,000
+That can't be 1, 2, 3, 4, 5.
+
+1810
+01:19:06,260 --> 01:19:07,060
+We don't wait.
+
+1811
+01:19:07,380 --> 01:19:08,620
+Technically we can.
+
+1812
+01:19:09,120 --> 01:19:11,280
+What fucking cowards.
+
+1813
+01:19:11,520 --> 01:19:13,700
+What the fucking cowards.
+
+1814
+01:19:14,920 --> 01:19:18,460
+Oh my god, what the fuck is that card?
+
+1815
+01:19:21,140 --> 01:19:23,900
+Actually, what the fuck was that card?
+
+1816
+01:19:24,600 --> 01:19:25,260
+Do I have enough?
+
+1817
+01:19:25,560 --> 01:19:27,780
+Do I always have enough to buy all my stuff?
+
+1818
+01:19:30,500 --> 01:19:32,360
+I'm not even gonna do eco.
+
+1819
+01:19:35,660 --> 01:19:36,860
+Okay, we'll go.
+
+1820
+01:19:37,780 --> 01:19:38,440
+Let's go, dear.
+
+1821
+01:19:39,760 --> 01:19:41,980
+Toki hits Laura Acker.
+
+1822
+01:19:42,420 --> 01:19:45,000
+Like, what the fuck is that?
+
+1823
+01:19:49,440 --> 01:19:50,560
+I don't know.
+
+1824
+01:19:52,580 --> 01:19:53,380
+I don't know.
+
+1825
+01:19:53,520 --> 01:19:53,660
+Are
+
+1826
+01:19:57,330 --> 01:19:59,910
+they all going?
+
+1827
+01:20:00,230 --> 01:20:01,510
+Oh, I guess they're all going.
+
+1828
+01:20:05,680 --> 01:20:08,300
+All right, I'm just running.
+
+1829
+01:20:08,620 --> 01:20:10,660
+What's the worst that could happen, I guess?
+
+1830
+01:20:31,930 --> 01:20:32,330
+Okay.
+
+1831
+01:20:35,510 --> 01:20:36,330
+There's nobody.
+
+1832
+01:20:36,550 --> 01:20:37,850
+Wait, there could be.
+
+1833
+01:20:37,950 --> 01:20:38,370
+They're planning.
+
+1834
+01:20:38,830 --> 01:20:39,910
+Wait, they're not?
+
+1835
+01:20:41,230 --> 01:20:42,870
+No, they can't be there.
+
+1836
+01:20:42,970 --> 01:20:43,550
+Yeah, they're planning.
+
+1837
+01:20:53,790 --> 01:20:54,390
+No!
+
+1838
+01:20:55,350 --> 01:20:56,490
+How much did I do?
+
+1839
+01:20:57,010 --> 01:20:58,670
+Oh, I did 35.
+
+1840
+01:21:02,570 --> 01:21:03,510
+Oh my god.
+
+1841
+01:21:03,510 --> 01:21:04,310
+Okay, that guy.
+
+1842
+01:21:04,410 --> 01:21:06,610
+That guy, you cannot tell me that's a bot.
+
+1843
+01:21:06,930 --> 01:21:09,270
+That guy is 100% real.
+
+1844
+01:21:09,830 --> 01:21:12,870
+That was a real guy.
+
+1845
+01:21:15,730 --> 01:21:19,750
+The way he fucking jiggled that was a real person.
+
+1846
+01:21:19,970 --> 01:21:21,530
+I refuse to believe.
+
+1847
+01:21:22,650 --> 01:21:24,230
+That's a real guy.
+
+1848
+01:21:25,110 --> 01:21:26,950
+I don't think you can defuse in time.
+
+1849
+01:21:27,470 --> 01:21:28,510
+There's no way.
+
+1850
+01:21:28,650 --> 01:21:28,930
+Yeah.
+
+1851
+01:21:29,050 --> 01:21:30,050
+There was no way.
+
+1852
+01:21:33,270 --> 01:21:34,930
+I failed being tactical.
+
+1853
+01:21:35,130 --> 01:21:37,090
+No, I am never a tactical person.
+
+1854
+01:21:38,830 --> 01:21:40,570
+Like, bro, look at that!
+
+1855
+01:21:41,850 --> 01:21:42,890
+That's not...
+
+1856
+01:21:42,890 --> 01:21:44,090
+He's not fake.
+
+1857
+01:21:44,450 --> 01:21:45,990
+He's real as hell.
+
+1858
+01:21:48,870 --> 01:21:49,610
+All right.
+
+1859
+01:21:49,890 --> 01:21:50,870
+How many points do I have?
+
+1860
+01:21:50,930 --> 01:21:51,610
+2.6.
+
+1861
+01:21:51,710 --> 01:21:51,990
+Okay.
+
+1862
+01:21:51,990 --> 01:21:55,270
+I am...
+
+1863
+01:21:55,270 --> 01:21:55,950
+Wait, what?
+
+1864
+01:21:56,050 --> 01:21:56,370
+Really?
+
+1865
+01:21:56,490 --> 01:21:58,270
+Is that actually a good powerup?
+
+1866
+01:22:00,370 --> 01:22:01,330
+I mean, I'll do that.
+
+1867
+01:22:02,870 --> 01:22:04,490
+Wait, we can double it?
+
+1868
+01:22:05,530 --> 01:22:06,510
+Oh, no.
+
+1869
+01:22:08,450 --> 01:22:09,490
+Oh, no.
+
+1870
+01:22:12,630 --> 01:22:13,450
+All right.
+
+1871
+01:22:14,050 --> 01:22:15,910
+I guess I'll keep going here.
+
+1872
+01:22:17,010 --> 01:22:20,270
+I don't know if, like, the snow one is actually good.
+
+1873
+01:22:27,430 --> 01:22:28,570
+I'll put it here.
+
+1874
+01:22:28,870 --> 01:22:30,710
+I don't fucking know, guys.
+
+1875
+01:22:31,270 --> 01:22:32,730
+And then...
+
+1876
+01:22:32,730 --> 01:22:34,150
+I build my wall.
+
+1877
+01:22:38,190 --> 01:22:39,350
+What the fuck?
+
+1878
+01:22:40,530 --> 01:22:40,990
+Okay.
+
+1879
+01:22:41,590 --> 01:22:42,770
+I guess I rotate.
+
+1880
+01:22:43,850 --> 01:22:45,050
+I'll rotate back.
+
+1881
+01:22:46,790 --> 01:22:48,930
+Okay, they're, like, not tactical, too.
+
+1882
+01:22:48,970 --> 01:22:50,470
+You can't say I'm not tactical.
+
+1883
+01:22:50,630 --> 01:22:52,110
+Look at how my team's playing.
+
+1884
+01:22:54,950 --> 01:22:56,870
+That is not tactical at all.
+
+1885
+01:22:56,890 --> 01:22:59,490
+I refuse to believe my team is tactical here.
+
+1886
+01:23:00,450 --> 01:23:01,250
+I
+
+1887
+01:23:10,970 --> 01:23:13,090
+forgot there's fucking no backshots!
+
+1888
+01:23:13,590 --> 01:23:14,690
+The stupid turtle!
+
+1889
+01:23:17,870 --> 01:23:19,750
+The stupid fucking turtle!
+
+1890
+01:23:29,940 --> 01:23:31,260
+Goddamn turtle.
+
+1891
+01:23:34,360 --> 01:23:35,320
+There we go.
+
+1892
+01:23:35,380 --> 01:23:35,900
+I got one.
+
+1893
+01:23:40,000 --> 01:23:41,380
+I see him.
+
+1894
+01:23:44,670 --> 01:23:45,770
+Is he gonna rotate?
+
+1895
+01:23:46,290 --> 01:23:47,090
+He might rotate.
+
+1896
+01:23:47,450 --> 01:23:48,330
+I'm backing up.
+
+1897
+01:23:50,790 --> 01:23:53,330
+I know my tactical shooters.
+
+1898
+01:23:56,770 --> 01:23:58,150
+Do I have my bomb?
+
+1899
+01:23:58,970 --> 01:24:00,970
+Wait, he's not rotating?
+
+1900
+01:24:03,910 --> 01:24:06,950
+Oh my god, he actually pushed it?
+
+1901
+01:24:07,250 --> 01:24:08,970
+Oh my god, he crazy!
+
+1902
+01:24:09,790 --> 01:24:10,790
+He's fucking crazy!
+
+1903
+01:24:14,110 --> 01:24:16,050
+That guy's insane!
+
+1904
+01:24:16,510 --> 01:24:18,230
+Why the fuck would you push that?
+
+1905
+01:24:19,070 --> 01:24:19,830
+Fuck it.
+
+1906
+01:24:23,630 --> 01:24:24,230
+Okay.
+
+1907
+01:24:24,230 --> 01:24:25,650
+She in fact did not know her.
+
+1908
+01:24:26,050 --> 01:24:27,690
+I- usually you rotate!
+
+1909
+01:24:28,110 --> 01:24:28,730
+I don't know!
+
+1910
+01:24:30,510 --> 01:24:32,310
+Okay, now I can jump.
+
+1911
+01:24:34,690 --> 01:24:39,890
+If I don't- Guys, I don't know- apparently I don't know my tactical shooters, guys.
+
+1912
+01:24:43,870 --> 01:24:47,650
+I don't- guys, apparently I just did not.
+
+1913
+01:24:47,650 --> 01:24:48,790
+Who would've thought?
+
+1914
+01:24:49,230 --> 01:24:51,890
+I didn't know my tactical shooters.
+
+1915
+01:24:53,350 --> 01:24:54,310
+Guys, I don't know.
+
+1916
+01:24:54,390 --> 01:24:57,030
+I don't know if what I'm doing is correct.
+
+1917
+01:24:58,990 --> 01:24:59,970
+Wait, okay.
+
+1918
+01:25:01,350 --> 01:25:02,210
+Put it here.
+
+1919
+01:25:05,910 --> 01:25:07,550
+Okay, are they still there?
+
+1920
+01:25:08,870 --> 01:25:11,830
+Holy shit, they're still trying to play there.
+
+1921
+01:25:12,930 --> 01:25:14,770
+Alright, I'm coming over, guys.
+
+1922
+01:25:14,930 --> 01:25:16,050
+I'm here to help.
+
+1923
+01:25:21,020 --> 01:25:22,800
+I'm here to help.
+
+1924
+01:25:23,340 --> 01:25:24,580
+Use my Q?
+
+1925
+01:25:25,100 --> 01:25:26,860
+Alright, I'm gunna use my Q right here.
+
+1926
+01:25:28,360 --> 01:25:29,360
+Let's go.
+
+1927
+01:25:33,100 --> 01:25:33,800
+Wait,
+
+1928
+01:25:37,120 --> 01:25:37,360
+what?
+
+1929
+01:25:40,240 --> 01:25:42,380
+What the fuck is going on?
+
+1930
+01:25:43,220 --> 01:25:45,360
+Am I gunna die doing this?
+
+1931
+01:25:51,970 --> 01:25:52,990
+He's over here.
+
+1932
+01:25:53,110 --> 01:25:54,610
+Guys, I need to get out.
+
+1933
+01:25:55,310 --> 01:25:57,190
+I don't feel safe doing that.
+
+1934
+01:26:01,360 --> 01:26:02,300
+Where is he?
+
+1935
+01:26:06,780 --> 01:26:08,100
+Okay, there he is.
+
+1936
+01:26:08,840 --> 01:26:12,020
+All right, I was like, where's that one enemy left?
+
+1937
+01:26:12,480 --> 01:26:13,580
+Go back.
+
+1938
+01:26:14,640 --> 01:26:16,240
+Okay, I was like, where?
+
+1939
+01:26:17,080 --> 01:26:22,060
+What the fuck did he do?
+
+1940
+01:26:22,400 --> 01:26:24,180
+Wait, what?
+
+1941
+01:26:27,200 --> 01:26:28,600
+What is that ability?
+
+1942
+01:26:29,880 --> 01:26:31,660
+What the fuck?
+
+1943
+01:26:32,760 --> 01:26:36,240
+It's like fucking Junkrat.
+
+1944
+01:26:38,540 --> 01:26:41,520
+Uh, better attack.
+
+1945
+01:26:41,780 --> 01:26:44,080
+Sure, let's do that.
+
+1946
+01:26:49,060 --> 01:26:51,180
+All right, I'm figuring it out, guys.
+
+1947
+01:26:51,340 --> 01:26:54,220
+Wait, guys, why did we not work together?
+
+1948
+01:26:56,400 --> 01:26:59,100
+We didn't work together there.
+
+1949
+01:27:00,480 --> 01:27:03,100
+All right, you guys do that, I flank.
+
+1950
+01:27:03,680 --> 01:27:04,700
+Surely, it'll be okay.
+
+1951
+01:27:06,860 --> 01:27:09,620
+Okay, wait, I got an idea.
+
+1952
+01:27:10,740 --> 01:27:12,280
+We'll have to do this in spawn, though.
+
+1953
+01:27:13,060 --> 01:27:14,450
+Wait, actually, um...
+
+1954
+01:27:15,770 --> 01:27:16,790
+There we go.
+
+1955
+01:27:16,950 --> 01:27:18,450
+Don't worry, guys.
+
+1956
+01:27:25,090 --> 01:27:25,690
+Okay,
+
+1957
+01:27:29,810 --> 01:27:31,530
+okay, we know where they are now.
+
+1958
+01:27:34,270 --> 01:27:35,730
+I don't know how to walk.
+
+1959
+01:27:46,140 --> 01:27:49,960
+My location got exposed, which is not the best.
+
+1960
+01:27:58,920 --> 01:28:00,700
+Oh, there's people flanking.
+
+1961
+01:28:14,150 --> 01:28:14,790
+What?
+
+1962
+01:28:14,870 --> 01:28:15,950
+I was distracted.
+
+1963
+01:28:16,110 --> 01:28:16,970
+Let's go.
+
+1964
+01:28:19,130 --> 01:28:20,290
+It's fine.
+
+1965
+01:28:20,610 --> 01:28:23,730
+Literally, three people pushed me for some reason.
+
+1966
+01:28:25,350 --> 01:28:26,510
+It's fine.
+
+1967
+01:28:26,610 --> 01:28:27,510
+I'll take that.
+
+1968
+01:28:28,090 --> 01:28:31,530
+I'll take being a distraction, guys.
+
+1969
+01:28:31,650 --> 01:28:32,850
+I'm okay with that.
+
+1970
+01:28:32,850 --> 01:28:35,690
+I'm okay with that.
+
+1971
+01:28:39,030 --> 01:28:42,330
+How the fuck do I sleep to heal myself?
+
+1972
+01:28:42,910 --> 01:28:44,110
+How the fuck?
+
+1973
+01:28:44,910 --> 01:28:45,490
+You know what?
+
+1974
+01:28:45,650 --> 01:28:47,610
+What if I- I want to chain, you know what?
+
+1975
+01:28:47,630 --> 01:28:47,930
+Fuck it.
+
+1976
+01:28:47,990 --> 01:28:48,370
+Let's go.
+
+1977
+01:28:49,810 --> 01:28:51,550
+It's my turn to snipe.
+
+1978
+01:28:52,230 --> 01:28:52,670
+All right.
+
+1979
+01:28:55,450 --> 01:28:57,130
+All right, let's see how this goes.
+
+1980
+01:28:57,470 --> 01:29:01,350
+How does one- exactly, how does- oh shit, they have a big head.
+
+1981
+01:29:01,350 --> 01:29:01,950
+Oh, it's Z.
+
+1982
+01:29:02,290 --> 01:29:02,830
+It's Z.
+
+1983
+01:29:03,570 --> 01:29:06,050
+Guys, oh my god, guys.
+
+1984
+01:29:06,430 --> 01:29:07,550
+Guys, I don't know.
+
+1985
+01:29:07,970 --> 01:29:09,290
+I don't know, guys.
+
+1986
+01:29:09,450 --> 01:29:11,190
+Our heads are pretty big.
+
+1987
+01:29:11,890 --> 01:29:12,270
+God.
+
+1988
+01:29:14,570 --> 01:29:17,190
+Our heads are pretty big.
+
+1989
+01:29:17,270 --> 01:29:18,870
+I don't know about sniping this.
+
+1990
+01:29:19,170 --> 01:29:20,350
+I don't know.
+
+1991
+01:29:22,590 --> 01:29:26,290
+I'm a little worried about our fucking heads right now.
+
+1992
+01:29:32,840 --> 01:29:33,920
+Oh no.
+
+1993
+01:29:33,920 --> 01:29:34,020
+Oh no.
+
+1994
+01:29:39,220 --> 01:29:40,350
+Jesus Christ.
+
+1995
+01:29:44,650 --> 01:29:45,120
+Okay.
+
+1996
+01:29:52,800 --> 01:29:54,390
+I don't know where they are.
+
+1997
+01:30:05,590 --> 01:30:06,870
+Oh, what?
+
+1998
+01:30:22,400 --> 01:30:23,840
+Oh, they know I'm here.
+
+1999
+01:30:32,590 --> 01:30:33,760
+Oh my god.
+
+2000
+01:30:41,130 --> 01:30:42,010
+Okay.
+
+2001
+01:30:46,960 --> 01:30:47,430
+No.
+
+2002
+01:30:48,950 --> 01:30:49,890
+Yeah!
+
+2003
+01:30:50,250 --> 01:30:51,090
+Let's go!
+
+2004
+01:30:51,230 --> 01:30:52,470
+Oh my god!
+
+2005
+01:30:52,470 --> 01:30:55,370
+Oh, let's go.
+
+2006
+01:30:55,810 --> 01:30:58,350
+Oh my god, clutch that one round.
+
+2007
+01:31:00,450 --> 01:31:01,670
+Let's go.
+
+2008
+01:31:02,330 --> 01:31:04,430
+That's a great- not washed.
+
+2009
+01:31:04,470 --> 01:31:05,810
+I still got it.
+
+2010
+01:31:06,170 --> 01:31:08,390
+I still fucking got it.
+
+2011
+01:31:12,270 --> 01:31:15,910
+Oh my god, that's right.
+
+2012
+01:31:16,250 --> 01:31:19,030
+Yes, MVP, let's go!
+
+2013
+01:31:22,800 --> 01:31:23,880
+That's right.
+
+2014
+01:31:24,480 --> 01:31:27,020
+That's right, just give me an off.
+
+2015
+01:31:27,140 --> 01:31:28,400
+And I got this.
+
+2016
+01:31:29,480 --> 01:31:32,000
+Stupid ass fucking one-shot weapon.
+
+2017
+01:31:32,140 --> 01:31:33,480
+That's so fucking broken.
+
+2018
+01:31:33,960 --> 01:31:36,080
+That's actually so broken.
+
+2019
+01:31:38,900 --> 01:31:41,300
+Confirmed, not washed.
+
+2020
+01:31:41,760 --> 01:31:42,480
+There we go.
+
+2021
+01:31:42,980 --> 01:31:45,360
+She took on the draining weight.
+
+2022
+01:31:46,100 --> 01:31:48,460
+That's such a broken weapon.
+
+2023
+01:31:48,840 --> 01:31:49,760
+All right, let's try.
+
+2024
+01:31:49,920 --> 01:31:52,500
+I want to try the other arcane modes.
+
+2025
+01:31:52,620 --> 01:31:53,180
+What was it?
+
+2026
+01:31:54,580 --> 01:31:55,100
+Oh, break.
+
+2027
+01:31:55,180 --> 01:31:56,280
+Oh, let's do dual master.
+
+2028
+01:31:56,520 --> 01:31:57,740
+That's the 1v1, right?
+
+2029
+01:31:59,600 --> 01:32:02,960
+Okay, let's see how abs- I'm about to crash out.
+
+2030
+01:32:03,080 --> 01:32:04,920
+I'm about to crash out.
+
+2031
+01:32:05,800 --> 01:32:06,400
+Why?
+
+2032
+01:32:09,700 --> 01:32:11,300
+Is he okay?
+
+2033
+01:32:13,160 --> 01:32:16,740
+Guys, he's about to crash out.
+
+2034
+01:32:17,020 --> 01:32:18,580
+Guys, but why?
+
+2035
+01:32:18,960 --> 01:32:19,540
+Is he okay?
+
+2036
+01:32:20,140 --> 01:32:21,900
+This is mad, okay?
+
+2037
+01:32:26,040 --> 01:32:28,800
+Wait, how- is there no one that wants the 1v1?
+
+2038
+01:32:29,220 --> 01:32:30,020
+I don't understand.
+
+2039
+01:32:30,180 --> 01:32:31,040
+I'll do the warm-up.
+
+2040
+01:32:32,900 --> 01:32:36,560
+He's going to- guys, I think he's about to crash out, guys.
+
+2041
+01:32:37,040 --> 01:32:42,720
+I think- Oh my god, that gun is so fucking broken.
+
+2042
+01:32:43,340 --> 01:32:45,880
+That actually is a broken ass gun.
+
+2043
+01:32:46,620 --> 01:32:47,440
+Holy shit.
+
+2044
+01:32:47,920 --> 01:32:51,720
+This is just- this is just deathmatch to wait for Qs.
+
+2045
+01:32:52,120 --> 01:32:53,900
+Like that Valorant deathmatch shit.
+
+2046
+01:32:54,780 --> 01:32:59,260
+I mean the guns feel like- they feel like Apex though.
+
+2047
+01:33:00,860 --> 01:33:06,100
+They don't feel like- the recoil does not feel like Valorant.
+
+2048
+01:33:07,200 --> 01:33:09,060
+It feels like Apex.
+
+2049
+01:33:09,560 --> 01:33:13,820
+So it's easier to- I think this is very easy to aim, not gonna lie.
+
+2050
+01:33:17,550 --> 01:33:18,590
+There you go.
+
+2051
+01:33:20,530 --> 01:33:22,050
+Yeah, they're hitscan.
+
+2052
+01:33:22,490 --> 01:33:24,690
+The- the- um, what's it called?
+
+2053
+01:33:25,870 --> 01:33:27,950
+The spread is like non-existent.
+
+2054
+01:33:28,710 --> 01:33:30,710
+As long as you can aim, it's fine.
+
+2055
+01:33:30,990 --> 01:33:34,870
+I don't feel any spread or recoil for this gun.
+
+2056
+01:33:35,710 --> 01:33:37,950
+Like it just literally feels like an Apex gun.
+
+2057
+01:33:38,510 --> 01:33:43,170
+Like I feel like I'm using a- I feel like I'm using a flatline right now.
+
+2058
+01:33:43,730 --> 01:33:44,470
+That's how I feel.
+
+2059
+01:33:44,530 --> 01:33:45,950
+It doesn't feel like an actual AK.
+
+2060
+01:33:47,750 --> 01:33:49,170
+I guess like hipfire, yeah.
+
+2061
+01:33:49,430 --> 01:33:50,650
+If you're using hipfire, yeah.
+
+2062
+01:33:52,630 --> 01:33:54,310
+Like this is not fair.
+
+2063
+01:33:57,630 --> 01:33:59,150
+This is just hitscan.
+
+2064
+01:33:59,350 --> 01:34:00,650
+It's literally just hitscan.
+
+2065
+01:34:04,240 --> 01:34:05,040
+There you go.
+
+2066
+01:34:05,900 --> 01:34:08,000
+I think I'm bullying this one guy right now.
+
+2067
+01:34:10,940 --> 01:34:15,280
+I don't know why I just put random turrets around too, just for the sake of it.
+
+2068
+01:34:17,000 --> 01:34:21,980
+No, this feels- no, it doesn't- no, it's not um, it doesn't feel like a R301.
+
+2069
+01:34:22,080 --> 01:34:23,000
+This feels like a flatline.
+
+2070
+01:34:25,020 --> 01:34:29,400
+I don't feel like um, I don't feel like I'm using a carbine.
+
+2071
+01:34:29,480 --> 01:34:35,720
+I feel like I'm using a- because of the- the speed of the shots does not feel like a carbine.
+
+2072
+01:34:37,000 --> 01:34:37,680
+Holy moly.
+
+2073
+01:34:37,680 --> 01:34:39,400
+Bro, no one wants to duel?
+
+2074
+01:34:40,600 --> 01:34:47,120
+I'm like waiting for- I'm like, I want- oh my god, I swear to god, if I waited so long, I'm just gonna get absolutely shit-troyed.
+
+2075
+01:34:49,540 --> 01:34:53,640
+I'm gonna get absolutely destroyed when I do the- when I actually get into a duel.
+
+2076
+01:34:53,880 --> 01:34:55,340
+I will be so sad.
+
+2077
+01:34:57,160 --> 01:34:59,260
+The moment I get into a real duel.
+
+2078
+01:35:00,120 --> 01:35:04,280
+I'm just trying- I'm literally just trying to wait for my 1v1.
+
+2079
+01:35:04,440 --> 01:35:05,940
+Does no one like 1v1?
+
+2080
+01:35:06,000 --> 01:35:07,000
+Is it that bad?
+
+2081
+01:35:09,380 --> 01:35:11,520
+Is 1v1 not that fun?
+
+2082
+01:35:12,600 --> 01:35:14,440
+I just want to see what it's like.
+
+2083
+01:35:16,160 --> 01:35:18,820
+Like I'm having- it might not be that fun.
+
+2084
+01:35:21,570 --> 01:35:23,030
+At least I'm warmed up.
+
+2085
+01:35:24,910 --> 01:35:26,850
+You're showing why.
+
+2086
+01:35:28,890 --> 01:35:37,290
+I don't think- I think for Valor players, maybe like if you know the utility as a Valorant player, you might be okay with this game.
+
+2087
+01:35:37,290 --> 01:35:44,490
+But like I legitimately think this game is only good if- Like the gunplay is not like Apex.
+
+2088
+01:35:44,650 --> 01:35:46,210
+Like not like Valorant at all.
+
+2089
+01:35:46,370 --> 01:35:50,230
+Like I cannot aim in Valorant because I don't know how to handle the spread.
+
+2090
+01:35:50,630 --> 01:35:53,750
+Because I can literally aim while running around.
+
+2091
+01:35:54,490 --> 01:35:59,050
+Which is like- in Valorant, you have to stop and shoot and I cannot fucking do that.
+
+2092
+01:35:59,370 --> 01:36:02,110
+I- I cannot stop and shoot.
+
+2093
+01:36:02,690 --> 01:36:04,590
+I cannot stop and shoot in Valorant.
+
+2094
+01:36:06,550 --> 01:36:07,310
+Yeah.
+
+2095
+01:36:11,710 --> 01:36:14,070
+Like, this is- this is just Apex.
+
+2096
+01:36:14,750 --> 01:36:21,490
+Apex slash- Um, I guess you can say Apex and Marble Rivals aim.
+
+2097
+01:36:22,270 --> 01:36:29,990
+But like there's not a lot of games where you can- Where you can aim like this.
+
+2098
+01:36:31,870 --> 01:36:32,630
+Okay.
+
+2099
+01:36:34,190 --> 01:36:35,870
+All right, goodbye.
+
+2100
+01:36:37,090 --> 01:36:38,890
+Guys, please cool down.
+
+2101
+01:36:39,730 --> 01:36:41,210
+Guys, calm down.
+
+2102
+01:36:42,330 --> 01:36:43,810
+Guys, calm down.
+
+2103
+01:36:46,010 --> 01:36:46,650
+No!
+
+2104
+01:36:47,510 --> 01:36:50,250
+No one wants the 1v1!
+
+2105
+01:36:50,530 --> 01:36:51,370
+Or Call of Duty.
+
+2106
+01:36:51,550 --> 01:36:52,990
+Yeah, I can see that as a con.
+
+2107
+01:36:56,010 --> 01:36:59,250
+Yeah, it feels- Okay.
+
+2108
+01:36:59,630 --> 01:37:01,410
+Oh my god, finally!
+
+2109
+01:37:02,870 --> 01:37:03,510
+Finally!
+
+2110
+01:37:09,570 --> 01:37:12,430
+Guys, I feel like I'm gonna wait for this log.
+
+2111
+01:37:12,610 --> 01:37:14,210
+It won't even be worth it.
+
+2112
+01:37:14,250 --> 01:37:17,930
+It won't even- I'm gonna get like insta-destroyed.
+
+2113
+01:37:17,990 --> 01:37:21,930
+I feel like- Wait, no, there's other people in here.
+
+2114
+01:37:22,010 --> 01:37:23,610
+Wait, I thought it was 1v1.
+
+2115
+01:37:25,250 --> 01:37:27,050
+Okay, I'll use this.
+
+2116
+01:37:27,190 --> 01:37:28,550
+What if I just sniper?
+
+2117
+01:37:29,370 --> 01:37:29,870
+You know what?
+
+2118
+01:37:29,910 --> 01:37:30,850
+Let's try it out.
+
+2119
+01:37:31,430 --> 01:37:32,210
+I'm curious.
+
+2120
+01:37:32,690 --> 01:37:36,790
+So at least if I don't do well, I can make an excuse being like I was using a sniper.
+
+2121
+01:37:37,710 --> 01:37:38,230
+Hahaha!
+
+2122
+01:37:42,810 --> 01:37:44,670
+That's just gonna be my excuse.
+
+2123
+01:37:45,870 --> 01:37:48,030
+Wait, how is it 1v1 as a group?
+
+2124
+01:37:48,190 --> 01:37:50,450
+I thought dueling was actual duels.
+
+2125
+01:37:50,870 --> 01:37:52,290
+Oh, there it is.
+
+2126
+01:37:53,230 --> 01:37:57,650
+All right, guys, if I fail, I just say I was sniping.
+
+2127
+01:38:08,550 --> 01:38:09,470
+Where are they?
+
+2128
+01:38:09,890 --> 01:38:10,950
+Wait, this is the scout.
+
+2129
+01:38:12,050 --> 01:38:12,990
+I'm pretty sure.
+
+2130
+01:38:26,100 --> 01:38:29,680
+Wait, this is not the sniper.
+
+2131
+01:38:30,200 --> 01:38:31,820
+Wait, this is not the sniper.
+
+2132
+01:38:32,160 --> 01:38:33,580
+Wait, wait, what?
+
+2133
+01:38:34,600 --> 01:38:37,440
+Was this not- is this- is this the sniper?
+
+2134
+01:38:38,640 --> 01:38:39,400
+Oh, shit.
+
+2135
+01:38:39,460 --> 01:38:40,340
+I got the wrong one.
+
+2136
+01:38:40,660 --> 01:38:42,040
+I took the wrong gun, guys.
+
+2137
+01:38:42,620 --> 01:38:45,000
+I- I took the wrong gun.
+
+2138
+01:38:45,480 --> 01:38:47,120
+I was like, no way.
+
+2139
+01:38:48,020 --> 01:38:49,160
+This is not felon.
+
+2140
+01:38:51,360 --> 01:38:52,640
+Wait, they don't have the sniper.
+
+2141
+01:38:54,760 --> 01:38:56,400
+It's fine, I don't need it.
+
+2142
+01:38:58,320 --> 01:38:59,840
+I don't need it.
+
+2143
+01:39:00,200 --> 01:39:01,200
+It's fine.
+
+2144
+01:39:01,600 --> 01:39:03,080
+I don't need it.
+
+2145
+01:39:04,840 --> 01:39:06,760
+Wait, what was the sniper called?
+
+2146
+01:39:07,360 --> 01:39:10,740
+I literally just went by like, you know, I go by like the position.
+
+2147
+01:39:11,280 --> 01:39:12,520
+I don't read, guys.
+
+2148
+01:39:12,600 --> 01:39:13,100
+You know that.
+
+2149
+01:39:13,160 --> 01:39:15,220
+I literally went by the position of the gun.
+
+2150
+01:39:16,040 --> 01:39:19,140
+No, I can't swap my gun!
+
+2151
+01:39:19,340 --> 01:39:19,780
+No!
+
+2152
+01:39:21,740 --> 01:39:23,700
+What do I do?
+
+2153
+01:39:27,820 --> 01:39:28,760
+Is it to the right?
+
+2154
+01:39:38,640 --> 01:39:39,080
+This way.
+
+2155
+01:39:42,060 --> 01:39:43,340
+Okay, there you go.
+
+2156
+01:39:43,980 --> 01:39:45,160
+There we go.
+
+2157
+01:39:46,140 --> 01:39:48,800
+I can't even swap it.
+
+2158
+01:39:49,180 --> 01:39:51,000
+I can't even swap my
+
+2159
+01:39:59,570 --> 01:40:01,030
+- the fuck is this?
+
+2160
+01:40:01,110 --> 01:40:01,970
+I don't know what that is.
+
+2161
+01:40:03,450 --> 01:40:05,170
+Oh, he's just using util!
+
+2162
+01:40:05,470 --> 01:40:06,250
+Fucking cheater!
+
+2163
+01:40:07,650 --> 01:40:09,590
+Oh, you're still so bad.
+
+2164
+01:40:12,710 --> 01:40:17,010
+Imagine using util and still not winning that.
+
+2165
+01:40:20,070 --> 01:40:21,770
+It don't matter.
+
+2166
+01:40:23,610 --> 01:40:25,850
+It don't matter for you.
+
+2167
+01:40:26,850 --> 01:40:28,870
+Util just doesn't matter.
+
+2168
+01:40:29,820 --> 01:40:30,150
+Right?
+
+2169
+01:40:31,910 --> 01:40:34,050
+Imagine losing that.
+
+2170
+01:40:39,370 --> 01:40:41,190
+All right, nice.
+
+2171
+01:40:41,950 --> 01:40:42,970
+Wait, what?
+
+2172
+01:40:43,290 --> 01:40:43,890
+Where am I?
+
+2173
+01:40:44,230 --> 01:40:45,530
+Oh, I don't have to play.
+
+2174
+01:40:46,710 --> 01:40:48,390
+Wait, why don't I have to play?
+
+2175
+01:40:48,450 --> 01:40:50,750
+What the fuck?!
+
+2176
+01:40:50,750 --> 01:40:51,570
+Bro!
+
+2177
+01:40:52,050 --> 01:40:54,430
+It's not even an aim game anymore!
+
+2178
+01:40:55,170 --> 01:40:57,490
+This is not even about aiming!
+
+2179
+01:41:03,330 --> 01:41:05,250
+You don't even have to aim!
+
+2180
+01:41:05,710 --> 01:41:11,450
+It's literally just- Okay, that's cool.
+
+2181
+01:41:13,330 --> 01:41:15,510
+Is he gonna use util on me again?
+
+2182
+01:41:20,740 --> 01:41:21,660
+I think he knew it.
+
+2183
+01:41:32,790 --> 01:41:34,090
+Get- get out.
+
+2184
+01:41:35,050 --> 01:41:37,130
+I'm using a shotgun.
+
+2185
+01:41:37,770 --> 01:41:39,530
+Get the fuck out of my game.
+
+2186
+01:41:39,530 --> 01:41:40,050
+Get-
+
+2187
+01:41:55,960 --> 01:41:57,280
+Get out.
+
+2188
+01:41:58,100 --> 01:41:59,780
+Get out of my game.
+
+2189
+01:42:04,040 --> 01:42:07,920
+I have the wrong gun and I'm still shitting on you, buddy.
+
+2190
+01:42:12,190 --> 01:42:16,030
+I'm literally using the fucking worst gun right now for myself.
+
+2191
+01:42:20,570 --> 01:42:22,590
+Whoa, my round is empty.
+
+2192
+01:42:22,830 --> 01:42:23,390
+Let's go.
+
+2193
+01:42:23,550 --> 01:42:26,670
+I get a free buy again.
+
+2194
+01:42:31,290 --> 01:42:36,250
+I'm gonna get so fucked over the moment I have to fight this guy because he actually has a real gun.
+
+2195
+01:42:37,470 --> 01:42:39,370
+This guy has a real fucking gun.
+
+2196
+01:42:39,490 --> 01:42:41,110
+I don't know what I'm gonna be doing.
+
+2197
+01:42:44,590 --> 01:42:46,010
+Wait, Bob has level two.
+
+2198
+01:42:46,010 --> 01:42:47,290
+Oh, Bob's dead.
+
+2199
+01:42:50,320 --> 01:42:51,760
+Do I get another buy?
+
+2200
+01:42:51,980 --> 01:42:53,160
+Another buy?
+
+2201
+01:42:53,260 --> 01:42:54,320
+Let's go!
+
+2202
+01:42:58,000 --> 01:43:00,360
+I wanna swap my gun.
+
+2203
+01:43:00,800 --> 01:43:03,000
+I don't wanna use this gun.
+
+2204
+01:43:05,940 --> 01:43:07,120
+Let's fucking go.
+
+2205
+01:43:08,900 --> 01:43:10,540
+I get another buy?
+
+2206
+01:43:12,300 --> 01:43:14,180
+Oh no, I'm fighting him now.
+
+2207
+01:43:16,900 --> 01:43:17,860
+Oh no.
+
+2208
+01:43:20,400 --> 01:43:22,380
+Bro, this is fucking bullshit.
+
+2209
+01:43:23,400 --> 01:43:24,480
+This is util shit.
+
+2210
+01:43:39,180 --> 01:43:39,820
+Okay.
+
+2211
+01:43:44,020 --> 01:43:45,480
+Okay, sure.
+
+2212
+01:43:47,040 --> 01:43:49,860
+I'm worried about his- the gun he has.
+
+2213
+01:43:51,480 --> 01:43:53,240
+He might actually have a real gun.
+
+2214
+01:43:56,040 --> 01:43:57,500
+Yeah, he has a real gun.
+
+2215
+01:43:57,600 --> 01:43:59,140
+Oh my god, I can finally swap guns.
+
+2216
+01:43:59,260 --> 01:44:00,520
+Okay, where is it?
+
+2217
+01:44:00,560 --> 01:44:01,600
+All right, is it this one?
+
+2218
+01:44:02,180 --> 01:44:02,620
+All right.
+
+2219
+01:44:02,780 --> 01:44:03,240
+Let's see.
+
+2220
+01:44:03,320 --> 01:44:04,840
+I can fuck around a little bit.
+
+2221
+01:44:05,060 --> 01:44:06,460
+I'm gonna see if I can fuck around.
+
+2222
+01:44:09,200 --> 01:44:10,820
+If I can't, I'll just use the AK.
+
+2223
+01:44:18,440 --> 01:44:19,000
+Wait, where am I?
+
+2224
+01:44:19,260 --> 01:44:19,600
+What?
+
+2225
+01:44:19,740 --> 01:44:20,880
+Oh, he did the thing!
+
+2226
+01:44:21,440 --> 01:44:22,760
+He did the thing!
+
+2227
+01:44:25,850 --> 01:44:26,190
+Okay.
+
+2228
+01:44:27,090 --> 01:44:29,070
+Oh my- wait, I can't swap my gun.
+
+2229
+01:44:29,910 --> 01:44:32,750
+Oh, he did the spirited away shit.
+
+2230
+01:44:32,870 --> 01:44:34,250
+That shit is cool though.
+
+2231
+01:44:34,310 --> 01:44:35,230
+I have to admit.
+
+2232
+01:44:37,010 --> 01:44:39,330
+Whenever he does that, that shit is cool.
+
+2233
+01:44:40,230 --> 01:44:42,050
+Like, how do you counter that too?
+
+2234
+01:44:42,930 --> 01:44:43,590
+That's crazy.
+
+2235
+01:44:43,810 --> 01:44:45,050
+Bro, he's dashing?
+
+2236
+01:44:51,210 --> 01:44:52,250
+He's here right now.
+
+2237
+01:44:52,330 --> 01:44:53,110
+I can- oh fuck.
+
+2238
+01:44:53,590 --> 01:44:54,190
+Wait, what?
+
+2239
+01:44:55,450 --> 01:44:56,490
+I don't understand.
+
+2240
+01:44:57,910 --> 01:44:59,290
+Bro, this guy knows the map.
+
+2241
+01:44:59,370 --> 01:45:00,050
+I don't.
+
+2242
+01:45:00,390 --> 01:45:03,930
+He actually- He fucking knows the map.
+
+2243
+01:45:04,030 --> 01:45:05,370
+I'm so confused.
+
+2244
+01:45:07,550 --> 01:45:08,050
+No!
+
+2245
+01:45:08,430 --> 01:45:10,730
+He actually knows the map!
+
+2246
+01:45:13,890 --> 01:45:16,390
+He actually knows the fucking map.
+
+2247
+01:45:16,490 --> 01:45:17,290
+I'm like, what?
+
+2248
+01:45:17,770 --> 01:45:19,030
+Where do I go?
+
+2249
+01:45:19,510 --> 01:45:21,510
+No, if he wins this, it's a good fight.
+
+2250
+01:45:21,830 --> 01:45:25,930
+He knows how- he's been playing this game for- you can tell he's been playing for a while.
+
+2251
+01:45:27,690 --> 01:45:29,550
+Because he actually knows how to play.
+
+2252
+01:45:30,410 --> 01:45:33,150
+He actually- he knows how to play this.
+
+2253
+01:45:37,550 --> 01:45:40,370
+Yeah, I'm like confused about the map.
+
+2254
+01:45:42,010 --> 01:45:45,430
+I'm not fucking- oh, he does that.
+
+2255
+01:45:45,830 --> 01:45:46,590
+Bro, he's doing this.
+
+2256
+01:45:46,770 --> 01:45:48,350
+The TP shit is scary too.
+
+2257
+01:45:48,750 --> 01:45:50,190
+The spirited away shit?
+
+2258
+01:45:52,370 --> 01:45:53,650
+Oh, gg's.
+
+2259
+01:45:54,130 --> 01:45:54,770
+gg's.
+
+2260
+01:45:55,190 --> 01:45:58,030
+He actually knows his character and he knows the fucking map.
+
+2261
+01:45:58,410 --> 01:45:58,730
+Yeah.
+
+2262
+01:45:58,730 --> 01:45:58,890
+Yeah.
+
+2263
+01:46:03,690 --> 01:46:05,170
+That was close.
+
+2264
+01:46:05,330 --> 01:46:06,430
+That was fun though.
+
+2265
+01:46:06,810 --> 01:46:07,630
+That was close.
+
+2266
+01:46:08,630 --> 01:46:10,790
+He has more knowledge than me.
+
+2267
+01:46:11,770 --> 01:46:13,850
+I literally was relying on pure aim.
+
+2268
+01:46:16,070 --> 01:46:18,910
+I was relying on pure aim.
+
+2269
+01:46:19,090 --> 01:46:22,030
+I mean, I got some fucking good ass kills there.
+
+2270
+01:46:23,310 --> 01:46:23,810
+Yeah.
+
+2271
+01:46:24,930 --> 01:46:29,210
+How come you can't use- uh, that was more fun than- yeah, that's fun.
+
+2272
+01:46:29,330 --> 01:46:31,270
+Why is that game mode dead?
+
+2273
+01:46:31,270 --> 01:46:38,590
+That game mode was actually- I think that game mode was more fun than the actual mode.
+
+2274
+01:46:40,060 --> 01:46:41,570
+Not gonna lie.
+
+2275
+01:46:42,870 --> 01:46:45,030
+Yeah, I fucked around a lot too.
+
+2276
+01:46:45,230 --> 01:46:46,990
+I was like, oh shit, what's that?
+
+2277
+01:46:50,090 --> 01:46:55,110
+Yeah, I'm surprised that- I'm surprised that game mode is not that popular.
+
+2278
+01:46:55,670 --> 01:46:57,150
+Uh, Aifan, thank you for the super chat.
+
+2279
+01:46:57,210 --> 01:46:57,490
+Thank you.
+
+2280
+01:46:57,550 --> 01:46:58,010
+Thank you.
+
+2281
+01:46:58,090 --> 01:47:01,570
+The sister is secretly telling us she wants to play Valorant.
+
+2282
+01:47:01,790 --> 01:47:05,930
+I think also, I- my character is not a 1v1 character.
+
+2283
+01:47:06,230 --> 01:47:13,490
+I think everybody was using- I noticed that everybody was using the the robot guy and then the bat guy.
+
+2284
+01:47:13,650 --> 01:47:16,170
+The guy that- the guy that got second place.
+
+2285
+01:47:16,530 --> 01:47:19,330
+Everyone was using the second place guy and then the robot guy.
+
+2286
+01:47:19,510 --> 01:47:22,390
+I just played Nitro because I was like, well,
+
+2287
+01:47:26,030 --> 01:47:29,610
+I was just- I just played Nitro because I was just like, I don't know.
+
+2288
+01:47:29,790 --> 01:47:31,970
+I've been playing Nitro the entire time.
+
+2289
+01:47:33,450 --> 01:47:35,650
+Yeah, I got second though for my first time.
+
+2290
+01:47:37,350 --> 01:47:39,350
+I feel like that game mode was fun.
+
+2291
+01:47:39,430 --> 01:47:40,610
+I really enjoyed that one.
+
+2292
+01:47:42,410 --> 01:47:44,970
+Yeah, I enjoyed that game mode.
+
+2293
+01:47:47,050 --> 01:47:57,150
+People don't like facing reality that they're not good at the- bro, okay, that guy that kept like fucking- The shotgun was fucking so bad.
+
+2294
+01:47:58,150 --> 01:48:00,150
+He was so bad.
+
+2295
+01:48:01,910 --> 01:48:03,790
+That was crazy.
+
+2296
+01:48:07,530 --> 01:48:08,950
+Oh my god.
+
+2297
+01:48:09,830 --> 01:48:12,470
+Everybody I challenged was like, eh.
+
+2298
+01:48:13,110 --> 01:48:15,510
+Until the second place guy was an actual match.
+
+2299
+01:48:15,770 --> 01:48:19,470
+I think if I had map knowledge and character knowledge.
+
+2300
+01:48:20,610 --> 01:48:20,950
+Um...
+
+2301
+01:48:20,950 --> 01:48:22,010
+Oh, wait, I'm here.
+
+2302
+01:48:22,090 --> 01:48:22,490
+Oh, wait.
+
+2303
+01:48:22,650 --> 01:48:23,590
+Is this infected?
+
+2304
+01:48:24,650 --> 01:48:26,070
+Oh, it's infected time.
+
+2305
+01:48:26,170 --> 01:48:27,350
+Wait, what does select card?
+
+2306
+01:48:28,170 --> 01:48:29,250
+Headshot master?
+
+2307
+01:48:30,950 --> 01:48:31,950
+What the fuck?
+
+2308
+01:48:33,110 --> 01:48:33,750
+Where is he?
+
+2309
+01:48:34,030 --> 01:48:34,710
+It's time.
+
+2310
+01:48:35,230 --> 01:48:36,110
+Where are you?
+
+2311
+01:48:38,010 --> 01:48:38,990
+Where is he?
+
+2312
+01:48:40,130 --> 01:48:41,170
+I hear him.
+
+2313
+01:48:41,270 --> 01:48:42,350
+Oh, there he is.
+
+2314
+01:48:43,110 --> 01:48:44,010
+There you are.
+
+2315
+01:48:44,110 --> 01:48:44,370
+No!
+
+2316
+01:48:44,750 --> 01:48:45,730
+I'm gonna get you.
+
+2317
+01:48:45,950 --> 01:48:46,270
+Yeah!
+
+2318
+01:48:46,730 --> 01:48:47,710
+Nom nom nom nom.
+
+2319
+01:48:49,210 --> 01:48:51,710
+Nom nom nom nom.
+
+2320
+01:48:52,610 --> 01:48:54,190
+I'm gonna get you.
+
+2321
+01:48:54,270 --> 01:48:55,350
+You think you're safe?
+
+2322
+01:48:55,510 --> 01:48:58,630
+I didn't know what I was doing, but I got you.
+
+2323
+01:48:59,710 --> 01:49:01,190
+Where's the last man?
+
+2324
+01:49:01,550 --> 01:49:03,790
+Okay, there is no way a survivor is living this.
+
+2325
+01:49:04,030 --> 01:49:05,810
+I have two- three thousand hp.
+
+2326
+01:49:06,370 --> 01:49:09,530
+I refuse to believe a survivor can live this.
+
+2327
+01:49:11,530 --> 01:49:15,530
+Why like- How do I- god.
+
+2328
+01:49:19,230 --> 01:49:20,750
+Where's the last woman?
+
+2329
+01:49:22,550 --> 01:49:24,050
+Last man surviving.
+
+2330
+01:49:24,690 --> 01:49:24,790
+Here?
+
+2331
+01:49:27,310 --> 01:49:28,590
+Somebody's hiding.
+
+2332
+01:49:29,230 --> 01:49:31,810
+Oh, they're not even shooting.
+
+2333
+01:49:31,990 --> 01:49:32,970
+They're just hiding.
+
+2334
+01:49:33,410 --> 01:49:35,990
+Oh, that little bitch!
+
+2335
+01:49:38,410 --> 01:49:39,970
+Oh, they're dead.
+
+2336
+01:49:41,750 --> 01:49:43,470
+There's way too many infected guys.
+
+2337
+01:49:43,670 --> 01:49:45,250
+Bro, look at how many infected!
+
+2338
+01:49:45,390 --> 01:49:46,670
+Oh my god!
+
+2339
+01:49:47,510 --> 01:49:48,850
+Guys, we're not good.
+
+2340
+01:49:49,010 --> 01:49:50,190
+Guys, I'm scared.
+
+2341
+01:49:50,370 --> 01:49:52,490
+Guys, I'm so scared.
+
+2342
+01:49:52,590 --> 01:49:53,630
+I don't think we're good.
+
+2343
+01:49:53,950 --> 01:49:56,170
+Guys, we gotta- wait, how did you dash?
+
+2344
+01:49:58,170 --> 01:49:59,550
+How did you do that?
+
+2345
+01:50:00,710 --> 01:50:02,270
+Wait, how do you dash?
+
+2346
+01:50:02,370 --> 01:50:03,830
+I never learned that mechanic.
+
+2347
+01:50:07,890 --> 01:50:08,690
+Wait, what?
+
+2348
+01:50:08,770 --> 01:50:09,690
+Is it the knife?
+
+2349
+01:50:10,510 --> 01:50:10,950
+Oh.
+
+2350
+01:50:13,490 --> 01:50:13,930
+Oh!
+
+2351
+01:50:14,910 --> 01:50:15,510
+Oh!
+
+2352
+01:50:15,510 --> 01:50:17,790
+Oh, so that's how they were dashing!
+
+2353
+01:50:18,450 --> 01:50:18,770
+Oh!
+
+2354
+01:50:21,450 --> 01:50:22,730
+Don't worry, guys.
+
+2355
+01:50:23,850 --> 01:50:25,890
+Don't worry, I got this.
+
+2356
+01:50:27,350 --> 01:50:30,090
+Oh, so that's how all of them were dashing earlier.
+
+2357
+01:50:30,410 --> 01:50:31,290
+I get it now.
+
+2358
+01:50:31,410 --> 01:50:32,530
+Okay, don't worry.
+
+2359
+01:50:34,490 --> 01:50:35,750
+There's no way.
+
+2360
+01:50:36,550 --> 01:50:37,530
+Oh shit!
+
+2361
+01:50:37,610 --> 01:50:38,470
+Oh my god!
+
+2362
+01:50:38,470 --> 01:50:41,530
+Why me?!
+
+2363
+01:50:41,530 --> 01:50:43,350
+Why me?!
+
+2364
+01:50:43,350 --> 01:50:47,430
+It's not- Oh my god!
+
+2365
+01:50:47,970 --> 01:50:50,050
+I'm so unlucky!
+
+2366
+01:50:55,380 --> 01:50:57,090
+That's not fair!
+
+2367
+01:50:58,270 --> 01:51:00,590
+I can't believe it!
+
+2368
+01:51:01,650 --> 01:51:04,030
+I'm so sad.
+
+2369
+01:51:04,950 --> 01:51:07,160
+Oh, how do I get up?
+
+2370
+01:51:08,470 --> 01:51:08,530
+I -
+
+2371
+01:51:11,850 --> 01:51:15,330
+I literally spawn next to me!
+
+2372
+01:51:16,050 --> 01:51:17,970
+It's not fair!
+
+2373
+01:51:18,150 --> 01:51:19,650
+I wanna kill you!
+
+2374
+01:51:20,310 --> 01:51:22,090
+How do you get up here?
+
+2375
+01:51:23,770 --> 01:51:25,030
+Oh, okay, that's out.
+
+2376
+01:51:25,850 --> 01:51:28,290
+Okay, I'm gonna kill you.
+
+2377
+01:51:28,510 --> 01:51:30,770
+I'm gonna kill you.
+
+2378
+01:51:32,070 --> 01:51:35,070
+That's right, I'm so mad!
+
+2379
+01:51:36,390 --> 01:51:38,670
+I'm so mad!
+
+2380
+01:51:38,670 --> 01:51:38,810
+I'm so mad!
+
+2381
+01:51:39,970 --> 01:51:47,110
+I literally spawned next to an infected!
+
+2382
+01:51:48,030 --> 01:51:49,830
+It's not fair!
+
+2383
+01:51:53,250 --> 01:51:55,990
+How could this do this to me?
+
+2384
+01:51:56,530 --> 01:51:59,010
+I just wanna play!
+
+2385
+01:52:01,950 --> 01:52:04,870
+It's so fa- how- there's no way to win this.
+
+2386
+01:52:05,010 --> 01:52:05,630
+There's no way.
+
+2387
+01:52:05,710 --> 01:52:07,910
+There's- they put too many infected in here.
+
+2388
+01:52:11,470 --> 01:52:12,110
+Okay.
+
+2389
+01:52:13,890 --> 01:52:14,890
+That's cute.
+
+2390
+01:52:15,370 --> 01:52:18,010
+That little guy hiding in the corner!
+
+2391
+01:52:18,550 --> 01:52:20,250
+That's really cute, buddy.
+
+2392
+01:52:22,590 --> 01:52:25,030
+It's literally hide and seek now.
+
+2393
+01:52:26,010 --> 01:52:28,590
+How could they do this to me?
+
+2394
+01:52:29,010 --> 01:52:31,010
+I made my mistakes.
+
+2395
+01:52:32,910 --> 01:52:34,670
+That's actually so fun.
+
+2396
+01:52:36,990 --> 01:52:37,830
+Wait, up top?
+
+2397
+01:52:37,970 --> 01:52:38,570
+They're up top.
+
+2398
+01:52:39,390 --> 01:52:40,630
+They're up top.
+
+2399
+01:52:41,950 --> 01:52:42,630
+Parkour.
+
+2400
+01:52:43,730 --> 01:52:45,750
+Guys, I'm figuring out parkour real quick.
+
+2401
+01:52:45,850 --> 01:52:46,510
+Guys, I'm stuck.
+
+2402
+01:52:48,330 --> 01:52:49,010
+Parkour.
+
+2403
+01:52:51,310 --> 01:52:51,990
+Parkour.
+
+2404
+01:52:52,170 --> 01:52:53,550
+How do we parkour this?
+
+2405
+01:52:54,410 --> 01:52:54,830
+Guys.
+
+2406
+01:52:55,950 --> 01:52:57,870
+Guys, how- We did it!
+
+2407
+01:52:57,970 --> 01:52:58,990
+Alright, this mode sucks.
+
+2408
+01:52:59,150 --> 01:53:00,150
+This game mode sucks.
+
+2409
+01:53:01,250 --> 01:53:02,810
+This is a bad game mode.
+
+2410
+01:53:06,410 --> 01:53:08,370
+They put too many infected.
+
+2411
+01:53:09,050 --> 01:53:10,790
+Alright, this game mode sucks.
+
+2412
+01:53:13,770 --> 01:53:15,530
+It- there's- it's just not enough.
+
+2413
+01:53:15,630 --> 01:53:18,550
+There's not- there's too many infected and the map is way too small.
+
+2414
+01:53:19,410 --> 01:53:20,450
+It's way too small.
+
+2415
+01:53:20,550 --> 01:53:20,730
+Alright.
+
+2416
+01:53:21,710 --> 01:53:23,430
+Alright, let's do one last game, guys.
+
+2417
+01:53:23,670 --> 01:53:24,970
+I love Duel Master.
+
+2418
+01:53:24,970 --> 01:53:27,290
+That one had to be my- the most fun one.
+
+2419
+01:53:30,690 --> 01:53:31,590
+Yeah, let's do it.
+
+2420
+01:53:31,610 --> 01:53:32,910
+Let's end it with Team Deathmatch.
+
+2421
+01:53:33,130 --> 01:53:33,590
+Fuck it.
+
+2422
+01:53:34,170 --> 01:53:35,770
+Let's call- end it with Team Deathmatch.
+
+2423
+01:53:37,890 --> 01:53:40,130
+Yeah, 3000 HP is too much, dude.
+
+2424
+01:53:40,250 --> 01:53:40,430
+Yeah.
+
+2425
+01:53:40,550 --> 01:53:43,190
+Map is too much and 3000 HP is a lot.
+
+2426
+01:53:44,030 --> 01:53:45,090
+Is this the cool guy?
+
+2427
+01:53:45,290 --> 01:53:47,430
+The one where he did the- Oh, I found him.
+
+2428
+01:53:51,120 --> 01:53:51,860
+Try other guns?
+
+2429
+01:53:52,020 --> 01:53:53,010
+What other guns should I try?
+
+2430
+01:53:53,470 --> 01:53:53,870
+Try.
+
+2431
+01:53:57,030 --> 01:53:59,330
+I don't think I can- I don't think I can learn another character.
+
+2432
+01:53:59,530 --> 01:54:00,430
+My brain's too small.
+
+2433
+01:54:04,620 --> 01:54:06,420
+Alright, select skill cards to equip them.
+
+2434
+01:54:06,460 --> 01:54:09,320
+In card select, press the key to activate the card used.
+
+2435
+01:54:09,880 --> 01:54:12,540
+On mat takes effect, select tactical cards.
+
+2436
+01:54:13,200 --> 01:54:18,240
+Um, I'm still- I should play a su- I'll still- I'll do- I'll still do Lancer.
+
+2437
+01:54:18,860 --> 01:54:20,620
+Alright, what other guns are good, though?
+
+2438
+01:54:21,380 --> 01:54:21,780
+Shotguns?
+
+2439
+01:54:21,780 --> 01:54:22,480
+I might could try.
+
+2440
+01:54:23,380 --> 01:54:24,680
+Yeah, let's try a shotgun.
+
+2441
+01:54:26,460 --> 01:54:27,100
+Uh...
+
+2442
+01:54:27,100 --> 01:54:28,860
+Where's my shard used?
+
+2443
+01:54:29,780 --> 01:54:30,440
+Where's my card?
+
+2444
+01:54:30,740 --> 01:54:31,480
+Oh, there it is.
+
+2445
+01:54:33,900 --> 01:54:34,540
+Uh...
+
+2446
+01:54:35,860 --> 01:54:36,860
+Bombing signal?
+
+2447
+01:54:36,980 --> 01:54:38,180
+Oh, my god.
+
+2448
+01:54:38,260 --> 01:54:38,560
+Wait.
+
+2449
+01:54:41,280 --> 01:54:42,560
+Oh, wait!
+
+2450
+01:54:43,260 --> 01:54:44,820
+Ha, ha, ha, ha, ha.
+
+2451
+01:54:47,460 --> 01:54:48,520
+There you go.
+
+2452
+01:54:48,760 --> 01:54:49,540
+Ha, ha, ha.
+
+2453
+01:54:49,580 --> 01:54:52,060
+Wait, I like that.
+
+2454
+01:54:53,580 --> 01:54:54,060
+Wait.
+
+2455
+01:54:57,480 --> 01:55:03,620
+Wait, wha- Bro, I cannot get close enough for this.
+
+2456
+01:55:09,740 --> 01:55:10,520
+Oh, my god.
+
+2457
+01:55:10,560 --> 01:55:11,420
+I wish I had a normal gun.
+
+2458
+01:55:11,920 --> 01:55:13,580
+Ha, ha, ha, ha.
+
+2459
+01:55:15,300 --> 01:55:17,040
+Guys, I don't like this gun, guys.
+
+2460
+01:55:17,260 --> 01:55:20,700
+I am not- I am not using the shotgun.
+
+2461
+01:55:20,880 --> 01:55:22,780
+They're all too far away, guys.
+
+2462
+01:55:23,400 --> 01:55:26,280
+They're all way too far away for the shotgun.
+
+2463
+01:55:27,700 --> 01:55:29,940
+If they were closer, I'd use it.
+
+2464
+01:55:33,170 --> 01:55:36,130
+They all play like a little bitch sometimes.
+
+2465
+01:55:43,020 --> 01:55:43,880
+Oh, fuck!
+
+2466
+01:55:44,040 --> 01:55:46,800
+Wait, they shot you and not- They shot me and not you?
+
+2467
+01:55:48,880 --> 01:55:49,400
+What?
+
+2468
+01:55:49,520 --> 01:55:50,220
+Oh, shit.
+
+2469
+01:55:50,520 --> 01:55:51,560
+I did not think they would.
+
+2470
+01:55:52,720 --> 01:55:53,500
+Wait, can I shoot outside?
+
+2471
+01:55:53,620 --> 01:55:54,400
+No, I can't.
+
+2472
+01:55:56,960 --> 01:55:57,480
+Okay.
+
+2473
+01:56:00,680 --> 01:56:01,560
+That's crazy.
+
+2474
+01:56:01,980 --> 01:56:03,340
+Wait, it's just literally just shooting.
+
+2475
+01:56:05,660 --> 01:56:06,940
+We're just shooting.
+
+2476
+01:56:11,520 --> 01:56:11,960
+Okay.
+
+2477
+01:56:13,220 --> 01:56:15,740
+I'm gonna save my thing for E.
+
+2478
+01:56:15,840 --> 01:56:17,220
+I think E is the best one.
+
+2479
+01:56:20,340 --> 01:56:20,780
+Okay.
+
+2480
+01:56:22,780 --> 01:56:24,100
+I'm gonna save it for E.
+
+2481
+01:56:26,660 --> 01:56:28,340
+Oh, why did I use it here?
+
+2482
+01:56:28,440 --> 01:56:31,920
+Oh, wait, if I used it here, it would've been fucking...
+
+2483
+01:56:31,920 --> 01:56:32,960
+Wait, do I have grenades?
+
+2484
+01:56:32,960 --> 01:56:34,180
+I don't have grenades.
+
+2485
+01:56:35,080 --> 01:56:36,040
+Yeah, I don't.
+
+2486
+01:56:36,180 --> 01:56:37,320
+There's no grenades in this game.
+
+2487
+01:56:39,940 --> 01:56:42,300
+Wait, what if I use sniper, actually?
+
+2488
+01:56:43,020 --> 01:56:44,560
+I think I can kill all these guys with sniper.
+
+2489
+01:56:46,240 --> 01:56:46,700
+100%.
+
+2490
+01:56:46,700 --> 01:56:48,780
+No, these guys are not that good.
+
+2491
+01:56:48,840 --> 01:56:49,660
+I can kill them with sniper.
+
+2492
+01:56:54,660 --> 01:56:55,780
+Or- What?
+
+2493
+01:56:56,480 --> 01:56:56,940
+Okay.
+
+2494
+01:56:57,240 --> 01:56:57,800
+That's it.
+
+2495
+01:57:00,460 --> 01:57:01,160
+That's it.
+
+2496
+01:57:06,500 --> 01:57:07,560
+That's it.
+
+2497
+01:57:08,460 --> 01:57:09,260
+That's it.
+
+2498
+01:57:09,260 --> 01:57:09,540
+Pick me.
+
+2499
+01:57:10,380 --> 01:57:11,500
+Come on.
+
+2500
+01:57:13,520 --> 01:57:15,800
+I got 150.
+
+2501
+01:57:24,470 --> 01:57:26,250
+That's fucking right.
+
+2502
+01:57:30,410 --> 01:57:31,550
+That's fucking right.
+
+2503
+01:57:32,290 --> 01:57:34,030
+Aw, that's not fair.
+
+2504
+01:57:34,270 --> 01:57:34,950
+That's not fair.
+
+2505
+01:57:35,010 --> 01:57:36,010
+He has the bullet shield.
+
+2506
+01:57:37,150 --> 01:57:38,190
+There we go.
+
+2507
+01:57:39,190 --> 01:57:41,190
+Wait, aw, he slid down!
+
+2508
+01:57:47,250 --> 01:57:47,770
+No!
+
+2509
+01:57:48,370 --> 01:57:49,550
+Wait, is he gonna die to that?
+
+2510
+01:57:49,870 --> 01:57:52,590
+Wait, he doesn't die to that?
+
+2511
+01:57:52,650 --> 01:57:53,350
+I can't tell.
+
+2512
+01:57:56,570 --> 01:57:58,930
+I can't tell if he's gonna die to that.
+
+2513
+01:58:02,700 --> 01:58:02,980
+Okay.
+
+2514
+01:58:04,460 --> 01:58:05,480
+The slide.
+
+2515
+01:58:05,760 --> 01:58:07,340
+I don't know how to slide efficiently.
+
+2516
+01:58:09,540 --> 01:58:11,120
+I don't know how to do it.
+
+2517
+01:58:11,120 --> 01:58:12,400
+Is it C?
+
+2518
+01:58:12,640 --> 01:58:13,800
+Oh, I guess it is C.
+
+2519
+01:58:14,000 --> 01:58:14,280
+Okay.
+
+2520
+01:58:14,980 --> 01:58:15,460
+It's C.
+
+2521
+01:58:15,920 --> 01:58:16,620
+I know now.
+
+2522
+01:58:17,200 --> 01:58:19,220
+I wanna save up for E.
+
+2523
+01:58:19,480 --> 01:58:20,140
+No survivors.
+
+2524
+01:58:21,040 --> 01:58:21,900
+Wait, what?
+
+2525
+01:58:21,980 --> 01:58:23,360
+Oh, I didn't see him!
+
+2526
+01:58:27,360 --> 01:58:29,320
+It's never too close for snipers.
+
+2527
+01:58:30,640 --> 01:58:32,480
+Guys, it's never too close, guys.
+
+2528
+01:58:44,330 --> 01:58:44,810
+142?
+
+2529
+01:58:45,190 --> 01:58:45,610
+Okay.
+
+2530
+01:58:45,910 --> 01:58:47,230
+I was gonna say, there's no way.
+
+2531
+01:58:52,390 --> 01:58:55,310
+There's no way that was gonna be a 142 for me.
+
+2532
+01:58:56,170 --> 01:58:57,790
+Oh my god.
+
+2533
+01:58:59,410 --> 01:59:00,450
+Come on.
+
+2534
+01:59:01,550 --> 01:59:02,730
+Oh, fuck!
+
+2535
+01:59:06,220 --> 01:59:07,380
+Are you serious?
+
+2536
+01:59:07,480 --> 01:59:08,040
+Little fucker.
+
+2537
+01:59:08,480 --> 01:59:10,240
+Bro, the cross angles!
+
+2538
+01:59:10,880 --> 01:59:13,100
+The fucking cross angles!
+
+2539
+01:59:13,360 --> 01:59:14,400
+You fucking whore!
+
+2540
+01:59:16,640 --> 01:59:19,580
+I have to keep track of two different angles!
+
+2541
+01:59:20,500 --> 01:59:21,060
+Alright.
+
+2542
+01:59:22,080 --> 01:59:22,860
+Fuck it.
+
+2543
+01:59:23,060 --> 01:59:24,040
+Back to...
+
+2544
+01:59:25,760 --> 01:59:26,860
+Back to AK.
+
+2545
+01:59:28,320 --> 01:59:30,280
+Maybe it's too close.
+
+2546
+01:59:32,040 --> 01:59:33,680
+It's never too close.
+
+2547
+01:59:34,740 --> 01:59:36,120
+Oh, but they're winning though.
+
+2548
+01:59:36,160 --> 01:59:37,020
+Wait, is it to 100?
+
+2549
+01:59:39,440 --> 01:59:40,300
+There we go.
+
+2550
+01:59:40,980 --> 01:59:43,380
+It's to 100, which is a lot.
+
+2551
+01:59:44,400 --> 01:59:46,800
+I need to wait for regen too, which is annoying.
+
+2552
+01:59:55,920 --> 01:59:56,340
+Nice.
+
+2553
+01:59:58,680 --> 01:59:59,100
+Nice.
+
+2554
+01:59:59,980 --> 02:00:01,120
+My regen, real quick.
+
+2555
+02:00:02,200 --> 02:00:03,520
+I figured it out though.
+
+2556
+02:00:03,560 --> 02:00:05,800
+I figured out how to play this stupid deathmatch.
+
+2557
+02:00:07,320 --> 02:00:07,740
+There we go.
+
+2558
+02:00:08,820 --> 02:00:09,480
+Oh, shit!
+
+2559
+02:00:14,260 --> 02:00:16,040
+I was gonna say, what is he doing in my spot?
+
+2560
+02:00:22,010 --> 02:00:22,810
+Alright, nice.
+
+2561
+02:00:26,090 --> 02:00:26,930
+Oh, shit!
+
+2562
+02:00:27,590 --> 02:00:28,890
+Okay, I'm gonna use it.
+
+2563
+02:00:29,050 --> 02:00:30,370
+Just cause they're all there.
+
+2564
+02:00:30,730 --> 02:00:32,230
+I'm gonna use it.
+
+2565
+02:00:32,570 --> 02:00:36,190
+No, I see all that too!
+
+2566
+02:00:39,510 --> 02:00:40,850
+Alright, that's fine.
+
+2567
+02:00:44,150 --> 02:00:44,710
+No!
+
+2568
+02:00:45,170 --> 02:00:49,160
+My skill streak!
+
+2569
+02:00:51,300 --> 02:00:53,220
+Oh my god, I'm so close to 25.
+
+2570
+02:00:55,820 --> 02:00:57,280
+Oh, I can't break it.
+
+2571
+02:00:57,280 --> 02:00:59,450
+I could break it and then it would be worth it.
+
+2572
+02:01:00,840 --> 02:01:02,980
+It would've been so worth it if I could break it.
+
+2573
+02:01:06,120 --> 02:01:07,620
+Okay, don't die.
+
+2574
+02:01:08,220 --> 02:01:09,260
+Don't fucking die.
+
+2575
+02:01:09,380 --> 02:01:11,280
+I need you to stay alive so I can get...
+
+2576
+02:01:13,120 --> 02:01:15,720
+Oh my god, there's a lot of people there.
+
+2577
+02:01:17,660 --> 02:01:19,020
+I need a regen.
+
+2578
+02:01:23,060 --> 02:01:24,540
+Don't die, buddy!
+
+2579
+02:01:25,700 --> 02:01:30,120
+Bro, they all have shields!
+
+2580
+02:01:31,840 --> 02:01:33,460
+These guys are cowards!
+
+2581
+02:01:34,380 --> 02:01:36,360
+Oh my god, they're playing Bunker.
+
+2582
+02:01:36,600 --> 02:01:37,700
+Fucking pussies.
+
+2583
+02:01:38,740 --> 02:01:40,380
+They're actual pussies.
+
+2584
+02:01:48,780 --> 02:01:50,140
+Oh my god.
+
+2585
+02:01:50,380 --> 02:01:51,960
+No, I almost got out!
+
+2586
+02:01:55,190 --> 02:01:56,230
+Oh shit, what?
+
+2587
+02:01:57,090 --> 02:01:57,930
+What shot me?
+
+2588
+02:01:58,950 --> 02:02:01,930
+Oh my god, I was like, what the fuck?
+
+2589
+02:02:01,930 --> 02:02:03,930
+What the fuck?
+
+2590
+02:02:05,650 --> 02:02:07,710
+Please, I'm so close!
+
+2591
+02:02:11,740 --> 02:02:12,510
+Here we go.
+
+2592
+02:02:13,230 --> 02:02:14,470
+No, I have
+
+2593
+02:02:19,580 --> 02:02:20,140
+to...
+
+2594
+02:02:20,140 --> 02:02:22,720
+I'm trying to kill people this side!
+
+2595
+02:02:27,030 --> 02:02:27,850
+Okay.
+
+2596
+02:02:35,480 --> 02:02:37,090
+Oh my god, he stole it from me.
+
+2597
+02:02:41,700 --> 02:02:42,520
+Nice.
+
+2598
+02:02:44,160 --> 02:02:44,980
+19.
+
+2599
+02:02:45,540 --> 02:02:45,980
+No!
+
+2600
+02:02:52,540 --> 02:02:53,560
+Oh my god.
+
+2601
+02:02:53,640 --> 02:02:53,880
+Oh my god, please.
+
+2602
+02:02:54,580 --> 02:02:56,800
+I'm so close to the Y1.
+
+2603
+02:02:57,140 --> 02:02:59,080
+No, I'm so close!
+
+2604
+02:03:04,260 --> 02:03:07,000
+I literally need...
+
+2605
+02:03:08,760 --> 02:03:11,460
+Oh my god, I'm so close to the points I need.
+
+2606
+02:03:15,000 --> 02:03:16,200
+I'll break this.
+
+2607
+02:03:16,380 --> 02:03:17,780
+If it's the last thing I do.
+
+2608
+02:03:21,590 --> 02:03:22,970
+Oh my god, I'm almost there.
+
+2609
+02:03:25,830 --> 02:03:26,450
+Let's go!
+
+2610
+02:03:26,470 --> 02:03:27,190
+One more kill!
+
+2611
+02:03:30,400 --> 02:03:31,380
+One more kill.
+
+2612
+02:03:32,100 --> 02:03:33,260
+I'm actually one more kill.
+
+2613
+02:03:33,880 --> 02:03:34,480
+Please.
+
+2614
+02:03:35,320 --> 02:03:36,300
+Please, no!
+
+2615
+02:03:37,560 --> 02:03:38,460
+I need this kill!
+
+2616
+02:03:38,540 --> 02:03:39,900
+I need this kill, you don't understand!
+
+2617
+02:03:45,950 --> 02:03:46,550
+Yes!
+
+2618
+02:03:47,450 --> 02:03:49,250
+We win because of it!
+
+2619
+02:03:49,610 --> 02:03:50,430
+We won!
+
+2620
+02:03:50,870 --> 02:03:52,630
+We won by the dip!
+
+2621
+02:03:53,010 --> 02:03:54,270
+Let's fucking go!
+
+2622
+02:03:54,490 --> 02:03:57,250
+I can't, let's go!
+
+2623
+02:03:57,670 --> 02:03:59,530
+I was like, give me that one kill!
+
+2624
+02:03:59,530 --> 02:04:00,110
+Let's go!
+
+2625
+02:04:00,250 --> 02:04:02,290
+And I got the highlight.
+
+2626
+02:04:05,770 --> 02:04:07,710
+Tactical nuke incoming.
+
+2627
+02:04:08,410 --> 02:04:09,430
+Oh my god.
+
+2628
+02:04:09,450 --> 02:04:11,310
+My nuke did it.
+
+2629
+02:04:11,790 --> 02:04:13,910
+And I carried too, guys.
+
+2630
+02:04:14,010 --> 02:04:15,270
+Let's fucking go.
+
+2631
+02:04:15,970 --> 02:04:17,670
+Oh my god, look at that.
+
+2632
+02:04:19,130 --> 02:04:21,330
+Yeah, I carried.
+
+2633
+02:04:21,690 --> 02:04:22,650
+What can I say?
+
+2634
+02:04:23,210 --> 02:04:24,790
+Yeah, that was me.
+
+2635
+02:04:25,190 --> 02:04:26,830
+37 kills, yeah.
+
+2636
+02:04:29,530 --> 02:04:31,850
+I went tactical in the end.
+
+2637
+02:04:32,230 --> 02:04:33,130
+That's me.
+
+2638
+02:04:35,290 --> 02:04:36,970
+Oh my god, that's fun.
+
+2639
+02:04:37,930 --> 02:04:38,550
+That's fun.
+
+2640
+02:04:38,690 --> 02:04:50,230
+I honestly, though, I think the dual mode is a lot I think the dual mode is a lot more fun than, um, I have no idea what the fuck that was.
+
+2641
+02:04:50,750 --> 02:04:55,950
+Than the main game mode, only because the 1v1 was very exciting.
+
+2642
+02:04:56,190 --> 02:05:01,290
+The 1v1 is really good aim and practice, and I like how it makes you think more about your abilities more.
+
+2643
+02:05:04,890 --> 02:05:07,390
+The main game mode was just too fast.
+
+2644
+02:05:07,870 --> 02:05:08,250
+I think.
+
+2645
+02:05:08,550 --> 02:05:12,250
+I think the main game mode was not, um, just happens too fast, too.
+
+2646
+02:05:12,730 --> 02:05:15,690
+This blends in way too much, not gonna lie.
+
+2647
+02:05:16,010 --> 02:05:18,450
+This blends in the background so much I can never tell.
+
+2648
+02:05:21,870 --> 02:05:23,770
+But yeah, I hope you guys enjoyed it.
+
+2649
+02:05:24,050 --> 02:05:25,890
+I definitely enjoyed checking it out.
+
+2650
+02:05:26,550 --> 02:05:34,490
+Um, my favorite mode, like I said, um, Duel Master and then, uh, wait, what's this?
+
+2651
+02:05:34,610 --> 02:05:36,730
+Use weapons left behind.
+
+2652
+02:05:36,810 --> 02:05:38,530
+Oh, this is like kill confirmed.
+
+2653
+02:05:38,750 --> 02:05:40,090
+That's kill confirmed, basically.
+
+2654
+02:05:40,610 --> 02:05:44,010
+Duel Master, and then I would say Sniper Deathmatch was really fun.
+
+2655
+02:05:44,530 --> 02:05:53,670
+Um, I did, I did Sander was alright, but I'll put it at number 3, and then Outbreak not the most, Outbreak was the worst one out of all the modes.
+
+2656
+02:05:54,350 --> 02:05:56,130
+Unlocks at level 30?
+
+2657
+02:05:56,690 --> 02:05:57,530
+Are you serious?
+
+2658
+02:05:57,810 --> 02:06:01,090
+That is, okay, wait, I do rank, I do level up really fast.
+
+2659
+02:06:01,190 --> 02:06:03,270
+I'm level 10 after 2 hours, so like, it's not that bad.
+
+2660
+02:06:03,530 --> 02:06:05,030
+I was gonna say, level 30?
+
+2661
+02:06:05,190 --> 02:06:07,450
+The cutoff is fucking insane.
+
+2662
+02:06:08,030 --> 02:06:11,230
+Like, haha JR, thank you for the super chat.
+
+2663
+02:06:11,310 --> 02:06:12,270
+Thank you, thank you.
+
+2664
+02:06:12,650 --> 02:06:17,450
+Um, but yeah, that's my opinion on, uh, Frag Punk.
+
+2665
+02:06:17,550 --> 02:06:18,990
+It was great checking it out with you guys.
+
+2666
+02:06:20,390 --> 02:06:22,150
+Uh, uh, one hour, yeah one hour?
+
+2667
+02:06:22,250 --> 02:06:23,030
+No, it's two hours.
+
+2668
+02:06:23,210 --> 02:06:26,550
+It took two hours to get to level 10, so it wasn't that bad.
+
+2669
+02:06:26,770 --> 02:06:29,670
+But yeah, guys, um, I hope you guys enjoyed watching.
+
+2670
+02:06:30,010 --> 02:06:41,570
+I wish I could do more like, um, do more like Zatsudan after gaming, but I'm trying to take care of my voice, um, every stream right now until it's like fully back to where it is, cause I'm still coughing.
+
+2671
+02:06:41,970 --> 02:06:43,390
+I still need to take cough drops.
+
+2672
+02:06:43,630 --> 02:06:46,190
+So, anyway, before I go, it's time to chill!
+
+2673
+02:06:47,170 --> 02:06:47,570
+Yes!
+
+2674
+02:06:48,150 --> 02:06:52,030
+Um, you guys didn't know, my YouTube plushies are out right now!
+
+2675
+02:06:52,310 --> 02:06:57,190
+So you can get them and click the link pinned in the chat, or like, I can put it here as well.
+
+2676
+02:06:57,310 --> 02:06:58,010
+Okay, let me see.
+
+2677
+02:06:58,850 --> 02:07:01,130
+Uh, I can also link it in chat right now.
+
+2678
+02:07:01,490 --> 02:07:03,150
+Um, but yes, it helps a lot.
+
+2679
+02:07:03,370 --> 02:07:06,390
+It also helps me with future opportunities as well.
+
+2680
+02:07:06,510 --> 02:07:12,490
+If you purchase, and more people buy the merch, the more opportunities we get in the future for more merch as well!
+
+2681
+02:07:12,730 --> 02:07:14,150
+So I really appreciate it, guys.
+
+2682
+02:07:14,210 --> 02:07:24,490
+If you want to add some plushies to your Doki Bridge Shrine, this is the time to get them, because after the pre-order window is over, um, you won't be able to order them again.
+
+2683
+02:07:24,690 --> 02:07:27,310
+So, like, this is like, you know, it's like FOMO type shit.
+
+2684
+02:07:27,470 --> 02:07:28,210
+So, uh...
+
+2685
+02:07:30,210 --> 02:07:35,390
+So, unfortunately, after the pre-orders are done, um, um, it will be gone forever.
+
+2686
+02:07:35,810 --> 02:07:39,990
+So, yeah, you could be, like, exclusive dragoons and have some of these plushies.
+
+2687
+02:07:40,410 --> 02:07:43,910
+Um, the pre-order ends on...
+
+2688
+02:07:43,910 --> 02:07:44,270
+Let me check.
+
+2689
+02:07:44,330 --> 02:07:47,410
+I know it's, like, in next month, because it's four weeks.
+
+2690
+02:07:47,530 --> 02:07:49,730
+It ends in 19 days.
+
+2691
+02:07:49,950 --> 02:07:51,350
+So, uh...
+
+2692
+02:07:52,010 --> 02:07:54,030
+I don't know how many 19 days are.
+
+2693
+02:07:55,850 --> 02:07:56,730
+April 4th.
+
+2694
+02:07:56,810 --> 02:08:00,230
+It ends on April 4th, everybody.
+
+2695
+02:08:00,470 --> 02:08:02,390
+So, yeah, check out the plushies.
+
+2696
+02:08:03,750 --> 02:08:08,370
+I know I said I'll take pictures of them soon, but, like, um, I've been a little busy.
+
+2697
+02:08:08,490 --> 02:08:10,570
+But I will take pictures of them, guys, I promise!
+
+2698
+02:08:10,730 --> 02:08:13,490
+I will take pictures of these plushies soon, because they're really...
+
+2699
+02:08:13,490 --> 02:08:15,610
+The tomato plushie is actually the big, like...
+
+2700
+02:08:15,610 --> 02:08:20,830
+By the way, the proportions of these plushies are not accurate on the pictures, regarding, like, if they're all the same size.
+
+2701
+02:08:21,090 --> 02:08:25,730
+The tomato plushie is bigger than both of these plushies, by the way.
+
+2702
+02:08:26,090 --> 02:08:26,250
+I...
+
+2703
+02:08:28,030 --> 02:08:29,090
+I'll say it now.
+
+2704
+02:08:29,270 --> 02:08:33,070
+I have all of them, and the tomato plushies is bigger than both of them.
+
+2705
+02:08:33,650 --> 02:08:35,150
+Um, so, yeah.
+
+2706
+02:08:35,670 --> 02:08:37,250
+Anyway, guys, uh...
+
+2707
+02:08:37,250 --> 02:08:38,430
+Ozero, thank you for the superchat.
+
+2708
+02:08:38,510 --> 02:08:39,130
+Thank you, thank you.
+
+2709
+02:08:39,290 --> 02:08:42,330
+Watching this while farming in Warzone blessed me with good drops.
+
+2710
+02:08:42,570 --> 02:08:42,790
+Nice.
+
+2711
+02:08:42,930 --> 02:08:44,350
+At least someone's getting lucky tonight.
+
+2712
+02:08:44,630 --> 02:08:45,710
+Thank you for the superchat.
+
+2713
+02:08:45,850 --> 02:08:46,830
+Thank you, thank you.
+
+2714
+02:08:47,090 --> 02:08:52,970
+Anyway, guys, as always, everybody, stay hydrated, posture check, get up and move around to get that blood flowing.
+
+2715
+02:08:53,090 --> 02:08:56,650
+And if you see that from me, head to bed, cause you deserve it.
+
+2716
+02:08:56,790 --> 02:08:58,310
+I'll see you guys next time, everybody.
+
+2717
+02:08:58,750 --> 02:08:59,530
+Bye, guys!
+
+2718
+02:08:59,950 --> 02:09:00,350
+Bye!
+
+2719
+02:09:00,890 --> 02:09:04,310
+Also, next week, we're gonna have a collab with Team Brawl Pro.
+
+2720
+02:09:04,730 --> 02:09:05,690
+So, we're gonna...
+
+2721
+02:09:06,210 --> 02:09:12,250
+Um... We're gonna be playing Reaper with Coney, Slime, and Brawl Pro.
+
+2722
+02:09:12,470 --> 02:09:14,590
+I don't know if anyone else... I don't know if... Not Slime.
+
+2723
+02:09:14,870 --> 02:09:15,490
+No, not Slime.
+
+2724
+02:09:15,890 --> 02:09:16,230
+Uh, Matt.
+
+2725
+02:09:16,350 --> 02:09:21,750
+I don't know if Slime's joining, but for now, it's me, Coney, Brawl Pro, um, and Matt.
+
+2726
+02:09:21,950 --> 02:09:23,030
+I don't know if Slime's joining.
+
+2727
+02:09:23,170 --> 02:09:25,270
+Anyway, guys, it's next... It'll be on Tuesday.
+
+2728
+02:09:25,470 --> 02:09:26,530
+Anyway, guys, I'll see you guys later!
+
+2729
+02:09:26,930 --> 02:09:27,530
+Bye, everybody!
+
+2730
+02:09:27,750 --> 02:09:27,990
+Bye!
+
+2731
+02:09:28,090 --> 02:09:29,690
+Gotta feed Doki and Birdo.
+
+2732
+02:09:29,750 --> 02:09:30,270
+She's hungry.
+
+2733
+02:09:30,530 --> 02:09:31,690
+He's asking for food.
+
+2734
+02:09:31,970 --> 02:09:32,730
+Okay, he's not asking.
+
+2735
+02:09:32,850 --> 02:09:33,670
+He's demanding for food.
+
+2736
+02:09:33,790 --> 02:09:34,230
+Bye, everyone!
+
+2737
+02:09:34,410 --> 02:09:34,770
+Bye!
+
