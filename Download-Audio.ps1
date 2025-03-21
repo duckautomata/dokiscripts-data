@@ -26,7 +26,7 @@ function Get-Audio {
             --sleep-requests 1 `
             --sleep-interval 15 `
             $URL
-    } else {
+    } elseif ($Type.Equals("Members")) {
         .\yt-dlp.exe `
             --download-archive yt-dlp-archive-transcript.txt `
             --cookies-from-browser firefox `
@@ -38,6 +38,18 @@ function Get-Audio {
             --windows-filenames `
             --sleep-requests 1 `
             --sleep-interval 15 `
+            $URL
+    } else {
+        .\yt-dlp.exe `
+            --download-archive yt-dlp-archive-transcript.txt `
+            --ignore-errors `
+            --match-filter !is_live `
+            --write-thumbnail `
+            -f 'ba' `
+            -o "Transcript/$Channel/%(upload_date)s - $Type - %(title)s - [%(id)s].%(ext)s" `
+            --windows-filenames `
+            --sleep-requests 1 `
+            --sleep-interval 3 `
             $URL
     }
 }
