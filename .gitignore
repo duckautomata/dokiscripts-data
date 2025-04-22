@@ -10,6 +10,8 @@
 *.part-Frag*
 *.ytdl
 
+# python
+.venv
 
 # Don't upload any members stuff
 *members*
@@ -19,3 +21,4 @@
 _models
 _xxl_data
 *.exe
+*.bat
