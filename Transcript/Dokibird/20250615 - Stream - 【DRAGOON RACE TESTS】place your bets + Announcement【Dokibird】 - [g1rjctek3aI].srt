@@ -1,0 +1,7444 @@
+1
+00:06:19,550 --> 00:06:36,330
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+2
+00:07:55,780 --> 00:08:12,500
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+3
+00:08:58,100 --> 00:09:14,620
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+4
+00:10:29,520 --> 00:10:46,180
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+5
+00:12:28,840 --> 00:12:45,480
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+6
+00:14:10,160 --> 00:14:27,020
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+7
+00:16:05,050 --> 00:16:21,710
+When the games begin, place your bets at 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, GO!
+
+8
+00:19:10,030 --> 00:19:11,070
+Mondays.
+
+9
+00:19:15,360 --> 00:19:19,080
+You need more training, dragoon!
+
+10
+00:19:27,700 --> 00:19:29,640
+Hello, everybody.
+
+11
+00:19:30,640 --> 00:19:33,760
+Wow, can't believe it.
+
+12
+00:19:34,000 --> 00:19:37,920
+I can't believe you dragoons couldn't even win.
+
+13
+00:19:37,920 --> 00:19:39,400
+Win the race.
+
+14
+00:19:44,920 --> 00:19:46,040
+Hello, everybody.
+
+15
+00:19:46,800 --> 00:19:51,440
+So, did you like the dragoon race test chat?
+
+16
+00:19:52,020 --> 00:19:53,000
+It was dope.
+
+17
+00:19:53,440 --> 00:19:56,000
+I did all of this in one go.
+
+18
+00:19:56,440 --> 00:19:59,380
+All of the race tests were done in one go.
+
+19
+00:19:59,520 --> 00:19:59,960
+I did not.
+
+20
+00:20:00,100 --> 00:20:02,060
+I also thought you guys could win it.
+
+21
+00:20:02,260 --> 00:20:05,440
+Well, I guess you guys need more training.
+
+22
+00:20:05,890 --> 00:20:08,780
+So, what is this, might you ask?
+
+23
+00:20:09,900 --> 00:20:18,880
+So, if you guys didn't notice, this is actually a customized, do-it-your-own horse race test.
+
+24
+00:20:19,040 --> 00:20:23,380
+But instead of horse race test, it is the dragoon race test.
+
+25
+00:20:23,380 --> 00:20:29,720
+Yes, so if you guys didn't know about this game, it is a little miniature game, a little miniature simulation.
+
+26
+00:20:30,100 --> 00:20:32,300
+So, this isn't the announcement, by the way.
+
+27
+00:20:32,420 --> 00:20:33,520
+The announcement is later.
+
+28
+00:20:36,000 --> 00:20:37,080
+The announcement.
+
+29
+00:20:37,560 --> 00:20:42,580
+To get the announcement, you dragoons have to beat Doki Field.
+
+30
+00:20:43,060 --> 00:20:47,300
+And clearly, you guys did not beat Doki Field in our last race.
+
+31
+00:20:47,300 --> 00:20:49,380
+So, we're going to have to do more training.
+
+32
+00:20:49,600 --> 00:20:55,280
+So, in order to get your announcement, your very special announcement, you have to beat Doki Field.
+
+33
+00:21:00,900 --> 00:21:06,600
+So, let me give a huge shout-out to the original creator of this mod.
+
+34
+00:21:06,800 --> 00:21:07,140
+Or not mod.
+
+35
+00:21:07,240 --> 00:21:10,860
+The original creator of this game is by Stop Signal.
+
+36
+00:21:11,200 --> 00:21:15,620
+They created their own version of the horse race test.
+
+37
+00:21:15,760 --> 00:21:19,280
+So, like, you guys aren't, like, you know, Twitter brain-rotted like me.
+
+38
+00:21:19,280 --> 00:21:24,700
+It was an internet trend back then by Blake Andrews.
+
+39
+00:21:24,900 --> 00:21:27,580
+And his Twitter account is Snake Andrews.
+
+40
+00:21:27,660 --> 00:21:32,960
+And he made a little, like, internet thing where they put all these...
+
+41
+00:21:32,960 --> 00:21:35,720
+It was, like, basically a horse race test simulation.
+
+42
+00:21:36,600 --> 00:21:39,280
+And he...
+
+43
+00:21:40,280 --> 00:21:42,440
+Like, everybody was, like, rooting for these horses.
+
+44
+00:21:42,440 --> 00:21:46,820
+And then things got, like, super deep, the lore-wise and everything.
+
+45
+00:21:46,820 --> 00:21:49,400
+And I believe it's still going on now.
+
+46
+00:21:49,560 --> 00:21:50,780
+He brought it back.
+
+47
+00:21:51,080 --> 00:21:54,360
+But there is, like, more content towards it.
+
+48
+00:21:54,540 --> 00:21:57,360
+And then Stop Signal made his very own...
+
+49
+00:21:57,360 --> 00:22:02,640
+Him and his team made his very own do-it-yourself horse race test.
+
+50
+00:22:02,860 --> 00:22:04,300
+And then I did...
+
+51
+00:22:04,300 --> 00:22:05,980
+I was...
+
+52
+00:22:05,980 --> 00:22:07,540
+Okay, I have to say...
+
+53
+00:22:07,540 --> 00:22:11,300
+It was, like, a little game jam moment for me and my team.
+
+54
+00:22:11,300 --> 00:22:17,620
+Because I got this idea two weeks ago, I think.
+
+55
+00:22:17,740 --> 00:22:19,620
+A little bit, almost two weeks ago.
+
+56
+00:22:19,740 --> 00:22:20,560
+Maybe a week and a half.
+
+57
+00:22:20,740 --> 00:22:24,220
+I got this idea, like, a week and a half ago.
+
+58
+00:22:24,620 --> 00:22:26,680
+And to do my special announcement.
+
+59
+00:22:26,860 --> 00:22:31,900
+Because I was like, Ah, Doki, I miss when you were so creative back then.
+
+60
+00:22:32,140 --> 00:22:34,480
+And I want to go back to these creative things.
+
+61
+00:22:34,640 --> 00:22:35,780
+Doing creative stuff again.
+
+62
+00:22:35,980 --> 00:22:37,320
+Having these creative ideas.
+
+63
+00:22:37,320 --> 00:22:37,720
+Because...
+
+64
+00:22:37,720 --> 00:22:42,380
+And then Inspiration struck me a week and a half ago.
+
+65
+00:22:43,080 --> 00:22:43,600
+And...
+
+66
+00:22:44,420 --> 00:22:47,760
+And we did a little bit of, like, a little game jam session.
+
+67
+00:22:47,760 --> 00:22:49,920
+So, huge shout-out to the team.
+
+68
+00:22:50,560 --> 00:22:52,360
+For creating all of this.
+
+69
+00:22:53,160 --> 00:22:54,420
+Modding all of this.
+
+70
+00:22:54,520 --> 00:22:56,660
+So, this was done on the original game.
+
+71
+00:22:56,840 --> 00:22:59,120
+And they basically modded everything.
+
+72
+00:22:59,540 --> 00:23:02,500
+To make it more Doki Bird Dragoon themed.
+
+73
+00:23:02,820 --> 00:23:05,640
+And so, huge shout-out to that team for doing this.
+
+74
+00:23:05,640 --> 00:23:08,440
+Um, I'll say they're, uh, blah, blah, blah, blah.
+
+75
+00:23:08,660 --> 00:23:09,160
+Let's see.
+
+76
+00:23:10,500 --> 00:23:11,060
+Uh...
+
+77
+00:23:11,060 --> 00:23:12,000
+Oh, wait.
+
+78
+00:23:13,800 --> 00:23:14,800
+Wait, they're...
+
+79
+00:23:14,800 --> 00:23:15,300
+Oh!
+
+80
+00:23:16,140 --> 00:23:18,980
+Oh, there's an extra secret Doki, apparently.
+
+81
+00:23:18,980 --> 00:23:25,120
+I was just told that they did have a secret Doki from the Doki-verse in here.
+
+82
+00:23:25,280 --> 00:23:26,460
+That I didn't know of.
+
+83
+00:23:26,720 --> 00:23:30,600
+But huge shout-out to Lou, Kano, and Frel.
+
+84
+00:23:30,600 --> 00:23:36,640
+Uh, there was a team of three that modded and did the artwork of all of this, too.
+
+85
+00:23:36,900 --> 00:23:37,880
+So, huge shout-out to them.
+
+86
+00:23:38,220 --> 00:23:45,060
+And Ichio page will be linked, uh, linked whenever the dev, uh, whenever the dev gives me the link.
+
+87
+00:23:45,180 --> 00:23:47,520
+I will post the Ichio link for you guys.
+
+88
+00:23:47,520 --> 00:23:50,440
+So, you can customize your racetracks and everything.
+
+89
+00:23:50,580 --> 00:23:52,000
+So, let me show you guys real quick.
+
+90
+00:23:52,000 --> 00:23:54,520
+Um, so, you can see the dirt here.
+
+91
+00:23:54,840 --> 00:23:57,200
+I can customize this and everything.
+
+92
+00:23:57,340 --> 00:23:59,320
+This was originally in the original game.
+
+93
+00:23:59,500 --> 00:24:02,000
+But we also, like, um...
+
+94
+00:24:02,600 --> 00:24:03,680
+Redid some of the textures.
+
+95
+00:24:04,040 --> 00:24:05,560
+So, this used to be a house.
+
+96
+00:24:05,720 --> 00:24:09,140
+And now it's just a extra chonky dragoon.
+
+97
+00:24:09,380 --> 00:24:09,940
+I...
+
+98
+00:24:09,940 --> 00:24:13,980
+They're like, what should we replace this obstacle with?
+
+99
+00:24:14,080 --> 00:24:17,060
+And I wanna be like, I want an extra fat dragoon.
+
+100
+00:24:19,280 --> 00:24:21,060
+An absolute unit.
+
+101
+00:24:21,260 --> 00:24:23,240
+So, you can put this anywhere you want.
+
+102
+00:24:23,420 --> 00:24:24,060
+Not on the dirt.
+
+103
+00:24:24,540 --> 00:24:26,900
+And then there's also, like, punchers here.
+
+104
+00:24:27,560 --> 00:24:29,780
+And then there's mines and everything.
+
+105
+00:24:31,720 --> 00:24:33,800
+So, you can customize it fully.
+
+106
+00:24:34,000 --> 00:24:35,620
+And then, obviously, here are...
+
+107
+00:24:36,360 --> 00:24:37,280
+Here are...
+
+108
+00:24:37,280 --> 00:24:38,800
+Here's all of them.
+
+109
+00:24:39,080 --> 00:24:40,940
+They all have their little sound effects.
+
+110
+00:24:41,140 --> 00:24:42,680
+Pearl did the dragoons.
+
+111
+00:24:43,060 --> 00:24:45,760
+So, and then I did, obviously...
+
+112
+00:24:45,760 --> 00:24:47,020
+I voiced the tomato.
+
+113
+00:24:47,460 --> 00:24:49,780
+I voiced all the doki's from the doki-verse.
+
+114
+00:24:50,200 --> 00:24:53,460
+And then I even got dad to bark on the mic for me.
+
+115
+00:24:54,580 --> 00:24:56,780
+And then there's tomato goon.
+
+116
+00:24:58,280 --> 00:25:00,500
+So, let me put all of them in here.
+
+117
+00:25:01,040 --> 00:25:02,720
+So, and then we press start race.
+
+118
+00:25:03,100 --> 00:25:04,460
+And then...
+
+119
+00:25:04,460 --> 00:25:05,320
+There they go.
+
+120
+00:25:05,480 --> 00:25:06,420
+I don't know if they can get out.
+
+121
+00:25:06,620 --> 00:25:07,920
+I think I locked them in.
+
+122
+00:25:12,260 --> 00:25:14,020
+So, this is all...
+
+123
+00:25:14,020 --> 00:25:15,500
+This is all fully customizable.
+
+124
+00:25:15,920 --> 00:25:18,900
+There will be an itch.io link that I'll send to you guys.
+
+125
+00:25:19,040 --> 00:25:21,360
+And you too can, um...
+
+126
+00:25:21,360 --> 00:25:23,520
+You can, like, edit your tracks.
+
+127
+00:25:23,660 --> 00:25:24,620
+Make your own tracks.
+
+128
+00:25:24,800 --> 00:25:26,000
+Play around with it yourself.
+
+129
+00:25:26,300 --> 00:25:28,100
+Maybe even customize your own map.
+
+130
+00:25:28,280 --> 00:25:28,820
+Like, maps.
+
+131
+00:25:29,020 --> 00:25:31,020
+Add more doki's if you want to.
+
+132
+00:25:31,380 --> 00:25:32,120
+So, yeah.
+
+133
+00:25:32,660 --> 00:25:33,920
+I thought it was really fun.
+
+134
+00:25:33,920 --> 00:25:36,220
+Anyway, so clearly we gotta do...
+
+135
+00:25:36,220 --> 00:25:37,820
+We gotta train you guys more.
+
+136
+00:25:38,000 --> 00:25:39,540
+Because you can't be...
+
+137
+00:25:39,540 --> 00:25:41,240
+I feel like you guys are struggling...
+
+138
+00:25:41,680 --> 00:25:44,160
+To beat any of the doki's from the doki-verse.
+
+139
+00:25:44,320 --> 00:25:45,320
+Because I mean the tomato.
+
+140
+00:25:45,740 --> 00:25:47,680
+Tomato one, dragoons.
+
+141
+00:25:49,580 --> 00:25:50,860
+Oh, is the game loud?
+
+142
+00:25:50,860 --> 00:25:51,620
+I'm sorry.
+
+143
+00:25:52,120 --> 00:25:52,780
+I'm sorry.
+
+144
+00:25:52,860 --> 00:25:53,900
+I'll turn it down a little.
+
+145
+00:25:55,260 --> 00:25:56,640
+I'll turn it down a little.
+
+146
+00:25:56,840 --> 00:25:59,620
+But all I'm saying is that you guys seem to be struggling...
+
+147
+00:25:59,620 --> 00:26:01,640
+Beating any of the dragoons...
+
+148
+00:26:01,640 --> 00:26:04,620
+Any of the doki's from the doki-verse.
+
+149
+00:26:04,960 --> 00:26:05,240
+Hmm.
+
+150
+00:26:05,920 --> 00:26:06,780
+Guess we got...
+
+151
+00:26:06,780 --> 00:26:09,100
+Guess you're not gonna get your announcement until...
+
+152
+00:26:11,640 --> 00:26:14,140
+Guess you can't get your announcement...
+
+153
+00:26:14,140 --> 00:26:16,140
+Until you beat a doki.
+
+154
+00:26:16,740 --> 00:26:17,260
+Alright.
+
+155
+00:26:17,280 --> 00:26:18,840
+So, here is the link.
+
+156
+00:26:18,840 --> 00:26:20,460
+If you want to play with it yourself.
+
+157
+00:26:20,700 --> 00:26:23,660
+Here is the link to the itch.io.
+
+158
+00:26:23,780 --> 00:26:24,280
+I will do...
+
+159
+00:26:24,280 --> 00:26:24,920
+Give the link...
+
+160
+00:26:24,920 --> 00:26:26,220
+I'll pin the link...
+
+161
+00:26:26,220 --> 00:26:27,160
+Um...
+
+162
+00:26:27,160 --> 00:26:28,600
+Pin the link for it...
+
+163
+00:26:28,600 --> 00:26:30,500
+At the end of the announcement...
+
+164
+00:26:30,500 --> 00:26:32,380
+So those who want to download it...
+
+165
+00:26:32,380 --> 00:26:33,240
+Can download it...
+
+166
+00:26:33,240 --> 00:26:34,280
+Experience it yourself.
+
+167
+00:26:34,520 --> 00:26:36,680
+Let me show the image real quick...
+
+168
+00:26:36,680 --> 00:26:37,280
+Too for it.
+
+169
+00:26:37,800 --> 00:26:39,100
+Huge shout out to my editor...
+
+170
+00:26:40,060 --> 00:26:40,300
+Uh...
+
+171
+00:26:40,300 --> 00:26:40,660
+Hebe.
+
+172
+00:26:40,840 --> 00:26:42,000
+She's also the thumbnail maker.
+
+173
+00:26:42,300 --> 00:26:43,960
+She helped me put together the video...
+
+174
+00:26:43,960 --> 00:26:45,180
+All the videos...
+
+175
+00:26:45,180 --> 00:26:45,600
+Um...
+
+176
+00:26:45,600 --> 00:26:46,080
+Itself.
+
+177
+00:26:46,520 --> 00:26:47,000
+So...
+
+178
+00:26:47,000 --> 00:26:47,440
+Um...
+
+179
+00:26:47,440 --> 00:26:48,500
+Last minute as well.
+
+180
+00:26:48,720 --> 00:26:49,740
+Because I was like...
+
+181
+00:26:49,740 --> 00:26:49,960
+I...
+
+182
+00:26:49,960 --> 00:26:50,140
+You know...
+
+183
+00:26:50,140 --> 00:26:51,160
+The idea came to me.
+
+184
+00:26:51,280 --> 00:26:51,720
+And I was like...
+
+185
+00:26:51,720 --> 00:26:52,500
+Oh my god...
+
+186
+00:26:52,500 --> 00:26:53,520
+I want to have like...
+
+187
+00:26:53,520 --> 00:26:54,500
+A little video...
+
+188
+00:26:54,500 --> 00:26:55,700
+Instead of like...
+
+189
+00:26:55,700 --> 00:26:56,020
+Uh...
+
+190
+00:26:56,020 --> 00:26:56,580
+To like...
+
+191
+00:26:56,580 --> 00:26:57,460
+Build the lore.
+
+192
+00:26:59,700 --> 00:27:00,700
+So here you go.
+
+193
+00:27:00,840 --> 00:27:01,480
+It's a...
+
+194
+00:27:01,480 --> 00:27:02,300
+Do it yourself.
+
+195
+00:27:02,560 --> 00:27:03,760
+Horse race...
+
+196
+00:27:03,760 --> 00:27:04,080
+Thing.
+
+197
+00:27:04,860 --> 00:27:05,940
+Doki mod.
+
+198
+00:27:08,340 --> 00:27:08,880
+So...
+
+199
+00:27:08,880 --> 00:27:09,980
+We did...
+
+200
+00:27:09,980 --> 00:27:11,320
+Add more stuff to it.
+
+201
+00:27:11,420 --> 00:27:11,940
+We added...
+
+202
+00:27:11,940 --> 00:27:12,220
+You know...
+
+203
+00:27:12,220 --> 00:27:13,160
+Our own characters.
+
+204
+00:27:14,000 --> 00:27:14,540
+Uh...
+
+205
+00:27:14,540 --> 00:27:15,620
+We added like...
+
+206
+00:27:15,620 --> 00:27:16,940
+New features to it.
+
+207
+00:27:17,100 --> 00:27:17,440
+Uh...
+
+208
+00:27:17,440 --> 00:27:18,080
+So there's like...
+
+209
+00:27:18,080 --> 00:27:19,260
+Little adjustments to it...
+
+210
+00:27:19,260 --> 00:27:20,580
+From compared to the original...
+
+211
+00:27:20,580 --> 00:27:21,540
+Original game.
+
+212
+00:27:21,540 --> 00:27:21,920
+So...
+
+213
+00:27:21,920 --> 00:27:22,280
+Uh...
+
+214
+00:27:22,280 --> 00:27:23,360
+I hope you guys all enjoyed.
+
+215
+00:27:23,800 --> 00:27:24,000
+Uh...
+
+216
+00:27:24,000 --> 00:27:24,500
+Stop Signal.
+
+217
+00:27:24,620 --> 00:27:25,380
+Thank you for the super chat.
+
+218
+00:27:25,500 --> 00:27:25,600
+Yeah!
+
+219
+00:27:25,720 --> 00:27:26,120
+There he is!
+
+220
+00:27:26,180 --> 00:27:26,800
+That's the creator!
+
+221
+00:27:27,080 --> 00:27:28,540
+That's the creator of the original game.
+
+222
+00:27:29,000 --> 00:27:29,160
+Uh...
+
+223
+00:27:29,160 --> 00:27:29,940
+Stop Signal here.
+
+224
+00:27:30,060 --> 00:27:30,460
+The dev.
+
+225
+00:27:30,620 --> 00:27:31,660
+Thanks for playing, Doki.
+
+226
+00:27:31,780 --> 00:27:34,160
+Thank you again for making such an amazing game.
+
+227
+00:27:34,300 --> 00:27:36,180
+And letting me mod it and everything.
+
+228
+00:27:36,420 --> 00:27:37,240
+I really appreciate it.
+
+229
+00:27:37,420 --> 00:27:37,880
+By the way...
+
+230
+00:27:37,880 --> 00:27:39,060
+Stop Signal actually like...
+
+231
+00:27:39,060 --> 00:27:40,600
+Replied back today...
+
+232
+00:27:40,600 --> 00:27:40,920
+To us.
+
+233
+00:27:41,040 --> 00:27:41,560
+So I was like...
+
+234
+00:27:41,560 --> 00:27:41,800
+Oh...
+
+235
+00:27:41,800 --> 00:27:42,240
+I was like...
+
+236
+00:27:42,240 --> 00:27:43,420
+Super happy and thankful.
+
+237
+00:27:43,920 --> 00:27:44,280
+Um...
+
+238
+00:27:44,280 --> 00:27:46,040
+Because we were just gonna do it on a Google Drive.
+
+239
+00:27:46,500 --> 00:27:46,880
+Um...
+
+240
+00:27:46,880 --> 00:27:47,300
+Because like...
+
+241
+00:27:47,300 --> 00:27:48,240
+I didn't wanna like...
+
+242
+00:27:48,240 --> 00:27:49,540
+Step on any toes or anything.
+
+243
+00:27:50,020 --> 00:27:51,200
+And then later on we were like...
+
+244
+00:27:51,200 --> 00:27:53,940
+Okay, maybe we put it on Itch.io for a bit.
+
+245
+00:27:54,160 --> 00:27:54,960
+And then like...
+
+246
+00:27:54,960 --> 00:27:56,400
+See if he'll reply back.
+
+247
+00:27:56,600 --> 00:27:57,920
+And then if it confirms and everything.
+
+248
+00:27:58,300 --> 00:27:58,780
+So...
+
+249
+00:27:58,780 --> 00:28:00,400
+I'm super happy that...
+
+250
+00:28:00,400 --> 00:28:00,660
+Um...
+
+251
+00:28:00,660 --> 00:28:02,000
+We got Stop Signal's approval.
+
+252
+00:28:02,380 --> 00:28:05,420
+And blessing to upload it on Itch.io and everything.
+
+253
+00:28:05,640 --> 00:28:06,480
+I really appreciate it.
+
+254
+00:28:06,540 --> 00:28:07,180
+Thank you again!
+
+255
+00:28:07,660 --> 00:28:08,940
+But yes, I hope you guys...
+
+256
+00:28:08,940 --> 00:28:11,860
+Have a lot of fun with this horse race test.
+
+257
+00:28:12,020 --> 00:28:13,460
+Or Dragoon race test mod.
+
+258
+00:28:13,940 --> 00:28:14,420
+Um...
+
+259
+00:28:14,420 --> 00:28:15,040
+Anyway...
+
+260
+00:28:15,040 --> 00:28:16,200
+Let's train you guys.
+
+261
+00:28:16,340 --> 00:28:19,500
+I have the perfect map to train all of you guys in.
+
+262
+00:28:19,680 --> 00:28:20,880
+Ha ha ha ha!
+
+263
+00:28:22,020 --> 00:28:22,900
+It is...
+
+264
+00:28:22,900 --> 00:28:24,820
+Also, you can adjust the...
+
+265
+00:28:24,820 --> 00:28:27,560
+You can adjust the starting line.
+
+266
+00:28:27,780 --> 00:28:29,680
+So like if you wanna cheat and have like...
+
+267
+00:28:29,680 --> 00:28:30,680
+I don't know...
+
+268
+00:28:30,680 --> 00:28:31,420
+Like, you know...
+
+269
+00:28:31,420 --> 00:28:32,840
+Let him win something.
+
+270
+00:28:33,460 --> 00:28:34,440
+Like right here.
+
+271
+00:28:34,580 --> 00:28:35,920
+I can literally put him next to it.
+
+272
+00:28:36,540 --> 00:28:37,100
+And...
+
+273
+00:28:37,100 --> 00:28:37,780
+Okay.
+
+274
+00:28:55,030 --> 00:28:56,770
+Ha ha ha ha!
+
+275
+00:29:02,910 --> 00:29:06,190
+He's not a racer guy.
+
+276
+00:29:06,190 --> 00:29:07,050
+He's...
+
+277
+00:29:07,050 --> 00:29:08,150
+He's a lover.
+
+278
+00:29:37,810 --> 00:29:38,010
+I tell you...
+
+279
+00:29:38,010 --> 00:29:38,110
+It's all RNG!
+
+280
+00:29:38,110 --> 00:29:39,850
+No more training for all of you.
+
+281
+00:29:39,850 --> 00:29:40,650
+Oh...
+
+282
+00:29:40,650 --> 00:29:41,030
+Oh...
+
+283
+00:29:41,030 --> 00:29:41,730
+Oh...
+
+284
+00:29:42,470 --> 00:29:42,790
+Oh...
+
+285
+00:29:42,790 --> 00:29:42,990
+Oh...
+
+286
+00:29:42,990 --> 00:29:43,690
+Oh...
+
+287
+00:29:44,630 --> 00:29:44,730
+Oh...
+
+288
+00:29:44,730 --> 00:29:45,670
+Oh...
+
+289
+00:29:45,670 --> 00:29:45,770
+Oh...
+
+290
+00:29:45,770 --> 00:29:45,870
+Oh...
+
+291
+00:29:45,870 --> 00:29:46,150
+Oh...
+
+292
+00:29:46,150 --> 00:29:46,850
+Oh...
+
+293
+00:29:47,270 --> 00:29:47,970
+Oh...
+
+294
+00:29:49,290 --> 00:29:50,690
+Oh...
+
+295
+00:29:50,690 --> 00:29:51,250
+Oh...
+
+296
+00:29:51,250 --> 00:29:52,210
+Oh...
+
+297
+00:29:52,210 --> 00:29:52,230
+Oh...
+
+298
+00:29:52,230 --> 00:29:55,010
+Oh...
+
+299
+00:29:55,010 --> 00:29:57,070
+Oh...
+
+300
+00:29:57,070 --> 00:29:57,930
+Oh...
+
+301
+00:29:57,930 --> 00:29:59,630
+Oh...
+
+302
+00:29:59,630 --> 00:29:59,710
+Oh...
+
+303
+00:29:59,710 --> 00:30:00,890
+Oh...
+
+304
+00:30:00,890 --> 00:30:01,710
+Let's make it.
+
+305
+00:30:02,370 --> 00:30:03,790
+This is hell.
+
+306
+00:30:04,070 --> 00:30:04,770
+It's okay.
+
+307
+00:30:05,070 --> 00:30:05,710
+Look, see it?
+
+308
+00:30:05,830 --> 00:30:06,790
+There's no way.
+
+309
+00:30:07,070 --> 00:30:10,530
+There's no... I don't even have to... Okay, I lowered it.
+
+310
+00:30:10,670 --> 00:30:12,110
+There's a better now, sound guy.
+
+311
+00:30:12,370 --> 00:30:14,470
+I lowered the volume.
+
+312
+00:30:18,850 --> 00:30:20,150
+Look, it's training.
+
+313
+00:30:20,410 --> 00:30:22,930
+Eventually, one of you guys will make it.
+
+314
+00:30:23,510 --> 00:30:24,990
+Welcome to hell.
+
+315
+00:30:25,250 --> 00:30:26,370
+This is hell.
+
+316
+00:30:30,890 --> 00:30:32,790
+Okay, I can lower it more.
+
+317
+00:30:33,150 --> 00:30:34,190
+Alright, here we go.
+
+318
+00:30:34,570 --> 00:30:34,990
+There we go.
+
+319
+00:30:35,110 --> 00:30:35,890
+That should be better.
+
+320
+00:30:36,250 --> 00:30:39,570
+I swear to God, if none of you drag booms, get it in.
+
+321
+00:30:39,770 --> 00:30:43,070
+The fabled five big booms.
+
+322
+00:30:44,770 --> 00:30:45,650
+I believe.
+
+323
+00:30:46,430 --> 00:30:47,510
+Surely you guys can make it.
+
+324
+00:30:47,590 --> 00:30:49,550
+Surely you guys can make it to the end.
+
+325
+00:30:50,130 --> 00:30:53,410
+This map gets five big booms.
+
+326
+00:30:53,810 --> 00:30:55,330
+Oh my God, Chalky!
+
+327
+00:30:55,690 --> 00:30:59,370
+Chalky, the bombs are literally taking you to the end goal!
+
+328
+00:30:59,370 --> 00:31:01,430
+You can't fuck this up!
+
+329
+00:31:01,750 --> 00:31:02,310
+Chalky!
+
+330
+00:31:02,810 --> 00:31:02,910
+Oh!
+
+331
+00:31:07,930 --> 00:31:09,910
+Alright, I was gonna say it.
+
+332
+00:31:10,090 --> 00:31:13,310
+Chalky, if you fuck this up, then that's on you.
+
+333
+00:31:14,430 --> 00:31:16,350
+Chalky will have merriment.
+
+334
+00:31:18,810 --> 00:31:19,370
+Alright.
+
+335
+00:31:20,170 --> 00:31:21,010
+Alright, let's clear.
+
+336
+00:31:21,190 --> 00:31:22,370
+Let's clear all of this.
+
+337
+00:31:22,790 --> 00:31:24,050
+Alright, I think there will be...
+
+338
+00:31:24,050 --> 00:31:26,850
+Yeah, so we can basically play around with this.
+
+339
+00:31:26,950 --> 00:31:30,950
+And there's, like, swapping tilesets, so, like, things look different.
+
+340
+00:31:30,950 --> 00:31:32,330
+So, I'll show you guys.
+
+341
+00:31:32,570 --> 00:31:42,290
+Like, things will each... So, the Chalky Goon will turn into, uh, into, like, trees, depending on what settings you're on.
+
+342
+00:31:42,290 --> 00:31:47,450
+So, I'll put some of these around for you guys so you can see how different they look and everything.
+
+343
+00:31:47,850 --> 00:31:49,190
+And also, there's, like, settings here.
+
+344
+00:31:49,330 --> 00:31:50,690
+Like, you can make them not trip.
+
+345
+00:31:51,210 --> 00:31:52,430
+You can, like, bump, not bump.
+
+346
+00:31:52,650 --> 00:31:55,670
+The horse name, uh, which would be the dragoon name.
+
+347
+00:31:55,790 --> 00:31:57,090
+It would be, like, ma, ma, ma.
+
+348
+00:31:57,330 --> 00:31:58,770
+And then resetting the level.
+
+349
+00:31:58,970 --> 00:32:04,370
+So, if you change the tileset, you can see that the Chalky Goons turn into trees.
+
+350
+00:32:05,930 --> 00:32:08,090
+We don't know how to fix that yet.
+
+351
+00:32:11,370 --> 00:32:13,670
+We don't really know how to fix that.
+
+352
+00:32:14,930 --> 00:32:16,450
+But, not yet.
+
+353
+00:32:16,710 --> 00:32:19,290
+Like I said, it was, like, a little game jam session.
+
+354
+00:32:20,110 --> 00:32:21,770
+But there are trees now.
+
+355
+00:32:23,390 --> 00:32:25,630
+There are also trees here as well.
+
+356
+00:32:26,050 --> 00:32:29,750
+So, but then, you know, when you're at the grass, they're back to Chalky.
+
+357
+00:32:29,750 --> 00:32:31,050
+They're just extra Chalky again.
+
+358
+00:32:32,550 --> 00:32:34,650
+It's their, it's their little, yeah.
+
+359
+00:32:35,030 --> 00:32:39,490
+Yeah, it's just the extra Chalky Goon just, like, turns into a tree somehow.
+
+360
+00:32:40,030 --> 00:32:40,330
+Alright.
+
+361
+00:32:40,710 --> 00:32:43,770
+Let's make, let's, you know, let's customize this a little bit.
+
+362
+00:32:44,650 --> 00:32:45,170
+Alright.
+
+363
+00:32:45,550 --> 00:32:49,570
+And then, you know, I want to put the trophy right here.
+
+364
+00:32:49,770 --> 00:32:54,150
+And then, we'll see if, let's see.
+
+365
+00:32:54,310 --> 00:32:55,290
+Maybe, actually, no.
+
+366
+00:32:55,370 --> 00:32:57,290
+I'll put the trophy right here.
+
+367
+00:32:57,290 --> 00:33:00,770
+And then, we'll turn the dirt like that.
+
+368
+00:33:01,610 --> 00:33:03,030
+And then, oh, wait.
+
+369
+00:33:03,150 --> 00:33:03,930
+Can he make it?
+
+370
+00:33:05,810 --> 00:33:07,230
+Can he make it?
+
+371
+00:33:07,650 --> 00:33:07,930
+Alright.
+
+372
+00:33:08,490 --> 00:33:11,890
+There's no, the countdown voice was edited in by Heavey.
+
+373
+00:33:12,650 --> 00:33:17,430
+Um, she was, she was the one that customized, uh, customized it to make it more.
+
+374
+00:33:17,510 --> 00:33:20,610
+I gave her, like, instructions on, like, how I wanted the video to look like.
+
+375
+00:33:20,610 --> 00:33:22,890
+And she did it perfectly within, like, a day.
+
+376
+00:33:23,490 --> 00:33:27,010
+Um, and that, like, last minute edits, like, within, like, two hours ago.
+
+377
+00:33:27,230 --> 00:33:28,670
+And she did it perfectly.
+
+378
+00:33:28,990 --> 00:33:35,810
+I was so happy that, uh, we were able to get the, the, the dumb things I wanted to do for the video.
+
+379
+00:33:36,890 --> 00:33:39,550
+I was, I was very happy about it.
+
+380
+00:33:39,590 --> 00:33:41,470
+I was, like, I was, I, I don't know.
+
+381
+00:33:41,610 --> 00:33:48,350
+I just, I had, like, specific instructions and, like, she was able to, like, replicate it and everything.
+
+382
+00:33:48,350 --> 00:33:50,010
+Um, alright, let's go.
+
+383
+00:33:50,170 --> 00:33:52,470
+Okay, let's put some...
+
+384
+00:33:52,470 --> 00:33:53,630
+Alright, here we go.
+
+385
+00:33:54,190 --> 00:33:56,670
+Yeah, get past the minefields first.
+
+386
+00:33:57,570 --> 00:33:58,870
+Dragoons, I believe.
+
+387
+00:33:59,390 --> 00:34:02,250
+If you can get past this, you can get past anything.
+
+388
+00:34:02,770 --> 00:34:02,910
+Alright.
+
+389
+00:34:04,510 --> 00:34:07,270
+Place your bets, dragoons!
+
+390
+00:34:11,950 --> 00:34:14,010
+War never changes.
+
+391
+00:34:16,910 --> 00:34:18,470
+Place your bets.
+
+392
+00:34:18,650 --> 00:34:20,970
+Who do you think will win?
+
+393
+00:34:23,790 --> 00:34:25,450
+We're out of hell now.
+
+394
+00:34:25,830 --> 00:34:27,790
+You can turn it back up.
+
+395
+00:34:28,290 --> 00:34:28,630
+Alright.
+
+396
+00:34:29,090 --> 00:34:31,070
+Out of the hell's portal.
+
+397
+00:34:31,650 --> 00:34:32,630
+The hell universe.
+
+398
+00:34:33,110 --> 00:34:34,910
+I think this is my favorite part.
+
+399
+00:34:35,050 --> 00:34:38,390
+They asked me, like, can you guys send, uh, uh...
+
+400
+00:34:38,390 --> 00:34:40,490
+Doki, can you send, like, dad photos for us?
+
+401
+00:34:40,490 --> 00:34:44,250
+So, like, when he falls down, we'll just Photoshop dad into...
+
+402
+00:34:44,250 --> 00:34:45,870
+It's my favorite!
+
+403
+00:34:46,210 --> 00:34:47,050
+Like, I...
+
+404
+00:34:47,050 --> 00:34:50,970
+He had, like, the perfect pose of him just lying on his back.
+
+405
+00:34:51,670 --> 00:34:52,370
+Oh my god!
+
+406
+00:34:52,410 --> 00:34:54,830
+This is the closest Longoon has ever been!
+
+407
+00:34:55,230 --> 00:34:56,650
+To, like, the trophy!
+
+408
+00:34:57,070 --> 00:34:59,350
+There's no way he'll fuck it up!
+
+409
+00:34:59,650 --> 00:35:00,890
+There's no way!
+
+410
+00:35:01,210 --> 00:35:04,610
+This is the closest you've ever been, Longoon!
+
+411
+00:35:05,170 --> 00:35:06,590
+Ha ha ha ha!
+
+412
+00:35:07,410 --> 00:35:08,050
+Ha ha ha ha!
+
+413
+00:35:08,050 --> 00:35:08,410
+Ha ha ha ha!
+
+414
+00:35:08,990 --> 00:35:11,070
+And then he's gonna, like, get out of him!
+
+415
+00:35:11,350 --> 00:35:12,090
+Oh my god!
+
+416
+00:35:12,310 --> 00:35:14,390
+And then the regular Goon from...
+
+417
+00:35:14,390 --> 00:35:14,910
+Nowhere!
+
+418
+00:35:15,050 --> 00:35:15,550
+From downtown!
+
+419
+00:35:16,650 --> 00:35:17,370
+Oh my...
+
+420
+00:35:17,370 --> 00:35:18,790
+Now the Ingoon's here!
+
+421
+00:35:19,430 --> 00:35:19,550
+Ha ha ha!
+
+422
+00:35:19,930 --> 00:35:20,410
+Longoon!
+
+423
+00:35:21,150 --> 00:35:21,630
+Longoon!
+
+424
+00:35:21,650 --> 00:35:23,630
+Longoon's been stuck here for the longest time!
+
+425
+00:35:24,190 --> 00:35:24,470
+Ha ha ha!
+
+426
+00:35:24,470 --> 00:35:25,910
+We've been closer!
+
+427
+00:35:26,370 --> 00:35:26,850
+Stop!
+
+428
+00:35:27,390 --> 00:35:27,590
+Oh!
+
+429
+00:35:27,930 --> 00:35:28,610
+Goodbye Longoon!
+
+430
+00:35:29,530 --> 00:35:31,190
+It was nice seeing you down there.
+
+431
+00:35:31,610 --> 00:35:31,970
+Goodbye!
+
+432
+00:35:32,470 --> 00:35:32,730
+Ha ha ha ha!
+
+433
+00:35:34,870 --> 00:35:37,610
+Wait, how did Krookie get down here?
+
+434
+00:35:38,010 --> 00:35:40,990
+Longo number uno, I believe.
+
+435
+00:35:41,650 --> 00:35:43,050
+Yes, thank you for the super chat.
+
+436
+00:35:43,210 --> 00:35:44,230
+Thank you, thank you.
+
+437
+00:35:44,410 --> 00:35:45,570
+Oh my god, Longo's back!
+
+438
+00:35:45,750 --> 00:35:48,470
+Oh my god, the punch is putting him closer.
+
+439
+00:35:50,270 --> 00:35:56,250
+Oh... Poor Longo.
+
+440
+00:35:58,550 --> 00:36:00,950
+Please, the trophy's right here.
+
+441
+00:36:00,950 --> 00:36:04,030
+Oh, Krookie, come on.
+
+442
+00:36:04,090 --> 00:36:04,850
+You're like right there.
+
+443
+00:36:04,850 --> 00:36:06,010
+You're actually right there.
+
+444
+00:36:06,290 --> 00:36:06,470
+No!
+
+445
+00:36:07,390 --> 00:36:08,610
+He almost... Oh, he's back!
+
+446
+00:36:08,990 --> 00:36:10,110
+He's fucking back!
+
+447
+00:36:13,590 --> 00:36:15,410
+Krookie, Krookie, come on!
+
+448
+00:36:15,790 --> 00:36:17,210
+Do it for the Doki-verse!
+
+449
+00:36:17,870 --> 00:36:19,430
+For the Doki-verse, Krookie!
+
+450
+00:36:21,730 --> 00:36:24,130
+That dang Chalky-coon.
+
+451
+00:36:25,630 --> 00:36:27,470
+Krookie, stop joking!
+
+452
+00:36:28,610 --> 00:36:30,210
+Oh, goodbye, Krookie.
+
+453
+00:36:30,770 --> 00:36:32,630
+Krookie, go for Krookie.
+
+454
+00:36:32,910 --> 00:36:34,410
+Johnny, thank you for the super chat.
+
+455
+00:36:34,570 --> 00:36:35,430
+Thank you, thank you.
+
+456
+00:36:37,770 --> 00:36:39,350
+Oh my god, I...
+
+457
+00:36:41,990 --> 00:36:44,290
+Please, Krookie, come on!
+
+458
+00:36:44,530 --> 00:36:46,190
+Oh my god, Tomato, let's do this!
+
+459
+00:36:46,550 --> 00:36:47,170
+Four times!
+
+460
+00:36:47,570 --> 00:36:48,610
+The four-time champion!
+
+461
+00:36:48,790 --> 00:36:49,210
+Let's go!
+
+462
+00:36:51,750 --> 00:36:53,730
+Another Doki-verse wins!
+
+463
+00:36:56,470 --> 00:36:57,630
+No way!
+
+464
+00:36:57,890 --> 00:37:00,750
+Where the fuck did the Tomato come from?
+
+465
+00:37:00,990 --> 00:37:03,810
+Oh wait, I think I'm gonna be left-side... Okay, give me a sec.
+
+466
+00:37:04,070 --> 00:37:07,630
+I realize I may or may have to be left-side Doki.
+
+467
+00:37:07,910 --> 00:37:10,010
+She's finally back, guys!
+
+468
+00:37:10,450 --> 00:37:12,230
+She's back from retirement!
+
+469
+00:37:17,330 --> 00:37:21,010
+I guess we need more training, Dragoons!
+
+470
+00:37:21,490 --> 00:37:24,630
+You're not getting your announcement and I'll tell you when, guys!
+
+471
+00:37:25,110 --> 00:37:26,430
+Not so dreadful!
+
+472
+00:37:26,870 --> 00:37:29,290
+Lagoon has no girth, so he has no worth.
+
+473
+00:37:29,690 --> 00:37:32,570
+Chunky-goon has a way to keep him great.
+
+474
+00:37:33,110 --> 00:37:34,210
+Thank you for the super chat!
+
+475
+00:37:34,370 --> 00:37:35,130
+Thank you, thank you!
+
+476
+00:37:35,130 --> 00:37:36,950
+Wait, what is the secret...?
+
+477
+00:37:36,950 --> 00:37:40,770
+I don't know what the secret Doki is!
+
+478
+00:37:41,270 --> 00:37:42,130
+Okay, how do I do it?
+
+479
+00:37:42,430 --> 00:37:46,770
+If you right-click on the Dragoon in the character creator, you will unveil...
+
+480
+00:37:46,770 --> 00:37:48,150
+Wait, what?
+
+481
+00:37:48,490 --> 00:37:49,610
+How do I do that?
+
+482
+00:37:51,690 --> 00:37:52,490
+Okay, wait...
+
+483
+00:37:52,490 --> 00:37:53,770
+The Dragoon... is it here?
+
+484
+00:37:54,250 --> 00:37:55,690
+Oh, wait, not here.
+
+485
+00:37:56,930 --> 00:37:58,550
+How do I...
+
+486
+00:38:01,250 --> 00:38:01,650
+Create...
+
+487
+00:38:01,650 --> 00:38:02,970
+How do I do it?
+
+488
+00:38:02,970 --> 00:38:06,390
+Okay, I need the dev to give me a step-by-step guide.
+
+489
+00:38:06,530 --> 00:38:06,970
+I don't...
+
+490
+00:38:09,310 --> 00:38:10,510
+They said...
+
+491
+00:38:10,510 --> 00:38:13,330
+They said we can unlock a new...
+
+492
+00:38:13,330 --> 00:38:14,550
+A new Doki.
+
+493
+00:38:14,970 --> 00:38:16,350
+I don't know how.
+
+494
+00:38:16,990 --> 00:38:18,890
+How do you unlock a new Doki?
+
+495
+00:38:20,990 --> 00:38:22,130
+What is this?
+
+496
+00:38:23,710 --> 00:38:24,390
+Okay.
+
+497
+00:38:25,090 --> 00:38:25,530
+I'll...
+
+498
+00:38:25,530 --> 00:38:27,010
+They'll let me know later.
+
+499
+00:38:27,550 --> 00:38:29,550
+The secret Doki.
+
+500
+00:38:30,170 --> 00:38:31,450
+Instructions unclear.
+
+501
+00:38:31,450 --> 00:38:33,410
+Guys, I'm too stupid for this.
+
+502
+00:38:34,250 --> 00:38:34,990
+I don't know.
+
+503
+00:38:36,290 --> 00:38:37,150
+Okay, don't worry.
+
+504
+00:38:37,710 --> 00:38:38,090
+Right-click.
+
+505
+00:38:38,330 --> 00:38:39,310
+Oh, Dragoon image?
+
+506
+00:38:39,590 --> 00:38:40,090
+Oh, okay.
+
+507
+00:38:41,570 --> 00:38:42,530
+Well, that's not it.
+
+508
+00:38:43,570 --> 00:38:44,170
+Don't worry.
+
+509
+00:38:44,350 --> 00:38:45,210
+They'll tell me later.
+
+510
+00:38:45,630 --> 00:38:46,510
+I'll be like...
+
+511
+00:38:46,510 --> 00:38:47,150
+Wait, I should mess it.
+
+512
+00:38:47,230 --> 00:38:48,670
+How do I unlock...
+
+513
+00:38:48,670 --> 00:38:50,170
+Step-by-step...
+
+514
+00:38:50,170 --> 00:38:52,090
+On how to unlock...
+
+515
+00:38:52,090 --> 00:38:53,490
+The secret Dragoon.
+
+516
+00:38:54,150 --> 00:38:54,490
+Please.
+
+517
+00:38:55,350 --> 00:38:56,630
+I know.
+
+518
+00:38:56,850 --> 00:38:57,410
+Understand.
+
+519
+00:39:04,650 --> 00:39:06,150
+Oh, like here?
+
+520
+00:39:06,530 --> 00:39:06,950
+No?
+
+521
+00:39:08,210 --> 00:39:09,010
+I can't...
+
+522
+00:39:09,010 --> 00:39:10,270
+I can't keep myself.
+
+523
+00:39:11,370 --> 00:39:11,870
+Please.
+
+524
+00:39:11,870 --> 00:39:13,070
+Oh.
+
+525
+00:39:14,670 --> 00:39:15,990
+Maybe like...
+
+526
+00:39:28,260 --> 00:39:28,920
+Jovey.
+
+527
+00:39:29,080 --> 00:39:29,180
+Oh.
+
+528
+00:39:29,480 --> 00:39:30,460
+Don't keep it.
+
+529
+00:39:31,940 --> 00:39:32,600
+Alright.
+
+530
+00:39:33,880 --> 00:39:34,900
+It's time.
+
+531
+00:39:37,140 --> 00:39:38,120
+This should...
+
+532
+00:39:38,120 --> 00:39:38,260
+No.
+
+533
+00:39:38,360 --> 00:39:40,400
+This should be the final match.
+
+534
+00:39:41,320 --> 00:39:41,980
+The...
+
+535
+00:39:42,590 --> 00:39:43,780
+This should be the...
+
+536
+00:39:43,780 --> 00:39:44,100
+Okay.
+
+537
+00:39:44,240 --> 00:39:44,900
+Let me...
+
+538
+00:39:44,900 --> 00:39:45,800
+Actually, let me see.
+
+539
+00:39:47,460 --> 00:39:50,560
+I don't want...
+
+540
+00:39:50,560 --> 00:39:57,500
+I don't want to...
+
+541
+00:39:57,500 --> 00:39:58,760
+Oh, my God.
+
+542
+00:40:01,520 --> 00:40:02,700
+She's too strong.
+
+543
+00:40:03,640 --> 00:40:05,080
+It's Jo Dharma.
+
+544
+00:40:06,560 --> 00:40:08,200
+Oh, my God.
+
+545
+00:40:08,940 --> 00:40:10,400
+Jo Ban is too strong.
+
+546
+00:40:11,000 --> 00:40:13,080
+She's already getting closer.
+
+547
+00:40:14,640 --> 00:40:15,640
+Yeah.
+
+548
+00:40:16,720 --> 00:40:17,400
+Okay.
+
+549
+00:40:18,060 --> 00:40:18,300
+Oh, my God.
+
+550
+00:40:18,320 --> 00:40:22,880
+That was the hidden... that was a hidden secret from the team, the dev team.
+
+551
+00:40:24,040 --> 00:40:26,620
+Oh my god, you go Jovio Dokument!
+
+552
+00:40:26,940 --> 00:40:27,680
+You go!
+
+553
+00:40:30,000 --> 00:40:31,660
+It's too powerful!
+
+554
+00:40:33,720 --> 00:40:35,100
+Damn baby!
+
+555
+00:40:36,480 --> 00:40:39,240
+The spirit of Jovio lives on!
+
+556
+00:40:39,960 --> 00:40:43,900
+Guys, he's... the Chonky Goon is part of your community!
+
+557
+00:40:45,440 --> 00:40:47,480
+Do you not believe in him?
+
+558
+00:40:49,120 --> 00:40:51,600
+Do you not believe in your own god?
+
+559
+00:40:52,400 --> 00:40:55,360
+Just cleaning up all of mine.
+
+560
+00:40:56,540 --> 00:40:59,000
+Chonky Goon, lock it in!
+
+561
+00:41:00,600 --> 00:41:01,400
+Guys...
+
+562
+00:41:02,420 --> 00:41:06,660
+If Chonky Goon can win this, you guys get the announcement early.
+
+563
+00:41:10,870 --> 00:41:12,470
+I mean...
+
+564
+00:41:13,830 --> 00:41:18,330
+If Chonky Goon can win this, you get the announcement.
+
+565
+00:41:19,130 --> 00:41:21,210
+Oh, he moved on.
+
+566
+00:41:22,890 --> 00:41:24,550
+I don't know, he hasn't...
+
+567
+00:41:24,550 --> 00:41:24,710
+Oh!
+
+568
+00:41:24,970 --> 00:41:26,110
+He's left the cage!
+
+569
+00:41:27,290 --> 00:41:28,490
+He's left the cage!
+
+570
+00:41:28,710 --> 00:41:28,870
+Oh!
+
+571
+00:41:29,410 --> 00:41:30,190
+Jovio, no!
+
+572
+00:41:30,650 --> 00:41:30,990
+Nice!
+
+573
+00:41:31,350 --> 00:41:32,010
+The impact!
+
+574
+00:41:33,530 --> 00:41:34,130
+Dokument!
+
+575
+00:41:34,130 --> 00:41:34,610
+Yes!
+
+576
+00:41:34,770 --> 00:41:35,150
+Let's go!
+
+577
+00:41:35,670 --> 00:41:37,650
+The impact sent in her back!
+
+578
+00:41:38,230 --> 00:41:39,410
+He's going back!
+
+579
+00:41:40,610 --> 00:41:43,750
+There's still one mine left for Chonky Goon.
+
+580
+00:41:43,910 --> 00:41:45,790
+He has to finish the job!
+
+581
+00:41:49,730 --> 00:41:50,150
+No!
+
+582
+00:41:51,150 --> 00:41:51,570
+Jovio!
+
+583
+00:41:51,870 --> 00:41:52,310
+What are you doing?
+
+584
+00:41:52,430 --> 00:41:53,430
+Oh, he just wanted to say hi.
+
+585
+00:41:53,750 --> 00:41:54,390
+Okay, that's...
+
+586
+00:41:54,390 --> 00:41:54,770
+That's fine.
+
+587
+00:41:55,310 --> 00:41:56,030
+That's fine.
+
+588
+00:41:56,310 --> 00:41:56,690
+Oh, nice!
+
+589
+00:41:56,810 --> 00:41:57,410
+He got it!
+
+590
+00:41:57,490 --> 00:41:58,670
+He finished the job!
+
+591
+00:41:58,670 --> 00:42:00,810
+He's finished the job, guys!
+
+592
+00:42:01,030 --> 00:42:01,330
+It's okay!
+
+593
+00:42:02,710 --> 00:42:03,270
+No!
+
+594
+00:42:05,550 --> 00:42:06,450
+Chonky Goons!
+
+595
+00:42:06,630 --> 00:42:09,790
+I don't know why Chonkiness can beat those kicked up cheeks!
+
+596
+00:42:10,410 --> 00:42:11,690
+Thank you for the super chat!
+
+597
+00:42:11,770 --> 00:42:12,050
+Thank you!
+
+598
+00:42:12,250 --> 00:42:12,690
+Thank you!
+
+599
+00:42:13,090 --> 00:42:15,590
+Jovio, Dokument 2D Model!
+
+600
+00:42:15,970 --> 00:42:16,090
+What?
+
+601
+00:42:16,610 --> 00:42:17,230
+Look at the...
+
+602
+00:42:17,230 --> 00:42:17,990
+They give us a super chat!
+
+603
+00:42:18,110 --> 00:42:18,310
+Thank you!
+
+604
+00:42:18,450 --> 00:42:18,950
+Thank you!
+
+605
+00:42:20,710 --> 00:42:21,450
+It's okay!
+
+606
+00:42:21,450 --> 00:42:22,850
+It's okay!
+
+607
+00:42:23,090 --> 00:42:23,430
+I believe!
+
+608
+00:42:23,730 --> 00:42:24,370
+Come on, Doki!
+
+609
+00:42:24,670 --> 00:42:27,430
+Don't disappoint the Dokis from the Doki-verse!
+
+610
+00:42:27,870 --> 00:42:30,630
+The Doki Council is watching right now!
+
+611
+00:42:31,170 --> 00:42:32,270
+I believe!
+
+612
+00:42:35,390 --> 00:42:36,590
+Come on!
+
+613
+00:42:37,850 --> 00:42:42,530
+Doki Field was able to single-handedly beat Chonky Goon all on her own!
+
+614
+00:42:43,090 --> 00:42:44,170
+Come on, Jovio!
+
+615
+00:42:45,390 --> 00:42:48,590
+The Doki Council is judging you right now!
+
+616
+00:42:49,750 --> 00:42:50,050
+Oh, nice!
+
+617
+00:42:50,050 --> 00:42:50,430
+Nice!
+
+618
+00:42:50,650 --> 00:42:52,190
+Take him back to the corner!
+
+619
+00:42:52,910 --> 00:42:54,310
+Take him back in there!
+
+620
+00:42:59,680 --> 00:43:00,680
+Chonky wins!
+
+621
+00:43:00,860 --> 00:43:02,220
+He'll have my respect!
+
+622
+00:43:03,480 --> 00:43:04,160
+That's good!
+
+623
+00:43:04,260 --> 00:43:04,800
+He's stuck!
+
+624
+00:43:05,260 --> 00:43:05,840
+He's stuck!
+
+625
+00:43:06,660 --> 00:43:07,540
+He can't do anything!
+
+626
+00:43:07,760 --> 00:43:08,000
+No!
+
+627
+00:43:08,600 --> 00:43:09,460
+Jovio's stuck!
+
+628
+00:43:15,860 --> 00:43:16,900
+Jovio, please!
+
+629
+00:43:17,500 --> 00:43:19,020
+Get out of the prison!
+
+630
+00:43:20,920 --> 00:43:22,380
+Get out, Jovio!
+
+631
+00:43:23,560 --> 00:43:24,120
+Come on!
+
+632
+00:43:25,360 --> 00:43:26,780
+The door is stuck!
+
+633
+00:43:27,220 --> 00:43:28,560
+They're both stuck!
+
+634
+00:43:28,800 --> 00:43:29,100
+They're both stuck!
+
+635
+00:43:29,100 --> 00:43:31,420
+But how is Chonky stuck in a bigger hole?
+
+636
+00:43:33,880 --> 00:43:36,400
+Get Chonky's up for fines!
+
+637
+00:43:37,280 --> 00:43:39,820
+His only task is just mines!
+
+638
+00:43:41,160 --> 00:43:42,940
+Please, I need this!
+
+639
+00:43:43,480 --> 00:43:44,400
+Come on!
+
+640
+00:43:44,720 --> 00:43:45,980
+Come on, Jovio!
+
+641
+00:43:45,980 --> 00:43:47,780
+We can't give them the announcement yet!
+
+642
+00:43:47,920 --> 00:43:49,820
+We still need to pad more time!
+
+643
+00:43:52,160 --> 00:43:54,620
+We need to pad as much time as we can!
+
+644
+00:43:55,200 --> 00:43:57,540
+Why the hell is this so intense?
+
+645
+00:43:57,900 --> 00:43:59,800
+Welcome to the Dragoon Horse Race!
+
+646
+00:44:02,380 --> 00:44:05,760
+The Dragoon, welcome to the Dragoon Race Test!
+
+647
+00:44:06,280 --> 00:44:08,480
+I hope you enjoy your stay!
+
+648
+00:44:08,880 --> 00:44:12,400
+That was basically what Twitter was like for two weeks, guys!
+
+649
+00:44:13,040 --> 00:44:15,480
+This was Twitter for two fucking weeks!
+
+650
+00:44:15,480 --> 00:44:20,980
+I'm gonna turn it up a little bit more!
+
+651
+00:44:23,280 --> 00:44:24,260
+Oh my god!
+
+652
+00:44:24,400 --> 00:44:25,550
+You guys swap places?!
+
+653
+00:44:26,530 --> 00:44:26,870
+I...
+
+654
+00:44:29,450 --> 00:44:30,130
+I...
+
+655
+00:44:31,910 --> 00:44:34,910
+How did you guys swap places?!
+
+656
+00:44:34,910 --> 00:44:36,150
+Get out!
+
+657
+00:44:36,930 --> 00:44:38,050
+You know!
+
+658
+00:44:39,010 --> 00:44:42,810
+Great big body, teeny tiny brain!
+
+659
+00:44:43,130 --> 00:44:44,950
+Thank you for the zipper chat, Ace!
+
+660
+00:44:45,110 --> 00:44:45,930
+Oh my god!
+
+661
+00:44:46,270 --> 00:44:46,730
+Oh my god!
+
+662
+00:44:46,830 --> 00:44:47,830
+Now you're puffing!
+
+663
+00:44:48,330 --> 00:44:53,070
+Chonky-kun was like, I wanna be back in my safe space!
+
+664
+00:44:53,070 --> 00:44:58,950
+I want to be safe again.
+
+665
+00:45:01,870 --> 00:45:04,550
+Please, leave the hole!
+
+666
+00:45:05,350 --> 00:45:08,290
+Leave the widening of it.
+
+667
+00:45:08,690 --> 00:45:10,670
+He wanted to go home.
+
+668
+00:45:11,490 --> 00:45:13,990
+Oh my god, it's been five minutes.
+
+669
+00:45:14,610 --> 00:45:15,870
+Get out of here!
+
+670
+00:45:17,190 --> 00:45:18,710
+One of you!
+
+671
+00:45:19,930 --> 00:45:21,350
+It's been five.
+
+672
+00:45:21,530 --> 00:45:22,850
+No, not you though!
+
+673
+00:45:23,070 --> 00:45:23,710
+Not you!
+
+674
+00:45:24,510 --> 00:45:25,570
+Get back in the hole!
+
+675
+00:45:25,690 --> 00:45:25,850
+No!
+
+676
+00:45:26,010 --> 00:45:26,870
+Get back in the hole!
+
+677
+00:45:27,210 --> 00:45:28,910
+Oh my god, they're both in... No!
+
+678
+00:45:29,170 --> 00:45:29,490
+Jovial!
+
+679
+00:45:29,710 --> 00:45:29,970
+No!
+
+680
+00:45:30,230 --> 00:45:30,670
+Jovial!
+
+681
+00:45:30,850 --> 00:45:31,170
+No!
+
+682
+00:45:31,470 --> 00:45:32,590
+Get back in there!
+
+683
+00:45:32,950 --> 00:45:33,290
+No!
+
+684
+00:45:35,370 --> 00:45:36,230
+Oh, thank god!
+
+685
+00:45:36,430 --> 00:45:37,430
+Oh, thank god, Chucky!
+
+686
+00:45:37,730 --> 00:45:38,230
+Thank god!
+
+687
+00:45:38,470 --> 00:45:39,450
+Oh, he's back home!
+
+688
+00:45:39,670 --> 00:45:40,870
+He's back home again.
+
+689
+00:45:43,470 --> 00:45:49,650
+This tough thing is, Jovial could have won this five minutes ago, but she certainly needed a bad time.
+
+690
+00:45:49,830 --> 00:45:51,390
+So she's stalling.
+
+691
+00:45:51,390 --> 00:45:53,650
+Thank you for the super chap thing.
+
+692
+00:45:54,170 --> 00:45:54,530
+No!
+
+693
+00:45:55,110 --> 00:45:55,210
+No!
+
+694
+00:45:55,590 --> 00:45:56,010
+Get out!
+
+695
+00:45:56,190 --> 00:45:56,670
+Get out!
+
+696
+00:45:56,870 --> 00:45:58,270
+I need a bad more time!
+
+697
+00:45:58,630 --> 00:46:01,410
+I didn't expect you to... No, Chucky!
+
+698
+00:46:03,210 --> 00:46:03,770
+Please!
+
+699
+00:46:04,290 --> 00:46:04,570
+No!
+
+700
+00:46:05,550 --> 00:46:06,410
+Go back home!
+
+701
+00:46:06,690 --> 00:46:07,190
+Go back home!
+
+702
+00:46:07,490 --> 00:46:08,030
+Go back home!
+
+703
+00:46:08,230 --> 00:46:08,790
+You're so close!
+
+704
+00:46:08,910 --> 00:46:09,130
+Yes!
+
+705
+00:46:09,450 --> 00:46:09,610
+Yes!
+
+706
+00:46:09,790 --> 00:46:10,250
+Go home!
+
+707
+00:46:10,610 --> 00:46:11,350
+Go home!
+
+708
+00:46:13,830 --> 00:46:14,430
+Yes!
+
+709
+00:46:18,570 --> 00:46:19,170
+Thank you for the same time!
+
+710
+00:46:19,170 --> 00:46:19,170
+kneel!
+
+711
+00:46:19,170 --> 00:46:19,170
+Michael took out!
+
+712
+00:46:19,170 --> 00:46:23,250
+The thumbnail holodex Sound off the part of Dr går начинаются just says, Goon!
+
+713
+00:46:23,670 --> 00:46:23,910
+Goon!
+
+714
+00:46:23,910 --> 00:46:24,270
+Race Test!
+
+715
+00:46:24,610 --> 00:46:28,250
+Thank god!
+
+716
+00:46:28,570 --> 00:46:29,090
+He choked!
+
+717
+00:46:29,530 --> 00:46:29,950
+Nice!
+
+718
+00:46:30,570 --> 00:46:31,310
+As you should!
+
+719
+00:46:32,770 --> 00:46:35,930
+You didn't learn from your last race, did you Chunky Goon?
+
+720
+00:46:36,150 --> 00:46:37,030
+He didn't learn!
+
+721
+00:46:37,970 --> 00:46:40,230
+Chalk more like chalked.
+
+722
+00:46:41,490 --> 00:46:43,690
+The choke is real.
+
+723
+00:46:44,250 --> 00:46:45,510
+Yes, keep choking.
+
+724
+00:46:45,810 --> 00:46:46,610
+Come on, Doki.
+
+725
+00:46:47,030 --> 00:46:48,930
+Don't disappoint the Doki-verse.
+
+726
+00:46:49,430 --> 00:46:51,610
+We have such a high record of winning.
+
+727
+00:46:51,990 --> 00:46:53,730
+We beat all those dragons.
+
+728
+00:46:54,710 --> 00:46:59,870
+Your tomato, your tomato, Doki, is a four-time champion.
+
+729
+00:47:03,510 --> 00:47:04,710
+Chalky police.
+
+730
+00:47:05,210 --> 00:47:06,490
+Oh my god.
+
+731
+00:47:07,030 --> 00:47:11,090
+Guys, I might have designed a really fucking hard track accidentally.
+
+732
+00:47:14,670 --> 00:47:19,810
+I might have fucked up a little bit by making a really hard track for them.
+
+733
+00:47:20,070 --> 00:47:22,150
+I didn't think this would be that difficult.
+
+734
+00:47:22,550 --> 00:47:24,690
+I thought it'd be a little easier.
+
+735
+00:47:25,730 --> 00:47:27,230
+It's a bit tough.
+
+736
+00:47:28,990 --> 00:47:29,510
+Please.
+
+737
+00:47:30,070 --> 00:47:30,590
+Please.
+
+738
+00:47:30,950 --> 00:47:32,770
+Get out of the hole, Jovio!
+
+739
+00:47:33,990 --> 00:47:34,510
+Oh.
+
+740
+00:47:34,870 --> 00:47:34,970
+Oh.
+
+741
+00:47:35,210 --> 00:47:36,330
+Sorry, I accidentally paused it.
+
+742
+00:47:36,590 --> 00:47:36,990
+I...
+
+743
+00:47:39,010 --> 00:47:40,790
+I was too angry.
+
+744
+00:47:41,050 --> 00:47:43,490
+I was too angry that I paused the game.
+
+745
+00:47:45,550 --> 00:47:46,070
+I...
+
+746
+00:47:46,070 --> 00:47:48,350
+Guys, you don't see it yet.
+
+747
+00:47:48,570 --> 00:47:50,730
+The Dragoon may be rigged.
+
+748
+00:47:51,390 --> 00:47:53,130
+Cryopan, thank you for the super chat.
+
+749
+00:47:53,270 --> 00:47:53,910
+Thank you, thank you.
+
+750
+00:47:54,030 --> 00:47:55,170
+There's no entitlement.
+
+751
+00:47:55,370 --> 00:47:56,730
+We could be here forever.
+
+752
+00:47:58,370 --> 00:47:59,710
+Not so deadpool.
+
+753
+00:47:59,850 --> 00:48:01,010
+Thank you for the super chat.
+
+754
+00:48:01,130 --> 00:48:02,010
+Thank you, thank you.
+
+755
+00:48:02,170 --> 00:48:02,530
+Oh!
+
+756
+00:48:02,810 --> 00:48:03,010
+No!
+
+757
+00:48:03,350 --> 00:48:03,730
+Come on!
+
+758
+00:48:03,910 --> 00:48:04,610
+It's so close!
+
+759
+00:48:04,710 --> 00:48:05,430
+You were just there!
+
+760
+00:48:05,530 --> 00:48:06,630
+You were just there, Jovio!
+
+761
+00:48:06,630 --> 00:48:08,550
+You were literally just there!
+
+762
+00:48:09,370 --> 00:48:12,130
+Come on!
+
+763
+00:48:12,490 --> 00:48:12,950
+Come on!
+
+764
+00:48:13,270 --> 00:48:13,410
+Come on!
+
+765
+00:48:13,410 --> 00:48:13,550
+No!
+
+766
+00:48:14,310 --> 00:48:15,410
+It's in the corner!
+
+767
+00:48:15,890 --> 00:48:17,350
+Your cake is too big!
+
+768
+00:48:17,670 --> 00:48:18,150
+Yes!
+
+769
+00:48:18,890 --> 00:48:19,590
+Jovio!
+
+770
+00:48:23,450 --> 00:48:26,210
+There is the super chat.
+
+771
+00:48:26,410 --> 00:48:27,430
+Thank you, thank you.
+
+772
+00:48:27,430 --> 00:48:27,430
+Thank you.
+
+773
+00:48:28,050 --> 00:48:28,550
+Thank you!
+
+774
+00:48:28,550 --> 00:48:30,730
+That's right, aged poorly.
+
+775
+00:48:32,050 --> 00:48:34,870
+Joe... Jovio is winning at making dieki crash up.
+
+776
+00:48:35,330 --> 00:48:38,490
+That's right, your super chat age poorly!
+
+777
+00:48:40,590 --> 00:48:44,690
+That's right, another one for the Doki's in the Doki-verse.
+
+778
+00:48:45,430 --> 00:48:46,950
+That's right, Dracoons.
+
+779
+00:48:47,110 --> 00:48:48,430
+You need more training.
+
+780
+00:48:52,530 --> 00:48:53,050
+Great.
+
+781
+00:48:53,970 --> 00:48:56,010
+Just, I don't know, just be better, I guess.
+
+782
+00:48:56,290 --> 00:48:57,590
+Just... I don't know.
+
+783
+00:48:57,970 --> 00:48:58,530
+I guess just...
+
+784
+00:49:00,170 --> 00:49:01,090
+Get good.
+
+785
+00:49:02,270 --> 00:49:04,270
+So, I'll even help you guys.
+
+786
+00:49:04,510 --> 00:49:05,350
+How about this?
+
+787
+00:49:05,830 --> 00:49:07,390
+I'll put in... All right.
+
+788
+00:49:08,490 --> 00:49:09,090
+All right, let's see.
+
+789
+00:49:09,230 --> 00:49:13,330
+Maybe we just need to figure out who is the best drag wound out of all of you.
+
+790
+00:49:13,830 --> 00:49:14,230
+Don't worry.
+
+791
+00:49:14,510 --> 00:49:16,930
+I have some pre-made maps that we could use.
+
+792
+00:49:17,070 --> 00:49:18,310
+I think you'll need it anyway.
+
+793
+00:49:23,450 --> 00:49:25,910
+You guys definitely need it.
+
+794
+00:49:26,930 --> 00:49:27,950
+Not Jovial?
+
+795
+00:49:28,270 --> 00:49:29,130
+I mean...
+
+796
+00:49:29,130 --> 00:49:31,630
+You guys were struggling so much.
+
+797
+00:49:31,810 --> 00:49:35,590
+I think I gotta... I think I gotta make it a little bit easier for you guys.
+
+798
+00:49:35,590 --> 00:49:37,230
+You guys were struggling there.
+
+799
+00:49:37,610 --> 00:49:38,090
+So...
+
+800
+00:49:38,090 --> 00:49:41,350
+Let me make it just a little bit easier for all of you guys.
+
+801
+00:49:41,810 --> 00:49:42,170
+All right.
+
+802
+00:49:42,770 --> 00:49:43,370
+Here we go.
+
+803
+00:49:43,730 --> 00:49:44,170
+You know what?
+
+804
+00:49:44,570 --> 00:49:47,550
+Here, let all you Dragoons race each other too.
+
+805
+00:49:47,550 --> 00:49:49,550
+He, he, he, he, he...
+
+806
+00:49:50,970 --> 00:49:52,150
+He, he, he, he...
+
+807
+00:49:52,150 --> 00:49:54,590
+Perina rules, Jovial loss.
+
+808
+00:49:55,670 --> 00:49:56,190
+The dragon.
+
+809
+00:49:56,470 --> 00:49:57,690
+Thank you for the super chat.
+
+810
+00:49:57,870 --> 00:49:58,850
+Thank you, thank you.
+
+811
+00:50:01,410 --> 00:50:02,630
+We don't need...
+
+812
+00:50:02,630 --> 00:50:03,130
+Look here.
+
+813
+00:50:03,210 --> 00:50:05,610
+Here's an easier map too, Dragoons.
+
+814
+00:50:05,710 --> 00:50:06,150
+Maybe...
+
+815
+00:50:06,150 --> 00:50:08,070
+Maybe this is more of your...
+
+816
+00:50:08,070 --> 00:50:10,030
+Maybe this is more for you guys.
+
+817
+00:50:10,230 --> 00:50:11,350
+You know, this track was...
+
+818
+00:50:11,350 --> 00:50:13,050
+Was made for you guys.
+
+819
+00:50:13,050 --> 00:50:14,730
+Guys, you know, someone can win.
+
+820
+00:50:14,950 --> 00:50:17,090
+At least a dragoon can win, guys.
+
+821
+00:50:22,870 --> 00:50:26,010
+Alright, but if the tomato goon wins, he's one of us.
+
+822
+00:50:27,310 --> 00:50:30,070
+I get custody of tomato goon every weekend.
+
+823
+00:50:31,230 --> 00:50:32,690
+And today's a weekend.
+
+824
+00:50:34,210 --> 00:50:35,870
+Oh my god, that would be so sad.
+
+825
+00:50:36,030 --> 00:50:38,090
+Guys, if the tomato goon wins...
+
+826
+00:50:38,090 --> 00:50:38,570
+Oh...
+
+827
+00:50:46,350 --> 00:50:47,950
+Long goon, you're tired of the shine.
+
+828
+00:50:48,070 --> 00:50:48,730
+Today's the weekend.
+
+829
+00:50:48,910 --> 00:50:50,570
+I get custody of tomato goon.
+
+830
+00:50:50,970 --> 00:50:51,650
+On the weekend.
+
+831
+00:50:52,070 --> 00:50:53,850
+So technically, he's part of the Jokeyverse.
+
+832
+00:50:55,330 --> 00:50:55,930
+That's right.
+
+833
+00:50:56,130 --> 00:50:57,590
+It's not rigged if you're just...
+
+834
+00:50:57,590 --> 00:50:57,910
+No!
+
+835
+00:50:58,050 --> 00:50:58,290
+No!
+
+836
+00:50:58,830 --> 00:50:58,950
+No!
+
+837
+00:50:58,950 --> 00:50:59,210
+No!
+
+838
+00:51:00,070 --> 00:51:00,490
+No!
+
+839
+00:51:03,770 --> 00:51:05,810
+You were so close!
+
+840
+00:51:07,650 --> 00:51:09,670
+You were so close!
+
+841
+00:51:12,370 --> 00:51:14,290
+You know what's even sad, though?
+
+842
+00:51:15,730 --> 00:51:16,930
+Alright, there's...
+
+843
+00:51:16,930 --> 00:51:18,450
+Alright, let's see.
+
+844
+00:51:18,770 --> 00:51:20,430
+I think...
+
+845
+00:51:20,430 --> 00:51:21,010
+Alright.
+
+846
+00:51:21,430 --> 00:51:22,410
+There's no way.
+
+847
+00:51:22,830 --> 00:51:22,970
+Okay.
+
+848
+00:51:24,370 --> 00:51:25,530
+Alright, well...
+
+849
+00:51:25,530 --> 00:51:27,790
+Long goon, surely...
+
+850
+00:51:28,490 --> 00:51:29,070
+Surely...
+
+851
+00:51:29,070 --> 00:51:30,850
+You can't fuck this up, right?
+
+852
+00:51:31,870 --> 00:51:33,830
+Here, I'll just put a couple of here.
+
+853
+00:51:35,150 --> 00:51:35,690
+There we go.
+
+854
+00:51:36,390 --> 00:51:36,650
+Alright.
+
+855
+00:51:37,230 --> 00:51:38,330
+Long goon, I believe.
+
+856
+00:51:39,710 --> 00:51:40,910
+You can't...
+
+857
+00:51:42,130 --> 00:51:44,570
+Surely you can win one match.
+
+858
+00:51:44,810 --> 00:51:45,650
+One game.
+
+859
+00:51:46,250 --> 00:51:46,530
+Right?
+
+860
+00:51:47,090 --> 00:51:48,310
+Long goon...
+
+861
+00:51:48,310 --> 00:51:49,350
+Can't be that bad.
+
+862
+00:51:50,790 --> 00:51:52,150
+I believe in you.
+
+863
+00:51:52,670 --> 00:51:54,270
+No, he can't win.
+
+864
+00:51:54,870 --> 00:51:55,430
+I...
+
+865
+00:51:58,550 --> 00:51:59,290
+Come on.
+
+866
+00:51:59,350 --> 00:52:00,750
+Just get out of there.
+
+867
+00:52:01,650 --> 00:52:03,030
+Five hours later.
+
+868
+00:52:03,310 --> 00:52:03,610
+Come on.
+
+869
+00:52:03,610 --> 00:52:05,050
+You can't get out of there.
+
+870
+00:52:05,870 --> 00:52:06,490
+Come on.
+
+871
+00:52:06,830 --> 00:52:07,950
+Yeah, he's our scion.
+
+872
+00:52:08,330 --> 00:52:10,110
+The back room.
+
+873
+00:52:10,350 --> 00:52:11,570
+I can't even...
+
+874
+00:52:11,570 --> 00:52:13,130
+Get through the fucking hallway.
+
+875
+00:52:13,510 --> 00:52:14,270
+Come on.
+
+876
+00:52:15,430 --> 00:52:16,390
+Surely, look.
+
+877
+00:52:16,490 --> 00:52:17,330
+He's helping you.
+
+878
+00:52:17,930 --> 00:52:19,430
+Just get out of the hallway.
+
+879
+00:52:21,610 --> 00:52:22,670
+Just that...
+
+880
+00:52:22,670 --> 00:52:23,850
+That tiny hallway.
+
+881
+00:52:24,030 --> 00:52:24,950
+There's two holes.
+
+882
+00:52:25,410 --> 00:52:27,410
+There's two holes, Long goon.
+
+883
+00:52:27,930 --> 00:52:28,850
+Two fucking holes.
+
+884
+00:52:29,070 --> 00:52:30,250
+Surely you can make it through.
+
+885
+00:52:30,910 --> 00:52:32,950
+You're not chonky like the chonky dragon.
+
+886
+00:52:33,090 --> 00:52:34,170
+You can fit in there.
+
+887
+00:52:34,170 --> 00:52:34,330
+There's two holes in there.
+
+888
+00:52:35,690 --> 00:52:37,970
+This is horrible map.
+
+889
+00:52:39,470 --> 00:52:41,310
+Sounds like a long goon.
+
+890
+00:52:43,650 --> 00:52:45,930
+It's so much pain.
+
+891
+00:52:46,870 --> 00:52:47,370
+Come on.
+
+892
+00:52:47,610 --> 00:52:49,590
+The hole is literally right there.
+
+893
+00:52:50,130 --> 00:52:50,890
+It's right...
+
+894
+00:52:50,890 --> 00:52:53,450
+Just get out of that one hole, Long goon.
+
+895
+00:52:53,550 --> 00:52:54,410
+You got this.
+
+896
+00:53:03,250 --> 00:53:04,690
+Cyclone, thank you for the super chat.
+
+897
+00:53:04,830 --> 00:53:05,030
+Thank you.
+
+898
+00:53:05,230 --> 00:53:06,010
+Thank you.
+
+899
+00:53:06,170 --> 00:53:08,490
+The Robin, thank you for the super chat.
+
+900
+00:53:08,630 --> 00:53:08,810
+Thank you.
+
+901
+00:53:09,050 --> 00:53:09,410
+Thank you.
+
+902
+00:53:09,810 --> 00:53:12,010
+Vaughn, watch your skip three hours.
+
+903
+00:53:12,410 --> 00:53:13,670
+Guys, he's one of you.
+
+904
+00:53:13,830 --> 00:53:15,930
+Do you not believe in your own brethren?
+
+905
+00:53:16,390 --> 00:53:17,370
+Your own brother.
+
+906
+00:53:19,390 --> 00:53:22,310
+The dragon can't find the hole.
+
+907
+00:53:23,090 --> 00:53:23,230
+No.
+
+908
+00:53:24,750 --> 00:53:25,810
+Long goons.
+
+909
+00:53:26,030 --> 00:53:26,710
+What happened?
+
+910
+00:53:26,870 --> 00:53:28,130
+This is your representative.
+
+911
+00:53:29,070 --> 00:53:32,630
+This is your representative that you picked to send to the race.
+
+912
+00:53:32,830 --> 00:53:34,550
+To the dragon race test.
+
+913
+00:53:34,850 --> 00:53:35,890
+You picked him.
+
+914
+00:53:38,990 --> 00:53:40,330
+He's your tribute.
+
+915
+00:53:41,790 --> 00:53:42,930
+Hell no.
+
+916
+00:53:43,390 --> 00:53:45,430
+Anton, thank you for the super chat.
+
+917
+00:53:45,590 --> 00:53:45,790
+Thank you.
+
+918
+00:53:45,970 --> 00:53:46,470
+Thank you.
+
+919
+00:53:46,470 --> 00:53:48,370
+Thank you for the super chat.
+
+920
+00:53:48,550 --> 00:53:48,890
+Thank you.
+
+921
+00:53:49,050 --> 00:53:49,650
+Thank you.
+
+922
+00:53:50,470 --> 00:53:52,350
+Oh, he's stupid.
+
+923
+00:53:52,670 --> 00:53:52,870
+Stupid.
+
+924
+00:53:53,570 --> 00:53:53,810
+Okay.
+
+925
+00:53:54,210 --> 00:53:54,690
+Okay.
+
+926
+00:53:54,930 --> 00:53:58,170
+His goal is to like go through the hole at least once.
+
+927
+00:53:58,670 --> 00:54:00,650
+If he goes through that hole...
+
+928
+00:54:00,650 --> 00:54:01,970
+Any either of the holes.
+
+929
+00:54:02,410 --> 00:54:02,810
+Once.
+
+930
+00:54:03,150 --> 00:54:04,530
+Within five minutes.
+
+931
+00:54:04,810 --> 00:54:06,530
+We will count this as a victory.
+
+932
+00:54:11,450 --> 00:54:12,770
+That's all we want.
+
+933
+00:54:15,250 --> 00:54:16,110
+Next thing again.
+
+934
+00:54:16,110 --> 00:54:18,070
+Thank you for the super chat.
+
+935
+00:54:18,170 --> 00:54:18,270
+Thank you.
+
+936
+00:54:18,410 --> 00:54:18,690
+Thank you.
+
+937
+00:54:18,690 --> 00:54:20,350
+I've never been so ashamed to be along.
+
+938
+00:54:20,630 --> 00:54:21,110
+Oh my god.
+
+939
+00:54:21,230 --> 00:54:21,710
+He's doing it.
+
+940
+00:54:21,890 --> 00:54:22,710
+He's doing it.
+
+941
+00:54:23,010 --> 00:54:23,890
+Oh my god.
+
+942
+00:54:24,290 --> 00:54:25,210
+He got out.
+
+943
+00:54:25,350 --> 00:54:26,550
+He got out of the hole.
+
+944
+00:54:29,460 --> 00:54:31,160
+As long as he doesn't go back.
+
+945
+00:54:31,340 --> 00:54:32,060
+It's a victory.
+
+946
+00:54:32,280 --> 00:54:32,820
+Oh my god.
+
+947
+00:54:33,040 --> 00:54:34,680
+And he did it within five minutes.
+
+948
+00:54:34,860 --> 00:54:35,340
+Look at that.
+
+949
+00:54:35,460 --> 00:54:35,620
+See?
+
+950
+00:54:35,760 --> 00:54:36,460
+I told you.
+
+951
+00:54:36,460 --> 00:54:37,720
+I told you.
+
+952
+00:54:37,940 --> 00:54:38,600
+He's special.
+
+953
+00:54:39,060 --> 00:54:40,800
+But like the good kind is special.
+
+954
+00:54:44,960 --> 00:54:45,360
+Good.
+
+955
+00:54:45,520 --> 00:54:46,540
+Thank you again for the super chat.
+
+956
+00:54:46,640 --> 00:54:46,860
+Thank you.
+
+957
+00:54:46,940 --> 00:54:47,480
+Thank you.
+
+958
+00:54:47,480 --> 00:54:49,180
+Kaz, look at him go, dude.
+
+959
+00:54:49,460 --> 00:54:50,100
+What a legend.
+
+960
+00:54:50,380 --> 00:54:52,960
+Sheer perseverance and determination.
+
+961
+00:54:53,600 --> 00:54:54,800
+Thank you for the super chat.
+
+962
+00:54:54,940 --> 00:54:55,220
+Thank you.
+
+963
+00:54:55,360 --> 00:54:55,760
+Thank you.
+
+964
+00:54:56,100 --> 00:54:57,540
+Papa Smurf, thank you for the super chat.
+
+965
+00:54:57,620 --> 00:54:57,840
+Thank you.
+
+966
+00:54:57,920 --> 00:54:58,380
+Thank you.
+
+967
+00:54:58,640 --> 00:55:00,840
+Two weeks till I age out of being a long guy.
+
+968
+00:55:01,220 --> 00:55:02,080
+Thank God.
+
+969
+00:55:04,360 --> 00:55:05,600
+He's like, please.
+
+970
+00:55:07,220 --> 00:55:09,080
+Please, I want to be a real winner.
+
+971
+00:55:09,280 --> 00:55:11,240
+Make me chonky right now.
+
+972
+00:55:11,860 --> 00:55:13,160
+Spam, thank you for the super chat.
+
+973
+00:55:13,240 --> 00:55:13,440
+Thank you.
+
+974
+00:55:13,540 --> 00:55:14,000
+Thank you.
+
+975
+00:55:14,220 --> 00:55:16,680
+We believe it will take three hours.
+
+976
+00:55:16,680 --> 00:55:20,460
+Oh, he's going back to the... He's like, please, mother.
+
+977
+00:55:20,740 --> 00:55:22,220
+Put me back in the hole.
+
+978
+00:55:22,220 --> 00:55:24,220
+I feel more safe in the hole.
+
+979
+00:55:24,720 --> 00:55:27,860
+I... I want to go back.
+
+980
+00:55:29,700 --> 00:55:30,280
+No.
+
+981
+00:55:32,260 --> 00:55:32,680
+No.
+
+982
+00:55:32,680 --> 00:55:34,960
+The hunker needs to go to Google Maps.
+
+983
+00:55:35,700 --> 00:55:36,300
+Come on.
+
+984
+00:55:36,480 --> 00:55:37,480
+It's right there.
+
+985
+00:55:37,580 --> 00:55:39,940
+That's the other hole you need to get to.
+
+986
+00:55:40,760 --> 00:55:43,060
+Bro fighting himself and losing.
+
+987
+00:55:43,560 --> 00:55:45,120
+Thank you for the super chat.
+
+988
+00:55:45,380 --> 00:55:45,500
+Thank you.
+
+989
+00:55:45,500 --> 00:55:46,320
+Thank you.
+
+990
+00:55:46,720 --> 00:55:46,860
+Alright.
+
+991
+00:55:47,280 --> 00:55:52,520
+If Long Goon doesn't hit the objective within 10 minutes, I'm sorry.
+
+992
+00:55:52,620 --> 00:55:54,060
+He's got to be trapped in hell.
+
+993
+00:55:54,280 --> 00:55:55,680
+I... Yes.
+
+994
+00:55:56,460 --> 00:56:03,700
+He is... He will be exiled from the Dragoon race test if he can't get out of here in 10 minutes.
+
+995
+00:56:07,580 --> 00:56:08,620
+He's lost.
+
+996
+00:56:08,720 --> 00:56:10,380
+Please free him.
+
+997
+00:56:10,380 --> 00:56:14,000
+He's gonna get... We're gonna delete him from the game files, chat.
+
+998
+00:56:14,440 --> 00:56:19,100
+We have the version... Version... 5.0.
+
+999
+00:56:19,280 --> 00:56:21,740
+We remove Long Goon from the data.
+
+1000
+00:56:26,000 --> 00:56:27,540
+He went back.
+
+1001
+00:56:28,160 --> 00:56:29,000
+Chunky chat.
+
+1002
+00:56:29,400 --> 00:56:29,860
+Thriving.
+
+1003
+00:56:30,160 --> 00:56:31,180
+Alan, thank you for the super chat.
+
+1004
+00:56:31,260 --> 00:56:31,480
+Thank you.
+
+1005
+00:56:31,700 --> 00:56:32,160
+Thank you.
+
+1006
+00:56:33,880 --> 00:56:35,600
+Uh, eating, thank you for the super chat.
+
+1007
+00:56:35,720 --> 00:56:36,440
+Thank you, thank you.
+
+1008
+00:56:36,520 --> 00:56:39,360
+Oh boy, this ring keeps hitting me when I step on it.
+
+1009
+00:56:39,660 --> 00:56:41,320
+Maybe I should step on it more.
+
+1010
+00:56:42,960 --> 00:56:44,240
+Ryan, thank you for the super chat.
+
+1011
+00:56:44,340 --> 00:56:45,020
+Thank you, thank you.
+
+1012
+00:56:45,160 --> 00:56:48,240
+I was here when Lagos got sent to hell.
+
+1013
+00:56:48,720 --> 00:56:53,360
+Dear representative, your tribute is gonna get you to lead it from existence.
+
+1014
+00:56:53,700 --> 00:56:56,520
+We're gonna fucking fatter snap you out of this game.
+
+1015
+00:56:59,580 --> 00:57:01,100
+It's like, what do you mean?
+
+1016
+00:57:01,380 --> 00:57:02,800
+We never had long goons.
+
+1017
+00:57:02,940 --> 00:57:04,040
+There's always been four.
+
+1018
+00:57:04,360 --> 00:57:11,200
+There's always been... There's always been regular goons, chonky goons, and egg goons.
+
+1019
+00:57:11,540 --> 00:57:12,560
+It's always been three.
+
+1020
+00:57:13,020 --> 00:57:13,860
+Never four.
+
+1021
+00:57:19,340 --> 00:57:23,580
+It was never long goons in passing say.
+
+1022
+00:57:25,900 --> 00:57:27,960
+I even, like, changed my sub badges.
+
+1023
+00:57:28,220 --> 00:57:29,800
+Like, they just never existed.
+
+1024
+00:57:34,120 --> 00:57:36,300
+You're fighting for your existence.
+
+1025
+00:57:36,800 --> 00:57:37,360
+Come on!
+
+1026
+00:57:37,880 --> 00:57:39,260
+Don't do this to me!
+
+1027
+00:57:43,160 --> 00:57:44,600
+Unlucky, thank you for the super chat.
+
+1028
+00:57:44,700 --> 00:57:45,420
+Thank you, thank you.
+
+1029
+00:57:45,560 --> 00:57:48,160
+Long goons, why did you go back to the hole?
+
+1030
+00:57:48,800 --> 00:57:49,360
+I'm worried.
+
+1031
+00:57:50,780 --> 00:57:52,480
+Thank you for the super chat.
+
+1032
+00:57:52,620 --> 00:57:53,340
+Thank you.
+
+1033
+00:57:55,080 --> 00:57:56,580
+Actually, thank you for the super chat.
+
+1034
+00:57:56,700 --> 00:57:57,440
+Thank you, thank you.
+
+1035
+00:57:57,660 --> 00:57:58,960
+It's okay, Long goons.
+
+1036
+00:57:59,440 --> 00:58:00,820
+You go when you feel like it.
+
+1037
+00:58:03,860 --> 00:58:04,980
+It's a test!
+
+1038
+00:58:05,400 --> 00:58:08,400
+He can't test up limited time limits, guys.
+
+1039
+00:58:09,780 --> 00:58:11,920
+There's a time limit in tests.
+
+1040
+00:58:12,160 --> 00:58:14,500
+He can't just go when he wants to.
+
+1041
+00:58:15,780 --> 00:58:16,180
+Thank you.
+
+1042
+00:58:16,180 --> 00:58:18,100
+He just really loves that screen.
+
+1043
+00:58:19,820 --> 00:58:21,060
+Yeah, thank you for the super chat.
+
+1044
+00:58:21,220 --> 00:58:21,980
+Thank you, thank you.
+
+1045
+00:58:22,060 --> 00:58:23,500
+I'm proud of him for trying.
+
+1046
+00:58:24,240 --> 00:58:25,280
+Oh, thank you for the super chat.
+
+1047
+00:58:25,360 --> 00:58:26,060
+Thank you, thank you.
+
+1048
+00:58:26,140 --> 00:58:30,600
+If you didn't read my message, Long goons has two brain cells and both are fighting for third place.
+
+1049
+00:58:30,600 --> 00:58:34,640
+If Long goon ever had a thought, it died alone and afraid.
+
+1050
+00:58:39,640 --> 00:58:41,240
+Come on, Long goon.
+
+1051
+00:58:41,560 --> 00:58:44,760
+Come on, in four minutes, you can get out of that hole.
+
+1052
+00:58:46,860 --> 00:58:48,180
+Thank you for the super chat.
+
+1053
+00:58:48,340 --> 00:58:49,020
+Thank you, thank you.
+
+1054
+00:58:49,260 --> 00:58:50,620
+Why does he keep getting punched?
+
+1055
+00:58:50,740 --> 00:58:51,500
+Is he stupid?
+
+1056
+00:58:52,520 --> 00:58:54,320
+He's... Look, hey, hey, look.
+
+1057
+00:58:54,520 --> 00:58:56,640
+We have... Okay, Long goons.
+
+1058
+00:58:57,220 --> 00:58:58,980
+Long goons, defend yourself.
+
+1059
+00:58:59,200 --> 00:59:00,320
+Why is he like this?
+
+1060
+00:59:12,360 --> 00:59:14,200
+Long goons, defend yourself.
+
+1061
+00:59:17,420 --> 00:59:19,640
+He's just like me.
+
+1062
+00:59:20,080 --> 00:59:20,940
+He is.
+
+1063
+00:59:21,240 --> 00:59:22,160
+He's me.
+
+1064
+00:59:28,780 --> 00:59:30,020
+What do you mean?
+
+1065
+00:59:30,240 --> 00:59:30,920
+What do you mean?
+
+1066
+00:59:33,180 --> 00:59:35,740
+He doesn't represent you.
+
+1067
+00:59:35,900 --> 00:59:36,980
+He was chosen.
+
+1068
+00:59:37,500 --> 00:59:38,540
+You picked him.
+
+1069
+00:59:44,080 --> 00:59:46,700
+Please, Doki, don't delete Long goon.
+
+1070
+00:59:46,880 --> 00:59:48,620
+He taught me how to love.
+
+1071
+00:59:48,960 --> 00:59:50,300
+Thank you for the super chat.
+
+1072
+00:59:50,420 --> 00:59:51,200
+Thank you, thank you.
+
+1073
+00:59:51,540 --> 00:59:53,460
+TikTok, two more minutes.
+
+1074
+00:59:57,480 --> 00:59:58,000
+Good.
+
+1075
+00:59:58,460 --> 00:59:59,640
+Thank you for the super chat.
+
+1076
+00:59:59,740 --> 01:00:00,500
+Thank you, thank you.
+
+1077
+01:00:00,840 --> 01:00:04,540
+Here for Long goons, public exile in less than four minutes.
+
+1078
+01:00:04,540 --> 01:00:05,840
+Thank you for the super chat.
+
+1079
+01:00:05,980 --> 01:00:06,640
+Thank you, thank you.
+
+1080
+01:00:07,180 --> 01:00:07,700
+TikTok.
+
+1081
+01:00:09,720 --> 01:00:11,860
+He's about to get deleted.
+
+1082
+01:00:12,680 --> 01:00:13,200
+TikTok.
+
+1083
+01:00:13,460 --> 01:00:14,500
+Oh my god, he like...
+
+1084
+01:00:14,500 --> 01:00:17,300
+He like entered that hole and then he got afraid.
+
+1085
+01:00:17,300 --> 01:00:18,300
+He got scared.
+
+1086
+01:00:18,580 --> 01:00:19,980
+He's never been there before.
+
+1087
+01:00:25,180 --> 01:00:26,820
+Mark, thank you for the super chat.
+
+1088
+01:00:26,940 --> 01:00:27,840
+Thank you, thank you.
+
+1089
+01:00:28,180 --> 01:00:30,840
+A long neck means it takes longer for...
+
+1090
+01:00:30,840 --> 01:00:32,100
+He went back!
+
+1091
+01:00:32,320 --> 01:00:33,760
+Why did you go back?
+
+1092
+01:00:36,720 --> 01:00:38,200
+No, it's fucked up.
+
+1093
+01:00:38,420 --> 01:00:42,220
+The second hole is actually technically bigger than the first one too.
+
+1094
+01:00:45,660 --> 01:00:46,320
+Why...
+
+1095
+01:00:46,320 --> 01:00:47,820
+Why does...
+
+1096
+01:00:47,820 --> 01:00:49,280
+Why does he run?
+
+1097
+01:00:50,660 --> 01:00:53,380
+He was too scared of the new hole.
+
+1098
+01:00:54,620 --> 01:00:55,320
+It's over.
+
+1099
+01:00:55,720 --> 01:00:58,020
+Put him out of his misery.
+
+1100
+01:00:59,620 --> 01:01:02,000
+Brother, why are you like this?
+
+1101
+01:01:04,160 --> 01:01:06,200
+He like touched it a little bit.
+
+1102
+01:01:06,400 --> 01:01:07,380
+And then he got scared.
+
+1103
+01:01:07,600 --> 01:01:08,820
+And he's like, never again.
+
+1104
+01:01:09,220 --> 01:01:09,660
+Mom...
+
+1105
+01:01:09,660 --> 01:01:10,700
+Mom, please...
+
+1106
+01:01:10,700 --> 01:01:12,020
+Take me back home.
+
+1107
+01:01:17,640 --> 01:01:19,340
+Guys, thank you for the super chat.
+
+1108
+01:01:19,460 --> 01:01:19,720
+Thank you.
+
+1109
+01:01:19,720 --> 01:01:20,380
+Thank you.
+
+1110
+01:01:21,160 --> 01:01:22,880
+Self delete, please.
+
+1111
+01:01:23,200 --> 01:01:28,880
+If he couldn't win when he was literally right next to it, he's a lost cause.
+
+1112
+01:01:29,500 --> 01:01:31,380
+Thank you for the super chat.
+
+1113
+01:01:31,620 --> 01:01:31,780
+Thank you.
+
+1114
+01:01:32,080 --> 01:01:32,640
+Thank you.
+
+1115
+01:01:33,180 --> 01:01:33,960
+Okay, that's...
+
+1116
+01:01:34,280 --> 01:01:35,220
+To be fair, that is true.
+
+1117
+01:01:35,380 --> 01:01:35,940
+He was...
+
+1118
+01:01:35,940 --> 01:01:40,120
+We knew he was special when we put the trophy right next to him.
+
+1119
+01:01:40,120 --> 01:01:42,760
+And then he went the opposite direction.
+
+1120
+01:01:43,420 --> 01:01:43,840
+I...
+
+1121
+01:01:46,000 --> 01:01:46,840
+Two...
+
+1122
+01:01:46,840 --> 01:01:48,340
+One...
+
+1123
+01:01:48,340 --> 01:01:49,120
+Zero...
+
+1124
+01:01:49,820 --> 01:01:51,220
+Bye long goon.
+
+1125
+01:01:51,580 --> 01:01:53,240
+You shall be deleted...
+
+1126
+01:01:53,240 --> 01:01:54,960
+Out of existence now.
+
+1127
+01:01:55,660 --> 01:01:57,940
+Your brethren shall...
+
+1128
+01:01:57,940 --> 01:01:59,460
+Shall win the race for you.
+
+1129
+01:01:59,580 --> 01:02:00,320
+They shall...
+
+1130
+01:02:01,820 --> 01:02:03,940
+Tomato goon shall...
+
+1131
+01:02:03,940 --> 01:02:05,560
+Shall be there in your place.
+
+1132
+01:02:05,560 --> 01:02:07,420
+Alright, let's get...
+
+1133
+01:02:07,420 --> 01:02:08,840
+Reset the level and make a...
+
+1134
+01:02:08,840 --> 01:02:09,020
+Alright.
+
+1135
+01:02:10,800 --> 01:02:12,740
+The final two tests, guys.
+
+1136
+01:02:14,360 --> 01:02:15,680
+I believe in you.
+
+1137
+01:02:16,280 --> 01:02:18,420
+Alright, let's make a new track for us.
+
+1138
+01:02:18,840 --> 01:02:19,180
+Okay.
+
+1139
+01:02:19,720 --> 01:02:20,240
+You know what?
+
+1140
+01:02:20,520 --> 01:02:21,620
+We'll send like...
+
+1141
+01:02:21,620 --> 01:02:23,360
+Some people on this side.
+
+1142
+01:02:23,640 --> 01:02:26,360
+And then some people on the other side.
+
+1143
+01:02:26,520 --> 01:02:27,200
+Okay, here we go.
+
+1144
+01:02:28,200 --> 01:02:28,740
+Alright.
+
+1145
+01:02:31,440 --> 01:02:32,560
+And then...
+
+1146
+01:02:32,560 --> 01:02:35,020
+We'll do something like...
+
+1147
+01:02:36,520 --> 01:02:37,460
+There we go.
+
+1148
+01:02:38,700 --> 01:02:38,820
+Ooh.
+
+1149
+01:02:41,320 --> 01:02:41,920
+Alright.
+
+1150
+01:02:42,820 --> 01:02:45,040
+And then we'll put the trophy...
+
+1151
+01:02:45,380 --> 01:02:46,020
+Right here.
+
+1152
+01:02:49,140 --> 01:02:50,580
+We'll put another race...
+
+1153
+01:02:50,580 --> 01:02:52,580
+We are not doing ten more minutes of that.
+
+1154
+01:02:57,880 --> 01:02:58,580
+The coolest.
+
+1155
+01:02:58,900 --> 01:02:59,640
+You guys like my coolest.
+
+1156
+01:03:00,120 --> 01:03:01,300
+And then we'll put...
+
+1157
+01:03:01,300 --> 01:03:02,440
+Punchers right...
+
+1158
+01:03:02,440 --> 01:03:02,680
+Oh wait.
+
+1159
+01:03:02,840 --> 01:03:04,620
+We'll put the punchers...
+
+1160
+01:03:04,620 --> 01:03:05,820
+Right here.
+
+1161
+01:03:08,500 --> 01:03:09,400
+And then...
+
+1162
+01:03:10,940 --> 01:03:11,540
+Here.
+
+1163
+01:03:13,560 --> 01:03:14,760
+And then...
+
+1164
+01:03:14,760 --> 01:03:15,680
+Here too.
+
+1165
+01:03:15,960 --> 01:03:17,060
+And then we'll put some mines.
+
+1166
+01:03:21,200 --> 01:03:21,800
+Alright.
+
+1167
+01:03:21,940 --> 01:03:23,160
+And then we'll put some oils...
+
+1168
+01:03:23,680 --> 01:03:24,320
+Oil here.
+
+1169
+01:03:24,660 --> 01:03:25,160
+Too.
+
+1170
+01:03:26,280 --> 01:03:27,480
+And then...
+
+1171
+01:03:27,480 --> 01:03:28,640
+The oil pit.
+
+1172
+01:03:28,760 --> 01:03:29,660
+It's like the mud pit.
+
+1173
+01:03:29,840 --> 01:03:30,220
+But...
+
+1174
+01:03:30,220 --> 01:03:30,920
+But hotter.
+
+1175
+01:03:36,220 --> 01:03:36,660
+Yeah.
+
+1176
+01:03:36,660 --> 01:03:36,740
+Yeah.
+
+1177
+01:03:36,980 --> 01:03:37,940
+Get out of the oil.
+
+1178
+01:03:38,980 --> 01:03:39,420
+Alright.
+
+1179
+01:03:39,640 --> 01:03:40,120
+Let's see.
+
+1180
+01:03:40,560 --> 01:03:41,000
+Hey.
+
+1181
+01:03:41,640 --> 01:03:42,420
+There we go.
+
+1182
+01:03:43,500 --> 01:03:43,940
+Okay.
+
+1183
+01:03:44,040 --> 01:03:44,140
+Wait.
+
+1184
+01:03:44,360 --> 01:03:45,160
+Three should be here.
+
+1185
+01:03:45,300 --> 01:03:46,480
+Actually, we'll put two over here.
+
+1186
+01:03:46,680 --> 01:03:47,000
+Alright.
+
+1187
+01:03:47,620 --> 01:03:49,280
+So my four dragoons.
+
+1188
+01:03:49,460 --> 01:03:50,540
+There's always been four.
+
+1189
+01:03:50,540 --> 01:03:51,500
+Four.
+
+1190
+01:03:52,140 --> 01:03:52,820
+Um...
+
+1191
+01:03:52,820 --> 01:03:53,740
+Drag...
+
+1192
+01:03:53,740 --> 01:03:54,200
+Regular goon.
+
+1193
+01:03:54,340 --> 01:03:55,160
+Chonky goon.
+
+1194
+01:03:55,320 --> 01:03:56,180
+Tomato goon.
+
+1195
+01:03:56,420 --> 01:03:57,500
+And egg goon.
+
+1196
+01:03:57,740 --> 01:03:59,900
+There's always been four dragoons.
+
+1197
+01:04:00,120 --> 01:04:01,820
+And those were our four goons.
+
+1198
+01:04:02,120 --> 01:04:02,480
+Alright.
+
+1199
+01:04:02,600 --> 01:04:03,920
+Place your bets, guys.
+
+1200
+01:04:04,200 --> 01:04:05,900
+Who will be your representative?
+
+1201
+01:04:06,260 --> 01:04:07,020
+To fight.
+
+1202
+01:04:07,160 --> 01:04:09,560
+To race against Jovio Dokiman.
+
+1203
+01:04:10,640 --> 01:04:12,100
+Place your bets.
+
+1204
+01:04:19,080 --> 01:04:20,200
+Chonky goon.
+
+1205
+01:04:25,260 --> 01:04:25,820
+Or...
+
+1206
+01:04:27,360 --> 01:04:27,920
+Tomato...
+
+1207
+01:04:27,920 --> 01:04:28,460
+Goon.
+
+1208
+01:04:30,060 --> 01:04:30,480
+Alright.
+
+1209
+01:04:30,660 --> 01:04:31,640
+Place your bets, guys.
+
+1210
+01:04:32,500 --> 01:04:33,560
+Place your bets.
+
+1211
+01:04:36,400 --> 01:04:40,480
+Chonky goon currently has the highest win rate out of all the goons.
+
+1212
+01:04:40,640 --> 01:04:41,860
+But will he be able?
+
+1213
+01:04:42,040 --> 01:04:42,080
+No.
+
+1214
+01:04:43,180 --> 01:04:49,800
+Will he be able to win this race again and get a rematch against Jovio Dokiman.
+
+1215
+01:04:50,880 --> 01:04:51,220
+Alright.
+
+1216
+01:04:51,400 --> 01:04:51,940
+In three.
+
+1217
+01:04:52,340 --> 01:04:52,960
+Two.
+
+1218
+01:04:53,420 --> 01:04:53,820
+One.
+
+1219
+01:04:59,440 --> 01:05:00,120
+Alright.
+
+1220
+01:05:00,200 --> 01:05:02,140
+They're all like slipping in the oil pit.
+
+1221
+01:05:05,210 --> 01:05:08,830
+First they have to get out of the sexy hot oil pit though.
+
+1222
+01:05:09,610 --> 01:05:10,750
+Oh my god.
+
+1223
+01:05:11,210 --> 01:05:12,430
+They all slipped up.
+
+1224
+01:05:13,590 --> 01:05:14,130
+Damon.
+
+1225
+01:05:14,570 --> 01:05:15,770
+Thank you for the super chat.
+
+1226
+01:05:15,950 --> 01:05:16,310
+Thank you.
+
+1227
+01:05:16,550 --> 01:05:17,070
+Thank you.
+
+1228
+01:05:17,410 --> 01:05:17,690
+No.
+
+1229
+01:05:18,050 --> 01:05:18,470
+No.
+
+1230
+01:05:18,610 --> 01:05:19,270
+They can't get it.
+
+1231
+01:05:19,310 --> 01:05:20,970
+They can't make it out of it.
+
+1232
+01:05:20,990 --> 01:05:21,450
+I believe.
+
+1233
+01:05:22,190 --> 01:05:23,910
+Stop saying that.
+
+1234
+01:05:28,200 --> 01:05:29,040
+To be fair.
+
+1235
+01:05:29,200 --> 01:05:31,080
+Tomato is closer to...
+
+1236
+01:05:31,640 --> 01:05:32,020
+Oh.
+
+1237
+01:05:32,320 --> 01:05:33,460
+The tomato goons out.
+
+1238
+01:05:34,040 --> 01:05:35,360
+That's my goon.
+
+1239
+01:05:35,500 --> 01:05:37,500
+I have custody of him on the weekends.
+
+1240
+01:05:39,360 --> 01:05:40,740
+I know that guy.
+
+1241
+01:05:46,550 --> 01:05:47,190
+Oh wait.
+
+1242
+01:05:47,330 --> 01:05:47,350
+No.
+
+1243
+01:05:47,430 --> 01:05:47,510
+No.
+
+1244
+01:05:47,590 --> 01:05:48,030
+Don't go back.
+
+1245
+01:05:48,450 --> 01:05:48,930
+Don't go back.
+
+1246
+01:05:49,030 --> 01:05:49,350
+Come on.
+
+1247
+01:05:49,610 --> 01:05:50,210
+Come on.
+
+1248
+01:05:50,530 --> 01:05:51,770
+Come on, tomato goon.
+
+1249
+01:05:52,090 --> 01:05:52,810
+Come on.
+
+1250
+01:05:53,370 --> 01:05:55,270
+Cause if you win technically, I win.
+
+1251
+01:05:58,650 --> 01:05:59,090
+Look.
+
+1252
+01:05:59,250 --> 01:06:00,230
+Tomato goons are bleeding.
+
+1253
+01:06:00,450 --> 01:06:01,290
+It's just the juices.
+
+1254
+01:06:01,710 --> 01:06:02,250
+Of the sweat.
+
+1255
+01:06:03,170 --> 01:06:04,510
+He's just sweating red.
+
+1256
+01:06:06,030 --> 01:06:08,070
+Only plays on the weekend.
+
+1257
+01:06:08,990 --> 01:06:09,370
+Oh my.
+
+1258
+01:06:09,430 --> 01:06:09,770
+Come on.
+
+1259
+01:06:09,870 --> 01:06:10,690
+You're so close.
+
+1260
+01:06:10,690 --> 01:06:12,890
+You're so close to the fish like tomato.
+
+1261
+01:06:14,970 --> 01:06:16,790
+He's beating up the dragon.
+
+1262
+01:06:18,210 --> 01:06:19,090
+Oh my god.
+
+1263
+01:06:19,710 --> 01:06:19,810
+Oh.
+
+1264
+01:06:20,050 --> 01:06:22,730
+Egg goons fucking sabotage chonky goons.
+
+1265
+01:06:23,410 --> 01:06:23,630
+No.
+
+1266
+01:06:23,850 --> 01:06:24,930
+Not back in the oil.
+
+1267
+01:06:25,130 --> 01:06:25,490
+Come on.
+
+1268
+01:06:27,390 --> 01:06:28,130
+Get out of there.
+
+1269
+01:06:29,870 --> 01:06:30,750
+Come on.
+
+1270
+01:06:32,190 --> 01:06:32,730
+Come on.
+
+1271
+01:06:32,830 --> 01:06:33,450
+You can do this.
+
+1272
+01:06:33,930 --> 01:06:34,730
+Get out of there.
+
+1273
+01:06:35,170 --> 01:06:35,930
+Come on.
+
+1274
+01:06:36,830 --> 01:06:38,830
+Get out of the oil pit.
+
+1275
+01:06:40,410 --> 01:06:40,970
+Get out of there.
+
+1276
+01:06:40,970 --> 01:06:41,430
+OKAY.
+
+1277
+01:06:41,430 --> 01:06:41,870
+It's OKAY.
+
+1278
+01:06:41,950 --> 01:06:44,370
+The egg goon isn't in the corridor yet.
+
+1279
+01:06:44,930 --> 01:06:45,950
+We're still fine.
+
+1280
+01:06:47,590 --> 01:06:47,870
+Yes.
+
+1281
+01:06:48,050 --> 01:06:48,450
+Chonky.
+
+1282
+01:06:48,770 --> 01:06:50,370
+Slow and Steady.
+
+1283
+01:06:50,590 --> 01:06:53,550
+How the fuck did the chonky goon make it to the other side.
+
+1284
+01:06:53,850 --> 01:06:56,530
+Your fucking brother is on the left side still.
+
+1285
+01:07:01,470 --> 01:07:02,570
+You know what they say.
+
+1286
+01:07:02,570 --> 01:07:14,110
+The smaller they are, the more aerodynamic they are... Yeah, Iggoon, yeah... Dragoon just... Just noclip!
+
+1287
+01:07:14,330 --> 01:07:15,790
+Just face through the wall!
+
+1288
+01:07:21,130 --> 01:07:27,230
+I like how... Tomato Goon has been like... Still trapped in the oil pit.
+
+1289
+01:07:28,270 --> 01:07:34,210
+He's just like... He's just like... I just wanna be slippery and shiny.
+
+1290
+01:07:38,290 --> 01:07:40,270
+Yeah, it doesn't matter, they're fast.
+
+1291
+01:07:41,070 --> 01:07:44,250
+It doesn't matter if they're... Oh my god, he's back in the fucking oil pit.
+
+1292
+01:07:45,630 --> 01:07:48,690
+They're just faster to hit the walls, chat.
+
+1293
+01:07:52,670 --> 01:07:55,570
+The oil pit is just too sexy.
+
+1294
+01:07:56,670 --> 01:07:59,370
+He just wanna be a fucking... He just wanna be a fucking salad.
+
+1295
+01:08:03,890 --> 01:08:06,550
+He's not looking too good for Chonky Goon, guys.
+
+1296
+01:08:10,750 --> 01:08:13,970
+Chonky Goon... His whole mission is just to get rid of the bombs.
+
+1297
+01:08:16,250 --> 01:08:23,350
+Chonky Goon... He just... That's his whole mission.
+
+1298
+01:08:26,550 --> 01:08:29,590
+On the wall, Chonky Goon!
+
+1299
+01:08:30,790 --> 01:08:34,830
+Chonky Goon is to be... Deserved to be sent to the power of...
+
+1300
+01:08:34,830 --> 01:08:36,130
+Roar, Iggoon!
+
+1301
+01:08:36,150 --> 01:08:36,710
+Let's go!
+
+1302
+01:08:39,160 --> 01:08:40,300
+All right.
+
+1303
+01:08:41,860 --> 01:08:41,960
+All right.
+
+1304
+01:08:41,960 --> 01:08:42,540
+Agoon!
+
+1305
+01:08:42,640 --> 01:08:43,400
+Chonky Goon!
+
+1306
+01:08:43,400 --> 01:08:44,330
+Now race against...
+
+1307
+01:08:45,160 --> 01:08:45,570
+...Doki...
+
+1308
+01:08:46,400 --> 01:08:47,220
+...Against...
+
+1309
+01:08:47,220 --> 01:08:48,920
+Jovio Dokiment!
+
+1310
+01:08:49,200 --> 01:08:51,360
+A rematch of the century!
+
+1311
+01:08:51,900 --> 01:08:52,680
+All right!
+
+1312
+01:08:53,100 --> 01:08:54,460
+Let us...
+
+1313
+01:08:54,460 --> 01:08:55,220
+Grab...
+
+1314
+01:08:55,220 --> 01:08:56,420
+All right, let me grab...
+
+1315
+01:08:56,420 --> 01:08:58,180
+...one of my favorite maps.
+
+1316
+01:08:58,780 --> 01:08:59,960
+Give me a sec, guys.
+
+1317
+01:08:59,960 --> 01:09:02,680
+I'm gonna grab one of my favorite maps.
+
+1318
+01:09:04,400 --> 01:09:05,860
+That I like to use.
+
+1319
+01:09:06,640 --> 01:09:07,940
+I think it's...
+
+1320
+01:09:08,800 --> 01:09:09,300
+I think it's...
+
+1321
+01:09:09,300 --> 01:09:10,860
+I think it was this one?
+
+1322
+01:09:12,060 --> 01:09:13,020
+This one?
+
+1323
+01:09:13,460 --> 01:09:13,940
+No.
+
+1324
+01:09:14,240 --> 01:09:15,220
+Okay, it's not this one.
+
+1325
+01:09:15,380 --> 01:09:15,960
+Oh, this one.
+
+1326
+01:09:16,040 --> 01:09:16,200
+Yeah.
+
+1327
+01:09:16,740 --> 01:09:17,140
+All right.
+
+1328
+01:09:17,140 --> 01:09:18,380
+Okay.
+
+1329
+01:09:18,380 --> 01:09:18,400
+Heh.
+
+1330
+01:09:18,720 --> 01:09:19,600
+Here we go.
+
+1331
+01:09:21,900 --> 01:09:22,300
+Put...
+
+1332
+01:09:23,060 --> 01:09:23,880
+...this here.
+
+1333
+01:09:26,780 --> 01:09:28,420
+Okay, let's get rid of seven.
+
+1334
+01:09:28,900 --> 01:09:30,720
+And then we'll put two here.
+
+1335
+01:09:31,240 --> 01:09:31,740
+All right.
+
+1336
+01:09:32,220 --> 01:09:33,340
+A rematch.
+
+1337
+01:09:33,340 --> 01:09:34,340
+Let me make the pull.
+
+1338
+01:09:34,640 --> 01:09:35,840
+We're back here.
+
+1339
+01:09:36,140 --> 01:09:37,280
+Where it all began.
+
+1340
+01:09:38,500 --> 01:09:39,460
+Place...
+
+1341
+01:09:39,460 --> 01:09:40,320
+...your...
+
+1342
+01:09:40,320 --> 01:09:41,140
+...bets.
+
+1343
+01:09:44,680 --> 01:09:46,600
+Jovio Dokiment...
+
+1344
+01:09:46,600 --> 01:09:47,820
+...versus...
+
+1345
+01:09:47,820 --> 01:09:48,920
+...Egg...
+
+1346
+01:09:48,920 --> 01:09:49,840
+...Goon.
+
+1347
+01:09:53,400 --> 01:09:54,620
+All right.
+
+1348
+01:09:54,940 --> 01:09:57,260
+If Eggoon wins this...
+
+1349
+01:09:57,260 --> 01:09:59,600
+...you get your announcement, chat.
+
+1350
+01:10:00,480 --> 01:10:02,260
+In three...
+
+1351
+01:10:02,900 --> 01:10:03,860
+...two...
+
+1352
+01:10:04,600 --> 01:10:05,120
+...one.
+
+1353
+01:10:14,400 --> 01:10:16,220
+Eggoon does have size though.
+
+1354
+01:10:16,380 --> 01:10:17,540
+What happens if he loses?
+
+1355
+01:10:19,400 --> 01:10:22,800
+Then we must have a rematch with all the dragoons again.
+
+1356
+01:10:23,640 --> 01:10:24,160
+Until...
+
+1357
+01:10:24,160 --> 01:10:24,700
+What?
+
+1358
+01:10:24,920 --> 01:10:26,320
+Jovio's like, hey loser.
+
+1359
+01:10:28,440 --> 01:10:29,640
+He's like, yeah.
+
+1360
+01:10:30,480 --> 01:10:32,460
+Can't even get out of the hole.
+
+1361
+01:10:32,820 --> 01:10:33,200
+Oh shit.
+
+1362
+01:10:33,300 --> 01:10:33,680
+Never mind.
+
+1363
+01:10:33,960 --> 01:10:35,900
+He taught the Eggoon how to get out of the hole.
+
+1364
+01:10:36,100 --> 01:10:37,460
+He felt bad for him.
+
+1365
+01:10:38,280 --> 01:10:40,160
+Jovio's taunting him.
+
+1366
+01:10:41,420 --> 01:10:44,640
+He taunted him, but Eggoon felt so inspired.
+
+1367
+01:10:45,020 --> 01:10:47,200
+He was like, that's it.
+
+1368
+01:10:48,260 --> 01:10:50,260
+I won't let you win.
+
+1369
+01:10:50,700 --> 01:10:51,920
+For the dragoons!
+
+1370
+01:10:55,020 --> 01:10:56,580
+Thank you for the super chat.
+
+1371
+01:10:56,700 --> 01:10:57,060
+Thank you.
+
+1372
+01:10:57,220 --> 01:10:57,760
+Thank you.
+
+1373
+01:10:58,060 --> 01:10:59,960
+He's winning by pure spite!
+
+1374
+01:11:03,320 --> 01:11:04,000
+Oh no.
+
+1375
+01:11:04,540 --> 01:11:05,600
+Jovio, Doki, please.
+
+1376
+01:11:06,360 --> 01:11:07,100
+Doki, please.
+
+1377
+01:11:07,260 --> 01:11:07,340
+Doki, please.
+
+1378
+01:11:07,340 --> 01:11:07,720
+Doki, please.
+
+1379
+01:11:07,720 --> 01:11:07,780
+Doki, man.
+
+1380
+01:11:07,980 --> 01:11:09,080
+Get out of the hole!
+
+1381
+01:11:09,080 --> 01:11:11,260
+You've taunted him enough!
+
+1382
+01:11:14,020 --> 01:11:17,580
+If he loses, he's gonna be scrambled good.
+
+1383
+01:11:18,100 --> 01:11:18,340
+Sorry.
+
+1384
+01:11:18,780 --> 01:11:20,020
+Thank you for the super chat.
+
+1385
+01:11:20,360 --> 01:11:20,500
+Thank you.
+
+1386
+01:11:20,740 --> 01:11:21,240
+Thank you.
+
+1387
+01:11:22,100 --> 01:11:23,520
+Avenge your brothers!
+
+1388
+01:11:23,860 --> 01:11:26,540
+For the Longoon that's trapped in hell!
+
+1389
+01:11:29,820 --> 01:11:35,320
+He can't even see it and he's made more progress than Longoon did in 10 minutes.
+
+1390
+01:11:36,800 --> 01:11:37,440
+Please!
+
+1391
+01:11:37,740 --> 01:11:39,900
+For your brother that's stuck in hell!
+
+1392
+01:11:39,900 --> 01:11:40,040
+No!
+
+1393
+01:11:43,730 --> 01:11:45,090
+Come on, Doki, man.
+
+1394
+01:11:45,550 --> 01:11:46,770
+Come on, Doki.
+
+1395
+01:11:47,450 --> 01:11:48,830
+You got this!
+
+1396
+01:11:50,140 --> 01:11:52,210
+Doki Field was able to beat this map!
+
+1397
+01:11:53,350 --> 01:11:54,950
+With his eyes closed!
+
+1398
+01:11:55,550 --> 01:11:57,210
+No, please stop showing your ass!
+
+1399
+01:11:57,330 --> 01:11:58,390
+I know it's cheeky!
+
+1400
+01:11:58,670 --> 01:12:00,250
+I know you're kicked up!
+
+1401
+01:12:00,510 --> 01:12:01,410
+We all do!
+
+1402
+01:12:01,830 --> 01:12:04,230
+Each Doki has kicked up asses!
+
+1403
+01:12:08,610 --> 01:12:09,990
+We all do!
+
+1404
+01:12:09,990 --> 01:12:13,110
+There's no Doki that doesn't have the cake!
+
+1405
+01:12:19,330 --> 01:12:20,110
+Of course...
+
+1406
+01:12:20,110 --> 01:12:21,210
+Of course Kroki does!
+
+1407
+01:12:21,450 --> 01:12:23,170
+The tail feather is just hiding the cake!
+
+1408
+01:12:27,580 --> 01:12:28,560
+Oh my god!
+
+1409
+01:12:28,740 --> 01:12:29,540
+Get down from there!
+
+1410
+01:12:29,660 --> 01:12:30,020
+Come on!
+
+1411
+01:12:30,320 --> 01:12:31,060
+Just need to get down!
+
+1412
+01:12:31,940 --> 01:12:33,220
+Come on, Doki-ville!
+
+1413
+01:12:33,680 --> 01:12:34,440
+Come on!
+
+1414
+01:12:34,880 --> 01:12:35,840
+Come on, Doki-man!
+
+1415
+01:12:36,120 --> 01:12:36,760
+Come on!
+
+1416
+01:12:37,720 --> 01:12:38,940
+Enough with his hole!
+
+1417
+01:12:39,240 --> 01:12:41,820
+I know you like the egg goon's hole, but enough!
+
+1418
+01:12:42,360 --> 01:12:42,480
+Bro!
+
+1419
+01:12:42,940 --> 01:12:44,100
+You're scaring me!
+
+1420
+01:12:46,780 --> 01:12:49,460
+He's good pushing Jovial in the box!
+
+1421
+01:12:50,260 --> 01:12:51,020
+No!
+
+1422
+01:12:51,240 --> 01:12:52,500
+Stop gapping him!
+
+1423
+01:12:53,080 --> 01:12:53,700
+Stop!
+
+1424
+01:12:56,560 --> 01:12:57,760
+Stop gapping!
+
+1425
+01:13:04,430 --> 01:13:07,770
+They really like that top of the map!
+
+1426
+01:13:08,190 --> 01:13:11,310
+Bro, he's like playing fucking goalkeeper right now!
+
+1427
+01:13:11,610 --> 01:13:12,430
+Oh, it's okay!
+
+1428
+01:13:12,830 --> 01:13:13,570
+No, Jovial, please!
+
+1429
+01:13:13,950 --> 01:13:14,770
+Jovial, downstairs!
+
+1430
+01:13:15,150 --> 01:13:15,630
+Downstairs!
+
+1431
+01:13:16,910 --> 01:13:18,950
+That's for tossing it!
+
+1432
+01:13:20,110 --> 01:13:21,050
+Come on!
+
+1433
+01:13:23,810 --> 01:13:24,950
+You're just flexing!
+
+1434
+01:13:26,210 --> 01:13:26,930
+Come on, come on!
+
+1435
+01:13:27,030 --> 01:13:27,270
+No!
+
+1436
+01:13:27,510 --> 01:13:27,870
+Come on!
+
+1437
+01:13:27,990 --> 01:13:28,610
+It's right there!
+
+1438
+01:13:28,770 --> 01:13:29,750
+It's right there, Jovial!
+
+1439
+01:13:29,990 --> 01:13:30,770
+It's right there!
+
+1440
+01:13:30,990 --> 01:13:31,450
+Come on!
+
+1441
+01:13:32,530 --> 01:13:32,850
+Look!
+
+1442
+01:13:32,850 --> 01:13:35,130
+And Goon came back just to say hi!
+
+1443
+01:13:35,390 --> 01:13:36,210
+It's your chance!
+
+1444
+01:13:36,370 --> 01:13:36,930
+It's your time!
+
+1445
+01:13:37,870 --> 01:13:39,710
+Toasting you for the super chat!
+
+1446
+01:13:39,830 --> 01:13:40,710
+Thank you, thank you!
+
+1447
+01:13:41,670 --> 01:13:44,470
+That reflects the streamer we're kicked up to!
+
+1448
+01:13:46,410 --> 01:13:47,250
+Oh, that's good!
+
+1449
+01:13:47,330 --> 01:13:47,630
+That's good!
+
+1450
+01:13:47,810 --> 01:13:48,530
+He's distracted!
+
+1451
+01:13:51,470 --> 01:13:54,070
+He's like the turtle in the hair!
+
+1452
+01:13:54,870 --> 01:13:56,290
+He's taking a nap right now!
+
+1453
+01:13:56,670 --> 01:13:57,550
+Fighting his time!
+
+1454
+01:13:58,750 --> 01:13:59,410
+Come on, Jovial!
+
+1455
+01:13:59,530 --> 01:14:00,530
+I know you got this!
+
+1456
+01:14:01,230 --> 01:14:02,550
+For the Doki Council!
+
+1457
+01:14:02,810 --> 01:14:03,610
+For the Doki-verse!
+
+1458
+01:14:04,430 --> 01:14:06,410
+Every Doki in the Doki-verse is a winner!
+
+1459
+01:14:06,590 --> 01:14:06,810
+Come on!
+
+1460
+01:14:06,910 --> 01:14:07,510
+Yes, Jovial!
+
+1461
+01:14:07,710 --> 01:14:07,910
+Yes!
+
+1462
+01:14:08,790 --> 01:14:09,970
+Don't disappoint me!
+
+1463
+01:14:11,850 --> 01:14:12,610
+Yes!
+
+1464
+01:14:13,150 --> 01:14:13,730
+Yes!
+
+1465
+01:14:16,730 --> 01:14:18,030
+He's building up speed!
+
+1466
+01:14:18,830 --> 01:14:19,350
+No!
+
+1467
+01:14:19,670 --> 01:14:19,750
+No!
+
+1468
+01:14:19,870 --> 01:14:20,390
+Go back down!
+
+1469
+01:14:20,770 --> 01:14:20,970
+No!
+
+1470
+01:14:21,190 --> 01:14:21,450
+Yes!
+
+1471
+01:14:22,630 --> 01:14:23,390
+No!
+
+1472
+01:14:24,110 --> 01:14:24,870
+Oh
+
+1473
+01:14:33,150 --> 01:14:34,930
+my god!
+
+1474
+01:14:35,090 --> 01:14:36,170
+He's just following him!
+
+1475
+01:14:38,370 --> 01:14:39,970
+Escape the hole!
+
+1476
+01:14:41,050 --> 01:14:41,890
+Oh, we're so close!
+
+1477
+01:14:43,110 --> 01:14:43,850
+Right there!
+
+1478
+01:14:44,610 --> 01:14:45,570
+In there!
+
+1479
+01:14:46,890 --> 01:14:48,850
+They're just pretending to race!
+
+1480
+01:14:49,130 --> 01:14:51,070
+So they can have fun in the hole!
+
+1481
+01:14:52,850 --> 01:14:54,930
+It's like a little intermission for them!
+
+1482
+01:14:55,790 --> 01:14:56,330
+Okay, that's good!
+
+1483
+01:14:56,630 --> 01:14:58,190
+Aguna's trapped on the left side!
+
+1484
+01:14:58,610 --> 01:15:00,670
+He hasn't know how to enter the third hole yet!
+
+1485
+01:15:01,570 --> 01:15:03,610
+Because some people don't know there's a third hole!
+
+1486
+01:15:07,030 --> 01:15:07,810
+Oh, yes!
+
+1487
+01:15:08,310 --> 01:15:09,430
+Take over his hole!
+
+1488
+01:15:10,970 --> 01:15:11,870
+That's good, that's good!
+
+1489
+01:15:11,990 --> 01:15:12,310
+Block him!
+
+1490
+01:15:12,310 --> 01:15:12,830
+Block him!
+
+1491
+01:15:12,970 --> 01:15:14,050
+Now just head down!
+
+1492
+01:15:14,410 --> 01:15:15,210
+Head down, Jovial!
+
+1493
+01:15:15,470 --> 01:15:15,630
+Yes!
+
+1494
+01:15:16,050 --> 01:15:16,750
+Down is up!
+
+1495
+01:15:17,110 --> 01:15:17,410
+Yes!
+
+1496
+01:15:17,570 --> 01:15:18,150
+Down is up!
+
+1497
+01:15:24,140 --> 01:15:25,340
+And then you go up!
+
+1498
+01:15:25,500 --> 01:15:26,660
+And then you go up, Jovial!
+
+1499
+01:15:27,040 --> 01:15:28,000
+And then you go up!
+
+1500
+01:15:28,140 --> 01:15:28,260
+Please!
+
+1501
+01:15:28,540 --> 01:15:29,180
+Then you go!
+
+1502
+01:15:29,320 --> 01:15:29,680
+Yes!
+
+1503
+01:15:29,900 --> 01:15:30,300
+Yes!
+
+1504
+01:15:35,590 --> 01:15:37,470
+Come on, dragoons!
+
+1505
+01:15:38,070 --> 01:15:40,030
+How can you guys not win that?
+
+1506
+01:15:40,310 --> 01:15:41,450
+Down is up!
+
+1507
+01:15:41,450 --> 01:15:42,050
+No!
+
+1508
+01:15:42,910 --> 01:15:43,690
+It's okay!
+
+1509
+01:15:43,970 --> 01:15:45,310
+I believe in you guys!
+
+1510
+01:15:45,490 --> 01:15:47,950
+I guess I just gotta give you guys another map!
+
+1511
+01:15:48,770 --> 01:15:49,190
+Alright!
+
+1512
+01:15:49,330 --> 01:15:50,130
+How about...
+
+1513
+01:15:50,130 --> 01:15:52,750
+I'll give you an easy map, guys!
+
+1514
+01:15:53,110 --> 01:15:53,350
+Look!
+
+1515
+01:15:53,570 --> 01:15:55,610
+I'll give you guys such...
+
+1516
+01:15:55,610 --> 01:15:56,190
+You know what?
+
+1517
+01:15:56,390 --> 01:15:56,730
+No!
+
+1518
+01:15:57,110 --> 01:15:57,390
+Alright!
+
+1519
+01:15:57,390 --> 01:15:57,870
+Oh!
+
+1520
+01:15:58,290 --> 01:15:58,830
+Oh!
+
+1521
+01:15:58,830 --> 01:15:59,170
+Come on!
+
+1522
+01:15:59,670 --> 01:16:02,870
+Look at how easy this map is!
+
+1523
+01:16:02,970 --> 01:16:03,270
+There's...
+
+1524
+01:16:03,270 --> 01:16:04,150
+Come on, guys!
+
+1525
+01:16:04,490 --> 01:16:06,550
+You guys just need to train one more time!
+
+1526
+01:16:06,810 --> 01:16:08,430
+And then it should be okay!
+
+1527
+01:16:09,270 --> 01:16:12,610
+You guys just need to train one more time!
+
+1528
+01:16:12,610 --> 01:16:13,810
+And then you'll be fine!
+
+1529
+01:16:14,090 --> 01:16:14,390
+Oh my god!
+
+1530
+01:16:14,470 --> 01:16:17,730
+Look at all these losers here that bet on the wrong Doki!
+
+1531
+01:16:22,870 --> 01:16:24,050
+Look at that!
+
+1532
+01:16:24,170 --> 01:16:27,050
+See, the trophy is literally right here!
+
+1533
+01:16:27,490 --> 01:16:29,970
+There's no way to fuck it up, guys!
+
+1534
+01:16:30,570 --> 01:16:31,130
+There's...
+
+1535
+01:16:31,130 --> 01:16:35,570
+Look at that!
+
+1536
+01:16:36,150 --> 01:16:38,610
+It's literally right there!
+
+1537
+01:16:39,170 --> 01:16:41,330
+There's no way you guys can fuck it up!
+
+1538
+01:16:41,330 --> 01:16:42,230
+This should be...
+
+1539
+01:16:42,230 --> 01:16:42,930
+Oh my god!
+
+1540
+01:16:43,010 --> 01:16:44,490
+Ikkun was like...
+
+1541
+01:16:44,490 --> 01:16:44,730
+Look at!
+
+1542
+01:16:44,970 --> 01:16:45,710
+What the fuck!
+
+1543
+01:16:46,150 --> 01:16:46,970
+Oh my god!
+
+1544
+01:16:47,170 --> 01:16:48,070
+Ikkun was like...
+
+1545
+01:16:48,070 --> 01:16:49,750
+I want a rematch!
+
+1546
+01:16:50,170 --> 01:16:50,710
+I...
+
+1547
+01:16:52,170 --> 01:16:53,990
+He locked it!
+
+1548
+01:16:55,930 --> 01:16:57,130
+He wanted...
+
+1549
+01:16:57,130 --> 01:16:57,670
+He's like...
+
+1550
+01:16:57,670 --> 01:16:58,730
+I heard no bell!
+
+1551
+01:17:01,950 --> 01:17:02,550
+Alright!
+
+1552
+01:17:02,950 --> 01:17:04,870
+We'll do an easier map!
+
+1553
+01:17:05,450 --> 01:17:07,390
+Just cause I'm a little worried...
+
+1554
+01:17:07,390 --> 01:17:07,870
+Wait...
+
+1555
+01:17:07,870 --> 01:17:08,850
+I'm a little...
+
+1556
+01:17:08,850 --> 01:17:10,070
+I'm a little...
+
+1557
+01:17:10,710 --> 01:17:11,310
+Worried...
+
+1558
+01:17:11,310 --> 01:17:12,110
+For a goon!
+
+1559
+01:17:12,650 --> 01:17:13,170
+Ha ha ha ha!
+
+1560
+01:17:13,910 --> 01:17:14,650
+Let's see it!
+
+1561
+01:17:15,250 --> 01:17:16,370
+We'll do...
+
+1562
+01:17:17,230 --> 01:17:18,710
+Okay, no, not this one!
+
+1563
+01:17:18,990 --> 01:17:20,490
+This one's called Purgatory!
+
+1564
+01:17:20,830 --> 01:17:22,970
+This might be a little difficult for you!
+
+1565
+01:17:23,350 --> 01:17:24,470
+Ha ha ha ha!
+
+1566
+01:17:25,030 --> 01:17:25,670
+Ha ha ha ha!
+
+1567
+01:17:26,030 --> 01:17:26,390
+Ha ha ha ha!
+
+1568
+01:17:27,230 --> 01:17:27,830
+Hmm...
+
+1569
+01:17:27,830 --> 01:17:29,450
+There's one good one...
+
+1570
+01:17:29,450 --> 01:17:30,330
+Oh...
+
+1571
+01:17:30,330 --> 01:17:31,350
+Oh this one!
+
+1572
+01:17:31,490 --> 01:17:31,730
+Alright!
+
+1573
+01:17:32,250 --> 01:17:33,190
+We'll swap it!
+
+1574
+01:17:33,190 --> 01:17:34,390
+Alright!
+
+1575
+01:17:35,390 --> 01:17:35,430
+Alright!
+
+1576
+01:17:35,430 --> 01:17:37,330
+The chonky goon is here to watch too!
+
+1577
+01:17:37,670 --> 01:17:37,710
+Heh!
+
+1578
+01:17:38,210 --> 01:17:38,530
+Alright!
+
+1579
+01:17:38,950 --> 01:17:40,710
+Place your bets everyone!
+
+1580
+01:17:41,770 --> 01:17:42,490
+Start pull!
+
+1581
+01:17:42,770 --> 01:17:43,470
+Place...
+
+1582
+01:17:43,470 --> 01:17:44,170
+Your...
+
+1583
+01:17:44,170 --> 01:17:45,370
+Bets...
+
+1584
+01:17:45,370 --> 01:17:46,070
+Ig...
+
+1585
+01:17:46,070 --> 01:17:47,150
+Goon...
+
+1586
+01:17:47,150 --> 01:17:48,290
+Or...
+
+1587
+01:17:48,290 --> 01:17:49,130
+Yeah!
+
+1588
+01:17:49,290 --> 01:17:49,830
+That's where...
+
+1589
+01:17:49,830 --> 01:17:50,670
+Long goon is!
+
+1590
+01:17:50,710 --> 01:17:51,810
+We're not going to Purgatory!
+
+1591
+01:17:52,470 --> 01:17:52,670
+Ha ha ha!
+
+1592
+01:17:52,930 --> 01:17:54,250
+That's where the losers are!
+
+1593
+01:17:55,530 --> 01:17:56,230
+Versus...
+
+1594
+01:17:56,230 --> 01:17:57,590
+Jovio...
+
+1595
+01:17:57,590 --> 01:17:58,670
+Doki-Mint!
+
+1596
+01:17:59,010 --> 01:17:59,810
+Ha ha ha!
+
+1597
+01:18:01,970 --> 01:18:02,730
+Alright!
+
+1598
+01:18:05,070 --> 01:18:05,830
+Revenge!
+
+1599
+01:18:06,110 --> 01:18:07,750
+The rematch of the century!
+
+1600
+01:18:10,050 --> 01:18:10,770
+Here we go!
+
+1601
+01:18:15,060 --> 01:18:16,060
+Ha ha ha!
+
+1602
+01:18:16,720 --> 01:18:17,940
+Oh my god!
+
+1603
+01:18:18,060 --> 01:18:18,940
+Jovio ready!
+
+1604
+01:18:19,280 --> 01:18:21,260
+It fucking bumped into the egg goon!
+
+1605
+01:18:21,600 --> 01:18:22,720
+Like it's hockey!
+
+1606
+01:18:26,240 --> 01:18:28,340
+An egg we trust!
+
+1607
+01:18:29,380 --> 01:18:29,980
+Look!
+
+1608
+01:18:30,200 --> 01:18:32,140
+We even have your brothers here to watch!
+
+1609
+01:18:32,960 --> 01:18:35,860
+They're like, If you lose this we'll fucking eat you!
+
+1610
+01:18:36,200 --> 01:18:36,860
+Ha ha ha!
+
+1611
+01:18:37,800 --> 01:18:37,960
+Ha ha ha!
+
+1612
+01:18:37,960 --> 01:18:38,420
+Ha ha ha!
+
+1613
+01:18:38,820 --> 01:18:40,740
+Jovio ready being aggressive!
+
+1614
+01:18:41,260 --> 01:18:43,300
+And shank the egg on the drive-by!
+
+1615
+01:18:44,620 --> 01:18:45,740
+The chonk...
+
+1616
+01:18:45,740 --> 01:18:48,240
+The extra chonky goons gotta watch!
+
+1617
+01:18:48,460 --> 01:18:48,760
+He's...
+
+1618
+01:18:48,760 --> 01:18:49,000
+They're...
+
+1619
+01:18:49,000 --> 01:18:51,480
+They're giving extra pressure to egg goon!
+
+1620
+01:18:51,680 --> 01:18:54,580
+They're like, If you fuck this up for us brother...
+
+1621
+01:18:54,960 --> 01:18:56,760
+You shall be consumed!
+
+1622
+01:18:56,760 --> 01:18:59,080
+We're so hungry!
+
+1623
+01:18:59,480 --> 01:19:00,800
+Ha ha ha ha!
+
+1624
+01:19:01,160 --> 01:19:01,900
+Ha ha ha!
+
+1625
+01:19:02,660 --> 01:19:03,220
+Ha ha ha!
+
+1626
+01:19:03,220 --> 01:19:04,880
+We're so hungry!
+
+1627
+01:19:05,700 --> 01:19:06,640
+Ha ha ha ha!
+
+1628
+01:19:07,260 --> 01:19:10,650
+Ha ha ha ha!
+
+1629
+01:19:10,870 --> 01:19:11,630
+Ha ha ha!
+
+1630
+01:19:12,430 --> 01:19:13,490
+Come on Jovio!
+
+1631
+01:19:13,770 --> 01:19:14,670
+I know you wanna...
+
+1632
+01:19:14,670 --> 01:19:17,910
+You wanna like, give egg goon a false sense of security!
+
+1633
+01:19:18,310 --> 01:19:19,990
+But I know you also wanna win!
+
+1634
+01:19:20,270 --> 01:19:20,810
+Don't you?
+
+1635
+01:19:21,030 --> 01:19:22,650
+You come from a line of winners!
+
+1636
+01:19:22,650 --> 01:19:22,870
+Yes!
+
+1637
+01:19:23,650 --> 01:19:25,390
+She took his lunch money.
+
+1638
+01:19:25,830 --> 01:19:27,510
+But the egg will take the win!
+
+1639
+01:19:28,070 --> 01:19:29,550
+Alan, thank you for the super chat.
+
+1640
+01:19:29,650 --> 01:19:29,810
+Thank you.
+
+1641
+01:19:29,910 --> 01:19:30,210
+Thank you.
+
+1642
+01:19:30,530 --> 01:19:34,050
+Oh, both Jovial and Egg Goon are on the bottom left.
+
+1643
+01:19:34,290 --> 01:19:34,670
+Never mind.
+
+1644
+01:19:34,830 --> 01:19:36,370
+Jovial was like, I don't like that.
+
+1645
+01:19:37,070 --> 01:19:37,510
+Whoa!
+
+1646
+01:19:38,030 --> 01:19:38,930
+Egg Goon!
+
+1647
+01:19:39,290 --> 01:19:39,730
+Yeah!
+
+1648
+01:19:40,570 --> 01:19:40,810
+No!
+
+1649
+01:19:50,070 --> 01:19:51,430
+So that's right up here.
+
+1650
+01:19:51,590 --> 01:19:52,070
+You know what?
+
+1651
+01:19:52,250 --> 01:19:53,110
+No, it makes sense.
+
+1652
+01:19:53,410 --> 01:19:54,030
+It makes sense.
+
+1653
+01:19:54,130 --> 01:19:55,250
+Literally, he was surrounded.
+
+1654
+01:19:55,250 --> 01:20:00,790
+He was surrounded by all the other Dragoons there.
+
+1655
+01:20:00,990 --> 01:20:02,150
+He just didn't want to get eaten.
+
+1656
+01:20:02,430 --> 01:20:03,810
+You know, that makes sense.
+
+1657
+01:20:04,410 --> 01:20:13,890
+I did say, I did promise you guys, that the moment you Dragoons finally pass the test, you get your announcement.
+
+1658
+01:20:14,630 --> 01:20:23,770
+Before I give you guys the announcement, I just want to say that you can also play the game yourself.
+
+1659
+01:20:23,770 --> 01:20:25,730
+So here is the pin link.
+
+1660
+01:20:26,370 --> 01:20:27,630
+The pin comment.
+
+1661
+01:20:27,950 --> 01:20:30,730
+Sorry, my brain isn't English-ing right now.
+
+1662
+01:20:34,670 --> 01:20:45,270
+But, if you want to play and try out the mod yourself, feel free to download the game on the itch.io page.
+
+1663
+01:20:45,570 --> 01:20:52,750
+And you can also mess around, create your own maps, do your own embedding system, seeing what Dragoon would win.
+
+1664
+01:20:54,630 --> 01:21:06,130
+Huge shout-out again to the team for doing this in such a short time span and being able to do, like, this mini game jam with me.
+
+1665
+01:21:07,670 --> 01:21:11,090
+And, you know, creating something really fun for all of you guys.
+
+1666
+01:21:11,090 --> 01:21:19,210
+I had a great time watching the progress of everything being made and seeing it all come together.
+
+1667
+01:21:19,430 --> 01:21:20,830
+So, huge shout-out to the team again.
+
+1668
+01:21:21,310 --> 01:21:28,630
+If you guys want to check their socials, you can see it on the itch.io page where it links to all the creators that helped me with making this.
+
+1669
+01:21:28,630 --> 01:21:41,450
+Anyway, but Iggoon, to all the Iggoons out there, congratulations on winning, on being the chosen Dragoon representative.
+
+1670
+01:21:41,450 --> 01:21:45,050
+To beat Jovio Dohima.
+
+1671
+01:21:46,150 --> 01:21:50,330
+You are the peak Dragoon form.
+
+1672
+01:21:50,710 --> 01:21:55,190
+Now, on to the announcement as your prize.
+
+1673
+01:22:33,210 --> 01:22:34,290
+Yeah!
+
+1674
+01:22:34,990 --> 01:22:36,390
+It's a new outfit!
+
+1675
+01:22:37,150 --> 01:22:37,490
+Yes!
+
+1676
+01:22:38,110 --> 01:22:46,250
+Finally, a new outfit reveal for... Sorry, my brain is not working.
+
+1677
+01:22:47,170 --> 01:22:51,610
+I'm such like an amateur right now.
+
+1678
+01:22:51,790 --> 01:22:52,830
+I'm so tired.
+
+1679
+01:22:54,170 --> 01:22:58,750
+But yes, we're finally gonna have our own beach episode!
+
+1680
+01:23:00,470 --> 01:23:09,250
+Next week, starting next week on June 20th, 5pm PSC, we will have our own beach episode!
+
+1681
+01:23:09,610 --> 01:23:09,870
+Yes!
+
+1682
+01:23:10,010 --> 01:23:11,830
+My very first outfit reveal!
+
+1683
+01:23:12,230 --> 01:23:12,490
+Yay!
+
+1684
+01:23:13,610 --> 01:23:15,610
+Since coming back as the Bounty Honor!
+
+1685
+01:23:16,910 --> 01:23:17,990
+I'm really looking forward.
+
+1686
+01:23:18,730 --> 01:23:20,190
+I'm really looking forward to it.
+
+1687
+01:23:21,610 --> 01:23:25,430
+I have some fucking crazy ideas for that stream.
+
+1688
+01:23:25,630 --> 01:23:26,170
+Well, not crazy.
+
+1689
+01:23:26,170 --> 01:23:27,290
+I don't want to hype it up.
+
+1690
+01:23:30,410 --> 01:23:32,310
+It's just nice to be creative again.
+
+1691
+01:23:32,570 --> 01:23:34,170
+So, I'm super excited.
+
+1692
+01:23:34,770 --> 01:23:36,190
+Luka, thank you for the Akasupa!
+
+1693
+01:23:36,390 --> 01:23:36,610
+Thank you!
+
+1694
+01:23:36,730 --> 01:23:37,310
+Thank you!
+
+1695
+01:23:37,450 --> 01:23:38,630
+I really appreciate it!
+
+1696
+01:23:38,630 --> 01:23:39,730
+Beach ball suit!
+
+1697
+01:23:39,930 --> 01:23:40,510
+Let's go!
+
+1698
+01:23:40,950 --> 01:23:42,010
+Next week, they give a super chat.
+
+1699
+01:23:42,090 --> 01:23:42,270
+Thank you!
+
+1700
+01:23:42,390 --> 01:23:42,810
+Thank you!
+
+1701
+01:23:43,010 --> 01:23:45,150
+So excited for the summer outfit reveal.
+
+1702
+01:23:45,570 --> 01:23:45,850
+See ya!
+
+1703
+01:23:45,910 --> 01:23:46,590
+They give a super chat.
+
+1704
+01:23:46,650 --> 01:23:46,830
+Thank you!
+
+1705
+01:23:46,910 --> 01:23:47,250
+Thank you!
+
+1706
+01:23:47,330 --> 01:23:50,410
+If Doki is a beach bird, does that mean she's a seagull now?
+
+1707
+01:23:50,630 --> 01:23:51,290
+They give a super chat.
+
+1708
+01:23:51,350 --> 01:23:51,570
+Thank you!
+
+1709
+01:23:51,670 --> 01:23:52,090
+Thank you!
+
+1710
+01:23:52,090 --> 01:23:52,670
+Alright!
+
+1711
+01:23:53,090 --> 01:23:56,410
+So, a little context about this outfit.
+
+1712
+01:23:56,690 --> 01:24:01,330
+This outfit is actually one of the charity goal outfits.
+
+1713
+01:24:01,870 --> 01:24:11,270
+So, the winner of the auction that got to pick the theme of this outfit decided to pick summer outfit.
+
+1714
+01:24:11,270 --> 01:24:18,690
+So, this is... your fellow dragoon actually helped design this particular outfit as well.
+
+1715
+01:24:18,930 --> 01:24:20,950
+So, I hope you guys look forward to it.
+
+1716
+01:24:21,530 --> 01:24:24,830
+And it is a summer theme slash beach episode.
+
+1717
+01:24:25,330 --> 01:24:28,810
+I will post the silhouette of it later today.
+
+1718
+01:24:28,850 --> 01:24:33,890
+As well as the dragoon race test where people want to download it on Twitter.
+
+1719
+01:24:34,530 --> 01:24:35,130
+But yeah!
+
+1720
+01:24:35,370 --> 01:24:36,510
+I look forward to it, guys.
+
+1721
+01:24:37,050 --> 01:24:40,870
+It's gonna be really... it's gonna be fun to have something new.
+
+1722
+01:24:41,330 --> 01:24:42,290
+A new skin suit.
+
+1723
+01:24:43,350 --> 01:24:45,350
+And... it's gonna be fun to have a new skin suit.
+
+1724
+01:24:45,470 --> 01:24:48,910
+And just to show you guys new hairstyle and everything.
+
+1725
+01:24:49,270 --> 01:24:50,530
+It's gonna be fun in general.
+
+1726
+01:24:51,130 --> 01:24:52,890
+But thank you guys for coming, everyone!
+
+1727
+01:24:53,030 --> 01:24:56,330
+I did... I didn't know what to do for like...
+
+1728
+01:24:56,330 --> 01:25:00,410
+But like... okay, I like struggled a little bit trying to think of how to do with this type of announcements.
+
+1729
+01:25:00,570 --> 01:25:03,410
+Cause I, you know, I miss doing creative stuff for you guys.
+
+1730
+01:25:03,410 --> 01:25:06,350
+It's been a very long time since...
+
+1731
+01:25:06,350 --> 01:25:09,150
+Since I've done creative stuff these days.
+
+1732
+01:25:09,370 --> 01:25:11,030
+Since I've been like super busy.
+
+1733
+01:25:11,730 --> 01:25:14,870
+And, you know, just playing... just streaming games and stuff.
+
+1734
+01:25:15,090 --> 01:25:16,970
+Because of how busy I was.
+
+1735
+01:25:17,130 --> 01:25:20,010
+And there's so much stuff behind the scenes and everything.
+
+1736
+01:25:21,070 --> 01:25:21,670
+So...
+
+1737
+01:25:21,670 --> 01:25:25,370
+And then sometimes I get like ideas and inspirations.
+
+1738
+01:25:25,630 --> 01:25:27,050
+So fucking last minute.
+
+1739
+01:25:27,050 --> 01:25:30,270
+So I really appreciate the team for enabling me.
+
+1740
+01:25:30,270 --> 01:25:34,190
+And for like putting up with like, you know, such a tight deadline.
+
+1741
+01:25:34,210 --> 01:25:36,110
+To put all of this together.
+
+1742
+01:25:36,630 --> 01:25:37,410
+As the announcement.
+
+1743
+01:25:39,150 --> 01:25:40,370
+And it was...
+
+1744
+01:25:40,370 --> 01:25:42,490
+I really appreciate them as well.
+
+1745
+01:25:42,650 --> 01:25:45,330
+For creating all of this together with me.
+
+1746
+01:25:45,770 --> 01:25:47,110
+So huge shout out for the team.
+
+1747
+01:25:47,290 --> 01:25:49,310
+And it's been fun doing something creative like this again.
+
+1748
+01:25:50,030 --> 01:25:52,090
+I always enjoy doing stuff like this.
+
+1749
+01:25:52,350 --> 01:25:54,550
+And, you know, being able to just like...
+
+1750
+01:25:54,550 --> 01:25:56,490
+Do more than just streaming video games.
+
+1751
+01:25:57,150 --> 01:25:59,090
+Technically, this is a game as well.
+
+1752
+01:25:59,290 --> 01:25:59,630
+But...
+
+1753
+01:26:01,390 --> 01:26:01,890
+But...
+
+1754
+01:26:01,890 --> 01:26:02,510
+But...
+
+1755
+01:26:02,510 --> 01:26:02,690
+But...
+
+1756
+01:26:02,690 --> 01:26:03,270
+We...
+
+1757
+01:26:03,270 --> 01:26:03,630
+We...
+
+1758
+01:26:03,630 --> 01:26:06,830
+I helped produce a game for you guys.
+
+1759
+01:26:07,450 --> 01:26:09,250
+For you guys to mess around with.
+
+1760
+01:26:09,310 --> 01:26:10,230
+Like a mod of the game.
+
+1761
+01:26:10,350 --> 01:26:10,470
+Sorry.
+
+1762
+01:26:10,470 --> 01:26:11,250
+We didn't make it.
+
+1763
+01:26:11,390 --> 01:26:13,050
+We modded another game.
+
+1764
+01:26:13,310 --> 01:26:13,890
+To make it more...
+
+1765
+01:26:13,890 --> 01:26:15,530
+Doki slash dragon themed.
+
+1766
+01:26:16,350 --> 01:26:16,870
+Um...
+
+1767
+01:26:16,870 --> 01:26:17,230
+But...
+
+1768
+01:26:17,230 --> 01:26:18,510
+It was still really fun to do.
+
+1769
+01:26:18,790 --> 01:26:20,510
+And it was really fun to like...
+
+1770
+01:26:20,510 --> 01:26:22,870
+Just see the progress from the beginning to now.
+
+1771
+01:26:23,090 --> 01:26:23,790
+And everything.
+
+1772
+01:26:24,110 --> 01:26:24,550
+And...
+
+1773
+01:26:24,550 --> 01:26:26,890
+It was just great to do something super creative again.
+
+1774
+01:26:27,270 --> 01:26:27,650
+Um...
+
+1775
+01:26:27,650 --> 01:26:29,170
+And I hope I get to do more creative stuff.
+
+1776
+01:26:29,350 --> 01:26:30,090
+In the future.
+
+1777
+01:26:30,530 --> 01:26:30,950
+Um...
+
+1778
+01:26:30,950 --> 01:26:32,590
+As things get...
+
+1779
+01:26:32,590 --> 01:26:33,430
+Um...
+
+1780
+01:26:33,430 --> 01:26:34,090
+What's the word?
+
+1781
+01:26:34,530 --> 01:26:35,050
+As...
+
+1782
+01:26:35,050 --> 01:26:36,370
+It gets easier to manage.
+
+1783
+01:26:37,030 --> 01:26:37,830
+My time.
+
+1784
+01:26:37,830 --> 01:26:40,170
+I've been delegating a lot more this time.
+
+1785
+01:26:40,670 --> 01:26:40,950
+So...
+
+1786
+01:26:40,950 --> 01:26:42,610
+It's slowly freeing up my time.
+
+1787
+01:26:42,890 --> 01:26:43,230
+To...
+
+1788
+01:26:43,230 --> 01:26:44,270
+To...
+
+1789
+01:26:44,270 --> 01:26:44,510
+Uh...
+
+1790
+01:26:44,510 --> 01:26:46,070
+Use my brain for things like this.
+
+1791
+01:26:46,410 --> 01:26:46,690
+So...
+
+1792
+01:26:46,690 --> 01:26:48,070
+I'm glad I was able to.
+
+1793
+01:26:48,550 --> 01:26:48,910
+Uh...
+
+1794
+01:26:48,910 --> 01:26:49,210
+But yes.
+
+1795
+01:26:49,290 --> 01:26:50,330
+Thank you everybody for coming.
+
+1796
+01:26:50,670 --> 01:26:51,990
+Thank you all for the super chats.
+
+1797
+01:26:52,350 --> 01:26:52,750
+Uh...
+
+1798
+01:26:52,750 --> 01:26:54,150
+I'm gonna go rest now.
+
+1799
+01:26:54,250 --> 01:26:54,890
+And sleep.
+
+1800
+01:26:55,110 --> 01:26:55,810
+Cause I'm tired.
+
+1801
+01:26:56,130 --> 01:26:57,150
+Ha ha ha ha ha.
+
+1802
+01:26:57,590 --> 01:26:58,610
+I'm eepy.
+
+1803
+01:26:59,230 --> 01:26:59,710
+Ha ha ha ha.
+
+1804
+01:27:00,210 --> 01:27:00,730
+But...
+
+1805
+01:27:00,730 --> 01:27:02,450
+I hope you guys enjoyed...
+
+1806
+01:27:02,450 --> 01:27:04,630
+This little fun stream I did today.
+
+1807
+01:27:04,910 --> 01:27:07,250
+And I'm very excited about the announcement.
+
+1808
+01:27:07,970 --> 01:27:08,390
+Um...
+
+1809
+01:27:08,390 --> 01:27:09,250
+So I'll see you guys...
+
+1810
+01:27:10,610 --> 01:27:11,030
+Um...
+
+1811
+01:27:11,030 --> 01:27:11,370
+Well...
+
+1812
+01:27:11,370 --> 01:27:11,970
+I'll see you guys...
+
+1813
+01:27:11,970 --> 01:27:13,090
+Like on Monday.
+
+1814
+01:27:13,370 --> 01:27:13,790
+But...
+
+1815
+01:27:13,790 --> 01:27:14,630
+Ha ha ha ha ha.
+
+1816
+01:27:15,890 --> 01:27:17,070
+But I do hope...
+
+1817
+01:27:17,070 --> 01:27:18,750
+To see you guys on...
+
+1818
+01:27:18,750 --> 01:27:19,330
+Friday.
+
+1819
+01:27:19,370 --> 01:27:20,710
+For the outfit reveal.
+
+1820
+01:27:21,010 --> 01:27:22,150
+On June 20th.
+
+1821
+01:27:22,250 --> 01:27:23,050
+5pm PST.
+
+1822
+01:27:23,170 --> 01:27:24,850
+I'll play the trailer again for all of you guys.
+
+1823
+01:27:24,930 --> 01:27:26,050
+But thank you all for coming.
+
+1824
+01:27:26,430 --> 01:27:27,630
+As always everybody.
+
+1825
+01:27:27,890 --> 01:27:28,360
+Stay hydrated.
+
+1826
+01:27:29,050 --> 01:27:29,590
+Posture check.
+
+1827
+01:27:29,770 --> 01:27:30,610
+Get up and move around.
+
+1828
+01:27:30,710 --> 01:27:31,650
+To get that blood flowing.
+
+1829
+01:27:31,770 --> 01:27:32,670
+And if you suffer me.
+
+1830
+01:27:32,870 --> 01:27:33,490
+Head to bed.
+
+1831
+01:27:33,590 --> 01:27:34,010
+Cause...
+
+1832
+01:27:34,010 --> 01:27:34,910
+You deserve it.
+
+1833
+01:27:35,090 --> 01:27:36,230
+I'll see you guys next time everybody.
+
+1834
+01:27:36,230 --> 01:27:37,990
+You can tell my brain is lagging a lot.
+
+1835
+01:27:38,270 --> 01:27:39,570
+Ha ha ha ha ha.
+
+1836
+01:27:40,250 --> 01:27:41,030
+I'm just...
+
+1837
+01:27:41,030 --> 01:27:41,470
+I'm just...
+
+1838
+01:27:41,470 --> 01:27:42,410
+I'm just a little teepy.
+
+1839
+01:27:42,730 --> 01:27:43,690
+Just a little tired.
+
+1840
+01:27:44,350 --> 01:27:44,790
+Ha ha ha.
+
+1841
+01:27:45,290 --> 01:27:47,270
+I'm trying not to drink caffeine today.
+
+1842
+01:27:47,970 --> 01:27:48,450
+Uh...
+
+1843
+01:27:48,450 --> 01:27:48,690
+Ha ha ha.
+
+1844
+01:27:49,010 --> 01:27:50,470
+Because I know like caffeine...
+
+1845
+01:27:50,470 --> 01:27:51,730
+I don't wanna depend on caffeine.
+
+1846
+01:27:51,730 --> 01:27:53,190
+So like...
+
+1847
+01:27:53,190 --> 01:27:53,390
+So like...
+
+1848
+01:27:53,390 --> 01:27:54,830
+So my brain is lagging a little bit.
+
+1849
+01:27:54,830 --> 01:27:56,270
+Because of the lack of caffeine.
+
+1850
+01:27:56,590 --> 01:27:58,010
+But I'm trying my best to like...
+
+1851
+01:27:58,010 --> 01:27:59,150
+Not rely on it.
+
+1852
+01:28:00,190 --> 01:28:01,210
+Ha ha ha ha.
+
+1853
+01:28:01,670 --> 01:28:01,950
+Ha ha ha.
+
+1854
+01:28:02,310 --> 01:28:02,790
+But...
+
+1855
+01:28:02,790 --> 01:28:03,890
+Thank you all for coming.
+
+1856
+01:28:04,030 --> 01:28:05,110
+I'll see you guys later everyone.
+
+1857
+01:28:05,390 --> 01:28:06,090
+Bye guys.
+
+1858
+01:28:06,450 --> 01:28:06,850
+Bye.
+
+1859
+01:28:06,850 --> 01:28:07,030
+Bye.
+
+1860
+01:28:07,030 --> 01:28:07,210
+Bye.
+
+1861
+01:28:07,470 --> 01:28:07,570
+I'll see you guys.
+
