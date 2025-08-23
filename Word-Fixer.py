@@ -45,6 +45,7 @@ word_map = {
     "f******": "fucking",
     "fuck***t": "fucking bullshit",
     "fuck***": "fucking",
+    "fuck*d": "fucked",
     "f**ing": "fucking",
     "f*****": "fucker",
     "f***": "fuck",
