@@ -40,15 +40,24 @@ Tools you need to download and put into the root dir.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [ffmpeg](https://github.com/FFmpeg/FFmpeg)
 - [faster-whisper](https://github.com/Purfview/whisper-standalone-win)
-- [PowerShell](https://github.com/PowerShell/PowerShell)
+- [Python](https://www.python.org/downloads/)
 
 ### Updating Transcripts Process
 1. Create a new branch and checkout said branch.
-2. Get the latest audio by running `./Download-Audio.ps1`
-3. Process all new audio by running `./Transcribe-Audio.ps1`
+2. Get the latest audio by running `python .\scripts\download_audio.py`
+3. Process all new audio by running `python .\scripts\transcribe_audio.py`
     - Enter the folder you want to transcribe. For Doki, that would be `.\Transcript\Dokibird\`
+    - Or enter nothing to run for every folder
 4. Commit and push changes to your branch.
 5. Open a pull request. Ping me to get it accepted and merged.
 
 ### Cleanup
-After the transcripts are created. You can remove all audio files by running the script `.\Cleanup-Audio.ps1`
+After the transcripts are created. You can remove all audio files by running the script `python .\scripts\cleanup_audio.py`
+
+### Uploading to Archive
+To upload any new transcripts to the Archive, you can do so by
+1. creating `config.yaml` from the example and enter in the correct configurations
+2. run the script `python .\scripts\upload_transcripts.py`
+
+### Verifyinbg Local Transcripts
+In the event you want to see what srt transcripts you are missing locally, you can do so by running `python .\scripts\verify_transcript.py`

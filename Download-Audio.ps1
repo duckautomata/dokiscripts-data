@@ -17,7 +17,6 @@ function Get-Audio {
         Write-Host "Downloading from twitch, not including thumbnail"
         .\yt-dlp.exe `
             --download-archive yt-dlp-archive-transcript.txt `
-            --cookies-from-browser firefox `
             --ignore-errors `
             --match-filter !is_live `
             -f 'ba' `
@@ -29,7 +28,6 @@ function Get-Audio {
     } else {
         .\yt-dlp.exe `
             --download-archive yt-dlp-archive-transcript.txt `
-            --cookies-from-browser firefox `
             --ignore-errors `
             --match-filter !is_live `
             --write-thumbnail `

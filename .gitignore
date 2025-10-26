@@ -13,6 +13,8 @@
 # python
 .venv
 
+config.yaml
+
 # Don't upload any members stuff
 *members*
 
