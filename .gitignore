@@ -17,6 +17,8 @@ config.yaml
 
 # Don't upload any members stuff
 *members*
+# except for the archive file
+!yt-dlp-archive-members.txt
 
 # Faster-whisper
 .cache

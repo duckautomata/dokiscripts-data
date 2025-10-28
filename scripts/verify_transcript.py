@@ -1,107 +1,124 @@
-#!/usr/bin/env python3
-
 import os
 import sys
-from colorama import init, Fore
 
 # --- Configuration ---
-ID_ARCHIVE = "yt-dlp-archive-transcript.txt"
-FOLDER_PATH = "Transcript"
-MEDIA_EXTENSIONS = ('.webm', '.m4a', '.mp3', '.mp4', '.mkv')
+TRANSCRIPT_DIR = 'Transcript'
+MEMBERS_FILE = 'yt-dlp-archive-members.txt'
+REGULAR_FILE = 'yt-dlp-archive-regular.txt'
 # --- End Configuration ---
 
+# ANSI color codes for terminal output
+class bcolors:
+    RED = '\033[91m'
+    GREEN = '\033[92m'
+    ENDC = '\033[0m'
 
-def find_srt_file(root_path, video_id):
+def build_srt_map(directory):
     """
-    Recursively scans for an SRT file matching the video ID.
-    Returns:
-        (str, bool) or None: A tuple of (filename, is_member) if found, else None.
+    Recursively scans the directory and builds a map of
+    video IDs to their stream_type. This is our "ground truth".
     """
-    id_pattern = f"[{video_id}]"
-    for root, _, files in os.walk(root_path):
-        for file in files:
-            # Check for ID pattern and .srt extension
-            if id_pattern in file and file.endswith(".srt"):
-                is_member = "- Members -" in file
-                return (file, is_member)
-    return None
+    print(f"Scanning '{directory}' to build verification map...")
+    srt_map = {} # key: video_id, value: stream_type
+    
+    if not os.path.isdir(directory):
+        print(f"{bcolors.RED}Error: Transcript directory not found at: {directory}{bcolors.ENDC}", file=sys.stderr)
+        return None
 
-def find_media_file(root_path, video_id):
-    """
-    Recursively scans for a media file matching the video ID.
-    Returns:
-        str or None: The filename if found, else None.
-    """
-    id_pattern = f"[{video_id}]"
-    for root, _, files in os.walk(root_path):
-        for file in files:
-            # Check for ID pattern and a media extension
-            if id_pattern in file and file.endswith(MEDIA_EXTENSIONS):
-                return file
-    return None
+    for root, dirs, files in os.walk(directory):
+        for filename in files:
+            if not filename.endswith('.srt'):
+                continue
+                
+            parts = filename.split(' - ')
+            if len(parts) >= 4:
+                try:
+                    stream_type = parts[1].strip()
+                    id_part = parts[-1] # This should be "[{id}].srt"
+                    
+                    if id_part.startswith('[') and id_part.endswith('].srt'):
+                        video_id = id_part[1:-5]
+                        if video_id in srt_map and srt_map[video_id] != stream_type:
+                            print(f"Warning: Duplicate ID '{video_id}' found with different StreamTypes. "
+                                  f"This may cause verification errors.")
+                        srt_map[video_id] = stream_type
+                except Exception:
+                    # Ignore parsing errors, same as the first script
+                    pass
+            
+    print(f"Scan complete. Found {len(srt_map)} unique .srt files to check against.")
+    return srt_map
+
+def extract_id_from_line(line):
+    """Helper to get the last word (the ID) from an archive line."""
+    try:
+        return line.strip().split()[-1]
+    except IndexError:
+        #Likely a blank line
+        return None
 
 def main():
-    # Initialize colorama to auto-reset colors after each print
-    init(autoreset=True)
+    srt_map = build_srt_map(TRANSCRIPT_DIR)
+    if srt_map is None:
+        sys.exit(1) # Exit if the transcript directory wasn't found
 
-    # --- 1. Check if files and folders exist ---
-    if not os.path.isfile(ID_ARCHIVE):
-        print(Fore.RED + f"Error: Archive file not found at '{ID_ARCHIVE}'")
-        sys.exit(1)
-        
-    if not os.path.isdir(FOLDER_PATH):
-        print(Fore.RED + f"Error: Transcript folder not found at '{FOLDER_PATH}'")
-        sys.exit(1)
-        
-    print(f"Checking archive '{ID_ARCHIVE}' against folder '{FOLDER_PATH}'...")
+    errors_found = False
     
-    # --- 2. Read archive file and process each line ---
+    # --- 1. Check Members File ---
+    # It should ONLY contain IDs where srt_map[id] == "Members"
+    print(f"\nVerifying {MEMBERS_FILE}...")
     try:
-        with open(ID_ARCHIVE, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue # Skip empty lines
-
-                # Line is "place id", e.g., "youtube 12345abc"
-                parts = line.split()
-                if len(parts) < 2:
-                    print(Fore.MAGENTA + f"Skipping malformed line: '{line}'")
+        with open(MEMBERS_FILE, 'r', encoding='utf-8') as f:
+            for i, line in enumerate(f):
+                video_id = extract_id_from_line(line)
+                if not video_id:
                     continue
                 
-                video_id = parts[1] # Get the ID
-                
-                # --- 3. Replicate PowerShell logic ---
-                
-                # First, try to find an SRT file
-                srt_result = find_srt_file(FOLDER_PATH, video_id)
-                
-                if srt_result:
-                    # An SRT file was found
-                    file_name, is_member = srt_result
-                    if is_member:
-                        print(Fore.YELLOW + f"id [{video_id}] exists as members only")
-                    else:
-                        # This was commented out in the original PS1
-                        # print(Fore.GREEN + f"id [{video_id}] exists")
-                        pass 
-                
+                if video_id in srt_map:
+                    stream_type = srt_map[video_id]
+                    if stream_type != "Members":
+                        print(f"{bcolors.RED}ERROR:{bcolors.ENDC} Line {i+1}: ID '{video_id}' is in {MEMBERS_FILE} "
+                              f"but its type is '{stream_type}'.")
+                        errors_found = True
                 else:
-                    # No SRT file, so now check for a media file
-                    if find_media_file(FOLDER_PATH, video_id):
-                        print(Fore.BLUE + f"Transcript not yet created for id [{video_id}]")
-                    else:
-                        print(Fore.RED + f"No files containing id [{video_id}] found.")
+                    # If an ID is in the members file, it MUST have a matching .srt
+                    # The first script defaults non-found to 'regular'
+                    print(f"{bcolors.RED}ERROR:{bcolors.ENDC} Line {i+1}: ID '{video_id}' is in {MEMBERS_FILE} "
+                          f"but has no matching .srt file.")
+                    errors_found = True
 
     except FileNotFoundError:
-        # This check is technically redundant due to the os.path.isfile
-        # but it's good practice.
-        print(Fore.RED + f"Error: Failed to open '{ID_ARCHIVE}'")
-        sys.exit(1)
-    except Exception as e:
-        print(Fore.RED + f"An unexpected error occurred: {e}")
+        print(f"Warning: {MEMBERS_FILE} not found. Skipping its verification.")
 
-    print("\nCheck complete.")
+    # --- 2. Check Regular File ---
+    # It should NOT contain any IDs where srt_map[id] == "Members"
+    print(f"\nVerifying {REGULAR_FILE}...")
+    try:
+        with open(REGULAR_FILE, 'r', encoding='utf-8') as f:
+            for i, line in enumerate(f):
+                video_id = extract_id_from_line(line)
+                if not video_id:
+                    continue
+                
+                if video_id in srt_map:
+                    stream_type = srt_map[video_id]
+                    if stream_type == "Members":
+                        print(f"{bcolors.RED}ERROR:{bcolors.ENDC} Line {i+1}: ID '{video_id}' is in {REGULAR_FILE} "
+                              f"but it is a 'Members' video.")
+                        errors_found = True
+                # else:
+                    # If video_id is not in srt_map, it's correct to be in regular.
+                    # No error.
+                    
+    except FileNotFoundError:
+        print(f"Warning: {REGULAR_FILE} not found. Skipping its verification.")
+
+    # --- 3. Final Report ---
+    print("\n--- Verification Complete ---")
+    if errors_found:
+        print(f"{bcolors.RED}❌ VERIFICATION FAILED: Errors were found in your archive files.{bcolors.ENDC}")
+    else:
+        print(f"{bcolors.GREEN}✅ SUCCESS: All files are sorted correctly according to the .srt map.{bcolors.ENDC}")
 
 if __name__ == "__main__":
     main()
