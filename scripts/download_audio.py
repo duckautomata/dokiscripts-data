@@ -140,7 +140,7 @@ def main():
         channel="Dokibird",
     )
     get_audio(
-        url="https.www.twitch.tv/dokibird/videos?filter=archives&sort=time",
+        url="https://www.twitch.tv/dokibird/videos?filter=archives&sort=time",
         download_type="Twitch",
         channel="Dokibird",
     )
@@ -166,13 +166,6 @@ def main():
         download_type="Stream",
         channel="MintFantome",
     )
-
-    # --- Commented out call ---
-    # get_audio(
-    #     url="https.www.twitch.tv/videos/2240830475",
-    #     download_type="External",
-    #     channel="Dokibird"
-    # )
 
     print("\n--- Download process finished. ---")
 
