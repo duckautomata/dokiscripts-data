@@ -118,7 +118,7 @@ def process_and_upload(root, file, streamer_name, cutoff_date, headers, server_u
         # Use the date object we already parsed
         if file_date_obj < cutoff_date:
             # File is too old, skip it
-            return 'skipped'
+            return 'skipped_date'
 
     full_path = os.path.join(root, file)
     try:
