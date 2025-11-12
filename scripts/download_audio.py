@@ -35,20 +35,15 @@ def get_audio(url, download_type, channel):
     )
 
     # 2. Build the base command
-    command = [YT_DLP_CMD]
+    command = [YT_DLP_CMD, "--download-archive", "yt-dlp-archive.txt"]
+    print()
 
     # 3. Add conditional arguments based on download_type
     if download_type == "Members":
         print(f"Downloading (Members): {channel}")
-        command.extend(
-            [
-                "--download-archive", "yt-dlp-archive-members.txt",
-                "--cookies-from-browser", "firefox",
-            ]
-        )
+        command.extend(["--cookies-from-browser", "firefox"])
     else:
         print(f"Downloading (Regular): {channel} - {download_type}")
-        command.extend(["--download-archive", "yt-dlp-archive-regular.txt"])
 
     # 4. Add common arguments
     command.extend(
@@ -115,20 +110,15 @@ def main():
 
     print("\n--- Starting Downloads ---")
 
-    # 2. Run the downloads in the specified order
+    # 2. Run the downloads in the specified order. Members MUST be last. Otherwise it'll treat a normal video as members content.
     # Order:
-    #  - members
     #  - videos
     #  - twitch vods
     #  - stream vods
     #  - anything else
+    #  - members
 
     # --- Dokibird ---
-    get_audio(
-        url="https://www.youtube.com/Dokibird/membership",
-        download_type="Members",
-        channel="Dokibird",
-    )
     get_audio(
         url="https://www.youtube.com/Dokibird/videos",
         download_type="Video",
@@ -149,13 +139,23 @@ def main():
         download_type="Stream",
         channel="Dokibird",
     )
+    get_audio(
+        url="https://www.youtube.com/Dokibird/membership",
+        download_type="Members",
+        channel="Dokibird",
+    )
+    get_audio(
+        url="https://www.youtube.com/Dokibird/videos",
+        download_type="Members",
+        channel="Dokibird",
+    )
+    get_audio(
+        url="https://www.youtube.com/Dokibird/streams",
+        download_type="Members",
+        channel="Dokibird",
+    )
 
     # --- MintFantome ---
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/membership",
-        download_type="Members",
-        channel="MintFantome",
-    )
     get_audio(
         url="https://www.youtube.com/@mintfantome/videos",
         download_type="Video",
@@ -164,6 +164,21 @@ def main():
     get_audio(
         url="https://www.youtube.com/@mintfantome/streams",
         download_type="Stream",
+        channel="MintFantome",
+    )
+    get_audio(
+        url="https://www.youtube.com/@mintfantome/membership",
+        download_type="Members",
+        channel="MintFantome",
+    )
+    get_audio(
+        url="https://www.youtube.com/@mintfantome/videos",
+        download_type="Members",
+        channel="MintFantome",
+    )
+    get_audio(
+        url="https://www.youtube.com/@mintfantome/streams",
+        download_type="Members",
         channel="MintFantome",
     )
 
