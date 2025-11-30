@@ -76,6 +76,7 @@ def main():
     try:
         # Run a quick --help command to ensure it's found BEFORE starting the loop
         # Added encoding='utf-8' to fix UnicodeDecodeError on Windows
+        print("Testing if executable works.")
         subprocess.run(
             [whisper_cmd_path, "--help"],
             capture_output=True,
@@ -130,7 +131,9 @@ def main():
                 "--sentence",
                 "-o", "source",
                 "-pp",
-                "--beep_off"
+                "--beep_off",
+                "--max_line_width", "60", #characters per line. 50 is about 5-6 seconds per block
+                "--max_line_count", "2" #lines per block
             ]
             
             # Uncomment the line below to run the "translate" task instead
