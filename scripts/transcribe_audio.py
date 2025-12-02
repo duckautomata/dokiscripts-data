@@ -132,7 +132,7 @@ def main():
                 "-o", "source",
                 "-pp",
                 "--beep_off",
-                "--max_line_width", "60", #characters per line. 50 is about 5-6 seconds per block
+                "--max_line_width", "60", #characters per line. 60 with two lines is about 10 seconds per block
                 "--max_line_count", "2" #lines per block
             ]
             
