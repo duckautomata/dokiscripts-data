@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from enum import Enum
 import subprocess
 import sys
 import os
@@ -14,23 +15,35 @@ YT_DLP_CMD = "yt-dlp"
 # The root folder for transcripts
 BASE_DIR = "Transcript"
 
+class Channels(Enum):
+    DOKI = "Dokibird"
+    MINT = "MintFantome"
+
+class DTypes(Enum):
+    VIDEO = "Video"
+    STREAM = "Stream"
+    MEMBERS = "Members"
+    TWITCH = "Twitch"
+    TWITCHVOD = "TwitchVod"
+    EXTERNAL = "External"
+
 # --- End Configuration ---
 
 
-def get_audio(url, download_type, channel):
+def get_audio(url: str, download_type: DTypes, channel: Channels):
     """
     Calls yt-dlp to download audio for a given URL,
     matching the settings from the PowerShell script.
 
     Args:
         url (str): The URL to download from.
-        download_type (str): The type of content (e.g., "Members", "Video").
-        channel (str): The streamer's name, used for the folder.
+        download_type (DTypes): The type of content (e.g., "Members", "Video").
+        channel (Channels): The streamer's name, used for the folder.
     """
 
     # 1. Create the output path template.
     output_template = (
-        f"{BASE_DIR}/{channel}/%(upload_date)s - {download_type} - "
+        f"{BASE_DIR}/{channel.value}/%(upload_date)s - {download_type.value} - "
         f"%(title)s - [%(id)s].%(ext)s"
     )
 
@@ -39,11 +52,11 @@ def get_audio(url, download_type, channel):
     print()
 
     # 3. Add conditional arguments based on download_type
-    if download_type == "Members":
-        print(f"Downloading (Members): {channel}")
+    if download_type == DTypes.MEMBERS:
+        print(f"Downloading (Members): {channel.value}")
         command.extend(["--cookies-from-browser", "firefox"])
     else:
-        print(f"Downloading (Regular): {channel} - {download_type}")
+        print(f"Downloading (Regular): {channel.value} - {download_type.value}")
 
     # 4. Add common arguments
     command.extend(
@@ -122,75 +135,85 @@ def main():
     # --- Dokibird ---
     get_audio(
         url="https://www.youtube.com/Dokibird/membership",
-        download_type="Members",
-        channel="Dokibird",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/Dokibird/videos",
-        download_type="Video",
-        channel="Dokibird",
+        download_type=DTypes.VIDEO,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/@DokibirdVODs/videos",
-        download_type="TwitchVod",
-        channel="Dokibird",
+        download_type=DTypes.TWITCHVOD,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.twitch.tv/dokibird/videos?filter=archives&sort=time",
-        download_type="Twitch",
-        channel="Dokibird",
+        download_type=DTypes.TWITCH,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/Dokibird/streams",
-        download_type="Stream",
-        channel="Dokibird",
+        download_type=DTypes.STREAM,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/Dokibird/membership",
-        download_type="Members",
-        channel="Dokibird",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/Dokibird/videos",
-        download_type="Members",
-        channel="Dokibird",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.DOKI,
     )
     get_audio(
         url="https://www.youtube.com/Dokibird/streams",
-        download_type="Members",
-        channel="Dokibird",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.DOKI,
     )
 
     # --- MintFantome ---
     get_audio(
         url="https://www.youtube.com/@mintfantome/membership",
-        download_type="Members",
-        channel="MintFantome",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.MINT,
     )
     get_audio(
         url="https://www.youtube.com/@mintfantome/videos",
-        download_type="Video",
-        channel="MintFantome",
+        download_type=DTypes.VIDEO,
+        channel=Channels.MINT,
     )
     get_audio(
         url="https://www.youtube.com/@mintfantome/streams",
-        download_type="Stream",
-        channel="MintFantome",
+        download_type=DTypes.STREAM,
+        channel=Channels.MINT,
+    )
+    get_audio(
+        url="https://www.youtube.com/@densetsu-exe/videos",
+        download_type=DTypes.EXTERNAL,
+        channel=Channels.MINT,
+    )
+    get_audio(
+        url="https://www.youtube.com/@densetsu-exe/streams",
+        download_type=DTypes.EXTERNAL,
+        channel=Channels.MINT,
     )
     get_audio(
         url="https://www.youtube.com/@mintfantome/membership",
-        download_type="Members",
-        channel="MintFantome",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.MINT,
     )
     get_audio(
         url="https://www.youtube.com/@mintfantome/videos",
-        download_type="Members",
-        channel="MintFantome",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.MINT,
     )
     get_audio(
         url="https://www.youtube.com/@mintfantome/streams",
-        download_type="Members",
-        channel="MintFantome",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.MINT,
     )
 
     print("\n--- Download process finished. ---")
