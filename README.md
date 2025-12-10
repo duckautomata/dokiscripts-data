@@ -1,10 +1,48 @@
-## dokiscripts-data
+# dokiscripts-data
 Transcripts for Doki and other vTuber streams. All located in one place for easy reverse searching.
 
-### Best Way to Reverse Search
-- Clone the repo locally and use something like vscode to search through every file in the folder.
-    - to update when new transcripts are added, all you would need to do is run git pull from master.
-- Use GitHubs built in search. Though this sucks half the time so good luck.
+## Overview
+
+_System_
+
+- **[Archived Transcript System](#archived-transcript-system)**
+- **[Guide](#guide)**
+
+_Info_
+
+- **[Best Way to Search](#best-way-to-search)**
+- **[Types](#types)**
+- **[Why this over YouTube's built-in transcripts?](#why-this-over-youtubes-built-in-transcripts)**
+- 
+_Transcript Collection_
+- **[Environment](#environment)**
+- **[Prep](#prep)**
+- **[Updating Transcripts Process](#updating-transcripts-process)**
+- **[Cleanup](#cleanup)**
+- **[Uploading to Archive](#uploading-to-archive)**
+- **[Verifyinbg Local Transcripts](#verifyinbg-local-transcripts)**
+
+## System
+
+### Archived Transcript System
+
+Archived Transcript is a system that contains three programs:
+
+- Data: [dokiscripts-data](https://github.com/duckautomata/dokiscripts-data)
+- Server: [archived-transcript-server](https://github.com/duckautomata/archived-transcript-server)
+- Client: [archived-transcript](https://github.com/duckautomata/archived-transcript)
+
+All three programs work together to transcribe all streams/videos/content and allows anyone to search through and view them.
+
+- Data (this) will transcribe the content, stores the `.srt` files in git for safekeeping, and uploads the `.srt` files to the server. All of these steps are manually triggered.
+- Server will receive `.srt` files from Data and store them into a database. Upon request from the Client, it will search through the data base and return the requested data.
+- Client is the UI that renders the transcript for us to use.
+
+## Info
+
+### Best Way to Search
+- Use the website that searches these transcripts: https://duckautomata.github.io/archived-transcript/.
+- Search through this repo directly.
 
 ### Types
 There are 6 types of content
@@ -30,6 +68,8 @@ Several reasons why I created this archive.
 1. YouTube transcripts censor curse words. Meaning that you can't reverse search something that has the word `fuck` in it.
 2. YouTube transcripts are only accurate if one person is talking in a clear understandable way. If two people are talking, or if there is gunfire in the background (for example, any Apex stream). Then the transcripts are not that accurate.
 3. YouTube transcripts only work for one language. If people are talking in a different language, then they are worthless. This, on the other hand, can handle any language that is in the model. Even if two people are talking in a different language at the same time, it should be able to pick out both of them correctly.
+
+## Transcript Collection
 
 ### Environment
 This is built to work with Windows. Mac and Linux is not guaranteed to work. Especially because I use the Windows standalone version of faster-whisper.
