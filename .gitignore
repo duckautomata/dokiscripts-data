@@ -14,6 +14,7 @@
 .venv
 
 config.yaml
+missing.txt
 
 # Don't upload any members stuff
 *members*

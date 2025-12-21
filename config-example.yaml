@@ -1,4 +1,4 @@
 # credentials used to upload transcripts
 api_key: ""
 # url of the archive-transcript server
-server_url: "http://localhost:8080/transcript"
+server_url: "http://localhost:8080"

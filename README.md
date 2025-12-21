@@ -13,7 +13,7 @@ _Info_
 - **[Best Way to Search](#best-way-to-search)**
 - **[Types](#types)**
 - **[Why this over YouTube's built-in transcripts?](#why-this-over-youtubes-built-in-transcripts)**
-- 
+
 _Transcript Collection_
 - **[Environment](#environment)**
 - **[Prep](#prep)**
@@ -21,6 +21,7 @@ _Transcript Collection_
 - **[Cleanup](#cleanup)**
 - **[Uploading to Archive](#uploading-to-archive)**
 - **[Verifyinbg Local Transcripts](#verifyinbg-local-transcripts)**
+- **[Admin Commands](#admin-commands)**
 
 ## System
 
@@ -80,6 +81,8 @@ Tools you need to download and put into the root dir.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [ffmpeg](https://github.com/FFmpeg/FFmpeg)
 - [faster-whisper](https://github.com/Purfview/whisper-standalone-win)
+
+You'll also need python and install `requirements.txt`
 - [Python](https://www.python.org/downloads/)
 
 ### Updating Transcripts Process
@@ -99,5 +102,30 @@ To upload any new transcripts to the Archive, you can do so by
 1. creating `config.yaml` from the example and enter in the correct configurations
 2. run the script `python .\scripts\upload_transcripts.py`
 
-### Verifyinbg Local Transcripts
-In the event you want to see what srt transcripts you are missing locally, you can do so by running `python .\scripts\verify_transcript.py`
+### Verifying Local Transcripts
+In the event you want to see what srt transcripts you are missing locally, or what transcripts the server is missing, you can do so by running `python .\scripts\verify_transcript.py`
+
+If anything is missing, it will create `missing.txt` file whith a detail list of what you are missing, or what the server is missing.
+
+### Admin Commands
+If you have the `api_key` to the archive server, then you have access to some admin commands to manage the membership keys.
+
+To view and run these commands, run `python .\scripts\admin.py`
+
+List of options:
+- Get all Keys for a channel
+  > _Will return all keys for a given channel_
+
+- Create new key for a channel
+  > _Will create a new key for a given channel and return it and when it will expire._
+
+  > _Only two keys are valid at any time. If there are already two keys, creating a new key will delete the oldest one._
+
+- Delete all keys for a channel
+  > _Will delete all keys for a given channel_
+
+- get all keys
+  > _Will return all keys every channel_
+
+- verify a key
+  > _Given a key, it will verify if it is valid. If valid, it will return the channel the key is valid for and when the key expires_

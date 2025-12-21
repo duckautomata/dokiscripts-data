@@ -99,9 +99,6 @@ def process_and_upload(root, file, streamer_name, cutoff_date, headers, server_u
     stream_title = match.group(3).strip()
     stream_id = match.group(4)
 
-    if stream_type.strip().lower() == "members":
-        return 'skipped_members'
-
     try:
         # Parse the 'YYYYMMDD' string into a date object
         file_date_obj = datetime.strptime(date_str, "%Y%m%d").date()
@@ -138,11 +135,10 @@ def process_and_upload(root, file, streamer_name, cutoff_date, headers, server_u
     }
 
     try:
-        response = requests.post(server_url, json=payload, headers=headers, timeout=30)
+        uri = f"{server_url}/transcript"
+        response = requests.post(uri, json=payload, headers=headers, timeout=30)
         response.raise_for_status()  # Raise exception for 4xx/5xx errors
         
-        # Don't print on success, it clutters the output
-        # tqdm.write(f"-> SUCCESS: Uploaded {file}")
         return 'success'
         
     except requests.exceptions.HTTPError as e:
@@ -219,7 +215,6 @@ def main():
     success_count = 0
     fail_count = 0
     skipped_date_count = 0
-    skipped_members_count = 0
 
     # Wrap the list with tqdm for the progress bar
     for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
@@ -232,8 +227,6 @@ def main():
             fail_count += 1
         elif result == 'skipped_date':
             skipped_date_count += 1
-        elif result == 'skipped_members':
-            skipped_members_count += 1
 
     print("\n--- Upload Complete ---")
     print(f"Successfully uploaded: {success_count}")
@@ -241,8 +234,6 @@ def main():
         print(f"Failed to upload:   	{fail_count}")
     if cutoff_date:
         print(f"Skipped (too old):   {skipped_date_count}")
-    if skipped_members_count > 0:
-        print(f"Skipped (Members):   {skipped_members_count}")
 
 
 if __name__ == "__main__":
