@@ -1,4 +1,12 @@
 1
-00:00:00,000 --> 00:00:06,700
-And every time it rains, it rains in this room of heaven, shooby-dooby-doobie-doobie-doobie-doobie.
+00:00:00,640 --> 00:00:03,180
+And every time it rains, it rains.
+
+2
+00:00:03,820 --> 00:00:04,840
+And it's from heaven.
+
+3
+00:00:05,420 --> 00:00:06,540
+Show me, do me.
 

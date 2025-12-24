@@ -1,20 +1,28 @@
 1
-00:00:00,000 --> 00:00:01,020
+00:00:00,000 --> 00:00:01,240
 This is Talking Carl.
 
 2
-00:00:03,040 --> 00:00:05,380
-He repeats everything you say.
+00:00:01,900 --> 00:00:03,080
+This is Talking Carl.
 
 3
-00:00:08,360 --> 00:00:09,920
-And he's gonna get in a fight.
+00:00:03,820 --> 00:00:05,960
+He repeats everything you say.
 
 4
-00:00:13,010 --> 00:00:15,270
-My voice is higher than your voice.
+00:00:06,240 --> 00:00:08,000
+He repeats everything you say.
 
 5
-00:00:15,650 --> 00:00:17,830
+00:00:08,640 --> 00:00:10,180
+And he's gonna get in a fight.
+
+6
+00:00:13,310 --> 00:00:15,550
+My voice is higher than your voice.
+
+7
+00:00:16,070 --> 00:00:18,110
 My voice is higher than your voice.
 
