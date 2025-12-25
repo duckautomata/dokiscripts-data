@@ -53,33 +53,45 @@ def load_config():
         print(f"Error reading '{CONFIG_FILE}': {e}")
         sys.exit(1)
 
-def get_day_limit():
+def get_upload_selection():
     """
-    Asks the user how many days back to check.
-    Returns an integer or None.
+    Asks the user how they want to filter the upload.
+    Returns (cutoff_days, month_filter) where one is present or both are None.
     """
     while True:
         user_input = input(
-            "How many days back should we upload? (e.g., 30, 7) "
-            "\n[Press Enter or type 0 to upload ALL transcripts]: "
+            "Upload options:\n"
+            " - Enter a number (e.g., 30, 7) for days back\n"
+            " - Enter a month (e.g., 2024-12) for a specific month\n"
+            " - Enter a year with asterisk (e.g., 2024-*) for a specific year\n"
+            " - Press Enter or type 0 to upload ALL transcripts\n"
+            "Your choice: "
         ).strip()
         
         if not user_input or user_input == "0":
-            return None  # Signal to upload all
+            return None, None
+            
+        # Check for YYYY-MM
+        if re.match(r"^\d{4}-\d{2}$", user_input):
+            return None, user_input.replace("-", "")
+            
+        # Check for YYYY-*
+        if re.match(r"^\d{4}-\*$", user_input):
+            return None, user_input.split("-")[0]
             
         try:
             days = int(user_input)
             if days > 0:
-                return days
+                return days, None
             else:
-                print("Please enter a positive number, or 0/Enter for all.")
+                print("Please enter a positive number, a month (YYYY-MM), or 0/Enter for all.")
         except ValueError:
-            print("Invalid input. Please enter a number (like 30) or press Enter.")
+            print("Invalid input. Please enter a number, YYYY-MM, or press Enter.")
 
 
-def process_and_upload(root, file, streamer_name, cutoff_date, headers, server_url):
+def process_and_upload(root, file, streamer_name, cutoff_date, month_filter, headers, server_url):
     """
-    Parses a single transcript file, checks its date (if required),
+    Parses a single transcript file, checks its date/month (if required),
     and uploads it to the server.
     
     Returns:
@@ -110,6 +122,10 @@ def process_and_upload(root, file, streamer_name, cutoff_date, headers, server_u
         tqdm.write(f"-> Skipping file (invalid date format): {file}")
         return 'failed'
 
+
+    if month_filter:
+        if not date_str.startswith(month_filter):
+            return 'skipped_date'
 
     if cutoff_date:
         # Use the date object we already parsed
@@ -163,8 +179,8 @@ def main():
         print("Please run this script from the correct location.")
         sys.exit(1)
 
-    # Ask user for time limit
-    days_to_upload = get_day_limit()
+    # Ask user for selection
+    days_to_upload, month_filter = get_upload_selection()
     
     cutoff_date = None
     if days_to_upload:
@@ -172,6 +188,11 @@ def main():
         cutoff_date = today - timedelta(days=days_to_upload)
         print(f"\nStarting upload: Only files from the last {days_to_upload} days.")
         print(f"Uploading files dated on or after: {cutoff_date.strftime('%Y-%m-%d')}")
+    elif month_filter:
+        if len(month_filter) == 4:
+            print(f"\nStarting upload: Only files from the year {month_filter}.")
+        else:
+            print(f"\nStarting upload: Only files from {month_filter[:4]}-{month_filter[4:]}.")
     else:
         print("\nStarting upload: Processing ALL transcripts.")
 
@@ -219,7 +240,7 @@ def main():
     # Wrap the list with tqdm for the progress bar
     for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
         
-        result = process_and_upload(root, file, streamer_name, cutoff_date, headers, server_url)
+        result = process_and_upload(root, file, streamer_name, cutoff_date, month_filter, headers, server_url)
         
         if result == 'success':
             success_count += 1
@@ -232,8 +253,8 @@ def main():
     print(f"Successfully uploaded: {success_count}")
     if fail_count > 0:
         print(f"Failed to upload:   	{fail_count}")
-    if cutoff_date:
-        print(f"Skipped (too old):   {skipped_date_count}")
+    if cutoff_date or month_filter:
+        print(f"Skipped (non-matching): {skipped_date_count}")
 
 
 if __name__ == "__main__":
