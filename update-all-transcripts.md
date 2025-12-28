@@ -16,7 +16,7 @@ This will not update Twitch or Members transcripts. Those can be updated separat
 ## Date List
 
 - [x] 2020, 2021
-- [ ] 2024-02
+- [x] 2024-02
 - [ ] 2024-03
 - [ ] 2024-04
 - [ ] 2024-05
