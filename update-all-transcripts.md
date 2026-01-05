@@ -18,7 +18,7 @@ This will not update Twitch or Members transcripts. Those can be updated separat
 - [x] 2020, 2021
 - [x] 2024-02
 - [x] 2024-03
-- [ ] 2024-04
+- [x] 2024-04
 - [ ] 2024-05
 - [ ] 2024-06
 - [ ] 2024-07
