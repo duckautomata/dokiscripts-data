@@ -33,8 +33,10 @@ def organize_transcripts(dry_run=True):
                 
                 if year <= 2024:
                     target_folder_name = "2024"
+                elif year == 2025:
+                    target_folder_name = "2025"
                 else:
-                    # Skip 2025 and above as per user request
+                    # Skip 2026 and above
                     target_folder_name = ""
                 
                 if target_folder_name:

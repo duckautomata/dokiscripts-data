@@ -1,0 +1,10007 @@
+1
+00:04:27,710 --> 00:04:30,610
+Wait, wait, wait, wait, wait, wait, wait.
+
+2
+00:04:30,610 --> 00:04:32,950
+Wait, wait, wait.
+
+3
+00:04:44,630 --> 00:04:47,130
+Wait, wait, wait.
+
+4
+00:04:51,650 --> 00:04:52,090
+MOUBOO!
+
+5
+00:04:52,190 --> 00:04:53,170
+Kairi no-sai-maseen!
+
+6
+00:04:53,330 --> 00:04:55,470
+Go-shin-Ninya-mao, Go-in-yoo, rever-wo-go!
+
+7
+00:04:55,470 --> 00:04:58,810
+Hello, hello, welcome in, welcome in!
+
+8
+00:05:00,490 --> 00:05:01,370
+Welcome into...
+
+9
+00:05:01,370 --> 00:05:02,390
+Aoi and Wake!
+
+10
+00:05:02,870 --> 00:05:03,030
+Woo!
+
+11
+00:05:03,570 --> 00:05:04,310
+Boo, bo, bo, bo, bo!
+
+12
+00:05:05,070 --> 00:05:07,090
+I think there's not like a spoilers on this, right?
+
+13
+00:05:07,850 --> 00:05:11,250
+You know how some, like, Openings kind of have like a...
+
+14
+00:05:12,110 --> 00:05:15,610
+Hey, don't watch this unless you've played the game already.
+
+15
+00:05:18,270 --> 00:05:19,210
+Alan wake up!
+
+16
+00:05:19,470 --> 00:05:20,250
+Alan wake up!
+
+17
+00:05:23,630 --> 00:05:27,610
+Did you decide to play this because its creator is
+considered the European Kojima?
+
+18
+00:05:28,730 --> 00:05:34,550
+No, I decided to play this because everybody said that Alan
+Wake 2 is so good and that's all I wanted to play.
+
+19
+00:05:36,570 --> 00:05:37,670
+I had no idea.
+
+20
+00:05:37,730 --> 00:05:38,770
+I had no idea.
+
+21
+00:05:39,250 --> 00:05:42,630
+I have zero idea what this game is about, you guys.
+
+22
+00:05:42,750 --> 00:05:43,890
+I literally know nothing.
+
+23
+00:05:44,570 --> 00:05:48,410
+I am going in, like, 100% blind, basically.
+
+24
+00:05:49,650 --> 00:05:51,030
+I did zero research.
+
+25
+00:05:54,150 --> 00:05:54,870
+So...
+
+26
+00:05:54,870 --> 00:05:59,430
+Please try to avoid spoilers and all that.
+
+27
+00:05:59,670 --> 00:06:12,110
+We're going to implement the smiley method, where if anybody
+sees spoilers in the chat, please do a smiley face so that I
+
+28
+00:06:12,110 --> 00:06:13,330
+do not see it.
+
+29
+00:06:13,390 --> 00:06:20,250
+If I see a smiley face, that tells me that I should not look
+at chat and that also pushes the spoiler off the screen so
+
+30
+00:06:20,250 --> 00:06:21,930
+that it gets no attention.
+
+31
+00:06:23,990 --> 00:06:25,650
+It's my foolproof method.
+
+32
+00:06:26,030 --> 00:06:27,210
+Hello, Mito and Ibu is like you.
+
+33
+00:06:27,370 --> 00:06:30,190
+I wish upon every Ibu good health and many blessings this
+year.
+
+34
+00:06:30,570 --> 00:06:30,830
+Love you.
+
+35
+00:06:31,570 --> 00:06:33,070
+Ah, Kamu, thank you.
+
+36
+00:06:35,250 --> 00:06:36,730
+Thank you, thank you, thank you.
+
+37
+00:06:37,330 --> 00:06:39,150
+I don't know.
+
+38
+00:06:39,470 --> 00:06:40,130
+Good system.
+
+39
+00:06:40,530 --> 00:06:43,890
+Yeah, it seriously has been like the best system yet.
+
+40
+00:06:46,470 --> 00:06:54,490
+Because like I said, not only does it push the spoiler off
+the screen, out of chat so I don't read it, it also alerts
+
+41
+00:06:54,490 --> 00:06:57,050
+me that I should not be looking.
+
+42
+00:06:58,330 --> 00:07:01,330
+Oh my gosh, right before stream, I went to go get...
+
+43
+00:07:02,250 --> 00:07:03,930
+It was during the loading stream.
+
+44
+00:07:04,150 --> 00:07:05,690
+It's just loading screen.
+
+45
+00:07:05,950 --> 00:07:07,070
+I went to go get some tea.
+
+46
+00:07:08,090 --> 00:07:13,750
+And I saw Paz running around, and she loves to, like, hide
+in my room.
+
+47
+00:07:13,830 --> 00:07:17,950
+And I go back into my room, and I was like, there better not
+be a little girl in here.
+
+48
+00:07:18,230 --> 00:07:19,350
+Paz is my cat, by the way.
+
+49
+00:07:19,730 --> 00:07:23,270
+I'm like, there better not be a little girl in here.
+
+50
+00:07:23,750 --> 00:07:28,630
+And then I check behind the curtain, and there was a little
+girl, but I had already shut my door.
+
+51
+00:07:30,470 --> 00:07:34,750
+And so she was, like, freaking out because she just went to
+the bathroom, so she had the zoomies.
+
+52
+00:07:37,390 --> 00:07:44,730
+She goes to run outside my door, and she sees that it's
+shut, and so she's like, what do I do?
+
+53
+00:07:44,830 --> 00:07:52,490
+And so she freaks out, and, and, and turns around really
+fast and booked her head on the wall.
+
+54
+00:07:55,130 --> 00:07:56,710
+Payment for the slap earlier.
+
+55
+00:07:56,950 --> 00:07:57,390
+Thank you, Minto.
+
+56
+00:07:57,570 --> 00:07:58,230
+I needed it.
+
+57
+00:07:58,330 --> 00:07:58,890
+Kapo!
+
+58
+00:08:01,110 --> 00:08:01,710
+Kapo.
+
+59
+00:08:07,340 --> 00:08:08,340
+Be happy.
+
+60
+00:08:10,260 --> 00:08:11,180
+It's okay.
+
+61
+00:08:12,660 --> 00:08:13,900
+It's all okay.
+
+62
+00:08:16,520 --> 00:08:19,100
+I'm so happy to see you getting a start in the Remedy
+universe.
+
+63
+00:08:19,340 --> 00:08:20,080
+Is that what it's called?
+
+64
+00:08:22,720 --> 00:08:27,420
+Alan Wake is a fantastic foothold into Sam Lake's dog shit.
+
+65
+00:08:27,860 --> 00:08:28,440
+Affectionate.
+
+66
+00:08:28,500 --> 00:08:29,160
+Who's Sam?
+
+67
+00:08:31,680 --> 00:08:32,680
+Wait, what are...
+
+68
+00:08:32,680 --> 00:08:33,540
+What is...
+
+69
+00:08:33,540 --> 00:08:34,080
+What's happening?
+
+70
+00:08:35,420 --> 00:08:36,620
+Today's my birthday today!
+
+71
+00:08:37,600 --> 00:08:40,620
+I can't think of a better way to spend it than by watching
+Minky!
+
+72
+00:08:42,060 --> 00:08:44,620
+Oh gosh, see my happy birthday!
+
+73
+00:08:46,760 --> 00:08:48,220
+Happy, happy birthday!
+
+74
+00:08:49,100 --> 00:08:50,460
+Happy, happy birthday, happy birthday!
+
+75
+00:08:54,670 --> 00:08:57,130
+Sorry for being in the comment that tipped the tear bucket
+yesterday.
+
+76
+00:08:57,230 --> 00:08:57,430
+No!
+
+77
+00:08:58,130 --> 00:08:59,090
+It's totally okay.
+
+78
+00:09:00,130 --> 00:09:01,230
+Totally A-okay.
+
+79
+00:09:02,970 --> 00:09:08,330
+Do Smiley's a random plot point, so Minto always questions
+what could possibly be spoiler- No!
+
+80
+00:09:08,650 --> 00:09:09,590
+Don't do that!
+
+81
+00:09:11,630 --> 00:09:12,950
+Don't do that!
+
+82
+00:09:18,810 --> 00:09:20,810
+Just do smileys.
+
+83
+00:09:22,490 --> 00:09:26,390
+I mean, you could if I start trying to like guess stuff, you
+could do smileys.
+
+84
+00:09:27,170 --> 00:09:30,970
+Don't ever confirm or deny nothing.
+
+85
+00:09:33,070 --> 00:09:35,130
+Confirm nor deny nothing.
+
+86
+00:09:36,650 --> 00:09:39,730
+That's like confirming something is like a big spoiler.
+
+87
+00:09:39,970 --> 00:09:40,770
+Oh, I don't know.
+
+88
+00:09:41,190 --> 00:09:42,630
+Am I alone in thinking that way?
+
+89
+00:09:44,070 --> 00:09:45,030
+Always smiling.
+
+90
+00:09:45,710 --> 00:09:47,630
+ABS, always be smiling.
+
+91
+00:09:48,510 --> 00:09:50,070
+Alan Wake is about Alan who's awake.
+
+92
+00:09:50,470 --> 00:09:51,630
+I don't know, I've never played the game.
+
+93
+00:09:51,970 --> 00:09:52,490
+Me neither.
+
+94
+00:09:52,950 --> 00:09:56,010
+Well, he's clearly awake in, like, all of these.
+
+95
+00:09:56,650 --> 00:09:57,170
+Oh, sure.
+
+96
+00:09:57,330 --> 00:09:57,950
+Oh, my gosh.
+
+97
+00:09:59,230 --> 00:10:01,590
+Thank you so much for the 15th of day.
+
+98
+00:10:02,150 --> 00:10:02,550
+Thank you.
+
+99
+00:10:05,950 --> 00:10:07,850
+Um, but what was I gonna say?
+
+100
+00:10:11,670 --> 00:10:15,830
+Oh, people would make fun of me sometimes because I would
+make up, or I would make up.
+
+101
+00:10:15,850 --> 00:10:28,530
+make I would I would mix up Alan Wake and John Wick because
+okay you have to be you have to understand now all I saw was
+
+102
+00:10:28,530 --> 00:10:37,850
+Alan Wake too that guy looks exactly like John Wick and so
+in my brain there I had so that's also partially why I
+
+103
+00:10:37,850 --> 00:10:49,750
+wanted to play because I finally watched Alan Wake and now
+I'm finally no sorry wait no I just did it again I finally
+
+104
+00:10:49,750 --> 00:10:51,150
+played John Wick.
+
+105
+00:10:51,570 --> 00:10:53,090
+No, wait, I did it again.
+
+106
+00:10:55,590 --> 00:10:56,810
+I finally...
+
+107
+00:10:56,810 --> 00:10:57,350
+I
+
+108
+00:11:07,740 --> 00:11:13,120
+finally watched John Wick.
+
+109
+00:11:13,960 --> 00:11:17,180
+And now I'm finally playing Alan Wick.
+
+110
+00:11:20,400 --> 00:11:25,200
+And so hopefully I won't get them confused anymore.
+
+111
+00:11:28,880 --> 00:11:31,040
+I can't get him right.
+
+112
+00:11:33,220 --> 00:11:35,460
+Oh my god.
+
+113
+00:11:40,200 --> 00:11:41,800
+Get him right.
+
+114
+00:11:43,120 --> 00:11:43,320
+Oh.
+
+115
+00:11:48,020 --> 00:11:49,360
+Oh, geez.
+
+116
+00:11:51,800 --> 00:11:58,620
+Also, I got Alan Wake this one and the second one when they
+were free on Epic Store.
+
+117
+00:11:59,260 --> 00:12:00,140
+So, yippee.
+
+118
+00:12:00,300 --> 00:12:01,880
+Also, thank you guys for the super chat.
+
+119
+00:12:01,980 --> 00:12:02,180
+Sorry.
+
+120
+00:12:02,240 --> 00:12:03,360
+I was...
+
+121
+00:12:03,360 --> 00:12:04,240
+I was...
+
+122
+00:12:05,520 --> 00:12:07,080
+Did you know Alan Wake isn't his...
+
+123
+00:12:07,080 --> 00:12:07,640
+Don't say that.
+
+124
+00:12:07,720 --> 00:12:08,000
+Don't...
+
+125
+00:12:08,000 --> 00:12:09,120
+That's his real name.
+
+126
+00:12:13,060 --> 00:12:16,440
+Love my dyslexic Oshi into assassin slash author dudes.
+
+127
+00:12:20,450 --> 00:12:21,270
+That's our Vtuber.
+
+128
+00:12:21,590 --> 00:12:22,510
+It's your theme music.
+
+129
+00:12:23,050 --> 00:12:24,490
+What's the theme music?
+
+130
+00:12:25,430 --> 00:12:27,610
+His real name is John Wick.
+
+131
+00:12:34,330 --> 00:12:34,890
+Oh...
+
+132
+00:12:35,950 --> 00:12:37,070
+I think you're confused.
+
+133
+00:12:37,090 --> 00:12:38,990
+You're like Alan Wick and John Wake again.
+
+134
+00:12:39,150 --> 00:12:39,390
+Wait.
+
+135
+00:12:40,210 --> 00:12:40,670
+Alan...
+
+136
+00:12:41,370 --> 00:12:43,350
+No, it's Alan Wake and John Wick.
+
+137
+00:12:43,690 --> 00:12:44,130
+Wait, no!
+
+138
+00:12:44,350 --> 00:12:45,830
+You're confusing me!
+
+139
+00:12:46,210 --> 00:12:47,430
+Wait, it's Alan Wake!
+
+140
+00:12:47,790 --> 00:12:49,070
+It says it right there on the title.
+
+141
+00:12:49,530 --> 00:12:50,410
+And John Wick.
+
+142
+00:12:51,070 --> 00:12:52,670
+Don't do this to me!
+
+143
+00:12:57,640 --> 00:12:59,220
+Don't do this to me!
+
+144
+00:13:00,380 --> 00:13:01,340
+Alan Wick.
+
+145
+00:13:01,460 --> 00:13:02,500
+No, Alan Wake.
+
+146
+00:13:03,000 --> 00:13:03,900
+Alan Wake up.
+
+147
+00:13:03,960 --> 00:13:04,860
+Can't wake up.
+
+148
+00:13:05,640 --> 00:13:06,580
+John Wick.
+
+149
+00:13:07,500 --> 00:13:08,540
+Punch you in the dick.
+
+150
+00:13:09,520 --> 00:13:10,700
+I think that's how I'll remember.
+
+151
+00:13:12,040 --> 00:13:16,760
+Because John Wick will be upset that you killed the dog.
+
+152
+00:13:20,920 --> 00:13:22,220
+I think that's how I'll remember.
+
+153
+00:13:23,600 --> 00:13:26,920
+I have to think of something else for Alan Wake though.
+
+154
+00:13:28,280 --> 00:13:30,720
+This is how I found your Kamiyoshi in 2022.
+
+155
+00:13:31,020 --> 00:13:32,760
+She was playing Alan Wake on Twitch.
+
+156
+00:13:32,960 --> 00:13:35,160
+And this is how I fell down the VTuber Rabbit Hole.
+
+157
+00:13:36,700 --> 00:13:37,120
+Henya!
+
+158
+00:13:38,580 --> 00:13:39,640
+Alan's the monster.
+
+159
+00:13:39,780 --> 00:13:41,040
+Wake is the scientist.
+
+160
+00:13:42,520 --> 00:13:45,680
+Dr. Allen and Wake Hyde.
+
+161
+00:13:46,240 --> 00:13:48,540
+Keanu Reeves' real name.
+
+162
+00:13:49,860 --> 00:13:51,160
+Keanu Reeves.
+
+163
+00:13:52,200 --> 00:13:54,620
+I feel like that has to be his real name.
+
+164
+00:13:55,000 --> 00:13:56,560
+That's like such a specific name.
+
+165
+00:13:57,900 --> 00:13:59,260
+Keanu Reeves.
+
+166
+00:13:59,820 --> 00:14:00,680
+I'm Googling it.
+
+167
+00:14:00,920 --> 00:14:01,840
+Real name.
+
+168
+00:14:03,840 --> 00:14:04,800
+I was right.
+
+169
+00:14:07,500 --> 00:14:08,720
+I was right.
+
+170
+00:14:08,860 --> 00:14:09,320
+I was right.
+
+171
+00:14:11,960 --> 00:14:15,100
+I don't think you'll ever be able to get rid of the John
+Wake.
+
+172
+00:14:15,620 --> 00:14:16,540
+No, John Wake!
+
+173
+00:14:18,120 --> 00:14:21,200
+Sam Lake is head of Remedy and made the games.
+
+174
+00:14:21,720 --> 00:14:23,620
+Ah, he's also the face of Maxpan.
+
+175
+00:14:24,140 --> 00:14:24,580
+Oh!
+
+176
+00:14:26,760 --> 00:14:30,600
+I live two hours away from Remedy's HQ where this game was
+made.
+
+177
+00:14:30,840 --> 00:14:32,560
+Oh my gosh, cool!
+
+178
+00:14:34,820 --> 00:14:35,780
+So cool!
+
+179
+00:14:36,560 --> 00:14:37,980
+The actual name is Neo.
+
+180
+00:14:39,360 --> 00:14:41,660
+Ouch, oh my gosh, I might not be able to wear my...
+
+181
+00:14:41,840 --> 00:14:43,280
+headphones today.
+
+182
+00:14:43,720 --> 00:14:45,260
+I might have to switch out.
+
+183
+00:14:46,380 --> 00:14:48,000
+I think they're online.
+
+184
+00:14:49,160 --> 00:14:52,720
+I think I scratched my ear earlier and it made a cut.
+
+185
+00:14:55,120 --> 00:14:57,500
+I'm gonna switch to my big headphones.
+
+186
+00:14:58,100 --> 00:14:58,780
+One second.
+
+187
+00:15:06,670 --> 00:15:08,150
+Today, today, today, today.
+
+188
+00:15:08,310 --> 00:15:11,050
+Oh, I also gotta get my controller.
+
+189
+00:15:11,910 --> 00:15:13,730
+This is a controller game, right?
+
+190
+00:15:15,130 --> 00:15:17,670
+I'm like assuming this is a controller game, right?
+
+191
+00:15:18,110 --> 00:15:20,250
+La la la, can you hear me?
+
+192
+00:15:20,270 --> 00:15:20,910
+Wait, I did it.
+
+193
+00:15:21,110 --> 00:15:22,970
+Unplugged my mic, I unplugged my headphones.
+
+194
+00:15:26,070 --> 00:15:29,730
+Hopefully Alan Wake doesn't go after them nuts or your
+method will be ruined.
+
+195
+00:15:29,870 --> 00:15:30,850
+You're so right.
+
+196
+00:15:31,470 --> 00:15:33,370
+Oh my gosh, what if that's his signature move?
+
+197
+00:15:34,350 --> 00:15:36,110
+Amito just got home from the mall.
+
+198
+00:15:36,490 --> 00:15:37,330
+Did I miss anything?
+
+199
+00:15:38,130 --> 00:15:39,870
+Uh, we're about to wake up, A.B.
+
+200
+00:15:43,030 --> 00:15:47,150
+His real name is Frank Yeager and Yeager is driven for Wake.
+
+201
+00:15:48,730 --> 00:15:51,030
+Alan Wake, bake you a cake.
+
+202
+00:15:51,990 --> 00:15:54,410
+John Wick, punch you in the dick.
+
+203
+00:15:55,490 --> 00:15:56,210
+Where's my controller?
+
+204
+00:15:59,790 --> 00:16:00,270
+Alright.
+
+205
+00:16:01,490 --> 00:16:10,270
+Wait, yeah, if this guy is considered European Kojima, is
+this a movie game?
+
+206
+00:16:11,650 --> 00:16:12,430
+I love that.
+
+207
+00:16:13,010 --> 00:16:13,870
+Windows jump scare.
+
+208
+00:16:13,970 --> 00:16:15,470
+Sorry, that was me grabbing my controller.
+
+209
+00:16:16,350 --> 00:16:18,890
+This guy you play as a guy and he's a dude.
+
+210
+00:16:19,030 --> 00:16:19,490
+Spoiler.
+
+211
+00:16:21,990 --> 00:16:24,550
+Press any key to play Bum
+
+212
+00:16:29,480 --> 00:16:35,700
+Does the game seem quiet here guys Shall we start?
+
+213
+00:16:36,040 --> 00:16:44,420
+Very excited to say Mito start this This game Very Twin
+Peaks, very Twilight Zone Ooh, I'm so excited Mystery in
+
+214
+00:16:44,420 --> 00:16:55,860
+Adventure Hall It's not quiet Really Okay, cool Let's go
+then Oh, is this game difficult?
+
+215
+00:16:56,180 --> 00:17:00,280
+Would you guys say, what would you say is normal okay to do
+for me?
+
+216
+00:17:02,580 --> 00:17:03,820
+This isn't a movie game.
+
+217
+00:17:04,060 --> 00:17:04,960
+This is a book game.
+
+218
+00:17:05,320 --> 00:17:07,020
+My name is Alan Wake and I'm a writer.
+
+219
+00:17:07,640 --> 00:17:08,400
+Normal is fine?
+
+220
+00:17:09,800 --> 00:17:10,560
+Okay, okay, okay.
+
+221
+00:17:11,540 --> 00:17:12,620
+I think normal is fine.
+
+222
+00:17:15,840 --> 00:17:16,320
+Okay.
+
+223
+00:17:17,060 --> 00:17:18,920
+Alan, it's time to wake up.
+
+224
+00:17:19,240 --> 00:17:20,140
+Alan, wake up.
+
+225
+00:17:20,240 --> 00:17:20,900
+Let's wake up.
+
+226
+00:17:24,600 --> 00:17:30,480
+Stephen King once wrote that nightmares exist outside of
+logic, and there's little fun to be had in explanations.
+
+227
+00:17:30,740 --> 00:17:32,900
+Wait, do I need some- They're antithetical to the poetry of
+fear.
+
+228
+00:17:33,000 --> 00:17:33,460
+Can I put on subtitles?
+
+229
+00:17:34,180 --> 00:17:38,660
+In a horror story, the victim keeps asking why, but there
+can be no explanation.
+
+230
+00:17:38,780 --> 00:17:40,460
+I don't want to press start in case it skips it.
+
+231
+00:17:40,600 --> 00:17:45,320
+The unanswered mystery is what stays with us the longest,
+and it's what we'll remember in the end.
+
+232
+00:17:46,420 --> 00:17:47,460
+My name is Alan Wake.
+
+233
+00:17:47,780 --> 00:17:48,480
+And he's a writer.
+
+234
+00:17:48,680 --> 00:17:48,920
+I'm a writer.
+
+235
+00:17:49,040 --> 00:17:49,420
+Ah!
+
+236
+00:17:50,180 --> 00:17:50,600
+Ah!
+
+237
+00:17:59,420 --> 00:18:03,940
+I've always had a vivid imagination, but this dream
+unsettled me.
+
+238
+00:18:04,140 --> 00:18:07,720
+It was wild and dark and weird, even by my standards.
+
+239
+00:18:07,880 --> 00:18:09,000
+Even by your standards.
+
+240
+00:18:09,180 --> 00:18:09,840
+What are your standards?
+
+241
+00:18:10,080 --> 00:18:12,420
+So yes, it began with the dream.
+
+242
+00:18:12,480 --> 00:18:13,680
+Super chat writer.
+
+243
+00:18:14,280 --> 00:18:15,540
+Alan, wake up, girl.
+
+244
+00:18:15,740 --> 00:18:23,000
+Following a typical nightmare pattern, I was late,
+desperately trying to reach my destination a lighthouse for
+
+245
+00:18:23,000 --> 00:18:29,480
+some urgent reason i couldn't remember i've been driving too
+fast down a coastal road to get there oh my god that's scary
+
+246
+00:18:29,480 --> 00:18:39,280
+oh my god be safe wait this is the dream right i've seen the
+hitchhiker too late why was he standing in the middle of the
+
+247
+00:18:39,280 --> 00:18:39,900
+road though
+
+248
+00:18:44,860 --> 00:18:52,560
+he was dead i was convinced they'd put me in jail and i
+would never see alice again Alice.
+
+249
+00:18:54,100 --> 00:18:54,840
+Your lights.
+
+250
+00:18:57,340 --> 00:18:59,560
+Oh my god, Alan, wake up!
+
+251
+00:18:59,880 --> 00:19:00,760
+Alan, wake up!
+
+252
+00:19:03,460 --> 00:19:04,160
+Alan, wake up!
+
+253
+00:19:04,440 --> 00:19:05,460
+It's just a dream!
+
+254
+00:19:05,780 --> 00:19:06,960
+Draco's, thank you so much for the time.
+
+255
+00:19:07,000 --> 00:19:08,060
+He gets a thank you!
+
+256
+00:19:08,820 --> 00:19:10,580
+Suddenly, his body was gone.
+
+257
+00:19:12,020 --> 00:19:13,620
+Episode 1, Nightmare.
+
+258
+00:19:13,940 --> 00:19:14,240
+Whoa!
+
+259
+00:19:16,040 --> 00:19:17,780
+I was in shock from the crash.
+
+260
+00:19:18,180 --> 00:19:19,680
+I could hardly stand my feet.
+
+261
+00:19:22,280 --> 00:19:24,780
+Okay, give me one second, I'm going to...
+
+262
+00:19:24,780 --> 00:19:24,980
+Oh!
+
+263
+00:19:25,700 --> 00:19:26,360
+Look to the...
+
+264
+00:19:26,360 --> 00:19:26,500
+Wait.
+
+265
+00:19:26,840 --> 00:19:27,200
+R...
+
+266
+00:19:27,200 --> 00:19:28,120
+Okay, turns the camera.
+
+267
+00:19:28,460 --> 00:19:29,940
+Look up to the light.
+
+268
+00:19:31,600 --> 00:19:32,500
+Reverse your...
+
+269
+00:19:32,500 --> 00:19:33,720
+No, I think...
+
+270
+00:19:33,720 --> 00:19:35,940
+I'm actually one of those people that like...
+
+271
+00:19:35,940 --> 00:19:37,600
+If I press up, I like to look up.
+
+272
+00:19:37,840 --> 00:19:38,220
+So...
+
+273
+00:19:38,220 --> 00:19:38,840
+No, I'm okay.
+
+274
+00:19:39,260 --> 00:19:41,600
+You can change camera settings in the menu's option screen.
+
+275
+00:19:42,800 --> 00:19:43,580
+Okay, one second.
+
+276
+00:19:43,700 --> 00:19:48,020
+Let's see if there is subtitles enabled.
+
+277
+00:19:48,860 --> 00:19:49,840
+Sorry about that, everybody.
+
+278
+00:19:50,280 --> 00:19:50,920
+So sorry.
+
+279
+00:19:51,420 --> 00:19:52,560
+Also one second.
+
+280
+00:19:54,000 --> 00:19:55,160
+Let's do that.
+
+281
+00:19:59,140 --> 00:20:00,520
+Up is up.
+
+282
+00:20:02,140 --> 00:20:02,900
+Yes, yes, yes.
+
+283
+00:20:03,120 --> 00:20:04,560
+Andrew goes, did I say thank you?
+
+284
+00:20:04,760 --> 00:20:06,180
+I said it in my brain.
+
+285
+00:20:06,260 --> 00:20:07,340
+Thank you so much for the tori genta.
+
+286
+00:20:07,680 --> 00:20:07,940
+Thank you.
+
+287
+00:20:08,080 --> 00:20:09,620
+I don't know if I said it out loud.
+
+288
+00:20:11,700 --> 00:20:13,020
+Please, no, thank you.
+
+289
+00:20:13,880 --> 00:20:15,720
+And Ralph Walgood, welcome back.
+
+290
+00:20:15,820 --> 00:20:16,540
+Thank you.
+
+291
+00:20:16,760 --> 00:20:19,000
+I like to imagine that this guy does voiceover for
+everything.
+
+292
+00:20:19,380 --> 00:20:20,780
+I woke up and went to the kitchen.
+
+293
+00:20:21,080 --> 00:20:22,460
+I ran out of orange juice.
+
+294
+00:20:24,180 --> 00:20:25,220
+So true.
+
+295
+00:20:26,220 --> 00:20:27,000
+Alright, here we go.
+
+296
+00:20:28,640 --> 00:20:29,860
+There we go.
+
+297
+00:20:33,240 --> 00:20:35,840
+Oh, do I need to make the font size?
+
+298
+00:20:36,640 --> 00:20:37,640
+We'll do it like this.
+
+299
+00:20:37,760 --> 00:20:38,300
+That should be good.
+
+300
+00:20:40,880 --> 00:20:40,940
+Oh.
+
+301
+00:20:41,780 --> 00:20:43,080
+He walks so funny.
+
+302
+00:20:43,880 --> 00:20:44,880
+LB, the sprint.
+
+303
+00:20:45,220 --> 00:20:45,340
+Oh.
+
+304
+00:20:46,200 --> 00:20:47,440
+That's a funny button, the sprint.
+
+305
+00:20:49,780 --> 00:20:50,820
+Drop hazard.
+
+306
+00:20:52,100 --> 00:20:52,780
+Drop hazard.
+
+307
+00:20:54,080 --> 00:21:04,860
+hazard of blah blah blah's called drop the beat now I had to
+go to the lighthouse I knew there was something important
+
+308
+00:21:04,860 --> 00:21:12,860
+waiting for me there get to the lighthouse oh did that just
+give me wait what is what's the red thing up there wait I'm
+
+309
+00:21:12,860 --> 00:21:18,300
+gonna sorry we're still adjusting right now I think I'll
+make the font a little smaller because I'm gonna be blocking
+
+310
+00:21:18,300 --> 00:21:25,680
+it quite a bit so we'll make it like that I think probably
+this is the remaster well it was the only one that I had on
+
+311
+00:21:25,680 --> 00:21:38,360
+up on my epic store so they're like hey idiot the lighthouse
+is over there what's over here though the bridge is out the
+
+312
+00:21:38,360 --> 00:21:48,260
+bridge had collapsed I'd have to find another way to the
+lighthouse pick up coffee thermos collectible okay that's
+
+313
+00:21:48,260 --> 00:22:04,030
+fun narration is kind of sending me the the sensitivity on
+the camera is look at that it's kind of insane I'm not gonna
+
+314
+00:22:04,030 --> 00:22:11,690
+lie holy cow it's gonna take some getting used to actually
+all of these controls are gonna take it's very it's like
+
+315
+00:22:11,690 --> 00:22:26,100
+slow and sensitive at the same time oh shoot wait I was
+gonna read that though ah you don't even recognize me do you
+
+316
+00:22:26,100 --> 00:22:30,540
+writer you think you're God oh shoot Oh, she did.
+
+317
+00:22:32,420 --> 00:22:33,640
+Well, maybe she did.
+
+318
+00:22:34,520 --> 00:22:35,040
+Oh,
+
+319
+00:22:38,160 --> 00:22:39,560
+uh, maybe I should run.
+
+320
+00:22:41,240 --> 00:22:42,040
+Maybe I should run.
+
+321
+00:22:43,500 --> 00:22:44,060
+What's this?
+
+322
+00:22:44,320 --> 00:22:44,840
+Missing.
+
+323
+00:22:45,480 --> 00:22:46,940
+There's a robot and a QR code.
+
+324
+00:22:48,300 --> 00:22:48,880
+Maybe I should run.
+
+325
+00:22:49,200 --> 00:22:49,660
+A to jump.
+
+326
+00:22:50,340 --> 00:22:50,480
+E!
+
+327
+00:22:50,480 --> 00:22:51,060
+Oh my god!
+
+328
+00:22:51,380 --> 00:22:53,020
+It's like I'm actually running in a dream.
+
+329
+00:22:53,180 --> 00:22:53,720
+It's kind of insane.
+
+330
+00:22:53,740 --> 00:22:55,140
+You missed your deadline!
+
+331
+00:22:56,060 --> 00:22:57,740
+You can dodge enemy attacks.
+
+332
+00:22:58,280 --> 00:22:59,340
+LBLS to dodge.
+
+333
+00:22:59,720 --> 00:23:00,320
+Okay.
+
+334
+00:23:00,720 --> 00:23:00,980
+Ah!
+
+335
+00:23:02,340 --> 00:23:04,780
+You can't stop me!
+
+336
+00:23:05,400 --> 00:23:06,400
+Can I punch?
+
+337
+00:23:06,680 --> 00:23:07,160
+Try it again.
+
+338
+00:23:07,280 --> 00:23:08,020
+Dodge the attack.
+
+339
+00:23:13,440 --> 00:23:14,180
+Where'd he go?
+
+340
+00:23:14,360 --> 00:23:17,980
+I realized that the hitchhiker was a character from the
+story I've been working on.
+
+341
+00:23:19,460 --> 00:23:20,000
+Funny.
+
+342
+00:23:21,300 --> 00:23:22,080
+Run, Minto.
+
+343
+00:23:22,420 --> 00:23:22,940
+I was.
+
+344
+00:23:23,000 --> 00:23:23,720
+I was running.
+
+345
+00:23:24,340 --> 00:23:25,420
+Can I get back over there?
+
+346
+00:23:27,960 --> 00:23:30,960
+Look at the way he jumps.
+
+347
+00:23:32,440 --> 00:23:33,200
+Safety!
+
+348
+00:23:33,540 --> 00:23:34,040
+Welcome back!
+
+349
+00:23:34,500 --> 00:23:35,140
+Thank you!
+
+350
+00:23:35,620 --> 00:23:36,360
+Rider Dodge.
+
+351
+00:23:37,600 --> 00:23:37,740
+Woo!
+
+352
+00:23:40,080 --> 00:23:40,220
+Woo!
+
+353
+00:23:41,700 --> 00:23:42,120
+Woo!
+
+354
+00:23:42,740 --> 00:23:43,240
+Woo!
+
+355
+00:23:43,900 --> 00:23:44,060
+Woo!
+
+356
+00:23:47,220 --> 00:23:47,480
+Oh!
+
+357
+00:23:48,660 --> 00:23:48,900
+Okay.
+
+358
+00:23:53,340 --> 00:23:54,940
+We're getting to the lighthouse.
+
+359
+00:23:55,360 --> 00:23:56,720
+Something spooky is gonna happen here.
+
+360
+00:23:57,120 --> 00:23:57,720
+I know.
+
+361
+00:23:57,720 --> 00:24:08,420
+die by the hands of your own please oh boy I think we need
+to run no we need to run oh
+
+362
+00:24:17,560 --> 00:24:21,700
+my gosh I'm just a rider I have no stamina
+
+363
+00:24:25,860 --> 00:24:38,780
+run run please oh someone's helping me I'm running I'm back
+Alan run.
+
+364
+00:24:39,220 --> 00:24:40,400
+Alan wake up and Alan run.
+
+365
+00:24:41,180 --> 00:24:41,480
+I'm here.
+
+366
+00:24:45,040 --> 00:24:46,940
+Waddle for your life.
+
+367
+00:24:54,340 --> 00:24:55,740
+No time to lose, you say.
+
+368
+00:25:02,090 --> 00:25:02,430
+No, no.
+
+369
+00:25:02,730 --> 00:25:03,330
+Our friend.
+
+370
+00:25:03,870 --> 00:25:04,390
+What were you doing?
+
+371
+00:25:04,510 --> 00:25:04,730
+Stuart?
+
+372
+00:25:05,490 --> 00:25:05,990
+Stop.
+
+373
+00:25:13,000 --> 00:25:14,400
+Two bullets and a dream.
+
+374
+00:25:15,740 --> 00:25:17,880
+Oh my god!
+
+375
+00:25:18,580 --> 00:25:19,420
+Clay Stewart!
+
+376
+00:25:20,960 --> 00:25:25,120
+I was trapped.
+
+377
+00:25:25,540 --> 00:25:26,540
+There was no way out.
+
+378
+00:25:28,800 --> 00:25:30,040
+Uh, I can hide in here.
+
+379
+00:25:30,300 --> 00:25:32,020
+Oh, I can just push the whole...
+
+380
+00:25:35,080 --> 00:25:38,380
+I can push the whole ass everything.
+
+381
+00:25:39,020 --> 00:25:39,560
+Move the bed.
+
+382
+00:25:48,360 --> 00:25:49,160
+What's happening?
+
+383
+00:25:51,320 --> 00:25:52,780
+Can I push this?
+
+384
+00:25:53,460 --> 00:25:54,560
+Oh my god.
+
+385
+00:25:54,840 --> 00:25:56,840
+I had to get out.
+
+386
+00:25:58,360 --> 00:25:59,240
+Um...
+
+387
+00:25:59,240 --> 00:26:01,040
+How do I get out?
+
+388
+00:26:01,940 --> 00:26:02,480
+Whoa!
+
+389
+00:26:03,600 --> 00:26:06,840
+If I could, um...
+
+390
+00:26:08,020 --> 00:26:08,320
+Whoa!
+
+391
+00:26:09,400 --> 00:26:09,700
+Ouch!
+
+392
+00:26:10,100 --> 00:26:10,900
+Wait, hold on.
+
+393
+00:26:11,300 --> 00:26:14,740
+Follow the light.
+
+394
+00:26:17,500 --> 00:26:17,980
+Okay.
+
+395
+00:26:19,300 --> 00:26:19,860
+Hmm.
+
+396
+00:26:21,140 --> 00:26:21,700
+I'm running?
+
+397
+00:26:22,680 --> 00:26:24,240
+Oh, that's...
+
+398
+00:26:24,840 --> 00:26:38,740
+you should go into the light you are only safe there oh yeah
+go into the safe haven focus oh I'm focused whoa whoa well
+
+399
+00:26:38,740 --> 00:26:48,100
+done I have something important to be directed by God for he
+did not know that beyond the lake he called home lies a
+
+400
+00:26:48,100 --> 00:26:58,720
+deeper darker ocean green where waves are both wilder and
+more serene to its ports i've been to its ports i've been
+
+401
+00:26:58,720 --> 00:27:01,840
+being do you understand to its ports i've been
+
+402
+00:27:06,320 --> 00:27:20,400
+to its ports i've been i entered your dream to teach you the
+darkness is dangerous it's sleeping now when it feels you
+
+403
+00:27:20,400 --> 00:27:26,860
+coming it will wake up helen wake up there's no time i can
+only show you the most important thing the hidden Each hiker
+
+404
+00:27:26,860 --> 00:27:28,940
+has been taken over by the dark presence.
+
+405
+00:27:29,300 --> 00:27:30,640
+You can't hurt him now.
+
+406
+00:27:31,100 --> 00:27:33,320
+The darkness protects him from all harm.
+
+407
+00:27:34,280 --> 00:27:37,520
+Only light can drive the darkness away and make him
+vulnerable again.
+
+408
+00:27:38,300 --> 00:27:39,080
+Here, take the light.
+
+409
+00:27:40,120 --> 00:27:42,640
+I'm trying, but it's only telling me to get the...
+
+410
+00:27:42,640 --> 00:27:43,420
+I'm focusing?
+
+411
+00:27:44,740 --> 00:27:45,880
+Pick up the flashlight.
+
+412
+00:27:46,060 --> 00:27:46,560
+Oh, sorry.
+
+413
+00:27:46,740 --> 00:27:47,860
+I thought that was the flashlight.
+
+414
+00:27:48,020 --> 00:27:48,820
+Okay, yes, sir.
+
+415
+00:27:50,440 --> 00:27:53,620
+Turn your flashlight toward him and burn the darkness away.
+
+416
+00:27:53,940 --> 00:27:54,320
+Whoa.
+
+417
+00:28:07,250 --> 00:28:08,790
+You did it.
+
+418
+00:28:09,330 --> 00:28:13,490
+Now the darkness no longer protects him, but it's still
+inside, controlling him.
+
+419
+00:28:13,830 --> 00:28:14,650
+He can't be saved.
+
+420
+00:28:15,130 --> 00:28:15,870
+He's still a threat.
+
+421
+00:28:15,990 --> 00:28:17,250
+He is still your enemy.
+
+422
+00:28:17,450 --> 00:28:17,750
+Yeah?
+
+423
+00:28:18,010 --> 00:28:19,010
+Here, take the gun.
+
+424
+00:28:19,490 --> 00:28:19,850
+The gun.
+
+425
+00:28:21,190 --> 00:28:21,650
+Oh, shoot.
+
+426
+00:28:21,890 --> 00:28:22,910
+A revolver!
+
+427
+00:28:23,130 --> 00:28:24,310
+Pick up the revolver.
+
+428
+00:28:24,570 --> 00:28:24,830
+Okay!
+
+429
+00:28:25,510 --> 00:28:26,210
+My goodness!
+
+430
+00:28:26,850 --> 00:28:28,330
+Uh, uh, there it is.
+
+431
+00:28:28,450 --> 00:28:29,470
+Okay, I'm seeing...
+
+432
+00:28:29,470 --> 00:28:30,690
+Now you'll die.
+
+433
+00:28:31,010 --> 00:28:31,850
+RT the fire.
+
+434
+00:28:33,110 --> 00:28:34,290
+Oh, oh, shoot.
+
+435
+00:28:35,170 --> 00:28:35,950
+Heck yeah.
+
+436
+00:28:36,390 --> 00:28:36,790
+I jumped.
+
+437
+00:28:37,270 --> 00:28:38,050
+How do I...
+
+438
+00:28:38,630 --> 00:28:39,390
+Oh, okay.
+
+439
+00:28:39,710 --> 00:28:41,830
+I, like, get him, and then I shoot him.
+
+440
+00:28:42,750 --> 00:28:43,090
+Interesting.
+
+441
+00:28:47,330 --> 00:28:48,210
+I'll reload.
+
+442
+00:28:50,350 --> 00:28:50,510
+Oh!
+
+443
+00:28:54,430 --> 00:28:54,570
+Oh.
+
+444
+00:28:56,590 --> 00:28:57,310
+Oh, shoot.
+
+445
+00:28:57,570 --> 00:28:58,030
+Ah, bubba.
+
+446
+00:28:58,070 --> 00:28:58,450
+Oh, ouch.
+
+447
+00:28:59,950 --> 00:29:00,350
+Oh.
+
+448
+00:29:00,690 --> 00:29:00,930
+Ah!
+
+449
+00:29:01,210 --> 00:29:01,390
+Ah!
+
+450
+00:29:01,970 --> 00:29:02,450
+Ouch!
+
+451
+00:29:02,830 --> 00:29:03,190
+Oh my gosh.
+
+452
+00:29:04,410 --> 00:29:06,330
+I keep jumping instead of dodging.
+
+453
+00:29:24,110 --> 00:29:24,590
+Good.
+
+454
+00:29:25,090 --> 00:29:25,830
+You've done well.
+
+455
+00:29:26,310 --> 00:29:27,350
+Remember what I've taught you.
+
+456
+00:29:27,430 --> 00:29:27,710
+Thank you.
+
+457
+00:29:27,790 --> 00:29:28,270
+That is all.
+
+458
+00:29:28,690 --> 00:29:30,330
+I will give you back your dream now.
+
+459
+00:29:31,770 --> 00:29:36,400
+A terrible darkness was taking over the world.
+
+460
+00:29:36,900 --> 00:29:39,080
+The lighthouse was the last safe place on Earth.
+
+461
+00:29:41,340 --> 00:29:41,820
+Okay.
+
+462
+00:29:44,680 --> 00:29:47,260
+Let's grab all that we can get now here.
+
+463
+00:29:48,280 --> 00:29:49,620
+Oh, I didn't limit reach.
+
+464
+00:29:49,760 --> 00:29:51,220
+But I have no more battery.
+
+465
+00:29:52,460 --> 00:29:53,400
+I hope that's okay.
+
+466
+00:29:55,600 --> 00:29:57,920
+The last safe place ever, ever.
+
+467
+00:30:00,320 --> 00:30:00,740
+Oh, shoot.
+
+468
+00:30:00,920 --> 00:30:01,240
+You're back?
+
+469
+00:30:01,400 --> 00:30:02,300
+I just killed you, though.
+
+470
+00:30:06,400 --> 00:30:07,040
+Oh, shoot.
+
+471
+00:30:07,300 --> 00:30:07,520
+That's real.
+
+472
+00:30:13,020 --> 00:30:13,420
+Yeah!
+
+473
+00:30:27,030 --> 00:30:28,570
+Tap X to reload faster.
+
+474
+00:30:28,690 --> 00:30:29,130
+Okay, cool.
+
+475
+00:30:31,090 --> 00:30:32,050
+I'm running.
+
+476
+00:30:33,770 --> 00:30:34,490
+I hear...
+
+477
+00:30:36,370 --> 00:30:36,850
+Sorry.
+
+478
+00:30:37,430 --> 00:30:38,910
+Oh my god, there's more of them!
+
+479
+00:30:39,770 --> 00:30:41,210
+Oh my god!
+
+480
+00:30:44,070 --> 00:30:45,030
+Oh shoot.
+
+481
+00:30:45,370 --> 00:30:45,890
+Ouch, I'll...
+
+482
+00:30:45,890 --> 00:30:47,270
+Oh shoot, I'm gonna die for real.
+
+483
+00:30:49,710 --> 00:30:50,810
+I gotta get out of here.
+
+484
+00:30:51,470 --> 00:30:52,330
+Get in the light!
+
+485
+00:30:54,050 --> 00:30:55,290
+Oh my god.
+
+486
+00:30:55,570 --> 00:30:56,190
+Oh my god.
+
+487
+00:30:58,590 --> 00:31:13,630
+Pick up flare gun ammo Take that, I guess Flare gun Use the
+D-pad to switch weapons and throwables I guess that would
+
+488
+00:31:13,630 --> 00:31:18,550
+help if I Um Uh, what's the word?
+
+489
+00:31:18,810 --> 00:31:24,010
+Oh, you know what he really needs is one of those Uh,
+flashlights that you shake And that's what recharges the
+
+490
+00:31:24,010 --> 00:31:34,790
+battery gosh okay so we need the flare gun i guess to like
+get good light i could hear him like i can hear like
+
+491
+00:31:34,790 --> 00:31:36,870
+spookiness breathing
+
+492
+00:31:40,060 --> 00:31:47,400
+you did just oh my god there's three of them uh wait um
+
+493
+00:31:50,720 --> 00:32:13,030
+let's run i think they wanted me to do that go to the light
+Alan run Alan run oh wait the sign even said Alan wait how
+
+494
+00:32:13,030 --> 00:32:13,730
+do I jump?
+
+495
+00:32:14,470 --> 00:32:16,910
+Jump Alan oh
+
+496
+00:32:20,490 --> 00:32:24,350
+that's a barrel
+
+497
+00:32:32,950 --> 00:32:34,630
+I'm running in my dream.
+
+498
+00:32:34,790 --> 00:32:36,390
+It's running in slow motion for real.
+
+499
+00:32:37,490 --> 00:32:38,690
+I'm running in my dream.
+
+500
+00:32:39,870 --> 00:32:40,790
+Come on!
+
+501
+00:32:44,660 --> 00:32:45,180
+Collectible!
+
+502
+00:32:46,260 --> 00:32:47,440
+Collectible thermos!
+
+503
+00:32:48,960 --> 00:32:49,480
+Pick up!
+
+504
+00:32:51,020 --> 00:32:53,160
+Oh, I missed it!
+
+505
+00:32:55,800 --> 00:32:56,740
+That's okay!
+
+506
+00:32:57,540 --> 00:32:57,940
+Run!
+
+507
+00:32:58,020 --> 00:32:58,980
+That's okay!
+
+508
+00:33:03,730 --> 00:33:04,590
+Alan drink!
+
+509
+00:33:05,230 --> 00:33:07,910
+Wait, I thought this place was supposed to be safe!
+
+510
+00:33:12,960 --> 00:33:13,920
+Alan butterfingers!
+
+511
+00:33:14,460 --> 00:33:15,060
+Alan slip!
+
+512
+00:33:15,420 --> 00:33:15,860
+Alan fumble!
+
+513
+00:33:23,160 --> 00:33:27,200
+We really are just like running in slow motion, it just
+feels like a dream for real.
+
+514
+00:33:28,820 --> 00:33:29,160
+Uh oh.
+
+515
+00:33:33,180 --> 00:33:34,600
+Certified Hood Clash.
+
+516
+00:33:39,810 --> 00:33:41,410
+He's here.
+
+517
+00:33:41,610 --> 00:33:42,410
+Alan?
+
+518
+00:33:42,850 --> 00:33:43,750
+Wake up?
+
+519
+00:33:43,890 --> 00:33:44,850
+Oh, they said it.
+
+520
+00:33:45,110 --> 00:33:46,670
+Shh, baby.
+
+521
+00:33:47,150 --> 00:33:48,010
+Just another nightmare.
+
+522
+00:33:48,930 --> 00:33:49,790
+Everything's fine.
+
+523
+00:33:50,250 --> 00:33:51,110
+You dozed off.
+
+524
+00:33:51,510 --> 00:33:51,890
+Right.
+
+525
+00:33:52,550 --> 00:33:52,950
+Alice?
+
+526
+00:33:53,170 --> 00:33:55,170
+More than dozed off would be news for everyone.
+
+527
+00:33:56,250 --> 00:33:56,350
+Oh.
+
+528
+00:33:56,950 --> 00:33:58,130
+Cheer up, handsome.
+
+529
+00:33:58,810 --> 00:33:59,330
+We're here.
+
+530
+00:34:06,370 --> 00:34:07,490
+Alice wake.
+
+531
+00:34:08,010 --> 00:34:09,770
+Alice woke me up.
+
+532
+00:34:11,350 --> 00:34:14,250
+Welcome to Bright Falls.
+
+533
+00:34:15,410 --> 00:34:17,930
+Wow, wow, this place is nice.
+
+534
+00:34:18,910 --> 00:34:19,850
+So pretty.
+
+535
+00:34:22,590 --> 00:34:25,190
+These spaces are updated and still look crazy.
+
+536
+00:34:25,610 --> 00:34:29,670
+I didn't research if the remaster was any good or not, so...
+
+537
+00:34:29,670 --> 00:34:31,250
+Fingies crossed, I suppose.
+
+538
+00:34:33,070 --> 00:34:35,130
+Oh, we're too late now, maybe.
+
+539
+00:34:37,330 --> 00:34:39,670
+The facial animations in this game were always a little
+goofy.
+
+540
+00:34:39,850 --> 00:34:47,350
+mocap that's my favorite though perfect haunting game you
+know much about scp also gonna get concert tickets streaming
+
+541
+00:34:47,350 --> 00:34:55,330
+it is it is thank you though let's act like we're on
+vacation oh my god go stand next to that old gentleman there
+
+542
+00:34:55,330 --> 00:35:00,530
+i want a shot of you with the town in the background you
+you're gonna take sure i'll even give you a title for the
+
+543
+00:35:00,530 --> 00:35:08,430
+shot a city boy moments before he got eaten by a bear we're
+gonna just go stand by a random man we don't know to take a
+
+544
+00:35:08,430 --> 00:35:21,270
+picture hi hello there you picked a good time to visit our
+town how do I pose just two weeks away dear fast huh did you
+
+545
+00:35:21,270 --> 00:35:30,050
+hear that honey I'm posing wait can I jump you have a lovely
+wife if you don't mind me saying I'm Pat Maine by the way
+
+546
+00:35:30,050 --> 00:35:37,370
+nice to meet you yeah I'm Ellen Wake I won't pretend I don't
+recognize a famous writer such as yourself mr.
+
+547
+00:35:37,470 --> 00:35:40,650
+Wake a pleasure I'm an Oh, wow.
+
+548
+00:35:40,870 --> 00:35:41,430
+Oh, wow.
+
+549
+00:35:41,430 --> 00:35:46,450
+I hope this isn't too presumptuous of me, but I'm the night
+host at the local radio station.
+
+550
+00:35:47,130 --> 00:35:48,650
+Any chance I could get an interview.
+
+551
+00:35:48,930 --> 00:35:49,270
+Wow.
+
+552
+00:35:49,710 --> 00:35:52,350
+Look, Mr. Maine, I'm on vacation.
+
+553
+00:35:52,930 --> 00:35:57,630
+In fact, I'd appreciate it if we could keep my being here
+just between the two of us.
+
+554
+00:35:58,310 --> 00:35:59,090
+I'm sure you understand.
+
+555
+00:35:59,750 --> 00:36:00,530
+Fair enough.
+
+556
+00:36:01,210 --> 00:36:02,390
+You can trust me to be this.
+
+557
+00:36:02,390 --> 00:36:02,750
+I don't know.
+
+558
+00:36:02,870 --> 00:36:04,070
+Old people are never discreet.
+
+559
+00:36:04,130 --> 00:36:05,630
+How hard are you to track down if you change your mind,
+though?
+
+560
+00:36:06,010 --> 00:36:08,090
+I hope you two have a lovely holiday.
+
+561
+00:36:08,230 --> 00:36:09,090
+Where is he looking?
+
+562
+00:36:11,350 --> 00:36:13,950
+I wanted to jump and like get some good poses.
+
+563
+00:36:15,030 --> 00:36:18,250
+She took a lot of photos of me talking to that guy.
+
+564
+00:36:19,130 --> 00:36:19,650
+Very nice.
+
+565
+00:36:20,170 --> 00:36:21,590
+I got a couple of really good ones.
+
+566
+00:36:22,190 --> 00:36:23,450
+And I see you made a friend.
+
+567
+00:36:23,890 --> 00:36:24,790
+That's cute.
+
+568
+00:36:25,190 --> 00:36:25,870
+That's cute.
+
+569
+00:36:26,770 --> 00:36:28,790
+We're going to the Bright Falls Deerfest, everybody.
+
+570
+00:36:29,270 --> 00:36:29,310
+Yeah.
+
+571
+00:36:29,310 --> 00:36:30,250
+Hey, bestseller.
+
+572
+00:36:30,570 --> 00:36:32,010
+How's my favorite writer?
+
+573
+00:36:32,410 --> 00:36:33,110
+Are you there yet?
+
+574
+00:36:33,290 --> 00:36:33,690
+Very.
+
+575
+00:36:34,050 --> 00:36:34,450
+Yeah.
+
+576
+00:36:34,810 --> 00:36:35,630
+We just got him.
+
+577
+00:36:35,750 --> 00:36:36,930
+Are the locals giving you trouble?
+
+578
+00:36:37,410 --> 00:36:39,390
+Just say the word and I'll hop on a plane.
+
+579
+00:36:39,390 --> 00:36:39,470
+Washington.
+
+580
+00:36:39,850 --> 00:36:41,150
+Make sure that you're left alone, Al.
+
+581
+00:36:41,630 --> 00:36:42,970
+No, Barry, we're fine.
+
+582
+00:36:43,570 --> 00:36:47,010
+Al, um, please call me by my full name, Alan Wake.
+
+583
+00:36:48,350 --> 00:36:49,770
+So, how is the place?
+
+584
+00:36:50,150 --> 00:36:50,590
+Has it gotten you?
+
+585
+00:36:50,610 --> 00:36:51,810
+Best character, really?
+
+586
+00:36:52,090 --> 00:36:53,890
+Barry, we're just settling in.
+
+587
+00:36:53,970 --> 00:36:54,370
+Barry.
+
+588
+00:36:55,890 --> 00:36:57,070
+Barry bugging me.
+
+589
+00:36:57,210 --> 00:36:59,610
+And you call me if there's a problem, okay?
+
+590
+00:37:00,210 --> 00:37:00,650
+Okay.
+
+591
+00:37:01,190 --> 00:37:01,590
+Okay.
+
+592
+00:37:01,930 --> 00:37:02,450
+For you, buddy.
+
+593
+00:37:02,790 --> 00:37:03,450
+Talk to you later.
+
+594
+00:37:03,670 --> 00:37:04,670
+I love you too, Barry.
+
+595
+00:37:04,710 --> 00:37:05,910
+Ah, I love you, Barry.
+
+596
+00:37:06,850 --> 00:37:09,370
+You know he's going to be calling you every five minutes.
+
+597
+00:37:09,950 --> 00:37:11,210
+Barry is Barry.
+
+598
+00:37:11,430 --> 00:37:12,650
+I can always turn off the phone.
+
+599
+00:37:13,090 --> 00:37:14,050
+Barry is a bug.
+
+600
+00:37:16,310 --> 00:37:17,270
+Text message from Barry.
+
+601
+00:37:18,050 --> 00:37:19,170
+He says hi to you too.
+
+602
+00:37:20,330 --> 00:37:23,750
+Watery Bright Falls ferry line departures every hour.
+
+603
+00:37:24,150 --> 00:37:25,730
+Come on, let's get back to the car.
+
+604
+00:37:25,870 --> 00:37:26,870
+Ferry traffic.
+
+605
+00:37:27,890 --> 00:37:29,130
+I want to ride one of these.
+
+606
+00:37:29,290 --> 00:37:29,830
+What is this?
+
+607
+00:37:30,070 --> 00:37:30,290
+Guys.
+
+608
+00:37:30,650 --> 00:37:31,830
+Damn yuppies.
+
+609
+00:37:33,550 --> 00:37:34,610
+What's a yuppie?
+
+610
+00:37:34,990 --> 00:37:35,250
+Talking to me?
+
+611
+00:37:36,150 --> 00:37:41,150
+Bright Falls is pretty much Twin Peaks and Washington State
+has some beautiful scenes when the shadow monsters ain't
+
+612
+00:37:41,150 --> 00:37:41,950
+trying to eat you.
+
+613
+00:37:42,390 --> 00:37:42,850
+City boy.
+
+614
+00:37:43,750 --> 00:37:44,150
+Okay.
+
+615
+00:37:44,770 --> 00:37:45,970
+Good day to you too.
+
+616
+00:37:46,530 --> 00:37:46,890
+Okay.
+
+617
+00:37:47,650 --> 00:37:48,050
+Sure.
+
+618
+00:37:48,670 --> 00:37:49,790
+Whoa, look at the deer!
+
+619
+00:37:51,090 --> 00:37:51,390
+Whoa!
+
+620
+00:37:54,210 --> 00:37:56,350
+We're on the deer fest.
+
+621
+00:37:56,590 --> 00:37:57,830
+You get the full service here.
+
+622
+00:37:58,290 --> 00:37:59,590
+I've made all the arrangements.
+
+623
+00:37:59,810 --> 00:38:00,650
+I drive the car.
+
+624
+00:38:01,190 --> 00:38:02,450
+I'll even carry the bags.
+
+625
+00:38:02,870 --> 00:38:07,110
+All you have to do is drag your cute butt into the car and
+enjoy the ride.
+
+626
+00:38:07,710 --> 00:38:09,210
+I have a passenger princess.
+
+627
+00:38:09,850 --> 00:38:21,830
+husband yeah but I guess 80s equivalent of a tech bro okay
+well what are we going to drive Alice into the water I think
+
+628
+00:38:21,830 --> 00:38:32,770
+we need to dock first hold on I'm exploring a little bit
+what's up here I want to see the view I want to see the
+
+629
+00:38:32,770 --> 00:38:43,250
+whole whoa if this is Washington that's That must be Mount
+Rainier.
+
+630
+00:38:45,370 --> 00:38:47,490
+Let's get back in the car and drive to the town.
+
+631
+00:38:47,690 --> 00:38:49,130
+You're my best view.
+
+632
+00:38:49,250 --> 00:38:49,490
+Me.
+
+633
+00:38:52,430 --> 00:38:54,350
+That place is on fire.
+
+634
+00:38:55,030 --> 00:38:56,430
+Oh my god.
+
+635
+00:38:56,970 --> 00:38:58,370
+We just got here.
+
+636
+00:38:59,610 --> 00:39:00,970
+The ferry's about to reach the pier.
+
+637
+00:39:01,270 --> 00:39:02,150
+Let's get back in the car.
+
+638
+00:39:03,050 --> 00:39:05,030
+I think we have a few seconds.
+
+639
+00:39:05,930 --> 00:39:06,370
+Oh man.
+
+640
+00:39:06,790 --> 00:39:07,370
+Oh my gosh.
+
+641
+00:39:07,550 --> 00:39:09,830
+On the other side, I thought that was good.
+
+642
+00:39:09,850 --> 00:39:10,530
+Goku.
+
+643
+00:39:12,890 --> 00:39:13,990
+Alright, honey.
+
+644
+00:39:14,390 --> 00:39:15,370
+Let's check out Bright Falls.
+
+645
+00:39:15,690 --> 00:39:16,290
+Get in the car.
+
+646
+00:39:16,630 --> 00:39:17,130
+Let's go.
+
+647
+00:39:17,150 --> 00:39:18,210
+Do you see him?
+
+648
+00:39:21,130 --> 00:39:23,430
+But he looks just like Goku.
+
+649
+00:39:27,630 --> 00:39:30,610
+He looks just like Goku standing there.
+
+650
+00:39:30,830 --> 00:39:31,910
+Oh my god.
+
+651
+00:39:33,570 --> 00:39:37,030
+You see that guy in the orange jumpsuit?
+
+652
+00:39:41,550 --> 00:39:51,330
+need the red circle it's right there the the the life pres
+pres from our preserver
+
+653
+00:39:56,280 --> 00:40:01,100
+okay i'm done exploring i'm being good we need to stop at
+the local diner to get the cabin key from the landlord a mr
+
+654
+00:40:01,100 --> 00:40:10,580
+carl stucky he's waiting for us let's go fight somewhere
+with the key i'll keep you up here and say 15 minutes sure
+
+655
+00:40:10,580 --> 00:40:13,940
+okay john Thank you so much for the 50 gift.
+
+656
+00:40:14,200 --> 00:40:15,180
+Alan, holy moly.
+
+657
+00:40:15,420 --> 00:40:16,400
+Thank you for coming here with me.
+
+658
+00:40:16,540 --> 00:40:17,220
+I love you too.
+
+659
+00:40:17,440 --> 00:40:17,740
+Go on.
+
+660
+00:40:18,060 --> 00:40:19,140
+I promise to behave.
+
+661
+00:40:19,320 --> 00:40:21,780
+He, like, interrupted her.
+
+662
+00:40:23,780 --> 00:40:25,260
+Thank you for coming here with me.
+
+663
+00:40:25,420 --> 00:40:26,140
+I love you too.
+
+664
+00:40:26,280 --> 00:40:28,440
+I've forgotten there were still places like this.
+
+665
+00:40:29,560 --> 00:40:31,420
+Towns where everybody knew everybody.
+
+666
+00:40:31,920 --> 00:40:32,960
+Welcome to the Odeer Diner.
+
+667
+00:40:33,100 --> 00:40:34,880
+Oh, dear Diner is so cute.
+
+668
+00:40:35,240 --> 00:40:36,400
+I'm looking for...
+
+669
+00:40:36,400 --> 00:40:37,280
+Alan Wake.
+
+670
+00:40:37,780 --> 00:40:38,520
+Oh, God.
+
+671
+00:40:38,760 --> 00:40:40,260
+I am your biggest fan.
+
+672
+00:40:40,600 --> 00:40:42,260
+I know people say that all the time, but I...
+
+673
+00:40:42,280 --> 00:40:52,740
+really am i'm glad to hear that rose rose i'm looking for mr
+stucky carl stucky carl of course mr wake he must have gone
+
+674
+00:40:52,740 --> 00:41:00,240
+to visit the restroom he'll be back in a moment rose oh was
+that stephen king believe it i've got all your books yeah i
+
+675
+00:41:00,240 --> 00:41:08,400
+got the cut out from the bookstore when they took it out of
+the window yeah and you keep it here well okay good for you
+
+676
+00:41:08,400 --> 00:41:18,420
+good for you good what are these try the coffee just don't
+blame me when you fall in love because it'll break your
+
+677
+00:41:18,420 --> 00:41:27,560
+heart when you have to leave oh nothing but black coffee
+under a thin layer of skin that no that makes two of us no
+
+678
+00:41:27,560 --> 00:41:35,980
+longer human i don't know how i feel about someone calling
+me that are you staying long mr wake i can't believe it i'm
+
+679
+00:41:35,980 --> 00:41:44,260
+having a conversation with alan wake who are you they just
+this game you don't even have to prompt anything are you on
+
+680
+00:41:44,260 --> 00:41:50,860
+your own or is your wife with you exam show you the town if
+you want i get off work at night right so much for quiet
+
+681
+00:41:50,860 --> 00:42:01,140
+vacation thanks rose we'll be sure to keep that in mind they
+just talk yeah what kind of conversation is this i'm sure
+
+682
+00:42:01,140 --> 00:42:11,040
+that's wait down there looks pretty spooky let's go around
+the other side though i think i have to the sudden stop okay
+
+683
+00:42:11,040 --> 00:42:20,740
+it's pretty handsome guy looks like he could be the the
+billionaire ceo in one of those is that solidus he could be
+
+684
+00:42:20,740 --> 00:42:35,280
+the billionaire ceo in one of those um what's the word uh
+like vertical uh swipe type short shows wait we got the
+
+685
+00:42:35,280 --> 00:42:46,220
+headband too do me a favor sonny i could really use a tune
+right now Coconut number six in the jukebox.
+
+686
+00:42:46,800 --> 00:42:52,000
+I'd do it myself, but both of my legs have gone to sleep.
+
+687
+00:42:53,320 --> 00:42:54,560
+Bad circulation.
+
+688
+00:42:54,940 --> 00:42:56,860
+She's like you and your solid snake cut out.
+
+689
+00:42:57,020 --> 00:42:57,480
+You're right.
+
+690
+00:42:59,720 --> 00:43:01,120
+You disgust me.
+
+691
+00:43:01,600 --> 00:43:02,880
+Call yourself a rocker.
+
+692
+00:43:02,880 --> 00:43:03,900
+What's wrong with coconut?
+
+693
+00:43:06,880 --> 00:43:12,120
+Oh my god, it's solid snake and big boss enjoying apple
+juice together.
+
+694
+00:43:12,280 --> 00:43:16,100
+Drink them both up just because we're brothers.
+
+695
+00:43:16,140 --> 00:43:22,900
+I don't think I won't murder you in your sleep Wait a
+second.
+
+696
+00:43:23,700 --> 00:43:33,120
+I mean, they wouldn't be Yes, that's my favorite tune
+Coconut All right, coconut Shut your mouth, you demented has
+
+697
+00:43:33,120 --> 00:43:40,160
+been If I had my hammer, I'd shut it for you If the eye
+patch were on the other side, it would definitely be solid
+
+698
+00:43:40,160 --> 00:43:55,520
+as to give it a good shard whack a whack okay use it whack
+it yeah and huh oh nice now that's what i'm talking about
+
+699
+00:43:55,520 --> 00:44:02,420
+this is coffee this is good isn't it this is where they went
+after mgs4
+
+700
+00:44:06,610 --> 00:44:16,470
+wait this is gonna give me copyright struck like they're so
+funny though this is so unserious Lime in the coconut, you
+
+701
+00:44:16,470 --> 00:44:17,830
+drink it all up.
+
+702
+00:44:18,950 --> 00:44:22,830
+Hey, why is it I could pick up the coffee thermos all the
+way over here?
+
+703
+00:44:23,310 --> 00:44:27,890
+But literally when I was on top of it earlier, it wouldn't
+let me.
+
+704
+00:44:28,250 --> 00:44:29,570
+Will they let me because I'm a famous?
+
+705
+00:44:29,790 --> 00:44:30,030
+No.
+
+706
+00:44:31,490 --> 00:44:33,530
+Audio jungle, audio jungle.
+
+707
+00:44:34,470 --> 00:44:35,670
+What's going on over here?
+
+708
+00:44:35,830 --> 00:44:36,250
+Who are you?
+
+709
+00:44:37,110 --> 00:44:37,570
+You good?
+
+710
+00:44:37,770 --> 00:44:39,730
+Don't go in there, young man.
+
+711
+00:44:40,230 --> 00:44:41,830
+You can hurt yourself in the dark.
+
+712
+00:44:42,410 --> 00:44:43,850
+I think I can handle it, ma'am.
+
+713
+00:44:43,930 --> 00:44:45,270
+I didn't want to wait.
+
+714
+00:44:45,630 --> 00:44:46,730
+I wanted to find Stucky.
+
+715
+00:44:47,390 --> 00:44:49,170
+To get the key and get out as soon as possible.
+
+716
+00:44:49,890 --> 00:44:51,350
+The waitress was giving me a headache.
+
+717
+00:44:51,790 --> 00:44:53,310
+Overheaker fans always did.
+
+718
+00:44:53,950 --> 00:44:54,970
+Wait, what do you mean die?
+
+719
+00:44:55,090 --> 00:44:56,430
+Why am I gonna die in here?
+
+720
+00:44:59,990 --> 00:45:01,450
+It's just a bathroom, no?
+
+721
+00:45:01,890 --> 00:45:02,950
+Wait, it's really dark.
+
+722
+00:45:05,230 --> 00:45:06,230
+Mr. Stucky?
+
+723
+00:45:07,670 --> 00:45:08,790
+Mr. Stucky?
+
+724
+00:45:09,310 --> 00:45:09,850
+I'm Stucky?
+
+725
+00:45:10,910 --> 00:45:12,350
+It's probably fine.
+
+726
+00:45:13,930 --> 00:45:28,370
+women's bathroom glad I can't go in there um why are you
+guys smiling hello oh it's the men's bathroom Mr Stucky Mr
+
+727
+00:45:28,370 --> 00:45:37,730
+Stucky are you Stucky in the bathroom Carl couldn't make it
+unfortunately he was taken ill but I have the key for you
+
+728
+00:45:37,730 --> 00:45:45,670
+and instructions on how to get to the lake okay I wish you a
+good stay in my cabin I'll come by later to check how you've
+
+729
+00:45:45,670 --> 00:45:50,270
+settled in why is she just for a funeral and to meet your
+wife How'd you know my mom on my wife?
+
+730
+00:45:50,890 --> 00:45:51,270
+I insist.
+
+731
+00:45:51,870 --> 00:45:54,890
+Oh Thanks are you gonna hit on her?
+
+732
+00:45:55,570 --> 00:45:56,770
+She's happily married.
+
+733
+00:45:57,130 --> 00:46:12,030
+She called my but cute actually Leave the diner Cauldron
+lake is a special place very inspiring Yeah Not creepy at
+
+734
+00:46:12,030 --> 00:46:17,930
+all right Okay, there's still people back here, so...
+
+735
+00:46:19,170 --> 00:46:21,050
+You got lucky this time, young man.
+
+736
+00:46:21,510 --> 00:46:23,530
+You can hurt yourself in the dark.
+
+737
+00:46:24,510 --> 00:46:25,750
+This really ought to be fixed.
+
+738
+00:46:26,090 --> 00:46:30,690
+And then I must remind Sarah to change the lights of the
+station that's been too long already.
+
+739
+00:46:30,830 --> 00:46:33,210
+I think I'm going to become... if I ever...
+
+740
+00:46:33,210 --> 00:46:36,330
+Well, I can't grow old because, you know, I'm...
+
+741
+00:46:36,330 --> 00:46:37,110
+Are they asleep?
+
+742
+00:46:37,230 --> 00:46:39,710
+Even that sounds better when you're singing.
+
+743
+00:46:40,090 --> 00:46:40,610
+Are you alright?
+
+744
+00:46:43,930 --> 00:46:46,670
+Can I turn this off?
+
+745
+00:46:47,470 --> 00:46:49,810
+Turn it off!
+
+746
+00:46:51,130 --> 00:46:52,250
+Audio jungle!
+
+747
+00:46:53,090 --> 00:46:53,970
+Audio jungle!
+
+748
+00:46:57,630 --> 00:46:59,230
+Everybody's talking to me!
+
+749
+00:46:59,730 --> 00:47:00,650
+Oh my god!
+
+750
+00:47:00,670 --> 00:47:02,550
+We're waiting for Dr. Hartman to come pick them up.
+
+751
+00:47:02,930 --> 00:47:05,270
+They wandered off from his clinic at the Calvin Lake Lodge.
+
+752
+00:47:05,450 --> 00:47:05,710
+Oh!
+
+753
+00:47:06,250 --> 00:47:07,310
+Really awesome.
+
+754
+00:47:08,050 --> 00:47:09,170
+Oh, is that my wife?
+
+755
+00:47:09,450 --> 00:47:10,290
+My hot wife?
+
+756
+00:47:11,550 --> 00:47:12,090
+Goodbye!
+
+757
+00:47:15,870 --> 00:47:19,430
+I'll be heading back to work as soon as Dr. Hartman gets
+here, Rose.
+
+758
+00:47:19,910 --> 00:47:23,550
+Oh, but I'm not looking forward to the poison we have at the
+Park Cafe.
+
+759
+00:47:26,610 --> 00:47:27,410
+I'm famous.
+
+760
+00:47:27,610 --> 00:47:29,230
+I know, but only she knows who I am.
+
+761
+00:47:29,470 --> 00:47:31,050
+This is what coffee should taste.
+
+762
+00:47:31,070 --> 00:47:37,450
+Well, what I was saying was about if I, you know, were to
+ever grow old, but I'm a ghost, so I'm forever 19.
+
+763
+00:47:38,190 --> 00:47:40,870
+But if I were to ever grow old, I think I would be like that
+lady.
+
+764
+00:47:41,070 --> 00:47:42,110
+I'm so scared of the dark.
+
+765
+00:47:42,210 --> 00:47:43,130
+I think I would also...
+
+766
+00:47:43,930 --> 00:47:56,770
+wake the dearest dear thank you thank you mission
+accomplished the key and the directions my hero i got some
+
+767
+00:47:56,770 --> 00:48:10,070
+flashlights just in case oh no i mean good but oh wait who's
+that hey wait mrs wake you're your keys wait where are we
+
+768
+00:48:10,070 --> 00:48:10,770
+going then
+
+769
+00:48:14,070 --> 00:48:22,530
+nut house oh I guess the the directions that she gave would
+you believe this place oh this would make a wonderful
+
+770
+00:48:22,530 --> 00:48:30,850
+setting for a book we're supposed to be on vacation Alice
+I'll figure it out when we get back okay okay we can talk
+
+771
+00:48:30,850 --> 00:48:38,230
+about this later no way that the creepy old lady I didn't
+want to talk about it I wanted to bury my head in sand
+
+772
+00:48:38,230 --> 00:48:44,030
+there's another one of my favorites to go with Once upon a
+time, I was a successful writer, but that was a long time
+
+773
+00:48:44,030 --> 00:48:44,370
+ago.
+
+774
+00:48:44,830 --> 00:48:48,590
+I hadn't been able to write a word in two years, not since
+my last book.
+
+775
+00:48:48,770 --> 00:48:50,010
+That's not that long, though.
+
+776
+00:48:50,850 --> 00:48:51,170
+Right?
+
+777
+00:48:51,410 --> 00:48:56,630
+I mean, I don't think anybody's expecting a writer to put
+out a book a year or anything, right?
+
+778
+00:48:56,910 --> 00:49:00,330
+Like, I thought he was going to say, like, 10 years.
+
+779
+00:49:01,370 --> 00:49:04,610
+It gets pretty dark out here, but they'll light your way.
+
+780
+00:49:08,590 --> 00:49:09,850
+Is this going to give me DMCA?
+
+781
+00:49:10,850 --> 00:49:12,150
+I give up already.
+
+782
+00:49:17,470 --> 00:49:19,570
+Mint Stucky, don't worry, step bro.
+
+783
+00:49:20,770 --> 00:49:22,630
+Wait, this place is so nice.
+
+784
+00:49:27,250 --> 00:49:28,490
+A diver's aisle.
+
+785
+00:49:29,010 --> 00:49:29,330
+I almost said...
+
+786
+00:49:29,330 --> 00:49:29,730
+Don't worry, honey.
+
+787
+00:49:30,270 --> 00:49:32,310
+I'll get you inside safe and sound before it gets dark.
+
+788
+00:49:32,950 --> 00:49:33,690
+And I've got the flashlight.
+
+789
+00:49:34,490 --> 00:49:34,690
+I know.
+
+790
+00:49:35,390 --> 00:49:35,790
+I'm okay.
+
+791
+00:49:36,330 --> 00:49:37,270
+Alice had a phobia.
+
+792
+00:49:37,730 --> 00:49:38,870
+The fear of darkness.
+
+793
+00:49:39,290 --> 00:49:39,350
+Me too.
+
+794
+00:49:39,530 --> 00:49:42,150
+I wanted to make sure we were inside with the lights on
+before Sunday.
+
+795
+00:49:42,170 --> 00:49:45,750
+Oh my god everybody's afraid of the dark.
+
+796
+00:49:46,090 --> 00:49:47,690
+I relate to everybody.
+
+797
+00:49:49,170 --> 00:49:50,710
+Oh well, spooky.
+
+798
+00:49:52,530 --> 00:49:56,350
+Any long-haired maidens in there?
+
+799
+00:50:01,950 --> 00:50:02,590
+Well, well.
+
+800
+00:50:04,030 --> 00:50:04,410
+Well.
+
+801
+00:50:05,250 --> 00:50:10,330
+Now this place is nice, but it's kind of spooky that there's
+like no one around here, no?
+
+802
+00:50:12,710 --> 00:50:14,830
+What about the deer festival?
+
+803
+00:50:20,400 --> 00:50:22,160
+Bird leg cabin.
+
+804
+00:50:23,460 --> 00:50:24,020
+Bird legs.
+
+805
+00:50:24,340 --> 00:50:25,260
+There's birds everywhere.
+
+806
+00:50:26,280 --> 00:50:27,240
+Birds cabin.
+
+807
+00:50:27,840 --> 00:50:29,440
+Birds took over the cabin.
+
+808
+00:50:31,920 --> 00:50:33,120
+What was...
+
+809
+00:50:33,120 --> 00:50:34,420
+Okay, a basement.
+
+810
+00:50:35,660 --> 00:50:37,220
+Music is so somber.
+
+811
+00:50:38,620 --> 00:50:40,280
+I'm just checking it out.
+
+812
+00:50:41,120 --> 00:50:42,900
+Seeing what we got around here.
+
+813
+00:50:42,980 --> 00:50:44,700
+There's so many birds!
+
+814
+00:50:44,980 --> 00:50:58,560
+the island had once been the site for a love story maybe it
+would be that again maybe I hadn't written a word in two
+
+815
+00:50:58,560 --> 00:51:06,740
+years brother people still like G R R Martin and look at him
+nothing for 15 years I know right isn't Game of Thrones
+
+816
+00:51:06,740 --> 00:51:14,960
+technically still not finished what was this it reminds me
+of how what was it there was that one author an old
+
+817
+00:51:14,960 --> 00:51:22,640
+generator had been connected to the power cable there was
+that one author that didn't write it was like a manga car he
+
+818
+00:51:22,640 --> 00:51:36,220
+didn't write anything for his manga because he was too busy
+playing idol master or something oh oh yeah let there be
+
+819
+00:51:36,220 --> 00:51:40,280
+light i think i went out of order but that's okay okay
+
+820
+00:51:44,340 --> 00:51:54,440
+i'll freshen up a bit and start settling in okay mute up
+around a bit sure thing was that him have fun Oh, oh.
+
+821
+00:51:57,850 --> 00:51:58,810
+I didn't get to look inside that.
+
+822
+00:51:58,890 --> 00:51:59,390
+It was a beautiful place.
+
+823
+00:52:01,170 --> 00:52:02,870
+I told myself I could rest here.
+
+824
+00:52:03,690 --> 00:52:04,350
+Sleep here.
+
+825
+00:52:04,850 --> 00:52:06,030
+And forget about my work.
+
+826
+00:52:06,310 --> 00:52:07,510
+Well, he did pass away, didn't he?
+
+827
+00:52:07,690 --> 00:52:08,370
+Oh, my gosh.
+
+828
+00:52:09,790 --> 00:52:10,570
+I forgot about that.
+
+829
+00:52:11,210 --> 00:52:12,710
+I thought we could be happy here.
+
+830
+00:52:15,430 --> 00:52:16,970
+Return to Alice.
+
+831
+00:52:17,770 --> 00:52:18,070
+Okay.
+
+832
+00:52:18,970 --> 00:52:20,850
+Return to my beautiful wife.
+
+833
+00:52:21,690 --> 00:52:22,230
+Alice.
+
+834
+00:52:22,850 --> 00:52:23,930
+Alice, my wife.
+
+835
+00:52:25,150 --> 00:52:26,030
+Don't touch the windows.
+
+836
+00:52:26,190 --> 00:52:29,150
+We don't know how often this place is clean.
+
+837
+00:52:30,410 --> 00:52:31,050
+Uh-oh.
+
+838
+00:52:31,490 --> 00:52:32,310
+Spooky music's starting.
+
+839
+00:52:34,550 --> 00:52:35,070
+Alice?
+
+840
+00:52:35,790 --> 00:52:36,050
+Honey?
+
+841
+00:52:37,410 --> 00:52:39,210
+You mean our wife?
+
+842
+00:52:40,410 --> 00:52:41,910
+Alice takes off her shoes.
+
+843
+00:52:42,990 --> 00:52:45,810
+Um, hello, Mr. Stomping around in the mud out there.
+
+844
+00:52:47,670 --> 00:52:49,390
+Have some tact, please.
+
+845
+00:52:49,850 --> 00:52:50,010
+Ah!
+
+846
+00:52:50,310 --> 00:52:50,950
+A thermos.
+
+847
+00:52:54,430 --> 00:52:56,130
+I can't believe I missed that one.
+
+848
+00:52:56,710 --> 00:52:57,250
+I'm so...
+
+849
+00:52:57,250 --> 00:52:58,390
+Alan, I'm upstairs.
+
+850
+00:52:58,910 --> 00:53:01,010
+I have a surprise for you.
+
+851
+00:53:02,770 --> 00:53:06,010
+Didn't she say consider this our honeymoon?
+
+852
+00:53:07,950 --> 00:53:09,530
+Let's turn that off because it's scary.
+
+853
+00:53:09,790 --> 00:53:10,530
+Wait, let's turn on.
+
+854
+00:53:10,890 --> 00:53:11,730
+No, turn off.
+
+855
+00:53:12,710 --> 00:53:14,430
+Turn off the creepy radio.
+
+856
+00:53:15,870 --> 00:53:16,190
+Oh.
+
+857
+00:53:18,910 --> 00:53:19,130
+Oh.
+
+858
+00:53:19,130 --> 00:53:20,470
+Just ran into one on the ferry.
+
+859
+00:53:21,170 --> 00:53:22,310
+Famous artist, no less.
+
+860
+00:53:22,690 --> 00:53:22,890
+Oh.
+
+861
+00:53:22,970 --> 00:53:25,150
+We'll see if we can rope him into an interview later on.
+
+862
+00:53:25,150 --> 00:53:25,950
+Excuse you?
+
+863
+00:53:26,710 --> 00:53:27,690
+Keep me on the DL!
+
+864
+00:53:28,850 --> 00:53:29,530
+Hi, Pat.
+
+865
+00:53:29,730 --> 00:53:30,110
+It's Rose.
+
+866
+00:53:30,330 --> 00:53:30,670
+Oh, my God.
+
+867
+00:53:31,350 --> 00:53:31,670
+Oh, no.
+
+868
+00:53:31,790 --> 00:53:32,490
+What's on your mind?
+
+869
+00:53:32,690 --> 00:53:34,270
+I know who that famous artist was.
+
+870
+00:53:34,670 --> 00:53:35,650
+It was Alan Wake.
+
+871
+00:53:36,230 --> 00:53:37,870
+Rose, you snitch!
+
+872
+00:53:38,030 --> 00:53:38,950
+Well, Rose, I...
+
+873
+00:53:38,950 --> 00:53:40,410
+I just saw him at the diner.
+
+874
+00:53:40,930 --> 00:53:42,690
+Oh, I am so excited.
+
+875
+00:53:42,870 --> 00:53:43,290
+He's here.
+
+876
+00:53:43,630 --> 00:53:45,430
+I'm sure he's glad to be here, too.
+
+877
+00:53:45,610 --> 00:53:47,890
+Well, folks, I guess the secret's out.
+
+878
+00:53:48,130 --> 00:53:48,990
+This is Pat Main.
+
+879
+00:53:49,090 --> 00:53:50,190
+I'm KBFFM.
+
+880
+00:53:50,530 --> 00:53:51,430
+And now it's the music.
+
+881
+00:53:51,770 --> 00:53:52,130
+Great.
+
+882
+00:53:52,330 --> 00:53:53,890
+So much for keeping a low profile.
+
+883
+00:53:54,450 --> 00:53:55,730
+Oh, my God.
+
+884
+00:53:56,030 --> 00:53:56,690
+Can't turn it off.
+
+885
+00:53:56,710 --> 00:53:57,070
+No?
+
+886
+00:54:01,260 --> 00:54:02,110
+Ha ha ha!
+
+887
+00:54:04,180 --> 00:54:04,560
+Yeah!
+
+888
+00:54:06,080 --> 00:54:07,700
+Way to go, Rose.
+
+889
+00:54:08,140 --> 00:54:08,740
+Oh my gosh.
+
+890
+00:54:08,860 --> 00:54:11,800
+Never trust a Rose in a video game, huh?
+
+891
+00:54:11,960 --> 00:54:12,400
+Alan!
+
+892
+00:54:13,060 --> 00:54:14,120
+Come here, slow poke.
+
+893
+00:54:14,460 --> 00:54:15,100
+I'm waiting.
+
+894
+00:54:16,080 --> 00:54:19,340
+Oh god, we can't keep a maiden waiting now, Kemp.
+
+895
+00:54:23,320 --> 00:54:26,560
+That's some great visual storytelling now, isn't it, folks?
+
+896
+00:54:36,770 --> 00:54:38,190
+Well, hello there.
+
+897
+00:54:38,210 --> 00:54:39,810
+I'm not the surprise.
+
+898
+00:54:40,290 --> 00:54:40,970
+It's in the study.
+
+899
+00:54:41,170 --> 00:54:41,730
+Oh, what?
+
+900
+00:54:41,870 --> 00:54:42,650
+What do you mean?
+
+901
+00:54:43,370 --> 00:54:43,870
+Okay.
+
+902
+00:54:44,530 --> 00:54:45,830
+No, come on.
+
+903
+00:54:45,930 --> 00:54:46,930
+You're my wife.
+
+904
+00:54:49,030 --> 00:54:50,490
+And you're dressed like that.
+
+905
+00:54:50,590 --> 00:54:52,250
+Oh, we're in the 70s.
+
+906
+00:54:54,050 --> 00:54:55,050
+Oh, okay.
+
+907
+00:54:57,590 --> 00:54:58,590
+Hey, but...
+
+908
+00:54:58,590 --> 00:54:59,470
+Come on.
+
+909
+00:54:59,630 --> 00:55:04,110
+You can't say you're not the surprise when you're like that
+in front of me.
+
+910
+00:55:05,110 --> 00:55:06,010
+Oh, my God.
+
+911
+00:55:06,550 --> 00:55:07,010
+Surprise.
+
+912
+00:55:08,290 --> 00:55:14,530
+Alice what is this I guess I have a small confession to make
+I thought maybe you could write here that a change of
+
+913
+00:55:14,530 --> 00:55:23,170
+scenery would get you damn Alice you everyone hey hey hey
+just hear me out there's a local doctor dr. Hartman I read a
+
+914
+00:55:23,170 --> 00:55:30,290
+book of his he has a private clinic here he specializes in
+helping artists so now you want to get me committed no it's
+
+915
+00:55:30,290 --> 00:55:38,470
+not like that that's not well Alan Alan I don't want to hear
+it.
+
+916
+00:55:38,650 --> 00:55:39,750
+God damn it, Alice.
+
+917
+00:55:40,110 --> 00:55:40,430
+Wait, what?
+
+918
+00:55:41,150 --> 00:55:43,270
+Wait, did he not notice that the lights turned off for a
+second?
+
+919
+00:55:43,770 --> 00:55:45,530
+I knew she wouldn't follow me in the dark.
+
+920
+00:55:46,430 --> 00:55:48,430
+I needed some time alone to think things through.
+
+921
+00:55:48,750 --> 00:55:49,550
+Wait, what do you mean?
+
+922
+00:55:49,810 --> 00:55:50,750
+That's so messed up, though.
+
+923
+00:55:57,320 --> 00:55:59,580
+I mean, I don't blame him for being upset.
+
+924
+00:56:00,080 --> 00:56:01,080
+I think that's kind of, you know.
+
+925
+00:56:03,060 --> 00:56:03,780
+Damn it.
+
+926
+00:56:11,300 --> 00:56:11,660
+Alice?
+
+927
+00:56:13,140 --> 00:56:13,500
+Alice?
+
+928
+00:56:13,680 --> 00:56:14,720
+Alice!
+
+929
+00:56:15,440 --> 00:56:15,940
+Alice!
+
+930
+00:56:17,880 --> 00:56:18,360
+Alice!
+
+931
+00:56:18,980 --> 00:56:19,340
+Alice!
+
+932
+00:56:19,700 --> 00:56:21,740
+The cabin had gone dark.
+
+933
+00:56:22,120 --> 00:56:23,100
+All the lights were out.
+
+934
+00:56:23,360 --> 00:56:23,920
+Oh my god.
+
+935
+00:56:24,620 --> 00:56:26,320
+Where are you?
+
+936
+00:56:26,320 --> 00:56:26,820
+I'm coming!
+
+937
+00:56:27,020 --> 00:56:27,360
+I'm coming!
+
+938
+00:56:27,900 --> 00:56:29,220
+It's actually quite bright up here, no?
+
+939
+00:56:30,100 --> 00:56:30,700
+Oh my god!
+
+940
+00:56:31,840 --> 00:56:32,060
+I'm coming!
+
+941
+00:56:33,740 --> 00:56:35,020
+Oh my god!
+
+942
+00:56:35,020 --> 00:56:35,460
+What the hell?
+
+943
+00:56:35,500 --> 00:56:36,000
+Alice!
+
+944
+00:56:36,440 --> 00:56:37,280
+Help me!
+
+945
+00:56:44,180 --> 00:56:44,820
+Alice!
+
+946
+00:56:45,220 --> 00:56:46,920
+Oh my god!
+
+947
+00:56:47,420 --> 00:56:48,420
+Her screams are...
+
+948
+00:56:48,420 --> 00:56:49,640
+Oh my god!
+
+949
+00:56:49,660 --> 00:56:50,660
+Oh, uh...
+
+950
+00:56:51,200 --> 00:56:51,880
+Oh, no.
+
+951
+00:56:52,940 --> 00:56:55,460
+Wait, that's like...
+
+952
+00:56:55,460 --> 00:56:56,040
+Oh, no!
+
+953
+00:56:59,390 --> 00:57:01,310
+Did she hit the rocks on the way down?
+
+954
+00:57:02,090 --> 00:57:04,010
+Wait, did he hit the rocks on the way down?
+
+955
+00:57:05,090 --> 00:57:05,990
+Oh, no.
+
+956
+00:57:06,230 --> 00:57:07,670
+Keep going, Alice.
+
+957
+00:57:08,930 --> 00:57:09,890
+Wake up.
+
+958
+00:57:10,530 --> 00:57:11,010
+Alice?
+
+959
+00:57:12,810 --> 00:57:13,710
+Oh, no.
+
+960
+00:57:20,270 --> 00:57:21,390
+This is like the opposite.
+
+961
+00:57:21,410 --> 00:57:28,670
+Opposite of games usually where they tell you to stop
+playing the game.
+
+962
+00:57:29,130 --> 00:57:30,110
+She tells you to keep going.
+
+963
+00:57:30,130 --> 00:57:30,950
+I couldn't remember how I got there.
+
+964
+00:57:31,550 --> 00:57:34,350
+All I knew was that something terrible had happened to
+Alice.
+
+965
+00:57:37,530 --> 00:57:38,350
+The phone was dead.
+
+966
+00:57:39,130 --> 00:57:40,770
+I'd have to find help on foot.
+
+967
+00:57:43,770 --> 00:57:45,010
+Why did we get in the car?
+
+968
+00:57:48,810 --> 00:57:50,150
+This is part of the dream?
+
+969
+00:57:50,370 --> 00:57:51,490
+We're back in Dream World?
+
+970
+00:57:52,230 --> 00:57:53,430
+Among Alice's things was...
+
+971
+00:57:53,450 --> 00:58:04,010
+a book the creator's dilemma by a dr. Emil Hartman I mean oh
+no I didn't like it and I didn't like the guy's smug face on
+
+972
+00:58:04,010 --> 00:58:09,850
+the cover either oh no is this gonna be like what is what's
+real wait where's my flashlight and my guns okay I have
+
+973
+00:58:09,850 --> 00:58:26,210
+nothing right now that's fine things are everything is OSP
+so it's have a phone i could use it looked like a long hike
+
+974
+00:58:26,210 --> 00:58:27,320
+through the forest to get there
+
+975
+00:58:30,470 --> 00:58:38,310
+baby core thank you for the gift dude thank you so much wait
+so we don't know so what is oh we do not know what is real
+
+976
+00:58:38,310 --> 00:58:50,470
+what's a dream right now damn there goes the micah okay oh
+my god is alice actually dead
+
+977
+00:58:54,050 --> 00:58:57,890
+Is this- this isn't like a we kill my wife kind of games, is
+it?
+
+978
+00:58:58,930 --> 00:59:01,410
+And I'm stuck in a nightmare because of it, is it?
+
+979
+00:59:01,890 --> 00:59:04,770
+What's- Oh, the focus is kind of fun.
+
+980
+00:59:09,690 --> 00:59:10,830
+Saracho, welcome to the membership.
+
+981
+00:59:11,510 --> 00:59:12,730
+Thank you, welcome back.
+
+982
+00:59:13,110 --> 00:59:13,330
+Hello?
+
+983
+00:59:13,510 --> 00:59:14,750
+Oh, the light!
+
+984
+00:59:15,070 --> 00:59:16,910
+Oh my gosh, it reminds me of the thing.
+
+985
+00:59:17,310 --> 00:59:18,490
+Like the cover for the thing.
+
+986
+00:59:19,530 --> 00:59:20,690
+That's Silent Hill.
+
+987
+00:59:20,990 --> 00:59:24,050
+I know, I'm just- Well, a lot of games do it now.
+
+988
+00:59:24,070 --> 00:59:24,450
+Someone there?
+
+989
+00:59:30,460 --> 00:59:38,440
+what's it say what is it the loose sheets of paper were
+pages from a manuscript entitled departure that was the name
+
+990
+00:59:38,440 --> 00:59:45,540
+i planned to use for the next novel i had never gotten
+started i was named the author i hadn't written it i
+
+991
+00:59:45,540 --> 00:59:51,680
+couldn't remember writing it in the scene on the page the
+hero was attacked by an axe murderer in the woods at night
+
+992
+00:59:51,680 --> 00:59:59,520
+wait i don't like that um all fiction you found manuscript
+pages you can access them with the wait i have to make sure
+
+993
+00:59:59,540 --> 01:00:00,540
+I press the right one.
+
+994
+01:00:00,880 --> 01:00:01,420
+Is it this button?
+
+995
+01:00:02,340 --> 01:00:03,140
+This button.
+
+996
+01:00:04,580 --> 01:00:06,860
+Wake attacked by a shadowy murderer.
+
+997
+01:00:09,140 --> 01:00:11,180
+What did... What does that mean?
+
+998
+01:00:11,360 --> 01:00:12,060
+The little symbol.
+
+999
+01:00:12,660 --> 01:00:14,700
+Oh, find this page in nightmare difficulty mode.
+
+1000
+01:00:15,200 --> 01:00:16,680
+The man turned to face me.
+
+1001
+01:00:17,060 --> 01:00:18,720
+His face was covered in shadows.
+
+1002
+01:00:19,180 --> 01:00:22,500
+It was hard to make him out in the darkness of the forest
+that surrounded us.
+
+1003
+01:00:22,880 --> 01:00:24,760
+But the axe he lifted was plain to see.
+
+1004
+01:00:25,180 --> 01:00:27,060
+It glistened with the blood of his victim.
+
+1005
+01:00:27,560 --> 01:00:28,480
+He grinned madly.
+
+1006
+01:00:28,980 --> 01:00:38,860
+The shadows were were alive distorting his features it was a
+scene from a nightmare but I was awake I was a wake Alan
+
+1007
+01:00:38,860 --> 01:00:56,080
+period wake this doesn't sound good oh wait hold on I want
+to what's the title page departure by Alan wake oh that's it
+
+1008
+01:00:56,080 --> 01:00:57,520
+it's literally it okay
+
+1009
+01:01:01,200 --> 01:01:03,480
+um is this okay I think this is the right way
+
+1010
+01:01:07,340 --> 01:01:08,760
+Surely that was...
+
+1011
+01:01:09,300 --> 01:01:10,020
+Aw, man!
+
+1012
+01:01:11,760 --> 01:01:15,500
+I was about to say, surely that was...
+
+1013
+01:01:15,500 --> 01:01:16,520
+That won't happen again.
+
+1014
+01:01:16,700 --> 01:01:17,440
+I don't have a gun!
+
+1015
+01:01:18,040 --> 01:01:19,360
+Queue emotional outburst.
+
+1016
+01:01:19,620 --> 01:01:20,180
+Oh no!
+
+1017
+01:01:24,470 --> 01:01:25,810
+There's light over there.
+
+1018
+01:01:26,330 --> 01:01:27,270
+Checkpoint reached.
+
+1019
+01:01:27,810 --> 01:01:29,330
+There's a lot of checkpoints in this game.
+
+1020
+01:01:29,450 --> 01:01:31,270
+It's actually quite forgiving, which is very nice.
+
+1021
+01:01:31,450 --> 01:01:32,890
+The lights up ahead were a good sign.
+
+1022
+01:01:33,610 --> 01:01:36,990
+Maybe I wouldn't have to hike all the way down to the gas
+station to find a phone.
+
+1023
+01:01:37,550 --> 01:01:38,870
+Narration of this game is great.
+
+1024
+01:01:40,050 --> 01:01:43,090
+Also, I want to do a little bit smaller for the subtitles.
+
+1025
+01:01:46,510 --> 01:01:47,570
+You're walking in the woods.
+
+1026
+01:01:47,730 --> 01:01:49,590
+There's no one around and your phone is dead.
+
+1027
+01:01:50,030 --> 01:01:52,450
+Out of the corner of your eye, you spot him.
+
+1028
+01:01:52,930 --> 01:01:53,630
+Shia Laboff.
+
+1029
+01:01:55,230 --> 01:01:56,170
+Alan is a good rider.
+
+1030
+01:01:56,290 --> 01:01:57,710
+You'll see Mint, the best at riding.
+
+1031
+01:01:58,090 --> 01:01:58,930
+I believe you?
+
+1032
+01:02:01,070 --> 01:02:01,470
+Tentative.
+
+1033
+01:02:03,970 --> 01:02:05,610
+Wait, climb in the tree, baby.
+
+1034
+01:02:08,490 --> 01:02:09,110
+Nice.
+
+1035
+01:02:16,300 --> 01:02:16,980
+Anybody there?
+
+1036
+01:02:18,020 --> 01:02:19,360
+Please, I've been in an accident.
+
+1037
+01:02:19,800 --> 01:02:21,960
+My name is Alan Wake.
+
+1038
+01:02:22,620 --> 01:02:24,140
+I am a writer.
+
+1039
+01:02:24,900 --> 01:02:26,900
+I am seeking assistance.
+
+1040
+01:02:27,480 --> 01:02:29,420
+I have been in an accident.
+
+1041
+01:02:30,540 --> 01:02:31,040
+Oh.
+
+1042
+01:02:31,860 --> 01:02:32,580
+You got this?
+
+1043
+01:02:33,000 --> 01:02:35,660
+I can't tell what the yellow dot is though still.
+
+1044
+01:02:35,760 --> 01:02:38,180
+Is that like where I'm supposed to...
+
+1045
+01:02:38,180 --> 01:02:38,960
+It's not where I'm supposed to be.
+
+1046
+01:02:38,980 --> 01:02:39,840
+Is this where I'm supposed?
+
+1047
+01:02:39,960 --> 01:02:43,340
+Oh, it's just, like, it's the marker that says find help,
+but...
+
+1048
+01:02:43,340 --> 01:02:43,420
+Hey!
+
+1049
+01:02:44,780 --> 01:02:45,320
+Hey, you!
+
+1050
+01:02:45,560 --> 01:02:45,800
+Okay.
+
+1051
+01:02:46,400 --> 01:02:47,440
+There's been an accident.
+
+1052
+01:02:48,240 --> 01:02:49,020
+I need help.
+
+1053
+01:02:49,420 --> 01:02:49,960
+This is it.
+
+1054
+01:02:50,180 --> 01:02:51,100
+I need to...
+
+1055
+01:02:51,100 --> 01:02:52,100
+It's got the spooky...
+
+1056
+01:02:52,100 --> 01:02:53,380
+Cabins for rent in...
+
+1057
+01:02:54,140 --> 01:02:54,620
+Lightfall!
+
+1058
+01:02:55,060 --> 01:02:55,540
+Oh, hell.
+
+1059
+01:02:57,260 --> 01:02:58,220
+Carl Stucky.
+
+1060
+01:02:58,580 --> 01:02:59,020
+Oh, no!
+
+1061
+01:02:59,280 --> 01:03:00,460
+To beat you.
+
+1062
+01:03:00,640 --> 01:03:01,080
+No, Carl!
+
+1063
+01:03:01,260 --> 01:03:05,660
+Non-refundable reservation deposit required.
+
+1064
+01:03:06,820 --> 01:03:08,020
+Fair and square.
+
+1065
+01:03:08,220 --> 01:03:08,700
+Oh!
+
+1066
+01:03:11,080 --> 01:03:11,640
+Uh-oh.
+
+1067
+01:03:15,060 --> 01:03:16,140
+Where is he?
+
+1068
+01:03:17,000 --> 01:03:17,660
+Oh, gosh.
+
+1069
+01:03:17,800 --> 01:03:19,220
+This is like a maze in here.
+
+1070
+01:03:19,660 --> 01:03:19,980
+Where did I go?
+
+1071
+01:03:20,000 --> 01:03:21,220
+Oh, that's a flashlight right there.
+
+1072
+01:03:22,380 --> 01:03:22,820
+Ah!
+
+1073
+01:03:26,640 --> 01:03:27,500
+Where did he come from?
+
+1074
+01:03:28,360 --> 01:03:29,540
+Oh, he's scaring me.
+
+1075
+01:03:29,540 --> 01:03:30,520
+This is so scary.
+
+1076
+01:03:31,360 --> 01:03:32,140
+Oh, my gosh.
+
+1077
+01:03:33,460 --> 01:03:34,100
+Oh, thermos.
+
+1078
+01:03:36,380 --> 01:03:37,680
+Can I get a gun?
+
+1079
+01:03:38,460 --> 01:03:39,740
+Or a flashlight or anything?
+
+1080
+01:03:41,220 --> 01:03:41,660
+Non!
+
+1081
+01:03:42,920 --> 01:04:10,000
+refundable i'm carl ouch oh my god holy cow i'm just gonna
+book it to arrive you really lose my god here's stucky out
+
+1082
+01:04:10,000 --> 01:04:15,300
+of this any second now and stucky would be knocking on the
+door with his axe like Nicholson in the Shining.
+
+1083
+01:04:16,660 --> 01:04:18,300
+Oh my gosh, yeah, revolver.
+
+1084
+01:04:19,920 --> 01:04:20,160
+Flashlight!
+
+1085
+01:04:21,900 --> 01:04:22,980
+We're back in business, baby.
+
+1086
+01:04:29,060 --> 01:04:29,740
+Batteries.
+
+1087
+01:04:29,900 --> 01:04:30,500
+Give me batteries.
+
+1088
+01:04:30,980 --> 01:04:31,740
+Give me more batteries.
+
+1089
+01:04:32,780 --> 01:04:33,260
+Very nice.
+
+1090
+01:04:34,200 --> 01:04:35,420
+Carl Stucky.
+
+1091
+01:04:35,700 --> 01:04:39,140
+During your pastoral hackling.
+
+1092
+01:04:40,060 --> 01:04:42,340
+Trying not walking.
+
+1093
+01:04:43,160 --> 01:04:45,580
+It's a background audio cutting off repeat for anyone else.
+
+1094
+01:04:45,940 --> 01:04:47,980
+In It's not for me.
+
+1095
+01:04:48,700 --> 01:04:49,660
+Testably.
+
+1096
+01:04:51,060 --> 01:04:51,360
+Proven.
+
+1097
+01:04:51,940 --> 01:04:52,740
+Health benefits.
+
+1098
+01:04:52,940 --> 01:04:53,620
+Like you.
+
+1099
+01:04:54,120 --> 01:04:54,520
+You.
+
+1100
+01:04:55,700 --> 01:04:56,640
+Yes.
+
+1101
+01:04:59,140 --> 01:05:00,700
+Right fall sheriff station.
+
+1102
+01:05:00,980 --> 01:05:01,460
+Oh, may I...
+
+1103
+01:05:01,460 --> 01:05:02,620
+And keep those...
+
+1104
+01:05:02,620 --> 01:05:02,880
+No!
+
+1105
+01:05:03,280 --> 01:05:04,000
+Oh, my God.
+
+1106
+01:05:04,640 --> 01:05:05,040
+Oh, no.
+
+1107
+01:05:06,980 --> 01:05:08,820
+Oh, my God.
+
+1108
+01:05:14,320 --> 01:05:16,120
+Holy cow.
+
+1109
+01:05:17,180 --> 01:05:18,000
+Oh, shoot.
+
+1110
+01:05:18,620 --> 01:05:19,140
+It's...
+
+1111
+01:05:19,140 --> 01:05:19,640
+Ah!
+
+1112
+01:05:20,140 --> 01:05:20,700
+Oh my god.
+
+1113
+01:05:22,300 --> 01:05:23,280
+Uh, I can't move.
+
+1114
+01:05:23,580 --> 01:05:24,080
+There we go.
+
+1115
+01:05:24,540 --> 01:05:25,060
+Get out of there!
+
+1116
+01:05:26,060 --> 01:05:26,340
+Okay.
+
+1117
+01:05:27,340 --> 01:05:28,920
+Um, where do I go?
+
+1118
+01:05:31,120 --> 01:05:32,420
+Not over here, I guess.
+
+1119
+01:05:34,480 --> 01:05:36,220
+Where did the tractor go?
+
+1120
+01:05:38,000 --> 01:05:38,520
+Okay.
+
+1121
+01:05:40,380 --> 01:05:41,360
+Very cool.
+
+1122
+01:05:44,420 --> 01:05:45,240
+Where do I go?
+
+1123
+01:05:45,840 --> 01:05:46,860
+Oh, thank you.
+
+1124
+01:05:49,000 --> 01:05:50,740
+There were more of them.
+
+1125
+01:05:51,180 --> 01:05:51,760
+More of who?
+
+1126
+01:06:07,320 --> 01:06:07,960
+Ouch, ouch.
+
+1127
+01:06:08,620 --> 01:06:08,720
+Oh,
+
+1128
+01:06:21,090 --> 01:06:21,450
+my God.
+
+1129
+01:06:21,570 --> 01:06:22,290
+It's tricky.
+
+1130
+01:06:22,510 --> 01:06:24,250
+I'm trying to learn the combat a little bit.
+
+1131
+01:06:24,730 --> 01:06:28,930
+Because my hand keeps slipping between L1 and, like,
+trigger.
+
+1132
+01:06:29,930 --> 01:06:30,190
+You know?
+
+1133
+01:06:30,350 --> 01:06:32,950
+The bulldozer had gone over the cliff with the office.
+
+1134
+01:06:33,410 --> 01:06:35,330
+I hope Stucky had suffered the same fate.
+
+1135
+01:06:35,830 --> 01:06:37,650
+But I wasn't planning on staying to find out.
+
+1136
+01:06:37,710 --> 01:06:38,010
+Damn.
+
+1137
+01:06:38,130 --> 01:06:40,990
+I'm guessing I have to fight them, though, because...
+
+1138
+01:06:40,990 --> 01:06:41,410
+Well, I...
+
+1139
+01:06:41,430 --> 01:06:44,630
+I guess I just need to turn off the power to...
+
+1140
+01:06:47,730 --> 01:06:50,950
+And then it's XXXXX reload, right?
+
+1141
+01:06:51,050 --> 01:06:51,590
+Okay, yeah.
+
+1142
+01:06:53,790 --> 01:06:54,830
+But, okay.
+
+1143
+01:06:57,770 --> 01:06:59,130
+Shield first, then shoot.
+
+1144
+01:06:59,390 --> 01:07:01,490
+Yeah, like, okay, so it's...
+
+1145
+01:07:01,490 --> 01:07:01,650
+No.
+
+1146
+01:07:03,770 --> 01:07:05,350
+Shoot, okay, yeah, okay.
+
+1147
+01:07:08,470 --> 01:07:10,110
+Lensflare is their shield HP.
+
+1148
+01:07:10,450 --> 01:07:10,950
+What's that mean?
+
+1149
+01:07:11,430 --> 01:07:12,590
+I didn't see a lens flare.
+
+1150
+01:07:13,950 --> 01:07:14,390
+Okay.
+
+1151
+01:07:18,860 --> 01:07:20,600
+Oh, okay, I think I...
+
+1152
+01:07:26,790 --> 01:07:27,170
+You.
+
+1153
+01:07:35,250 --> 01:07:35,450
+Woo!
+
+1154
+01:07:41,100 --> 01:07:41,660
+Nice!
+
+1155
+01:07:46,060 --> 01:07:46,880
+Nice you?
+
+1156
+01:07:47,240 --> 01:07:48,600
+Oh, can I...
+
+1157
+01:07:48,600 --> 01:07:49,200
+Oh, shoot.
+
+1158
+01:07:51,300 --> 01:07:51,940
+Ouch, ouch!
+
+1159
+01:07:52,320 --> 01:07:54,360
+I got too far and...
+
+1160
+01:08:03,760 --> 01:08:10,000
+I'd never fired a gun outside of getting used to it getting
+used to it I just killed someone or something there were no
+
+1161
+01:08:10,000 --> 01:08:21,100
+bodies they just disappeared okay if I was dreaming it felt
+real enough to make me sick all right getting used to it I
+
+1162
+01:08:21,100 --> 01:08:33,740
+love the yellow paint let's go I love how he narrates
+everything it's so good kick it don't shoot until they flash
+
+1163
+01:08:33,740 --> 01:08:41,580
+the darkness makes the immune to bullets oh okay the dark
+forest was the last place I wanted to go but I had no choice
+
+1164
+01:08:41,580 --> 01:08:50,120
+I had to get to the gas station what's the yellow paint for
+though it only shows up when I wait what's the yellow paint
+
+1165
+01:08:50,120 --> 01:09:01,160
+for this way Erie hand-painted graffiti was revealed by my
+flashlight someone had hidden a chest of supplies near it oh
+
+1166
+01:09:01,160 --> 01:09:03,520
+neat oh
+
+1167
+01:09:09,060 --> 01:09:09,840
+Anything else?
+
+1168
+01:09:09,980 --> 01:09:10,820
+That's it?
+
+1169
+01:09:12,300 --> 01:09:13,660
+Alright, let's go.
+
+1170
+01:09:15,240 --> 01:09:16,460
+The breathing is creepy.
+
+1171
+01:09:18,700 --> 01:09:20,820
+Is this the kind of game where I can, like...
+
+1172
+01:09:20,820 --> 01:09:23,160
+I mean, obviously in this one, I...
+
+1173
+01:09:23,160 --> 01:09:27,520
+I guess I could have avoided the combat if I just ran past
+them and kicked the thing, but...
+
+1174
+01:09:29,880 --> 01:09:31,820
+Halo, when the flashlight is on them, is the shield.
+
+1175
+01:09:34,640 --> 01:09:36,100
+Maybe I'm just not seeing it.
+
+1176
+01:09:37,660 --> 01:09:39,920
+Sorry, I'll stop breathing.
+
+1177
+01:09:40,020 --> 01:09:40,240
+Woo!
+
+1178
+01:09:41,480 --> 01:09:43,100
+Combat is mostly unavoidable.
+
+1179
+01:09:43,360 --> 01:09:43,900
+Okay, okay.
+
+1180
+01:09:44,760 --> 01:09:45,540
+Good to know.
+
+1181
+01:09:47,260 --> 01:09:47,880
+Yay, checkpoint!
+
+1182
+01:09:51,100 --> 01:09:52,340
+Rabbit season.
+
+1183
+01:09:52,900 --> 01:09:53,920
+Rabbit season.
+
+1184
+01:09:56,080 --> 01:09:57,680
+So like...
+
+1185
+01:09:57,680 --> 01:09:58,220
+Oh!
+
+1186
+01:09:58,800 --> 01:09:59,800
+Like that.
+
+1187
+01:10:01,240 --> 01:10:03,480
+But then how do I...
+
+1188
+01:10:03,480 --> 01:10:04,740
+No, he's...
+
+1189
+01:10:05,240 --> 01:10:05,640
+Oh!
+
+1190
+01:10:06,260 --> 01:10:06,900
+Like that!
+
+1191
+01:10:08,920 --> 01:10:09,960
+Wabbit season.
+
+1192
+01:10:25,170 --> 01:10:25,690
+Understood.
+
+1193
+01:10:26,930 --> 01:10:27,590
+What's up here?
+
+1194
+01:10:27,770 --> 01:10:28,230
+More people?
+
+1195
+01:10:29,490 --> 01:10:30,510
+It's like a little light.
+
+1196
+01:10:31,150 --> 01:10:32,390
+What's a little light for?
+
+1197
+01:10:33,790 --> 01:10:35,210
+Oh, magic script.
+
+1198
+01:10:37,370 --> 01:10:39,470
+Not survival horror nerd here.
+
+1199
+01:10:39,790 --> 01:10:41,470
+No, Alan Wake is not survival horror.
+
+1200
+01:10:41,650 --> 01:10:43,550
+It's way easier to take the enemies out than to run away.
+
+1201
+01:10:43,830 --> 01:10:44,270
+Okay, good.
+
+1202
+01:10:44,910 --> 01:10:45,410
+Hi, hi, Minto.
+
+1203
+01:10:45,870 --> 01:10:46,490
+Hi, hi, Brendan.
+
+1204
+01:10:47,290 --> 01:10:48,470
+Hope you're feeling good today.
+
+1205
+01:10:52,290 --> 01:10:53,150
+Oh, read the pages.
+
+1206
+01:10:53,330 --> 01:10:53,710
+So true.
+
+1207
+01:10:55,750 --> 01:10:57,210
+Rose daydreams about Wake.
+
+1208
+01:10:57,490 --> 01:11:00,090
+Wait, Wake fights a Taken with life.
+
+1209
+01:11:00,270 --> 01:11:01,450
+The Taken stood before me.
+
+1210
+01:11:01,770 --> 01:11:07,410
+It was impossible to focus on it as if it stood in a blind
+spot caused by a brain tumor and eye disease.
+
+1211
+01:11:07,990 --> 01:11:12,550
+It was bleeding shadows like ink underwater, like a cloud of
+blood from a shark bite.
+
+1212
+01:11:13,110 --> 01:11:20,430
+i was terrified i squeezed the flashlight like my life
+depended on it willing it to stop coming any closer suddenly
+
+1213
+01:11:20,430 --> 01:11:33,230
+something gave and the light seemed to shine brighter magic
+and then rose rose knew she had been gushing but right now
+
+1214
+01:11:33,230 --> 01:11:38,890
+she didn't care gushing as far as she was concerned her
+brief meeting with alan wake was literally the high point of
+
+1215
+01:11:38,890 --> 01:11:49,350
+her life she watched as he got pretty confident at ease with
+wake not like rose they were perfect for each other she'd
+
+1216
+01:11:49,350 --> 01:12:00,070
+have given anything to be called their friend oh my god you
+just met him at the at the cafe for two seconds ma'am watch
+
+1217
+01:12:02,010 --> 01:12:02,490
+your head
+
+1218
+01:12:08,770 --> 01:12:10,870
+checkpoint oh my god
+
+1219
+01:12:17,900 --> 01:12:26,960
+what the hell was that your guess is as good as mine Spooky
+happenings are happening ahead.
+
+1220
+01:12:27,440 --> 01:12:31,720
+When I saw the river below, something uncoiled itself inside
+my head.
+
+1221
+01:12:32,420 --> 01:12:34,740
+I realized that I'd have to find a way across.
+
+1222
+01:12:35,020 --> 01:12:36,740
+I didn't even want to look at the water.
+
+1223
+01:12:40,020 --> 01:12:40,440
+Yes?
+
+1224
+01:12:41,420 --> 01:12:41,980
+Yes.
+
+1225
+01:12:44,880 --> 01:12:46,840
+I'm looking around for any secrets.
+
+1226
+01:12:52,060 --> 01:12:53,420
+It's so jungly.
+
+1227
+01:12:54,000 --> 01:12:56,380
+Things really boring in town for Rose, okay?
+
+1228
+01:12:56,740 --> 01:12:58,100
+It's probably true, right?
+
+1229
+01:13:00,920 --> 01:13:01,440
+Alright.
+
+1230
+01:13:03,020 --> 01:13:06,580
+This is like really something, huh?
+
+1231
+01:13:06,780 --> 01:13:07,760
+Is that a box there?
+
+1232
+01:13:08,100 --> 01:13:09,340
+Like, that I couldn't?
+
+1233
+01:13:11,840 --> 01:13:13,140
+Oh, come on, jump.
+
+1234
+01:13:13,420 --> 01:13:13,940
+There we go.
+
+1235
+01:13:14,820 --> 01:13:15,440
+Alan jump.
+
+1236
+01:13:16,380 --> 01:13:16,880
+Alan run.
+
+1237
+01:13:17,440 --> 01:13:18,080
+Alan explore.
+
+1238
+01:13:18,620 --> 01:13:20,040
+Like, what the heck are these trees?
+
+1239
+01:13:20,760 --> 01:13:21,640
+Well, it is a box.
+
+1240
+01:13:22,800 --> 01:13:23,940
+Just a box.
+
+1241
+01:13:26,040 --> 01:13:36,300
+Oh, it's a manuscript we're getting like the whole what's it
+called like the whole story so far but in these pages barry
+
+1242
+01:13:36,300 --> 01:13:42,060
+wheeler was bouncing off the walls he jumped on a plane
+after his calls were ignored by both al and alice for
+
+1243
+01:13:42,060 --> 01:13:48,540
+several days oh it could mean that they were both on a
+second honeymoon but barry didn't buy it al had been way too
+
+1244
+01:13:48,540 --> 01:13:55,420
+unstable for that not sleeping messed up oh no barry had
+years of experience dealing with alan wake and he couldn't
+
+1245
+01:13:55,420 --> 01:14:02,420
+ignore it something was wrong something was wrong so barry's
+coming okay
+
+1246
+01:14:08,900 --> 01:14:19,280
+oh i thought i heard something like manifesting like an evil
+guy oh there was an evil guy oh
+
+1247
+01:14:24,480 --> 01:14:34,760
+is that what's his name yeah stucky in the dark stalk me
+rose is like us with our vtuberoshis we still want to be
+
+1248
+01:14:34,760 --> 01:14:37,160
+considered a real friend no What is to be said by?
+
+1249
+01:14:37,360 --> 01:14:37,620
+No!
+
+1250
+01:14:38,460 --> 01:14:41,080
+Forgot how Max Pain, like Alan Wake, moved.
+
+1251
+01:14:42,540 --> 01:14:43,500
+Same team?
+
+1252
+01:14:44,360 --> 01:14:45,900
+We could play as Rose in expansion.
+
+1253
+01:14:46,180 --> 01:14:46,540
+It's silly.
+
+1254
+01:14:46,680 --> 01:14:47,840
+Wait, that sounds so fun.
+
+1255
+01:14:48,640 --> 01:14:49,640
+That sounds pretty silly.
+
+1256
+01:14:50,220 --> 01:14:50,600
+Stucky!
+
+1257
+01:14:53,260 --> 01:14:54,280
+Oh, batteries.
+
+1258
+01:14:55,900 --> 01:14:56,740
+And ammo.
+
+1259
+01:15:02,000 --> 01:15:02,480
+Okay.
+
+1260
+01:15:06,340 --> 01:15:06,620
+Oh.
+
+1261
+01:15:07,960 --> 01:15:08,620
+The game?
+
+1262
+01:15:08,800 --> 01:15:09,160
+Wow!
+
+1263
+01:15:09,440 --> 01:15:09,660
+Oh!
+
+1264
+01:15:24,520 --> 01:15:25,520
+What happened?
+
+1265
+01:15:27,580 --> 01:15:28,240
+Wait.
+
+1266
+01:15:28,920 --> 01:15:28,940
+Ah!
+
+1267
+01:15:43,690 --> 01:15:44,150
+Okay.
+
+1268
+01:15:56,320 --> 01:15:58,580
+The game suddenly turned into eternal darkness.
+
+1269
+01:16:01,060 --> 01:16:02,040
+Oh my gosh.
+
+1270
+01:16:06,500 --> 01:16:08,140
+That scared me.
+
+1271
+01:16:08,500 --> 01:16:10,180
+I thought I was gonna have to restart or something.
+
+1272
+01:16:16,470 --> 01:16:19,670
+Our sanity is too low, Hey, buddy.
+
+1273
+01:16:21,530 --> 01:16:22,230
+Paragon, paragon.
+
+1274
+01:16:23,510 --> 01:16:23,950
+Let's see.
+
+1275
+01:16:24,310 --> 01:16:25,230
+Going around.
+
+1276
+01:16:26,670 --> 01:16:28,170
+There's a big old light up there.
+
+1277
+01:16:29,750 --> 01:16:31,830
+I guess it wants me to go over there.
+
+1278
+01:16:32,870 --> 01:16:33,330
+I'm assuming.
+
+1279
+01:16:38,990 --> 01:16:40,350
+The staircase was broken.
+
+1280
+01:16:40,610 --> 01:16:40,930
+No!
+
+1281
+01:16:40,930 --> 01:16:42,970
+I had to make my way up some other way.
+
+1282
+01:16:43,170 --> 01:16:44,710
+Who turned out the light?
+
+1283
+01:16:48,910 --> 01:16:50,470
+Okay, open that up.
+
+1284
+01:16:52,570 --> 01:16:53,610
+Grab everything.
+
+1285
+01:16:54,270 --> 01:16:55,150
+Hell you.
+
+1286
+01:16:55,970 --> 01:16:57,850
+I like that it does kind of guide you, though.
+
+1287
+01:16:58,050 --> 01:17:00,890
+I see where the, like, what the yellow dot means now.
+
+1288
+01:17:01,050 --> 01:17:01,550
+Wait, what was that?
+
+1289
+01:17:02,090 --> 01:17:03,250
+Oh, there was something else I missed.
+
+1290
+01:17:05,430 --> 01:17:06,190
+Oh, I can't.
+
+1291
+01:17:06,850 --> 01:17:08,590
+This isn't really happening!
+
+1292
+01:17:13,130 --> 01:17:13,570
+Urm.
+
+1293
+01:17:15,010 --> 01:17:15,450
+Urm.
+
+1294
+01:17:16,610 --> 01:17:17,370
+There was no power.
+
+1295
+01:17:17,630 --> 01:17:20,870
+There was bound to be a generator somewhere at the logging
+site.
+
+1296
+01:17:22,650 --> 01:17:24,790
+You mean that green light that's flashing over there?
+
+1297
+01:17:25,890 --> 01:17:27,590
+Psycho Mantis using blackout.
+
+1298
+01:17:32,860 --> 01:17:33,260
+Oh, whoops.
+
+1299
+01:17:33,820 --> 01:17:34,900
+Jump to climb.
+
+1300
+01:17:39,610 --> 01:17:40,090
+Hmm.
+
+1301
+01:17:43,150 --> 01:17:44,110
+I think...
+
+1302
+01:17:44,990 --> 01:17:45,830
+What's climb?
+
+1303
+01:17:46,010 --> 01:17:46,430
+What am I climb?
+
+1304
+01:17:46,530 --> 01:17:48,010
+Oh, probably the staircase, yeah.
+
+1305
+01:17:50,390 --> 01:17:52,950
+I think I gotta go over there.
+
+1306
+01:17:54,130 --> 01:17:54,750
+Me thinks.
+
+1307
+01:17:55,030 --> 01:17:59,550
+With all this forestry equipment around, there had to be
+something I could use to reach the top.
+
+1308
+01:17:59,570 --> 01:18:00,870
+Am I going to parkour?
+
+1309
+01:18:01,030 --> 01:18:02,170
+What's going on here?
+
+1310
+01:18:04,210 --> 01:18:04,710
+Okay.
+
+1311
+01:18:06,970 --> 01:18:08,070
+There's a thermos.
+
+1312
+01:18:08,330 --> 01:18:09,050
+I see it.
+
+1313
+01:18:09,390 --> 01:18:10,750
+You guys see it right there.
+
+1314
+01:18:11,170 --> 01:18:12,410
+It's right there.
+
+1315
+01:18:15,110 --> 01:18:16,170
+Oh my gosh.
+
+1316
+01:18:16,250 --> 01:18:17,730
+Okay, there's fall damage.
+
+1317
+01:18:18,190 --> 01:18:18,810
+Today I learned.
+
+1318
+01:18:19,750 --> 01:18:20,430
+Alan jump.
+
+1319
+01:18:22,730 --> 01:18:24,130
+Alan, don't jump too far.
+
+1320
+01:18:27,540 --> 01:18:32,520
+I'm not going to be such a stickler for the thermoses
+because I don't want to that to be like the main focus but
+
+1321
+01:18:32,520 --> 01:18:42,960
+if i see one i'll try and get it i might i've already missed
+one so you know no biggie allen fall
+
+1322
+01:19:10,340 --> 01:19:21,600
+trying to get trying to get better at this holy cow i forget
+that i can like reload really quickly and a script page and
+
+1323
+01:19:21,600 --> 01:19:23,940
+something else Shotgun!
+
+1324
+01:19:24,800 --> 01:19:25,300
+Let's go!
+
+1325
+01:19:29,870 --> 01:19:30,830
+What do we got here?
+
+1326
+01:19:31,010 --> 01:19:32,670
+Wake attacked by birds!
+
+1327
+01:19:33,850 --> 01:19:37,720
+Cut down entirely!
+
+1328
+01:19:37,920 --> 01:19:39,800
+I gotta get better at dodging, but...
+
+1329
+01:19:39,800 --> 01:19:41,300
+I heard them before I saw them.
+
+1330
+01:19:41,700 --> 01:19:44,220
+Swooping down from the sky and screeching as they came.
+
+1331
+01:19:44,640 --> 01:19:46,860
+I spun around just as the cloud was upon me.
+
+1332
+01:19:47,240 --> 01:19:49,860
+For an instant, I stared into a hundred dead eyes.
+
+1333
+01:19:50,200 --> 01:19:52,120
+Black pearls glittering in the darkness.
+
+1334
+01:19:52,660 --> 01:19:55,520
+I raised the flashlight and the swarm exploded like
+fireworks.
+
+1335
+01:19:55,520 --> 01:19:55,960
+Oh, they did?
+
+1336
+01:19:56,080 --> 01:19:56,660
+They were supposed to do that?
+
+1337
+01:19:57,120 --> 01:19:57,240
+That is burned.
+
+1338
+01:19:57,480 --> 01:19:58,180
+Turned into ash.
+
+1339
+01:19:58,200 --> 01:20:01,000
+I couldn't hear my scream above theirs.
+
+1340
+01:20:01,340 --> 01:20:01,820
+Ha!
+
+1341
+01:20:02,580 --> 01:20:02,820
+What?
+
+1342
+01:20:04,060 --> 01:20:04,300
+What?
+
+1343
+01:20:05,820 --> 01:20:06,260
+Okay.
+
+1344
+01:20:06,980 --> 01:20:07,940
+It's kind of funny.
+
+1345
+01:20:08,620 --> 01:20:09,500
+Crayon made!
+
+1346
+01:20:09,660 --> 01:20:10,000
+Woohoo!
+
+1347
+01:20:10,240 --> 01:20:13,360
+Thank you so much for the- for the- Forget the thank you!
+
+1348
+01:20:13,600 --> 01:20:14,400
+Thank you.
+
+1349
+01:20:16,860 --> 01:20:17,340
+Crayon.
+
+1350
+01:20:17,660 --> 01:20:19,400
+You guys say crayon or crayon?
+
+1351
+01:20:19,800 --> 01:20:23,160
+I've been trying the more to say crayon instead of crayon.
+
+1352
+01:20:23,780 --> 01:20:26,160
+But it feels more natural to say crayon.
+
+1353
+01:20:34,060 --> 01:20:42,240
+Crayon I like saying crayon There's light They
+
+1354
+01:20:46,300 --> 01:20:48,020
+won't be able to touch me there right
+
+1355
+01:20:51,940 --> 01:20:54,300
+Supposedly Allegedly
+
+1356
+01:20:57,380 --> 01:21:05,880
+Crayon berries I know some people that say crown What What
+
+1357
+01:21:14,050 --> 01:21:21,250
+second crayon berries i don't know i know it's crayon but i
+just always said crayon
+
+1358
+01:21:24,370 --> 01:21:31,870
+i say crown can i well how do you say how do you say crown
+where do you get crown from
+
+1359
+01:21:34,930 --> 01:21:40,310
+oh i'm moving it oh i'm going the wrong way
+
+1360
+01:21:43,390 --> 01:21:50,640
+that should be good right Okay.
+
+1361
+01:21:51,560 --> 01:21:52,100
+Yeah.
+
+1362
+01:21:53,940 --> 01:21:55,140
+Lots of light now.
+
+1363
+01:21:55,740 --> 01:21:57,040
+It shouldn't be around here.
+
+1364
+01:22:00,460 --> 01:22:01,060
+Wee.
+
+1365
+01:22:01,260 --> 01:22:01,740
+Wee.
+
+1366
+01:22:03,240 --> 01:22:03,820
+Wee.
+
+1367
+01:22:04,720 --> 01:22:05,320
+Wee.
+
+1368
+01:22:05,320 --> 01:22:06,100
+Alan, jump!
+
+1369
+01:22:07,180 --> 01:22:07,960
+Oh my god.
+
+1370
+01:22:08,180 --> 01:22:08,880
+Alan, don't fall!
+
+1371
+01:22:09,620 --> 01:22:11,260
+Alan, what's that?
+
+1372
+01:22:11,980 --> 01:22:13,280
+Alan, gas, gas, gas.
+
+1373
+01:22:13,660 --> 01:22:14,420
+Alan, jump!
+
+1374
+01:22:15,600 --> 01:22:16,180
+Hell yeah.
+
+1375
+01:22:16,820 --> 01:22:17,800
+Alan, make it.
+
+1376
+01:22:22,600 --> 01:22:24,060
+What's over here?
+
+1377
+01:22:24,340 --> 01:22:24,920
+Gotta be something.
+
+1378
+01:22:26,720 --> 01:22:28,180
+Besides target practice.
+
+1379
+01:22:31,120 --> 01:22:31,760
+Alan Verb.
+
+1380
+01:22:33,600 --> 01:22:35,920
+Might be my favorite joke ever.
+
+1381
+01:22:38,480 --> 01:22:38,660
+Oh!
+
+1382
+01:22:39,560 --> 01:22:40,680
+Um, what?
+
+1383
+01:22:45,430 --> 01:22:46,960
+What was that?
+
+1384
+01:22:49,640 --> 01:22:50,800
+Alan glitch!
+
+1385
+01:22:53,340 --> 01:22:55,040
+Is there supposed to be something here?
+
+1386
+01:22:58,580 --> 01:22:59,180
+Checkpoint!
+
+1387
+01:23:02,460 --> 01:23:07,440
+I swear this game is more eternal darkness than we realize,
+baby.
+
+1388
+01:23:08,020 --> 01:23:10,120
+My sanity is crazy low.
+
+1389
+01:23:11,320 --> 01:23:11,900
+What do we have?
+
+1390
+01:23:11,940 --> 01:23:13,540
+Oh, that looks like shotgun shells, yeah.
+
+1391
+01:23:18,050 --> 01:23:21,250
+Well, I was just outside for a breath of fresh air.
+
+1392
+01:23:21,270 --> 01:23:28,790
+air and what a night i i know most of you are probably in
+your beds by now but if you're still up and around take a
+
+1393
+01:23:28,790 --> 01:23:38,190
+moment step outside for a spell and breathe in the weather
+is absolutely still the sky is crystal clear it's like
+
+1394
+01:23:38,190 --> 01:23:48,770
+before alan finish it off with gunderbolt epic version of
+this game is riddled by these glitches well isn't epic the
+
+1395
+01:23:48,770 --> 01:23:54,150
+only way you can play it technically or That's what I
+thought I heard someone say before.
+
+1396
+01:23:54,290 --> 01:23:55,010
+Right, here I am.
+
+1397
+01:23:55,290 --> 01:23:57,830
+And we'll keep you company all night long if I weren't.
+
+1398
+01:23:57,910 --> 01:23:58,570
+So bright.
+
+1399
+01:23:58,790 --> 01:24:01,190
+It looks like I'm not the only one staying up late.
+
+1400
+01:24:01,450 --> 01:24:02,450
+Caller, you're on the air.
+
+1401
+01:24:04,470 --> 01:24:05,230
+Maurice Horton.
+
+1402
+01:24:05,750 --> 01:24:06,410
+What are you up to?
+
+1403
+01:24:06,650 --> 01:24:08,630
+Well, I was just taking Toby on his walkies.
+
+1404
+01:24:09,050 --> 01:24:09,170
+Walkies.
+
+1405
+01:24:09,230 --> 01:24:10,670
+Oh, isn't it beautiful out there?
+
+1406
+01:24:10,890 --> 01:24:16,330
+Sure, but Pat, the reason I called is that Toby heard
+something rustling in the undergrowth and took off after it,
+
+1407
+01:24:16,530 --> 01:24:17,370
+and I couldn't find it.
+
+1408
+01:24:17,630 --> 01:24:18,430
+Probably a rabbit.
+
+1409
+01:24:18,430 --> 01:24:19,130
+I have it on Steam.
+
+1410
+01:24:19,310 --> 01:24:19,970
+Oh, really?
+
+1411
+01:24:20,090 --> 01:24:21,190
+Well, heck, I got it for free.
+
+1412
+01:24:21,270 --> 01:24:22,970
+on this one so it's fine.
+
+1413
+01:24:23,370 --> 01:24:28,930
+And Toby's a friendly dog.
+
+1414
+01:24:30,770 --> 01:24:31,110
+Uh oh.
+
+1415
+01:24:31,390 --> 01:24:33,210
+We're not gonna have to shoot Toby, are we?
+
+1416
+01:24:33,210 --> 01:24:34,390
+We were pretty far
+
+1417
+01:24:40,080 --> 01:24:40,520
+put.
+
+1418
+01:24:41,600 --> 01:24:44,000
+Well, Maurice, it's out there now.
+
+1419
+01:24:44,260 --> 01:24:45,440
+Hope Toby comes home soon.
+
+1420
+01:24:45,600 --> 01:24:46,360
+Yeah, thanks, Pat.
+
+1421
+01:24:46,640 --> 01:24:47,380
+You have a good night.
+
+1422
+01:24:47,520 --> 01:24:49,880
+There's no urgency for this dog at all.
+
+1423
+01:24:50,240 --> 01:24:52,760
+Not even like a...
+
+1424
+01:24:52,760 --> 01:24:55,200
+This is what my dog looks like.
+
+1425
+01:24:57,660 --> 01:24:58,140
+Yellow.
+
+1426
+01:24:59,820 --> 01:25:00,120
+Yellow.
+
+1427
+01:25:05,490 --> 01:25:06,730
+Are these ever a trap?
+
+1428
+01:25:07,210 --> 01:25:07,690
+Oh,
+
+1429
+01:25:12,600 --> 01:25:14,000
+I don't like the breathing at all.
+
+1430
+01:25:14,240 --> 01:25:15,020
+It's so scary.
+
+1431
+01:25:21,100 --> 01:25:22,280
+Breathing equals secrets nearby.
+
+1432
+01:25:22,720 --> 01:25:23,620
+Oh, that's what it is.
+
+1433
+01:25:24,500 --> 01:25:25,900
+It just sounds scary.
+
+1434
+01:25:27,560 --> 01:25:28,360
+Oh my god, the music.
+
+1435
+01:25:29,600 --> 01:25:30,660
+This game's out to get me.
+
+1436
+01:25:30,800 --> 01:25:31,800
+Out to DMCA me.
+
+1437
+01:25:34,060 --> 01:25:34,800
+What do we got?
+
+1438
+01:25:37,080 --> 01:25:37,560
+What?
+
+1439
+01:25:37,780 --> 01:25:39,220
+That's what I'm doing right now.
+
+1440
+01:25:39,320 --> 01:25:41,560
+At first I kept finding the pages as if by accident.
+
+1441
+01:25:42,240 --> 01:25:48,400
+The book I couldn't remember was either a terrible and true
+prophecy or an act of creation that had rewritten the world.
+
+1442
+01:25:49,180 --> 01:25:53,140
+I began to hunt the pages feverishly, for they held the
+answer to the mystery.
+
+1443
+01:25:53,900 --> 01:25:55,020
+With it, I could save myself.
+
+1444
+01:25:55,080 --> 01:25:55,700
+Yes, it did.
+
+1445
+01:25:56,200 --> 01:25:57,220
+I could save Alice.
+
+1446
+01:25:58,300 --> 01:25:58,740
+We could?
+
+1447
+01:25:58,880 --> 01:26:00,080
+Is that what we are thinking?
+
+1448
+01:26:04,160 --> 01:26:04,840
+All right.
+
+1449
+01:26:05,060 --> 01:26:05,580
+What's this?
+
+1450
+01:26:06,620 --> 01:26:07,900
+Just some sticks.
+
+1451
+01:26:08,200 --> 01:26:08,540
+Whoa.
+
+1452
+01:26:08,760 --> 01:26:18,920
+sorry that's a brick or a boulder yeah on the road again the
+gas station was closer now it's light welcoming in the
+
+1453
+01:26:18,920 --> 01:26:32,920
+darkness the best dogs in the state belly burster is the
+best with no comes lobster dog is second best the famous dog
+
+1454
+01:26:32,920 --> 01:26:39,280
+is zoom the famous dog is Rush.
+
+1455
+01:26:41,900 --> 01:26:42,340
+Stucky.
+
+1456
+01:26:43,820 --> 01:26:45,260
+Don't scare me out here, okay?
+
+1457
+01:26:47,620 --> 01:26:48,060
+Please.
+
+1458
+01:26:49,620 --> 01:26:50,240
+I'm just a...
+
+1459
+01:26:52,800 --> 01:26:53,680
+What's that sound?
+
+1460
+01:26:56,940 --> 01:26:58,080
+Don't sound so good.
+
+1461
+01:27:00,180 --> 01:27:01,220
+We... Safe haven.
+
+1462
+01:27:01,400 --> 01:27:01,600
+Wait.
+
+1463
+01:27:02,020 --> 01:27:02,800
+What do you mean, safe haven?
+
+1464
+01:27:04,960 --> 01:27:05,400
+Wow!
+
+1465
+01:27:05,600 --> 01:27:06,000
+Child, child.
+
+1466
+01:27:06,120 --> 01:27:06,840
+If I turn this on?
+
+1467
+01:27:07,140 --> 01:27:08,320
+Wait, don't pick up the revolver.
+
+1468
+01:27:08,580 --> 01:27:08,740
+Ah!
+
+1469
+01:27:08,760 --> 01:27:09,640
+Oh my god.
+
+1470
+01:27:11,100 --> 01:27:11,500
+Ouch.
+
+1471
+01:27:11,960 --> 01:27:13,000
+They're gonna get me good.
+
+1472
+01:27:16,040 --> 01:27:19,460
+I didn't realize I had my flare equipped, but good thing I
+did, I suppose.
+
+1473
+01:27:20,900 --> 01:27:21,500
+Please start.
+
+1474
+01:27:32,350 --> 01:27:33,250
+Oh my gosh.
+
+1475
+01:27:35,450 --> 01:27:35,930
+Cute!
+
+1476
+01:27:37,290 --> 01:27:38,790
+Oh my gosh.
+
+1477
+01:27:39,210 --> 01:27:40,530
+Thank you for the redirect.
+
+1478
+01:27:42,970 --> 01:27:44,770
+Oh my gosh.
+
+1479
+01:27:45,390 --> 01:27:46,610
+Now, yeah, now it's safe.
+
+1480
+01:27:49,250 --> 01:27:59,330
+I'm starting Alan Wake for the first time we just started
+not too long ago but things are already kind of corrosive
+
+1481
+01:28:00,210 --> 01:28:07,650
+hey chaos thank you for the five gifted thank you for the
+five gifted KFP bread thank you for the tech gifted thank
+
+1482
+01:28:07,650 --> 01:28:13,150
+you for the gifted whipsy thank you for the five gifted
+superliminal thank you for the five gifted well wait what
+
+1483
+01:28:13,150 --> 01:28:21,710
+was Kiwawa doing what is your stream But to be fair, I
+wasn't on my computer until like five minutes before I
+
+1484
+01:28:21,710 --> 01:28:22,350
+started stream.
+
+1485
+01:28:25,590 --> 01:28:26,440
+Pokemon Z-A.
+
+1486
+01:28:27,430 --> 01:28:27,930
+Boy, are you kidding?
+
+1487
+01:28:27,930 --> 01:28:28,670
+Well, thank you for the techie.
+
+1488
+01:28:28,790 --> 01:28:30,250
+I'm just like, yo, yo, thank you for the podcast.
+
+1489
+01:28:31,470 --> 01:28:32,750
+Simply thinking for the twine.
+
+1490
+01:28:34,050 --> 01:28:35,430
+Wow, I'm playing Pokemon.
+
+1491
+01:28:36,090 --> 01:28:37,690
+Back up to that Pokemon grind.
+
+1492
+01:28:38,050 --> 01:28:39,390
+It looks really fun.
+
+1493
+01:28:40,890 --> 01:28:42,170
+I thought about it.
+
+1494
+01:28:43,450 --> 01:28:44,070
+Z-A.
+
+1495
+01:28:44,190 --> 01:28:45,510
+Pokemon Z-A.
+
+1496
+01:28:45,810 --> 01:28:45,970
+Z-A.
+
+1497
+01:28:46,010 --> 01:28:47,310
+Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-Z-ZZZZZZ.
+
+1498
+01:28:51,220 --> 01:28:52,340
+Play it!
+
+1499
+01:28:52,420 --> 01:28:53,200
+Should I?
+
+1500
+01:28:53,860 --> 01:28:57,960
+Oh, my PC just crashed as I was typing a comment.
+
+1501
+01:28:58,420 --> 01:28:59,180
+I was saying.
+
+1502
+01:29:00,540 --> 01:29:01,940
+Bill, thank you for the tech gifted.
+
+1503
+01:29:02,400 --> 01:29:04,980
+Bill, thank you for the tech gifted.
+
+1504
+01:29:08,660 --> 01:29:09,620
+Do it.
+
+1505
+01:29:09,900 --> 01:29:10,460
+Pizza.
+
+1506
+01:29:11,080 --> 01:29:12,240
+Why are we saying pizza?
+
+1507
+01:29:13,660 --> 01:29:17,460
+Congratulations on your spicy adult only concert happening.
+
+1508
+01:29:17,840 --> 01:29:18,780
+Why do you have to say that?
+
+1509
+01:29:18,800 --> 01:29:19,640
+Why do you like that?
+
+1510
+01:29:21,840 --> 01:29:22,660
+Why do you...
+
+1511
+01:29:22,660 --> 01:29:24,180
+Why is a phrase like that?
+
+1512
+01:29:24,780 --> 01:29:25,280
+Speedifier?
+
+1513
+01:29:25,440 --> 01:29:25,900
+Thank you!
+
+1514
+01:29:25,980 --> 01:29:26,340
+It trickles!
+
+1515
+01:29:26,720 --> 01:29:27,180
+Thank you!
+
+1516
+01:29:30,040 --> 01:29:30,800
+They did...
+
+1517
+01:29:30,800 --> 01:29:31,780
+That was pretty funny, though.
+
+1518
+01:29:31,840 --> 01:29:33,780
+They did have to change it at, like, the last second.
+
+1519
+01:29:35,260 --> 01:29:36,740
+There's been so many...
+
+1520
+01:29:36,740 --> 01:29:37,400
+Oh, man.
+
+1521
+01:29:38,300 --> 01:29:39,720
+Can I rant a little bit?
+
+1522
+01:29:39,780 --> 01:29:42,280
+Not about Oshi Spark, but, like...
+
+1523
+01:29:42,280 --> 01:29:43,740
+Because they've been great.
+
+1524
+01:29:43,920 --> 01:29:47,120
+Everything that has happened has been out of their hands,
+unfortunately.
+
+1525
+01:29:48,500 --> 01:29:58,840
+Basically, basically, last second, they were like, they
+heard, so, they had the contract, and they made the contract
+
+1526
+01:29:58,840 --> 01:30:07,160
+that said that the concert would be for all ages, but then
+the people that went through the contract, they didn't
+
+1527
+01:30:07,160 --> 01:30:21,500
+specify that the location was 21 plus only, so, so, um, what
+the heck then they had to change at the very last minute to
+
+1528
+01:30:21,500 --> 01:30:30,540
+be like sorry if you pre sailed for a ticket but if you're
+under 21 you have to you can't you can't you should don't
+
+1529
+01:30:30,540 --> 01:30:40,160
+get a ticket because you won't be allowed in so first there
+was that and then unfortunately with the venue that we chose
+
+1530
+01:30:42,040 --> 01:30:51,980
+we had to sell the tickets through Ticketmaster and luckily
+I believe all the pre-sale tickets were bought by real
+
+1531
+01:30:51,980 --> 01:31:01,680
+people because they were for everybody who registered you
+know only yeah ticket master hey there Oshi Spark said
+
+1532
+01:31:01,680 --> 01:31:11,760
+they're currently looking into if the because the general
+sales opened up today and they're it's hard to say if they
+
+1533
+01:31:11,760 --> 01:31:22,800
+were completely scalped or if um So if you see someone on
+like, what's it called, Twitter being like, I have tickets
+
+1534
+01:31:22,800 --> 01:31:29,300
+for Minto's jazz show, don't trust it because it could be a
+scam, you know, something like that.
+
+1535
+01:31:30,340 --> 01:31:33,800
+But Oshi Spark is looking into it.
+
+1536
+01:31:35,280 --> 01:31:36,080
+So I apologize.
+
+1537
+01:31:36,820 --> 01:31:44,360
+I know it's out of my hands, but I never thought that that
+would happen to an event like mine.
+
+1538
+01:31:44,580 --> 01:31:45,840
+So I'm really, really sorry.
+
+1539
+01:31:47,120 --> 01:31:48,280
+into like Taylor Swift.
+
+1540
+01:31:50,660 --> 01:31:57,960
+I guess there's probably people out there that are just
+waiting to scalp any event on Ticketmaster, but yeah.
+
+1541
+01:32:01,000 --> 01:32:02,300
+I'm sorry, I'm sorry.
+
+1542
+01:32:04,300 --> 01:32:05,880
+Sadly, it is all concerts.
+
+1543
+01:32:07,240 --> 01:32:15,460
+But, you know, there will be events in the future and they
+will not use Ticketmaster.
+
+1544
+01:32:18,360 --> 01:32:28,260
+that I can guarantee so yes yes yes that I can tell you
+
+1545
+01:32:31,780 --> 01:32:38,960
+definitely a learning experience yeah well I was like
+stressing about it before stream too I was just like I don't
+
+1546
+01:32:38,960 --> 01:32:46,260
+want you know people to be upset it's not Oshi Spark's fault
+mint as powerful as Taylor's Swift confirmed.
+
+1547
+01:32:46,560 --> 01:32:46,880
+Oh, yeah.
+
+1548
+01:32:47,520 --> 01:32:48,160
+Oh, yeah.
+
+1549
+01:32:48,540 --> 01:32:49,100
+Call me.
+
+1550
+01:32:49,180 --> 01:32:50,220
+You're not a Swiftie.
+
+1551
+01:32:50,360 --> 01:32:51,480
+You're a Minty.
+
+1552
+01:32:54,880 --> 01:32:55,740
+But, oh.
+
+1553
+01:33:00,140 --> 01:33:01,240
+It's not your fault, Min.
+
+1554
+01:33:01,240 --> 01:33:02,580
+We understand the situation.
+
+1555
+01:33:04,280 --> 01:33:04,620
+No.
+
+1556
+01:33:04,840 --> 01:33:05,640
+Even scalpers.
+
+1557
+01:33:06,120 --> 01:33:06,120
+No.
+
+1558
+01:33:06,280 --> 01:33:06,640
+No.
+
+1559
+01:33:06,940 --> 01:33:07,320
+They don't.
+
+1560
+01:33:07,320 --> 01:33:07,520
+No.
+
+1561
+01:33:07,620 --> 01:33:08,340
+They don't know.
+
+1562
+01:33:08,440 --> 01:33:10,560
+They just buy up any tickets that's on there.
+
+1563
+01:33:11,760 --> 01:33:17,280
+You'd think that we would have, like, things to help prevent
+this by now.
+
+1564
+01:33:17,780 --> 01:33:20,200
+But clearly, it's an issue.
+
+1565
+01:33:21,000 --> 01:33:24,900
+Clearly, it's too difficult to figure out, I suppose.
+
+1566
+01:33:25,780 --> 01:33:29,020
+But, yeah, sorry, I just wanted to rant a little bit about
+it.
+
+1567
+01:33:29,460 --> 01:33:30,460
+Oshi Spark has been great.
+
+1568
+01:33:30,680 --> 01:33:31,260
+They have not.
+
+1569
+01:33:31,600 --> 01:33:32,880
+They have been very communicative.
+
+1570
+01:33:33,120 --> 01:33:39,560
+And anytime I have a question or anything or an issue, they
+have been good about helping me out.
+
+1571
+01:33:39,840 --> 01:33:43,860
+So, I just signed an NFL contract if you want to go on a
+date sometime.
+
+1572
+01:33:47,000 --> 01:33:47,760
+Wait, what's this?
+
+1573
+01:33:47,780 --> 01:34:02,320
+Taylor Swift song um players gonna play play play play play
+play but I'm just gonna wake wake wake wake wake Alan wake
+
+1574
+01:34:02,320 --> 01:34:11,620
+Alan wake okay shall we continue was this a checkpoint
+checkpoint I don't know actually where are we going wait
+
+1575
+01:34:11,620 --> 01:34:13,700
+it's telling me to go this way
+
+1576
+01:34:20,340 --> 01:34:21,960
+Is there an evil guy out there?
+
+1577
+01:34:22,160 --> 01:34:22,600
+Another one?
+
+1578
+01:34:27,090 --> 01:34:30,210
+I can't tell if it's evil guy or ambiance.
+
+1579
+01:34:31,370 --> 01:34:32,270
+Evil guys!
+
+1580
+01:34:40,420 --> 01:34:40,900
+I
+
+1581
+01:34:55,320 --> 01:34:57,720
+have to catch the vibe because I'm at work again tonight.
+
+1582
+01:34:58,560 --> 01:34:59,740
+Good luck with work, Phil!
+
+1583
+01:35:03,520 --> 01:35:04,480
+Uh, uh...
+
+1584
+01:35:04,480 --> 01:35:05,760
+Oh, let's go.
+
+1585
+01:35:06,500 --> 01:35:07,040
+Oh, shoot.
+
+1586
+01:35:07,800 --> 01:35:08,140
+Wait.
+
+1587
+01:35:09,860 --> 01:35:10,420
+Oh
+
+1588
+01:35:16,490 --> 01:35:19,130
+my god, I didn't expect it to be right there!
+
+1589
+01:35:34,990 --> 01:35:37,210
+Oh, scared me, man.
+
+1590
+01:35:43,340 --> 01:35:44,060
+Holy cow!
+
+1591
+01:35:44,800 --> 01:35:46,280
+I tried to switch to my flare.
+
+1592
+01:35:46,620 --> 01:35:48,140
+Okay, it's the left, lefty pod.
+
+1593
+01:35:49,660 --> 01:35:50,220
+Manuscript.
+
+1594
+01:35:53,620 --> 01:35:55,380
+TV in the gas station.
+
+1595
+01:35:55,600 --> 01:35:57,380
+I stepped into the gas station's garage.
+
+1596
+01:35:57,780 --> 01:35:58,820
+It was dark and quiet.
+
+1597
+01:35:59,420 --> 01:36:00,320
+The place was a mess.
+
+1598
+01:36:00,460 --> 01:36:00,540
+Oh.
+
+1599
+01:36:00,540 --> 01:36:06,080
+It looked like someone trashed the place or that there'd
+been some kind of fight Light spilled into the room through
+
+1600
+01:36:06,080 --> 01:36:10,800
+an open door at the back and I made my way toward it
+Spoilers nice shooting text.
+
+1601
+01:36:10,840 --> 01:36:18,320
+I was blinded by a bright light An old portable TV on the
+shelf had come alive by itself Impossibly I could see myself
+
+1602
+01:36:18,320 --> 01:36:23,900
+on the screen talking like a madman The game is spoiling me.
+
+1603
+01:36:24,000 --> 01:36:31,520
+Maybe I should have Ready So we're going around up and
+around around, it seems.
+
+1604
+01:36:33,820 --> 01:36:35,860
+Oh, thank goodness light.
+
+1605
+01:36:37,660 --> 01:36:39,660
+It gets so bright.
+
+1606
+01:36:41,720 --> 01:36:43,260
+It gets so bright.
+
+1607
+01:36:44,500 --> 01:36:45,620
+Can I pick up that?
+
+1608
+01:36:45,940 --> 01:36:46,740
+Pick up that.
+
+1609
+01:36:48,480 --> 01:36:49,640
+Is there anything over there?
+
+1610
+01:36:51,180 --> 01:36:52,580
+Oh, this is where I'm supposed to go.
+
+1611
+01:36:53,740 --> 01:36:54,820
+Wait, can I not go this way?
+
+1612
+01:36:56,260 --> 01:36:57,220
+Oh, it's a cliff.
+
+1613
+01:36:57,800 --> 01:37:00,360
+For some reason, I thought it was a bridge.
+
+1614
+01:37:01,860 --> 01:37:03,560
+Oh, okay, I see it.
+
+1615
+01:37:03,620 --> 01:37:04,560
+It's right over there.
+
+1616
+01:37:05,080 --> 01:37:07,280
+This is, like, the largest lumberyard ever.
+
+1617
+01:37:07,420 --> 01:37:09,300
+Why is that swinging down there?
+
+1618
+01:37:10,420 --> 01:37:12,340
+Am I about to play American Warrior?
+
+1619
+01:37:12,540 --> 01:37:13,400
+American Ninja Warrior?
+
+1620
+01:37:13,740 --> 01:37:14,440
+What's going on?
+
+1621
+01:37:15,540 --> 01:37:16,380
+Alan flip.
+
+1622
+01:37:16,820 --> 01:37:17,680
+Alan, do a flip.
+
+1623
+01:37:20,340 --> 01:37:21,300
+I hear.
+
+1624
+01:37:22,440 --> 01:37:22,760
+Breath.
+
+1625
+01:37:24,060 --> 01:37:24,260
+Breathe.
+
+1626
+01:37:25,680 --> 01:37:26,700
+Spooky breath.
+
+1627
+01:37:27,260 --> 01:37:27,860
+Spooky breathe.
+
+1628
+01:37:31,460 --> 01:37:32,540
+Oh my god!
+
+1629
+01:37:33,060 --> 01:37:34,540
+The quietest boulders ever.
+
+1630
+01:37:43,560 --> 01:37:45,140
+Alan breathe, Alan breathe.
+
+1631
+01:37:46,260 --> 01:37:46,520
+Yeah.
+
+1632
+01:37:47,260 --> 01:37:48,860
+I'll take another flare gun, yeah.
+
+1633
+01:37:49,380 --> 01:37:51,640
+Just pick them up, pick all of them up.
+
+1634
+01:37:54,700 --> 01:37:55,540
+Very nice!
+
+1635
+01:37:55,900 --> 01:37:56,780
+Alan parkour.
+
+1636
+01:38:04,180 --> 01:38:08,060
+So, I have to ask though, how many episodes are in this
+game?
+
+1637
+01:38:08,220 --> 01:38:12,400
+I wonder if we should do it kind of similarly to where I've
+done in the past where I do one episode.
+
+1638
+01:38:12,420 --> 01:38:13,420
+episode per stream?
+
+1639
+01:38:20,580 --> 01:38:21,600
+John Allen Wake!
+
+1640
+01:38:24,980 --> 01:38:26,360
+Six episodes, five episodes?
+
+1641
+01:38:28,040 --> 01:38:29,580
+They aren't all the same length.
+
+1642
+01:38:29,800 --> 01:38:30,580
+Ah, okay, okay.
+
+1643
+01:38:31,340 --> 01:38:32,980
+I guess we'll have to see.
+
+1644
+01:38:33,860 --> 01:38:34,540
+Six plus DLCs.
+
+1645
+01:38:35,420 --> 01:38:36,620
+Oh, I see, I see.
+
+1646
+01:38:48,630 --> 01:38:50,130
+Salads aren't bad for you though.
+
+1647
+01:38:50,250 --> 01:38:50,570
+It's okay.
+
+1648
+01:38:50,750 --> 01:38:51,750
+You can touch a salad.
+
+1649
+01:38:51,750 --> 01:38:53,150
+It's just lettuce.
+
+1650
+01:38:54,050 --> 01:38:54,730
+Logging area.
+
+1651
+01:38:55,070 --> 01:38:55,310
+Okay.
+
+1652
+01:38:56,730 --> 01:38:59,670
+We back in the lumber mines.
+
+1653
+01:39:00,630 --> 01:39:01,230
+It doesn't work.
+
+1654
+01:39:01,450 --> 01:39:01,970
+I give up.
+
+1655
+01:39:06,110 --> 01:39:07,150
+Is that a page down there?
+
+1656
+01:39:08,950 --> 01:39:09,550
+Ambush!
+
+1657
+01:39:09,910 --> 01:39:10,510
+Holy moly.
+
+1658
+01:39:10,970 --> 01:39:11,690
+That's a lot of guys.
+
+1659
+01:39:24,200 --> 01:39:25,680
+Yeah, you saw it.
+
+1660
+01:39:28,340 --> 01:39:30,760
+You really thought, huh?
+
+1661
+01:39:34,340 --> 01:39:35,680
+Alan cracked?
+
+1662
+01:39:36,620 --> 01:39:42,500
+That was pretty good, wasn't it?
+
+1663
+01:39:42,580 --> 01:39:43,360
+That was pretty clean.
+
+1664
+01:39:44,100 --> 01:39:45,300
+If I'd just say so myself?
+
+1665
+01:39:46,860 --> 01:39:50,780
+Should probably use my shotgun more often, huh?
+
+1666
+01:39:56,910 --> 01:39:58,590
+Yeah, science!
+
+1667
+01:40:02,130 --> 01:40:04,810
+Oh my god, it really is the Twilight Zone.
+
+1668
+01:40:05,870 --> 01:40:07,050
+Hustleop would be proud.
+
+1669
+01:40:07,150 --> 01:40:08,130
+Don't say that!
+
+1670
+01:40:08,430 --> 01:40:09,670
+Don't say that!
+
+1671
+01:40:11,810 --> 01:40:13,090
+Night Springs.
+
+1672
+01:40:14,450 --> 01:40:15,290
+Night Springs.
+
+1673
+01:40:15,310 --> 01:40:16,170
+Tonight's episode.
+
+1674
+01:40:16,970 --> 01:40:18,150
+A quantum suicide.
+
+1675
+01:40:18,410 --> 01:40:19,450
+Wait, can we watch the whole thing?
+
+1676
+01:40:21,410 --> 01:40:26,650
+If our lives are already written, it would take a courageous
+man to change the script.
+
+1677
+01:40:27,230 --> 01:40:32,870
+Having called a press conference, Barclay Colvin is about to
+demonstrate that very courage.
+
+1678
+01:40:33,850 --> 01:40:34,720
+How long is it?
+
+1679
+01:40:35,390 --> 01:40:35,850
+Let's hurry up.
+
+1680
+01:40:36,010 --> 01:40:40,750
+Ladies and gentlemen of the press, I am Dr. Barclay Colvin.
+
+1681
+01:40:41,450 --> 01:40:46,590
+And I'm glad so many of you could join me here at the
+Moorcock Institute.
+
+1682
+01:40:47,690 --> 01:40:53,330
+Tonight, I'm going to give a practical demonstration of the
+many worlds interpretation.
+
+1683
+01:40:53,930 --> 01:40:53,950
+Whoa.
+
+1684
+01:40:54,650 --> 01:40:59,150
+As you can see, this is a loaded 9mm pistol.
+
+1685
+01:40:59,670 --> 01:41:08,750
+it shall be part of a thought experiment and now oh a real
+experiment i didn't even know as a quantum suicide did he
+
+1686
+01:41:08,750 --> 01:41:17,090
+say suicide is that a real gun he's kidding right please
+please stay welcome to membership thank you there is no risk
+
+1687
+01:41:17,090 --> 01:41:25,650
+observe what occurs when i place the weapon against my own
+the more what institute now you might think this round is
+
+1688
+01:41:25,650 --> 01:41:39,130
+merely a dud the dud not so flower pot and yet I myself
+cannot be harmed with this gun with each pull of the trigger
+
+1689
+01:41:39,130 --> 01:41:48,070
+two new realities branch off one in which the weapon didn't
+fire and one where it did with my machine here I have
+
+1690
+01:41:48,070 --> 01:42:02,130
+ensured that this reality that's crazy I have bestowed upon
+myself quantum immortality this gun kill me uh-oh so wait
+
+1691
+01:42:02,130 --> 01:42:09,990
+wait wait what you're saying is foreshadowing trigger in
+another reality you die yes yes of course but that's
+
+1692
+01:42:09,990 --> 01:42:17,650
+completely trivial there's an infinite number of things that
+could happen at any moment they always do happen somewhere
+
+1693
+01:42:17,650 --> 01:42:33,830
+the point is this one thing oh my god not happen here insane
+insane insane hey was this thing supposed to be plugged in i
+
+1694
+01:42:33,830 --> 01:42:50,090
+stumbled on it you fools gaze upon quantum immortality oh my
+god the reactions are crazy poor dr colvin filled by his own
+
+1695
+01:42:50,090 --> 01:43:00,490
+hubris or the ignorance of the masses oh my god the the
+narrator voice is so perfect Adam unobserved curiosity often
+
+1696
+01:43:00,490 --> 01:43:12,890
+kills the cat the camera was set up by a spring ah it sounds
+just like the Twilight Zone narrator it's so good it's so
+
+1697
+01:43:12,890 --> 01:43:25,550
+good just a box just a box just about I like how everything
+has like slight ragdoll physics it's really funny okay i
+
+1698
+01:43:25,550 --> 01:43:32,750
+feel like i'm about to face off against a boss potentially
+so let's get our maybe our shoddy wait before we do that
+
+1699
+01:43:32,750 --> 01:43:34,090
+before we open this gate though
+
+1700
+01:43:38,550 --> 01:43:41,530
+we shall get this page
+
+1701
+01:43:47,010 --> 01:43:53,530
+wait lies to the sheriff wait a second wait a second you're
+You're already making me as a criminal!
+
+1702
+01:43:56,230 --> 01:43:57,510
+Wait, wait, wait, wait!
+
+1703
+01:43:58,470 --> 01:43:59,070
+Wait, wait, wait!
+
+1704
+01:43:59,070 --> 01:44:00,690
+Wait, wait, wait!
+
+1705
+01:44:03,710 --> 01:44:05,890
+Remedy loves doing these show things.
+
+1706
+01:44:06,030 --> 01:44:06,770
+That's so fun!
+
+1707
+01:44:06,930 --> 01:44:07,630
+I love that.
+
+1708
+01:44:08,170 --> 01:44:09,110
+Alright, let's press the button.
+
+1709
+01:44:13,830 --> 01:44:16,030
+Why am I- what am I lying for?
+
+1710
+01:44:18,810 --> 01:44:20,610
+What do I need to lie about?
+
+1711
+01:44:21,530 --> 01:44:22,690
+Am I breaking and entering?
+
+1712
+01:44:22,850 --> 01:44:23,870
+Is that what I'm lying about?
+
+1713
+01:44:27,230 --> 01:44:28,110
+Turn off.
+
+1714
+01:44:33,890 --> 01:44:35,370
+It's quite loud in here.
+
+1715
+01:44:35,630 --> 01:44:36,650
+I mean to have a great day!
+
+1716
+01:44:36,930 --> 01:44:37,690
+Wait, great day!
+
+1717
+01:44:41,070 --> 01:44:42,770
+Sorry, I was saying...
+
+1718
+01:44:42,770 --> 01:44:44,250
+In my brain, I was saying Quinn!
+
+1719
+01:44:55,110 --> 01:44:56,390
+Have a great day!
+
+1720
+01:44:56,510 --> 01:44:57,210
+Oh, good checkpoint.
+
+1721
+01:44:57,450 --> 01:44:57,570
+Okay.
+
+1722
+01:44:59,050 --> 01:45:00,070
+Oh, that's a lot.
+
+1723
+01:45:00,210 --> 01:45:00,790
+Oh, no.
+
+1724
+01:45:01,690 --> 01:45:02,210
+Oh, no.
+
+1725
+01:45:03,570 --> 01:45:04,150
+Oh, no.
+
+1726
+01:45:21,340 --> 01:45:21,860
+Okay.
+
+1727
+01:45:23,360 --> 01:45:23,880
+Spooky.
+
+1728
+01:45:25,440 --> 01:45:26,180
+All right.
+
+1729
+01:45:27,920 --> 01:45:30,520
+I guess we're going up against him now.
+
+1730
+01:45:31,520 --> 01:45:32,060
+Hi, Shuts!
+
+1731
+01:45:34,460 --> 01:45:35,500
+I'm scared!
+
+1732
+01:45:42,030 --> 01:45:44,630
+It came from, like, my left ear.
+
+1733
+01:45:46,030 --> 01:45:47,270
+But I guess it doesn't matter.
+
+1734
+01:45:47,430 --> 01:45:50,350
+It's probably play, like, some sort of cinematic, I imagine.
+
+1735
+01:45:50,710 --> 01:45:50,850
+Oh!
+
+1736
+01:45:51,890 --> 01:45:52,410
+Yep.
+
+1737
+01:45:53,570 --> 01:45:54,090
+Ha!
+
+1738
+01:45:57,080 --> 01:45:57,820
+Oh, shoot!
+
+1739
+01:45:57,820 --> 01:45:58,900
+There's a bunch of them.
+
+1740
+01:45:58,920 --> 01:46:00,220
+Oh shoot, there's a bunch of them.
+
+1741
+01:46:06,210 --> 01:46:08,030
+Oh shoot, wow, that was so close.
+
+1742
+01:46:20,900 --> 01:46:21,220
+Nice.
+
+1743
+01:46:26,420 --> 01:46:27,900
+Oh god, there was so many.
+
+1744
+01:46:30,200 --> 01:46:31,460
+Whoa, what the heck was that?
+
+1745
+01:46:33,600 --> 01:46:34,240
+Oh, oh.
+
+1746
+01:46:34,900 --> 01:46:35,220
+Oh.
+
+1747
+01:46:39,420 --> 01:46:40,460
+Is he...
+
+1748
+01:46:40,460 --> 01:46:41,320
+Did he...
+
+1749
+01:46:41,940 --> 01:46:43,400
+Okay, nice.
+
+1750
+01:46:46,060 --> 01:46:46,640
+Oh, oh.
+
+1751
+01:46:47,500 --> 01:46:47,660
+Oh.
+
+1752
+01:46:51,200 --> 01:46:51,720
+Oh.
+
+1753
+01:46:51,720 --> 01:46:51,820
+Oh.
+
+1754
+01:46:52,140 --> 01:46:53,000
+He's kind of freaky.
+
+1755
+01:46:58,820 --> 01:46:59,080
+Woo!
+
+1756
+01:47:00,500 --> 01:47:01,020
+Ah!
+
+1757
+01:47:02,240 --> 01:47:03,480
+Ouch, ouch, ouch, ouch.
+
+1758
+01:47:03,620 --> 01:47:05,260
+I tried to...
+
+1759
+01:47:07,560 --> 01:47:08,080
+Oh.
+
+1760
+01:47:08,080 --> 01:47:08,300
+I tried to...
+
+1761
+01:47:08,300 --> 01:47:08,400
+Oh.
+
+1762
+01:47:08,400 --> 01:47:08,620
+Oh.
+
+1763
+01:47:09,560 --> 01:47:10,760
+Is it just him left?
+
+1764
+01:47:11,160 --> 01:47:11,860
+I guess so.
+
+1765
+01:47:12,380 --> 01:47:13,100
+I don't know where he went.
+
+1766
+01:47:13,300 --> 01:47:13,660
+Oh, there he is.
+
+1767
+01:47:14,340 --> 01:47:14,880
+Oh, my God.
+
+1768
+01:47:30,320 --> 01:47:30,760
+Nice!
+
+1769
+01:47:32,700 --> 01:47:33,060
+Okay.
+
+1770
+01:47:34,220 --> 01:47:35,560
+Stucky's body vanished.
+
+1771
+01:47:35,780 --> 01:47:38,680
+Leaving behind only a lifetime of nightmares to come.
+
+1772
+01:47:39,300 --> 01:47:41,940
+Assuming I'd reach the lights of the gas station alive.
+
+1773
+01:47:44,380 --> 01:47:45,620
+Um, I'm gonna go back to this.
+
+1774
+01:47:46,080 --> 01:47:47,580
+I don't want to waste all my shotgun ammo.
+
+1775
+01:47:47,700 --> 01:47:48,400
+I feel like I did.
+
+1776
+01:47:48,960 --> 01:47:49,300
+But whatever.
+
+1777
+01:47:50,580 --> 01:47:51,320
+Uh, where am I going?
+
+1778
+01:47:53,080 --> 01:47:53,520
+This...
+
+1779
+01:47:54,220 --> 01:47:56,380
+This... There's a green light here, though.
+
+1780
+01:47:57,500 --> 01:47:58,800
+Do I not need to... Oh, Tharbois.
+
+1781
+01:48:01,200 --> 01:48:02,600
+Oh, I do need to go this way.
+
+1782
+01:48:02,680 --> 01:48:03,040
+Just kidding.
+
+1783
+01:48:04,700 --> 01:48:05,860
+Anything else around here, though?
+
+1784
+01:48:06,840 --> 01:48:08,560
+Just doing a little bit of exploration.
+
+1785
+01:48:09,000 --> 01:48:09,600
+Doesn't pay.
+
+1786
+01:48:09,900 --> 01:48:12,440
+I mean, it doesn't hurt to be curious.
+
+1787
+01:48:14,580 --> 01:48:16,540
+The massive dumpster of ammo.
+
+1788
+01:48:16,660 --> 01:48:17,820
+I know it's so great.
+
+1789
+01:48:18,480 --> 01:48:21,320
+Honestly, just... I feel like I should stick to my revolver.
+
+1790
+01:48:21,340 --> 01:48:27,560
+because it's it has they give you so much ammo wait hello
+
+1791
+01:48:33,340 --> 01:48:46,020
+for now yeah I guess I guess that's true they're like hey
+they're at the beginning of the game your little baby
+
+1792
+01:48:46,020 --> 01:48:57,100
+recognize the parade float I had seen in Bright Falls when I
+first arrived I did see that I did I did see that what was
+
+1793
+01:48:57,120 --> 01:49:05,820
+that was a spooky sound don't like there anything in here no
+okay
+
+1794
+01:49:10,460 --> 01:49:22,160
+I'm hearing such a spooky noise something's creaking after
+the insanity I just experienced in the darkness the lights
+
+1795
+01:49:22,160 --> 01:49:27,660
+of the gas station felt comforting at least for a moment the
+same world reasserted itself
+
+1796
+01:49:33,920 --> 01:49:34,720
+My manuscript.
+
+1797
+01:49:37,020 --> 01:49:38,880
+I guess we'll read the pages after.
+
+1798
+01:49:39,000 --> 01:49:39,660
+I don't want to get...
+
+1799
+01:49:39,660 --> 01:49:40,120
+I don't know.
+
+1800
+01:49:40,380 --> 01:49:41,280
+What is like...
+
+1801
+01:49:41,280 --> 01:49:43,140
+Well, I guess there's no proper way to play it.
+
+1802
+01:49:43,280 --> 01:49:44,820
+But like, what is like the...
+
+1803
+01:49:44,820 --> 01:49:46,420
+What do people prefer?
+
+1804
+01:49:46,580 --> 01:49:48,620
+Do you prefer that I read it and get kind of spoiled?
+
+1805
+01:49:48,760 --> 01:49:51,760
+Or do you prefer that I wait until the full episode's done?
+
+1806
+01:49:54,160 --> 01:49:56,000
+The point is to read them immediately.
+
+1807
+01:49:56,480 --> 01:49:57,180
+Oh, okay, okay.
+
+1808
+01:49:57,420 --> 01:49:58,180
+Then let's do that.
+
+1809
+01:49:58,380 --> 01:50:00,600
+The cabin on Cauldron Lake, she asked.
+
+1810
+01:50:01,760 --> 01:50:07,860
+looked at me suspiciously the early morning light flooded
+through the office windows I would probably never have
+
+1811
+01:50:07,860 --> 01:50:13,100
+gotten out of the woods alive without her help but I
+couldn't tell her the truth of what I'd face the previous
+
+1812
+01:50:13,100 --> 01:50:19,220
+night she think I was lying or crazy she'd lock me up I mean
+he wrote and she wouldn't help me find Alice I guess that's
+
+1813
+01:50:19,220 --> 01:50:26,500
+fair well you know I don't know Stucky spat on the garage
+floor and tried to shake the cobwebs from his head ever
+
+1814
+01:50:26,500 --> 01:50:32,720
+since the couple never showed to pick up the keys things had
+been fuzzy something a feeling caught his attention.
+
+1815
+01:50:33,700 --> 01:50:38,360
+Stucky looked up and stared as his brain tried in vain to
+process the horror before him.
+
+1816
+01:50:38,500 --> 01:50:41,040
+He stumbled back, knocking over a can of oil.
+
+1817
+01:50:41,680 --> 01:50:47,980
+A black pool spread across the floor while he struggled for
+a brief moment, then let go as the unrelenting darkness
+
+1818
+01:50:47,980 --> 01:50:48,620
+engulfed him.
+
+1819
+01:50:48,620 --> 01:50:50,040
+Oh no, he got like possessed.
+
+1820
+01:50:52,340 --> 01:50:58,700
+So we got all of them, minus the things that are for
+nightmare mode only, so that's cool.
+
+1821
+01:50:58,700 --> 01:51:08,220
+the deer fest had been two weeks away when we arrived if the
+day count on the banner was right i was missing a whole week
+
+1822
+01:51:08,220 --> 01:51:19,600
+between the night we got here and now the game heard about
+mince smile anti-spoiler method it went bad right what am i
+
+1823
+01:51:19,600 --> 01:51:27,980
+focusing on okay i'm just looking around a bit oh they're
+almost hmm
+
+1824
+01:51:32,940 --> 01:51:35,040
+So we're about to meet the cop, I guess?
+
+1825
+01:51:36,520 --> 01:51:37,640
+We did say that we would...
+
+1826
+01:51:37,640 --> 01:51:39,920
+That we go into the gas station and we read the...
+
+1827
+01:51:39,920 --> 01:51:41,640
+Or we watch the TV and it's freaky.
+
+1828
+01:51:45,380 --> 01:51:46,900
+The garage was a mess.
+
+1829
+01:51:47,440 --> 01:51:49,180
+It looked like someone had trashed the place.
+
+1830
+01:51:49,680 --> 01:51:51,080
+Or that there'd been some kind of fight.
+
+1831
+01:51:51,560 --> 01:51:53,700
+Yeah, yeah, that's what we read in the...
+
+1832
+01:51:53,700 --> 01:51:54,760
+In the...
+
+1833
+01:51:54,760 --> 01:51:55,160
+In the...
+
+1834
+01:51:55,160 --> 01:51:55,700
+What's it called?
+
+1835
+01:51:55,940 --> 01:51:56,400
+The note.
+
+1836
+01:51:57,140 --> 01:51:58,120
+In the manuscript.
+
+1837
+01:51:58,340 --> 01:51:59,020
+I'm so sorry.
+
+1838
+01:51:59,380 --> 01:52:00,080
+It's not a note.
+
+1839
+01:52:00,360 --> 01:52:02,040
+It's much more intelligent than that.
+
+1840
+01:52:02,860 --> 01:52:03,940
+I'll keep writing.
+
+1841
+01:52:04,700 --> 01:52:11,020
+outside there's only darkness outside the cabin outside the
+story there's only darkness I can feel a presence in the
+
+1842
+01:52:11,020 --> 01:52:17,960
+dark just now I can smell the perfume in the room I'll reach
+her I'll fix it up I'll bring her back the story will come
+
+1843
+01:52:17,960 --> 01:52:31,800
+true if I stop she's lost I don't believe this it'd been me
+on the TV talking crazy was I losing my mind oh buddy things
+
+1844
+01:52:31,800 --> 01:52:39,880
+are not going so hot for you keep that's a thing but it's
+not i thought that sign did not say welcome i thought it
+
+1845
+01:52:39,880 --> 01:52:54,080
+just said women i was like yeah okay oh my gosh one thing i
+really want to do is i want to go to uh to washington so i
+
+1846
+01:52:54,080 --> 01:53:01,280
+could go see the orcas i want to go orca watching orca are
+you here yeah
+
+1847
+01:53:04,700 --> 01:53:26,100
+women am i right cheese and cream big stuffer oh yeah what's
+this oh the 68th annual deer they were so close so true
+
+1848
+01:53:28,260 --> 01:53:37,980
+september 15th to 18th games and activities raffle tickets
+fishing competition pie contest i mentioned before New
+
+1849
+01:53:37,980 --> 01:53:50,620
+Year's does I wanted a pumpkin pie you know and I went and
+got pumpkin pie and one thing that also shocked me was how
+
+1850
+01:53:50,620 --> 01:53:58,940
+many places were open on New Year's I thought the grocery
+store would definitely be closed but it was open and I got
+
+1851
+01:53:58,940 --> 01:54:10,480
+me a pumpkin pie yeah live music oh surprise competition For
+the children, Bucktooth Charlie, Afternoons.
+
+1852
+01:54:11,980 --> 01:54:16,060
+Okay, and Montgomery, the Mystic's Amazing Phantasmagoria.
+
+1853
+01:54:17,160 --> 01:54:17,740
+Evenings.
+
+1854
+01:54:18,500 --> 01:54:21,380
+I'm very curious what Bucktooth Charlie could be.
+
+1855
+01:54:23,300 --> 01:54:24,840
+That's the whole...
+
+1856
+01:54:25,360 --> 01:54:26,660
+That's the whole act.
+
+1857
+01:54:28,180 --> 01:54:29,440
+Phantasmagoria, what is this?
+
+1858
+01:54:29,500 --> 01:54:31,720
+Toho, I totally thought the same thing.
+
+1859
+01:54:34,120 --> 01:54:36,040
+Don't miss the legendary...
+
+1860
+01:54:36,060 --> 01:54:37,040
+Dear Fest Parade!
+
+1861
+01:54:38,260 --> 01:54:38,920
+Oh, am I reading?
+
+1862
+01:54:39,000 --> 01:54:40,020
+Oh, I'm reading this.
+
+1863
+01:54:40,100 --> 01:54:41,560
+I thought I was reading the candy.
+
+1864
+01:54:42,280 --> 01:54:43,420
+I was like...
+
+1865
+01:54:43,420 --> 01:54:43,940
+Oh, my God.
+
+1866
+01:54:44,120 --> 01:54:44,340
+Bigfoot.
+
+1867
+01:54:49,620 --> 01:54:50,160
+Cow feet.
+
+1868
+01:54:51,980 --> 01:54:54,900
+We sell propane and propane accessories.
+
+1869
+01:54:57,360 --> 01:54:58,420
+All right, let's use the phone.
+
+1870
+01:54:59,540 --> 01:54:59,840
+Hello.
+
+1871
+01:55:00,240 --> 01:55:00,920
+Excuse me, ma'am.
+
+1872
+01:55:03,900 --> 01:55:04,460
+Uh-oh.
+
+1873
+01:55:05,160 --> 01:55:06,280
+Rifle, sheriff station.
+
+1874
+01:55:07,420 --> 01:55:08,200
+Oh, I thought I heard.
+
+1875
+01:55:08,300 --> 01:55:08,720
+Oh, wait.
+
+1876
+01:55:08,800 --> 01:55:09,240
+The cops actually...
+
+1877
+01:55:09,260 --> 01:55:13,220
+came holy moly oh
+
+1878
+01:55:17,460 --> 01:55:25,320
+thank god sheriff sheriff sarah breaker you are i'm alan
+wake but listen i was in a car crash my wife alice she's
+
+1879
+01:55:25,320 --> 01:55:31,100
+missing calm down mr wake we were staying in a cabin on the
+island on cauldron lake there's no island on cauldron lake
+
+1880
+01:55:31,100 --> 01:55:37,440
+not since the big eruption in the 70s what please i can take
+you there okay you look like you've taken a pretty bad knock
+
+1881
+01:55:37,440 --> 01:55:39,960
+to the head Uh-oh, the concussion.
+
+1882
+01:55:40,480 --> 01:55:41,840
+I'm concussed.
+
+1883
+01:55:41,900 --> 01:55:44,080
+Listen, we'll figure this out.
+
+1884
+01:55:44,540 --> 01:55:45,380
+Please get in the car.
+
+1885
+01:55:45,660 --> 01:55:48,300
+We'll swing by the lake and then we'll go to the station,
+okay?
+
+1886
+01:55:50,020 --> 01:55:50,800
+Don't fall asleep.
+
+1887
+01:55:51,020 --> 01:55:53,460
+Have you seen Stucky, the guy who owns this place?
+
+1888
+01:55:54,640 --> 01:55:57,200
+I realized I couldn't tell her what had happened in the
+forest.
+
+1889
+01:55:57,900 --> 01:55:58,880
+She wouldn't have believed me.
+
+1890
+01:55:59,420 --> 01:56:00,980
+And then she wouldn't have helped me with Alice.
+
+1891
+01:56:01,220 --> 01:56:02,240
+That's why we lie.
+
+1892
+01:56:02,760 --> 01:56:04,160
+That's why we're a big old liar.
+
+1893
+01:56:04,580 --> 01:56:07,300
+Yeah, I murdered him out in the lumberyard.
+
+1894
+01:56:22,900 --> 01:56:25,620
+Wait, there's no island?
+
+1895
+01:56:26,640 --> 01:56:27,280
+Oh.
+
+1896
+01:56:28,980 --> 01:56:29,020
+Look.
+
+1897
+01:56:30,160 --> 01:56:30,540
+Oh.
+
+1898
+01:56:31,420 --> 01:56:32,920
+Alan lies.
+
+1899
+01:56:36,540 --> 01:56:37,680
+Oh, my.
+
+1900
+01:56:37,780 --> 01:56:38,660
+Wow, steamy.
+
+1901
+01:56:39,200 --> 01:56:40,880
+That'd be a great onsen.
+
+1902
+01:56:41,900 --> 01:56:42,060
+Oh.
+
+1903
+01:56:42,180 --> 01:56:43,340
+A candy-colored clown.
+
+1904
+01:56:45,620 --> 01:56:48,500
+Tiptoes to my room every night.
+
+1905
+01:56:49,840 --> 01:56:55,400
+And just to sprinkle star dust and End of episode one!
+
+1906
+01:56:55,520 --> 01:56:55,820
+Woo!
+
+1907
+01:56:56,320 --> 01:56:58,740
+Everything is all right.
+
+1908
+01:57:00,200 --> 01:57:03,580
+I close my eyes.
+
+1909
+01:57:04,220 --> 01:57:05,580
+You are so DMC-ed.
+
+1910
+01:57:05,780 --> 01:57:06,740
+That's fine.
+
+1911
+01:57:08,100 --> 01:57:09,820
+At this point, I can't stop it.
+
+1912
+01:57:13,300 --> 01:57:14,660
+Alan jingle.
+
+1913
+01:57:15,260 --> 01:57:16,100
+Alan jungle.
+
+1914
+01:57:16,520 --> 01:57:17,340
+Audio jungle.
+
+1915
+01:57:17,720 --> 01:57:18,720
+Audio jingle.
+
+1916
+01:57:19,160 --> 01:57:20,720
+Wait, is there no like...
+
+1917
+01:57:20,720 --> 01:57:21,440
+This is it.
+
+1918
+01:57:21,500 --> 01:57:21,900
+It was just the...
+
+1919
+01:57:21,920 --> 01:57:30,040
+the music how's the game so far it's so great on alan wake
+sorry i skipped this one i came to bright falls with my wife
+
+1920
+01:57:30,040 --> 01:57:37,340
+alice thank you for coming here with me i thought maybe you
+could write here why did the wives always go missing now
+
+1921
+01:57:37,340 --> 01:57:48,380
+she's missing sorry i walk you behind the wheel of a crashed
+car i'm missing a week i was attacked by shadowy men
+
+1922
+01:57:51,920 --> 01:57:56,000
+me to the lake alice and i had stayed at alice missing but
+the cabin had disappeared
+
+1923
+01:57:59,300 --> 01:58:03,800
+taken episode two wait new york city three years ago
+
+1924
+01:58:18,600 --> 01:58:30,100
+helen house dad oh honey i'm home back here sweetie how was
+it worst weather i've ever seen oh my god it's raining
+
+1925
+01:58:30,100 --> 01:58:39,080
+sideways it'll warm you up okay switch on the coffee man
+Well, I know we're on episode two, but it's only been two
+
+1926
+01:58:39,080 --> 01:58:39,800
+hours.
+
+1927
+01:58:41,500 --> 01:58:43,660
+Are you guys okay with me ending it a little early today?
+
+1928
+01:58:44,880 --> 01:58:52,240
+I do have another stream on the Densetsu channel, where it
+will be Densetsu versus Beasties.
+
+1929
+01:58:54,280 --> 01:59:00,000
+So, I think because I've been going a little bit with longer
+streams, we'll take it easy today.
+
+1930
+01:59:00,200 --> 01:59:00,840
+We'll end it here.
+
+1931
+01:59:02,680 --> 01:59:04,400
+Maybe next time we can get through two and a half hours.
+
+1932
+01:59:04,420 --> 01:59:13,260
+three episodes two and three depending on how long they are
+so yeah wait oh sorry i took control with my mouse
+
+1933
+01:59:13,260 --> 01:59:27,120
+liberatoraxia oh my gosh it's been forever welcome back to
+eq one second one second care guys careful guys mint has a
+
+1934
+01:59:27,120 --> 01:59:36,940
+particular set of skills my skills my skills more plug for
+Minto visiting Washington someday.
+
+1935
+01:59:37,320 --> 01:59:39,300
+Yeah, should I visit Washington?
+
+1936
+01:59:40,460 --> 01:59:41,060
+Should I?
+
+1937
+01:59:41,940 --> 01:59:42,460
+Should I?
+
+1938
+01:59:42,640 --> 01:59:43,120
+Should I?
+
+1939
+01:59:44,220 --> 01:59:45,460
+Let's move.
+
+1940
+01:59:46,200 --> 01:59:47,200
+I'm gonna shooom.
+
+1941
+01:59:48,940 --> 01:59:49,920
+And we're gonna boom.
+
+1942
+01:59:51,420 --> 01:59:53,280
+And I'm gonna one second.
+
+1943
+01:59:53,780 --> 01:59:55,300
+I'm gonna clean up a little bit.
+
+1944
+01:59:55,660 --> 01:59:56,440
+Let's see.
+
+1945
+02:00:17,250 --> 02:00:21,230
+We're here at my desk and my giant coffee.
+
+1946
+02:00:21,250 --> 02:00:35,730
+everybody my giant coffee let's put on some music amazing
+music that was so fun I it did spook me a little bit but I
+
+1947
+02:00:35,730 --> 02:00:51,230
+think because it's not survival horror I feel more what's
+the word more inclined to attack I'm like okay I'm here to
+
+1948
+02:00:51,250 --> 02:00:59,630
+fight baby it's action horror for sure yeah yeah yeah the
+resources are there for you yeah there were resources all
+
+1949
+02:00:59,630 --> 02:01:09,250
+the time i'm sure it will get less and less but um it was
+pretty cool i love that it's very twin peaks okay i'll be
+
+1950
+02:01:09,250 --> 02:01:14,930
+honest i've never watched twin peaks before it's definitely
+probably breaking bad is like a series that i would like to
+
+1951
+02:01:14,930 --> 02:01:27,690
+watch i know about it but you know But it's also, like, I
+mean, very obviously Twin Peaks inspired and Twilight Zone
+
+1952
+02:01:27,690 --> 02:01:29,250
+inspired and...
+
+1953
+02:01:29,930 --> 02:01:29,950
+Yeah!
+
+1954
+02:01:35,060 --> 02:01:36,800
+On nightmare mode, it's very rough.
+
+1955
+02:01:37,140 --> 02:01:37,840
+I believe that.
+
+1956
+02:01:38,580 --> 02:01:41,460
+I'm so curious what the notes say, though, that are...
+
+1957
+02:01:41,460 --> 02:01:43,740
+I feel kind of like... I'm like, hey, wait a second.
+
+1958
+02:01:44,400 --> 02:01:45,960
+Um, why is it...
+
+1959
+02:01:46,900 --> 02:01:47,340
+Why?
+
+1960
+02:01:47,520 --> 02:01:50,500
+Why... I should be able to read those notes if I want to.
+
+1961
+02:01:52,240 --> 02:01:53,940
+I should be able... There should be a way...
+
+1962
+02:01:53,960 --> 02:01:57,500
+Like, if I want to get the notes, I have to do a special
+challenge, but...
+
+1963
+02:01:57,500 --> 02:01:58,060
+I don't know.
+
+1964
+02:01:59,160 --> 02:02:00,580
+Thank you for checking out episode 1!
+
+1965
+02:02:00,700 --> 02:02:04,280
+If you enjoyed how silly the game is, I promise it only gets
+dumber and sillier each episode.
+
+1966
+02:02:04,840 --> 02:02:05,620
+Let's go!
+
+1967
+02:02:07,200 --> 02:02:08,720
+The notes are kind of spoilers.
+
+1968
+02:02:08,840 --> 02:02:09,860
+You're meant to beat the game first.
+
+1969
+02:02:10,520 --> 02:02:12,300
+Oh, the one's a nightmare.
+
+1970
+02:02:16,000 --> 02:02:18,040
+Isn't Twin Peaks a booby bar?
+
+1971
+02:02:19,120 --> 02:02:23,740
+Has anybody ever been to the booby bar, Twin Peaks?
+
+1972
+02:02:25,560 --> 02:02:26,760
+You mean manuscripts?
+
+1973
+02:02:26,960 --> 02:02:28,180
+Oh, yes, the manuscripts.
+
+1974
+02:02:31,020 --> 02:02:37,220
+When we were in Orlando, there was, there was like, I had a
+goal.
+
+1975
+02:02:38,280 --> 02:02:49,080
+I had a goal because the previous time that I went to
+Orlando, Florida, I tried to go to Hooters with some
+
+1976
+02:02:49,080 --> 02:02:49,980
+friends.
+
+1977
+02:02:50,260 --> 02:02:51,080
+I'm sorry, my wife.
+
+1978
+02:02:51,260 --> 02:02:53,180
+I was busy in here, wretching in a car.
+
+1979
+02:02:53,420 --> 02:02:53,660
+What?
+
+1980
+02:02:53,960 --> 02:02:55,380
+Orgar, are you okay?
+
+1981
+02:02:57,420 --> 02:02:59,300
+I hope you're just car sick.
+
+1982
+02:02:59,660 --> 02:03:00,600
+I hope you feel better.
+
+1983
+02:03:00,900 --> 02:03:01,560
+Oh my gosh.
+
+1984
+02:03:03,420 --> 02:03:12,740
+But there was, I remember being, we were outside the Hooters
+the previous time, like the time before the last time I went
+
+1985
+02:03:12,740 --> 02:03:13,640
+to Orlando, Florida.
+
+1986
+02:03:14,160 --> 02:03:26,180
+And I remember because we couldn't go in because it was
+really, It was like a strange, like, I don't know, there
+
+1987
+02:03:26,180 --> 02:03:28,140
+were like so many people for some reason.
+
+1988
+02:03:28,240 --> 02:03:32,540
+I think it was that like one party essentially took up the
+entire restaurant.
+
+1989
+02:03:32,680 --> 02:03:35,040
+They were like, it's a party of like 30 people.
+
+1990
+02:03:35,560 --> 02:03:37,460
+You're going to have to wait a really long time.
+
+1991
+02:03:37,580 --> 02:03:39,340
+And we were like, we're so hungry.
+
+1992
+02:03:39,760 --> 02:03:45,600
+And I remember watching, oh my God, it was a really short
+girl.
+
+1993
+02:03:47,340 --> 02:03:52,240
+And she had the biggest dog dogs I've ever seen.
+
+1994
+02:03:53,960 --> 02:04:07,960
+like seven plates and I was like this place is what this how
+how does a place like this exist and I was like oh my god we
+
+1995
+02:04:07,960 --> 02:04:12,980
+gotta go we're being did not no I'll wait forever for you
+
+1996
+02:04:16,300 --> 02:04:25,600
+and so I was like oh man I really hope we can go back to
+Hooters this last trip and we almost went And I don't, I'm
+
+1997
+02:04:25,600 --> 02:04:26,440
+not going to name names.
+
+1998
+02:04:26,800 --> 02:04:32,520
+I'm not going to say who denied us the beauty of, but they
+made a good point.
+
+1999
+02:04:33,720 --> 02:04:41,060
+She was like, I don't want to go to a restaurant that's
+really loud and full of like crazy people.
+
+2000
+02:04:41,840 --> 02:04:42,760
+I don't want to go to a bar.
+
+2001
+02:04:42,920 --> 02:04:45,840
+I want to just relax and eat pizza.
+
+2002
+02:04:47,720 --> 02:04:48,560
+So I get it.
+
+2003
+02:04:49,040 --> 02:04:51,920
+But at the same time, I was hoping she would be there.
+
+2004
+02:04:52,360 --> 02:04:53,460
+My short stack queen.
+
+2005
+02:04:53,960 --> 02:04:55,400
+I'll always remember you.
+
+2006
+02:04:56,280 --> 02:04:57,960
+And I've never been to a Hooters before!
+
+2007
+02:04:58,980 --> 02:05:04,020
+I've never been to a Hooters before, so I've always just
+been, like, so curious what it's like.
+
+2008
+02:05:04,620 --> 02:05:05,640
+I don't even like wings.
+
+2009
+02:05:05,980 --> 02:05:08,720
+I heard that that's the only reason to go, but...
+
+2010
+02:05:08,720 --> 02:05:10,100
+Truly America's Maid Cafe.
+
+2011
+02:05:10,300 --> 02:05:17,780
+And what kind of maid would I be if I could not go to the
+American Maid Cafe?
+
+2012
+02:05:18,240 --> 02:05:20,900
+What kind of maid cafe connoisseur would I be?
+
+2013
+02:05:21,200 --> 02:05:21,440
+Huh?
+
+2014
+02:05:24,220 --> 02:05:25,980
+Their fried pickles are pretty good.
+
+2015
+02:05:26,580 --> 02:05:28,040
+See, I love fried pickles.
+
+2016
+02:05:28,220 --> 02:05:30,420
+You're already selling it to me.
+
+2017
+02:05:32,320 --> 02:05:34,280
+You are already selling it to me.
+
+2018
+02:05:36,680 --> 02:05:39,160
+That's like insane gotcha look right there.
+
+2019
+02:05:42,780 --> 02:05:44,140
+Oh, man.
+
+2020
+02:05:50,320 --> 02:05:52,140
+Now you have to go for work.
+
+2021
+02:05:52,720 --> 02:05:54,660
+It's market research, everybody.
+
+2022
+02:05:56,200 --> 02:05:58,380
+Peppergun, welcome to Vemboosh.
+
+2023
+02:05:58,400 --> 02:05:58,880
+ship.
+
+2024
+02:05:59,080 --> 02:05:59,640
+Thank you.
+
+2025
+02:05:59,780 --> 02:06:00,620
+Thank you.
+
+2026
+02:06:04,300 --> 02:06:07,460
+I don't think Mint would fit in their uniforms.
+
+2027
+02:06:07,980 --> 02:06:11,380
+This is kind of a Hooter's uniform, is it no?
+
+2028
+02:06:14,060 --> 02:06:15,140
+Kind of.
+
+2029
+02:06:15,940 --> 02:06:16,600
+Maybe.
+
+2030
+02:06:17,900 --> 02:06:21,200
+Don't they wear like a tank top and shorts?
+
+2031
+02:06:33,450 --> 02:06:34,510
+Minus the Hooters.
+
+2032
+02:06:35,410 --> 02:06:50,270
+Sorry, I don't have birds in my room oh my gosh we're
+shaming me i own cats and not birds i'm sorry we all deserve
+
+2033
+02:06:50,270 --> 02:07:00,150
+a short stack queen in our life yeah could you make it a
+vlog about it like the other mid cafe me vlogging my first
+
+2034
+02:07:00,150 --> 02:07:09,590
+time at pooters the american mid cafe Do you think if I
+asked them to bless my food, they would?
+
+2035
+02:07:10,650 --> 02:07:12,930
+Hooters, Minto collab when we'd all go.
+
+2036
+02:07:15,690 --> 02:07:17,370
+Minto needs to get a gray parrot.
+
+2037
+02:07:17,670 --> 02:07:18,870
+I need to get my own Apollo.
+
+2038
+02:07:19,470 --> 02:07:27,330
+I've heard from parrot owners that like, parrots are, like,
+because I've thought about it, like I love watching parrot
+
+2039
+02:07:27,330 --> 02:07:33,470
+videos, but I think it's similar to like, you know, you
+watch a baby video and you're like, ah, but that doesn't
+
+2040
+02:07:33,470 --> 02:07:39,530
+necessarily mean mean you want the baby you know what i mean
+so i've watched parrot videos and i'm like ah maybe i want a
+
+2041
+02:07:39,530 --> 02:07:46,390
+parrot and then i hear that they are just like toddlers like
+they are they are so much work and be ready for all your
+
+2042
+02:07:46,390 --> 02:07:55,730
+things to be chewed on and all the noise and all the mess
+and everything and they live forever like twin peaks is kind
+
+2043
+02:07:55,730 --> 02:08:02,150
+of hooters but more flannel wait that's even better i love
+flannel jean short shorts as i recall went for a work lunch
+
+2044
+02:08:02,150 --> 02:08:06,690
+once we just got all Billy with my Catholic good boy
+co-worker.
+
+2045
+02:08:07,050 --> 02:08:08,530
+What is so awkward?
+
+2046
+02:08:09,870 --> 02:08:11,170
+They can touch you?
+
+2047
+02:08:12,810 --> 02:08:14,950
+Did you gain a tale in your afterlife journey?
+
+2048
+02:08:17,070 --> 02:08:18,410
+What do you mean by that?
+
+2049
+02:08:21,930 --> 02:08:23,230
+Go to Twin Peaks.
+
+2050
+02:08:23,350 --> 02:08:25,190
+Maybe I should go to Twin Peaks instead, then.
+
+2051
+02:08:28,750 --> 02:08:31,530
+They're loud, smart, social, and needy.
+
+2052
+02:08:31,650 --> 02:08:33,570
+Wait, needy is so cute, though.
+
+2053
+02:08:35,530 --> 02:08:37,430
+attacking my PC mouse.
+
+2054
+02:08:38,990 --> 02:08:46,530
+I want one so badly, but at the same time, I think with the
+way that I stream for like long hours, it might be kind of
+
+2055
+02:08:46,530 --> 02:08:47,030
+difficult.
+
+2056
+02:08:47,710 --> 02:08:54,130
+Unless I had like my parrot in my room and like you could
+hear him or something.
+
+2057
+02:08:54,910 --> 02:08:55,930
+Cats are so easy.
+
+2058
+02:08:56,130 --> 02:09:01,190
+They're very self-reliant,
+
+2059
+02:09:04,410 --> 02:09:07,510
+it would be so I would be playing and you just hear
+
+2060
+02:09:11,430 --> 02:09:15,370
+Bredded dragon You mean a bearded dragon?
+
+2061
+02:09:17,950 --> 02:09:29,810
+I want a bearded dragon so badly I used to have a leopard
+gecko and then my teacher when I was in elementary school
+
+2062
+02:09:30,050 --> 02:09:41,950
+elementary school for you humans the over the holidays she
+would let you take home the bearded dragon and so I got to
+
+2063
+02:09:41,950 --> 02:09:54,490
+take him home for Christmas once and and I I I dressed him
+up in like as like a Santa Claus and everything it was so
+
+2064
+02:09:54,490 --> 02:10:01,450
+good my family have a great parrot he's a unique member of
+the family but he is a lot of work a lot of noise and he
+
+2065
+02:10:01,450 --> 02:10:03,850
+bites They also need a lot of company.
+
+2066
+02:10:04,330 --> 02:10:05,910
+Oh, this sounds so fun.
+
+2067
+02:10:06,030 --> 02:10:06,370
+I know.
+
+2068
+02:10:06,710 --> 02:10:09,030
+They're like, it sounds so great.
+
+2069
+02:10:10,150 --> 02:10:11,890
+And like the videos are so cute.
+
+2070
+02:10:12,030 --> 02:10:13,830
+And then you're just like, there's so much work.
+
+2071
+02:10:14,310 --> 02:10:16,070
+They are very much, much work.
+
+2072
+02:10:16,390 --> 02:10:18,870
+And like, like I love there's this one bird that I watch
+sometimes.
+
+2073
+02:10:18,990 --> 02:10:26,430
+I can't remember his name, but he loves to go into the
+cabinet of like where they keep the cups and stuff.
+
+2074
+02:10:26,550 --> 02:10:29,270
+And they only have plastic cups because of this bird.
+
+2075
+02:10:31,930 --> 02:10:38,750
+to knock them all outside of like he likes to like throw
+them on the ground essentially and they're like but but he
+
+2076
+02:10:38,750 --> 02:10:49,050
+gets the most satisfaction when the when his parents like
+act like it's a bad thing so he'll like be he'll be pushing
+
+2077
+02:10:49,050 --> 02:10:57,170
+the cups out of the cabinet and they're like oh my gosh
+don't Oh my gosh!
+
+2078
+02:10:57,310 --> 02:11:02,450
+And he's just like, and he'll go and knock another one out.
+
+2079
+02:11:03,610 --> 02:11:04,690
+My name is Mito Phantom.
+
+2080
+02:11:05,230 --> 02:11:05,930
+I'm a meadow.
+
+2081
+02:11:08,310 --> 02:11:10,070
+I got to take home a class.
+
+2082
+02:11:10,370 --> 02:11:12,410
+Tarantula over the summer!
+
+2083
+02:11:13,850 --> 02:11:15,330
+I want to do.
+
+2084
+02:11:17,990 --> 02:11:21,950
+You say cats are easy, but I just moved house and my cat has
+been glued to me for days.
+
+2085
+02:11:23,650 --> 02:11:25,870
+Okay, I have to confess something a little bit.
+
+2086
+02:11:25,890 --> 02:11:26,090
+it.
+
+2087
+02:11:26,930 --> 02:11:28,450
+I have to confess a little bit.
+
+2088
+02:11:29,510 --> 02:11:34,030
+Today I started stream a half hour later than I was supposed
+to, than I intended.
+
+2089
+02:11:35,350 --> 02:11:38,250
+Before then, my migraine was coming back a little bit, so I
+took a nap.
+
+2090
+02:11:39,070 --> 02:11:43,130
+And when I woke up, my cat paused.
+
+2091
+02:11:43,890 --> 02:11:45,550
+She never cuddles with me.
+
+2092
+02:11:46,230 --> 02:11:49,250
+And she cuddled up by my leg.
+
+2093
+02:11:51,130 --> 02:11:53,970
+And so I wanted to stay in bed for a little bit longer.
+
+2094
+02:11:57,090 --> 02:12:03,750
+And I couldn't move And so I just wanted to stay with my cat
+
+2095
+02:12:07,330 --> 02:12:21,210
+I wanted to stay with my cat Because she never cuddles with
+me 100% forgiven I was so I can't even explain to you guys
+
+2096
+02:12:21,210 --> 02:12:29,070
+how happy I was I was like no way She's She's Because she
+jumped up on the bed, and I kind of was like, come here,
+
+2097
+02:12:29,070 --> 02:12:29,650
+come here.
+
+2098
+02:12:29,990 --> 02:12:31,690
+And then she actually listened.
+
+2099
+02:12:31,870 --> 02:12:32,630
+She's very...
+
+2100
+02:12:32,630 --> 02:12:34,430
+Oh, that was my controller disconnecting, sorry.
+
+2101
+02:12:34,870 --> 02:12:35,630
+Totally worse.
+
+2102
+02:12:41,660 --> 02:12:42,780
+Yeah, so...
+
+2103
+02:12:44,240 --> 02:12:46,180
+I was so happy.
+
+2104
+02:12:47,980 --> 02:12:49,940
+Is it you that had a cat you regret getting?
+
+2105
+02:12:50,620 --> 02:12:50,920
+No.
+
+2106
+02:12:52,720 --> 02:12:54,200
+Sounds like someone else.
+
+2107
+02:12:54,480 --> 02:12:55,300
+Not guilty.
+
+2108
+02:12:57,560 --> 02:12:58,680
+Did that carrier...
+
+2109
+02:12:58,700 --> 02:13:09,760
+migraine you know i think it did mostly mostly i would have
+been mad if you had moved i was so happy that she just came
+
+2110
+02:13:09,760 --> 02:13:18,860
+to to snook with me i was like oh my gosh oh my gosh this
+never happens any i've been trying to get her to like
+
+2111
+02:13:18,860 --> 02:13:33,560
+because she really loves my roommate and she does not love
+me she's my cat but she's always like sitting with my
+
+2112
+02:13:33,560 --> 02:13:49,760
+roommate and so i was like okay maybe i can get her to sit
+with me more please please love me love me oh well
+
+2113
+02:13:53,820 --> 02:13:56,900
+bear sundere like that i guess that's true.
+
+2114
+02:13:57,800 --> 02:13:59,280
+Have you tried eating catnip?
+
+2115
+02:13:59,420 --> 02:13:59,800
+Like me?
+
+2116
+02:13:59,960 --> 02:14:00,820
+Eat the catnip!
+
+2117
+02:14:04,760 --> 02:14:05,080
+No.
+
+2118
+02:14:06,000 --> 02:14:07,480
+What does catnip taste like?
+
+2119
+02:14:07,620 --> 02:14:09,340
+I mean, probably just like grass, right?
+
+2120
+02:14:10,840 --> 02:14:11,800
+Dried grass?
+
+2121
+02:14:13,880 --> 02:14:15,640
+I haven't eaten grass once.
+
+2122
+02:14:15,760 --> 02:14:16,520
+It's not good.
+
+2123
+02:14:20,350 --> 02:14:23,350
+Isn't that one of those bamboozled flavors is grass?
+
+2124
+02:14:26,370 --> 02:14:27,710
+That game is evil.
+
+2125
+02:14:28,150 --> 02:14:38,390
+Have you heard of like some of the flavors that game has
+it's like it's like they have like dirty bandage nasty minto
+
+2126
+02:14:38,390 --> 02:14:53,230
+you are not the favorite i know and it hurts it hurts they
+have terrible it's got barf yeah it's so gross i had the
+
+2127
+02:14:53,230 --> 02:15:02,510
+spoiled milk one ew oh it's so just the name enough was to
+make me gack i'd Like, dirty bandage is, like, foul.
+
+2128
+02:15:02,990 --> 02:15:04,070
+That's horrible.
+
+2129
+02:15:04,890 --> 02:15:06,030
+Oh, yeah, used bandage.
+
+2130
+02:15:07,690 --> 02:15:08,810
+Used bandage.
+
+2131
+02:15:09,110 --> 02:15:09,630
+That's foul.
+
+2132
+02:15:09,850 --> 02:15:11,030
+Who's coming up with this?
+
+2133
+02:15:11,970 --> 02:15:13,330
+Rip to the taste testers.
+
+2134
+02:15:13,570 --> 02:15:14,210
+Oh, my God.
+
+2135
+02:15:14,570 --> 02:15:15,750
+What do they put in there?
+
+2136
+02:15:15,850 --> 02:15:20,530
+Like, oh, my God, I just opened up my phone and it was Keanu
+Reeves' real name.
+
+2137
+02:15:20,850 --> 02:15:21,170
+Let's see.
+
+2138
+02:15:22,050 --> 02:15:23,490
+Bean boozled.
+
+2139
+02:15:26,790 --> 02:15:27,250
+Let's see.
+
+2140
+02:15:27,890 --> 02:15:29,030
+Liver and onions.
+
+2141
+02:15:29,850 --> 02:15:32,670
+looks the same as cappuccino.
+
+2142
+02:15:34,070 --> 02:15:36,890
+Old bandage looks the same as pomegranate.
+
+2143
+02:15:37,790 --> 02:15:40,690
+Rotten egg looks the same as buttered popcorn.
+
+2144
+02:15:41,890 --> 02:15:44,230
+Toothpaste, that one's not bad, that's just minty.
+
+2145
+02:15:44,750 --> 02:15:46,530
+Looks the same as berry blue.
+
+2146
+02:15:47,870 --> 02:15:48,070
+What?
+
+2147
+02:15:48,610 --> 02:15:49,670
+Toothpaste isn't bad.
+
+2148
+02:15:50,210 --> 02:15:53,170
+You literally have to stick that in your mouth to brush your
+teeth.
+
+2149
+02:15:55,250 --> 02:15:56,830
+Popcorn is also bad.
+
+2150
+02:15:56,830 --> 02:16:02,290
+I think the buttered, probably the like fake buttered flavor
+might make me feel sick.
+
+2151
+02:16:02,770 --> 02:16:05,570
+I kind of want to know how people know what old bandages
+taste like.
+
+2152
+02:16:06,610 --> 02:16:11,870
+And the fact that the old bandage bean boozle, like the
+little bean, is red.
+
+2153
+02:16:12,190 --> 02:16:13,250
+It's so disgusting.
+
+2154
+02:16:15,310 --> 02:16:17,030
+Barf looks the same as peach.
+
+2155
+02:16:17,790 --> 02:16:20,870
+Stink bug looks the same as toasted marshmallow.
+
+2156
+02:16:22,390 --> 02:16:24,170
+Bougar looks the same as juicy pear.
+
+2157
+02:16:25,230 --> 02:16:26,270
+Dirty dishwasher.
+
+2158
+02:16:26,830 --> 02:16:29,210
+Looks the same as a birthday cake.
+
+2159
+02:16:30,210 --> 02:16:32,290
+Stinky socks looks the same as Toothie Fruity.
+
+2160
+02:16:32,890 --> 02:16:34,070
+And dead fish.
+
+2161
+02:16:35,070 --> 02:16:38,470
+Looks the same as strawberry banana smoothie.
+
+2162
+02:16:40,330 --> 02:16:43,510
+And you know the worst part about this image that I'm
+looking at?
+
+2163
+02:16:44,390 --> 02:16:49,710
+The very bottom says, naturally and artificially flavored.
+
+2164
+02:16:50,570 --> 02:16:52,970
+Which means some of these are naturally flavored.
+
+2165
+02:16:54,510 --> 02:16:56,190
+They don't say which ones.
+
+2166
+02:16:57,370 --> 02:17:01,920
+Sure, you could assume that it's just the yummy flavors,
+but...
+
+2167
+02:17:06,450 --> 02:17:07,070
+But...
+
+2168
+02:17:07,070 --> 02:17:09,090
+What if...
+
+2169
+02:17:09,970 --> 02:17:12,250
+What would your gross flavor creation be?
+
+2170
+02:17:12,390 --> 02:17:14,990
+I think I'd go for mysterious shower drain clump.
+
+2171
+02:17:15,390 --> 02:17:15,770
+Eww!
+
+2172
+02:17:17,090 --> 02:17:18,330
+That's disgusting.
+
+2173
+02:17:19,850 --> 02:17:21,830
+I don't even want to think about it.
+
+2174
+02:17:21,870 --> 02:17:22,990
+It makes me gag.
+
+2175
+02:17:24,370 --> 02:17:25,970
+It's so horrible.
+
+2176
+02:17:30,610 --> 02:17:32,210
+Spoiled milk
+
+2177
+02:17:35,230 --> 02:17:45,150
+Sewer right Maybe I would do like Bottom of a shoe or
+something like that Where it's gross But like the name
+
+2178
+02:17:45,150 --> 02:17:49,610
+itself doesn't make me Doesn't make me shiver
+
+2179
+02:17:53,090 --> 02:17:58,370
+Ectoplasm Hey That's delicious What are you talking about?
+
+2180
+02:18:03,630 --> 02:18:04,910
+Ectoplasmic spire.
+
+2181
+02:18:06,630 --> 02:18:07,870
+Shoes aren't that dirty.
+
+2182
+02:18:08,510 --> 02:18:08,710
+Uh-oh.
+
+2183
+02:18:09,390 --> 02:18:10,610
+I don't know about that.
+
+2184
+02:18:12,290 --> 02:18:12,970
+Maybe...
+
+2185
+02:18:12,970 --> 02:18:17,010
+Just take one walk down the sidewalk of New York City.
+
+2186
+02:18:17,790 --> 02:18:20,250
+And then say your shoes aren't that disgusting.
+
+2187
+02:18:25,370 --> 02:18:26,810
+Seattle Gum Walk.
+
+2188
+02:18:26,830 --> 02:18:28,010
+What is that?
+
+2189
+02:18:28,150 --> 02:18:29,170
+Is that famous?
+
+2190
+02:18:31,790 --> 02:18:32,310
+Ectoplasm.
+
+2191
+02:18:32,570 --> 02:18:37,170
+Do you clean your shoes?
+
+2192
+02:18:37,790 --> 02:18:38,590
+I don't think so.
+
+2193
+02:18:38,850 --> 02:18:39,030
+No.
+
+2194
+02:18:39,850 --> 02:18:42,250
+I mean, I wipe them off before I go into the main cafe.
+
+2195
+02:18:43,230 --> 02:18:44,390
+And I take them off.
+
+2196
+02:18:45,590 --> 02:18:46,450
+Once I'm inside.
+
+2197
+02:18:48,390 --> 02:18:48,910
+So...
+
+2198
+02:18:49,650 --> 02:18:51,730
+People lick the Seattle gum wall.
+
+2199
+02:18:52,010 --> 02:18:53,510
+What is the Seattle gum wall?
+
+2200
+02:18:56,830 --> 02:19:03,610
+Google, Seattle, Seattle, Seattle, I can't type, Seattle
+Gumwall.
+
+2201
+02:19:07,190 --> 02:19:07,550
+Holy!
+
+2202
+02:19:08,310 --> 02:19:09,950
+Oh my god!
+
+2203
+02:19:23,030 --> 02:19:24,930
+Why does this exist?
+
+2204
+02:19:28,590 --> 02:19:30,290
+What the hell?
+
+2205
+02:19:34,680 --> 02:19:37,700
+It kind of reminds me of how, like, people kiss Marilyn
+Monroe.
+
+2206
+02:19:37,720 --> 02:19:43,440
+Monroe's grave, which I'm like so many people are, are
+kissing that thing.
+
+2207
+02:19:44,000 --> 02:19:44,880
+You're gonna get something.
+
+2208
+02:19:46,240 --> 02:19:48,500
+I'm so sorry, Minta didn't mean to teach you this.
+
+2209
+02:19:49,600 --> 02:19:51,120
+Why is this like a tradition?
+
+2210
+02:19:51,760 --> 02:19:52,920
+Why does that have to be gum?
+
+2211
+02:19:54,280 --> 02:19:57,960
+Why can't it be the Seattle gum wrapper wall?
+
+2212
+02:19:58,220 --> 02:20:01,380
+Like, it doesn't have to be actual gum.
+
+2213
+02:20:01,660 --> 02:20:02,740
+It could be the wrapper.
+
+2214
+02:20:03,220 --> 02:20:04,340
+That would be even prettier.
+
+2215
+02:20:08,080 --> 02:20:08,560
+Eww!
+
+2216
+02:20:12,350 --> 02:20:14,670
+We just had the damn wall cleaned up too.
+
+2217
+02:20:16,350 --> 02:20:18,750
+What about kissing the blarney stone?
+
+2218
+02:20:19,530 --> 02:20:21,530
+That's in, uh, what's it called?
+
+2219
+02:20:22,430 --> 02:20:23,210
+Ireland, right?
+
+2220
+02:20:24,170 --> 02:20:27,010
+What is, that gives you luck supposed to, right?
+
+2221
+02:20:27,770 --> 02:20:28,610
+Blarney stone.
+
+2222
+02:20:28,730 --> 02:20:29,310
+I heard, I, wait.
+
+2223
+02:20:32,770 --> 02:20:35,270
+I've heard, I've seen that it's like really small.
+
+2224
+02:20:36,070 --> 02:20:39,550
+Or something like, you have to, or rather you have to do
+something really small.
+
+2225
+02:20:39,570 --> 02:20:51,590
+strange for it like don't they like hang you off a side of a
+cliff or something like as an irish man it does in fact give
+
+2226
+02:20:51,590 --> 02:21:07,850
+luck and something else you have to lean backwards too many
+kisses wearing it out over the years so if you got too many
+
+2227
+02:21:07,850 --> 02:21:13,490
+kisses would your lips fall off would your lips disappear
+
+2228
+02:21:18,030 --> 02:21:28,930
+my friend did that when he went to ireland i would never
+let's test it you want to try it regrows oh okay humans are
+
+2229
+02:21:28,930 --> 02:21:35,390
+like lizards that's the best good good
+
+2230
+02:21:39,570 --> 02:21:41,830
+Did you answer this after all the kissing practice?
+
+2231
+02:21:42,010 --> 02:21:43,670
+Okay, it was only a couple times.
+
+2232
+02:21:44,350 --> 02:21:45,930
+How many times...
+
+2233
+02:21:45,930 --> 02:21:47,590
+That should be a Mythbusters episode.
+
+2234
+02:21:48,070 --> 02:21:49,910
+Bring back Mythbusters so we can see.
+
+2235
+02:21:50,230 --> 02:21:55,750
+How many times do you have to be kissed for your lips to
+fall off?
+
+2236
+02:21:56,630 --> 02:21:59,010
+Supposed to give the gift of gab.
+
+2237
+02:21:59,530 --> 02:22:00,430
+What is the gift of gab?
+
+2238
+02:22:01,010 --> 02:22:03,670
+But yeah, you lie down and slide over the edge a bit.
+
+2239
+02:22:04,010 --> 02:22:04,970
+Really not that scary.
+
+2240
+02:22:05,110 --> 02:22:05,350
+Been there.
+
+2241
+02:22:05,450 --> 02:22:06,850
+You did it!
+
+2242
+02:22:14,400 --> 02:22:15,980
+It's not really a myth, Minkid.
+
+2243
+02:22:16,340 --> 02:22:18,200
+Oh, it's science.
+
+2244
+02:22:18,620 --> 02:22:27,180
+Okay, well, I'm gonna make my own show called Science
+Experiments.
+
+2245
+02:22:28,360 --> 02:22:29,080
+Explorers.
+
+2246
+02:22:29,620 --> 02:22:38,340
+Explorers of science, the experiments that are, they could
+be myths, but they're not.
+
+2247
+02:22:39,560 --> 02:22:41,500
+But we still bust them.
+
+2248
+02:22:47,810 --> 02:22:49,190
+That's the full title.
+
+2249
+02:22:49,510 --> 02:22:51,090
+It's actually a light novel.
+
+2250
+02:22:51,350 --> 02:22:53,250
+It will be turned into an anime next season.
+
+2251
+02:22:53,610 --> 02:22:54,950
+Please watch my...
+
+2252
+02:22:54,950 --> 02:22:56,450
+Please watch my show.
+
+2253
+02:23:00,130 --> 02:23:02,090
+Please watch my show.
+
+2254
+02:23:04,830 --> 02:23:07,230
+Spectral Science featuring Mint Phantom.
+
+2255
+02:23:07,890 --> 02:23:10,370
+Hey, stop trying to workshop my name here, okay?
+
+2256
+02:23:11,570 --> 02:23:12,430
+Of course...
+
+2257
+02:23:12,430 --> 02:23:13,630
+Wait, what was the name again?
+
+2258
+02:23:14,190 --> 02:23:14,790
+Uh...
+
+2259
+02:23:16,050 --> 02:23:16,610
+What was it?
+
+2260
+02:23:16,970 --> 02:23:18,130
+What did we call it?
+
+2261
+02:23:20,230 --> 02:23:21,090
+Spectral... Wait, no.
+
+2262
+02:23:21,270 --> 02:23:22,230
+That wasn't Spectral Science.
+
+2263
+02:23:22,390 --> 02:23:22,870
+That's the fault.
+
+2264
+02:23:23,030 --> 02:23:24,950
+That's the knockoff show.
+
+2265
+02:23:25,830 --> 02:23:28,250
+The one that really rolls off the tongue well.
+
+2266
+02:23:31,110 --> 02:23:34,050
+Make a show where they break all the bad theories.
+
+2267
+02:23:34,370 --> 02:23:34,990
+Oh my gosh!
+
+2268
+02:23:35,070 --> 02:23:38,010
+I heard something recently that, like...
+
+2269
+02:23:38,810 --> 02:23:40,730
+There's a... There's a bean.
+
+2270
+02:23:41,190 --> 02:23:45,610
+There's a bean in Breaking Bad that, like, they used to
+poison...
+
+2271
+02:23:46,050 --> 02:23:49,150
+They were trying to poison somebody with the bean.
+
+2272
+02:23:50,630 --> 02:23:52,670
+And apparently people...
+
+2273
+02:23:52,670 --> 02:23:54,890
+It does not work that way in real life.
+
+2274
+02:23:55,030 --> 02:23:56,930
+But apparently people...
+
+2275
+02:23:56,930 --> 02:23:57,790
+Yeah, the ricin.
+
+2276
+02:23:58,150 --> 02:23:58,790
+The ricin.
+
+2277
+02:23:59,130 --> 02:24:03,590
+People were trying it in real life to poison people with the
+bean.
+
+2278
+02:24:05,090 --> 02:24:05,910
+And it didn't work.
+
+2279
+02:24:07,090 --> 02:24:07,670
+Because...
+
+2280
+02:24:07,670 --> 02:24:08,330
+It's...
+
+2281
+02:24:09,150 --> 02:24:09,730
+It's...
+
+2282
+02:24:09,730 --> 02:24:10,670
+Hollywood, baby.
+
+2283
+02:24:10,950 --> 02:24:12,490
+It's all dramatized.
+
+2284
+02:24:13,690 --> 02:24:14,770
+Death by bean.
+
+2285
+02:24:15,570 --> 02:24:15,770
+Oh!
+
+2286
+02:24:16,050 --> 02:24:16,410
+Sorry.
+
+2287
+02:24:20,010 --> 02:24:20,730
+Sorry.
+
+2288
+02:24:23,390 --> 02:24:25,390
+Testing myths and science in another world?
+
+2289
+02:24:27,290 --> 02:24:29,810
+Maybe we go to Breaking Bad World.
+
+2290
+02:24:32,970 --> 02:24:34,530
+Thankfully it doesn't work.
+
+2291
+02:24:34,830 --> 02:24:42,430
+Yeah, that's why you should never show someone how to
+actually make a bomb or actually poison someone on TV
+
+2292
+02:24:42,430 --> 02:24:44,370
+because people are gonna try it.
+
+2293
+02:24:44,370 --> 02:24:47,750
+They were like, Breaking Bad is so realistic.
+
+2294
+02:24:48,530 --> 02:24:50,390
+The Ryzen, it's gotta work.
+
+2295
+02:24:50,850 --> 02:24:52,410
+That Ryzen Bane.
+
+2296
+02:24:59,630 --> 02:25:01,850
+In the Saul Gumblin verse.
+
+2297
+02:25:07,640 --> 02:25:09,800
+Don't watch Dr. Stone then.
+
+2298
+02:25:11,160 --> 02:25:12,080
+Do they really?
+
+2299
+02:25:13,880 --> 02:25:15,500
+They tell you how?
+
+2300
+02:25:16,420 --> 02:25:19,820
+Rice and bean, rice and bean.
+
+2301
+02:25:20,540 --> 02:25:22,040
+Wait, that sounds kind of good.
+
+2302
+02:25:22,200 --> 02:25:23,780
+I want some rice and beans right now.
+
+2303
+02:25:29,190 --> 02:25:32,510
+You gotta watch the Breaking Bad Mythbusters episodes.
+
+2304
+02:25:32,790 --> 02:25:34,950
+They actually tell you how to dissolve a human body.
+
+2305
+02:25:35,290 --> 02:25:35,930
+Wait, is that real?
+
+2306
+02:25:44,180 --> 02:25:44,860
+That's real?
+
+2307
+02:25:45,960 --> 02:25:46,560
+It's real.
+
+2308
+02:25:47,320 --> 02:25:49,340
+Don't accept beans from strangers, people.
+
+2309
+02:25:49,520 --> 02:25:51,100
+Yeah, it could be bean boozled.
+
+2310
+02:25:51,520 --> 02:25:53,260
+And you could be getting...
+
+2311
+02:25:55,580 --> 02:25:57,800
+You could be getting stink bug.
+
+2312
+02:25:59,200 --> 02:26:01,880
+You could think that it's delicious toasting marshmallow.
+
+2313
+02:26:02,240 --> 02:26:04,700
+But no, it's stink bug.
+
+2314
+02:26:05,640 --> 02:26:07,520
+You just got bean boozled.
+
+2315
+02:26:10,100 --> 02:26:11,640
+Minto love yippee.
+
+2316
+02:26:12,520 --> 02:26:13,240
+Thank you.
+
+2317
+02:26:13,320 --> 02:26:15,160
+Thank you so much for four months.
+
+2318
+02:26:17,120 --> 02:26:18,700
+Who is Alan Wake?
+
+2319
+02:26:18,960 --> 02:26:19,840
+He's an author.
+
+2320
+02:26:22,060 --> 02:26:24,120
+Honestly, I want to play more already.
+
+2321
+02:26:25,380 --> 02:26:38,640
+but I will resist I will resist until next week obviously
+he's a writer what did I say did I say author my bad I I
+
+2322
+02:26:38,640 --> 02:26:41,880
+elevated his title
+
+2323
+02:26:48,780 --> 02:26:56,940
+author but he specifically says writer I'm a writer I take
+out I'm a yapper.
+
+2324
+02:26:58,240 --> 02:26:59,260
+I could say talker.
+
+2325
+02:27:03,880 --> 02:27:05,180
+Oh my goodness.
+
+2326
+02:27:06,820 --> 02:27:09,580
+Happy New Year, me and dog.
+
+2327
+02:27:09,700 --> 02:27:10,780
+Here's to another year of fun.
+
+2328
+02:27:11,140 --> 02:27:13,460
+Chris, thank you so much for 20 months.
+
+2329
+02:27:13,640 --> 02:27:14,320
+Thank you.
+
+2330
+02:27:16,220 --> 02:27:17,440
+Happy New Year.
+
+2331
+02:27:17,940 --> 02:27:19,920
+Can't believe they made a berry-flavored bean.
+
+2332
+02:27:21,400 --> 02:27:22,040
+Why would it...
+
+2333
+02:27:22,040 --> 02:27:23,060
+Oh, the stink bug?
+
+2334
+02:27:23,280 --> 02:27:23,820
+Oh, yeah.
+
+2335
+02:27:24,600 --> 02:27:25,040
+Nasty.
+
+2336
+02:27:27,880 --> 02:27:29,800
+A virtual tuber.
+
+2337
+02:27:31,540 --> 02:27:33,980
+I'm stuck here in the virtual world.
+
+2338
+02:27:34,480 --> 02:27:35,580
+I'm stuck in the virtual.
+
+2339
+02:27:37,400 --> 02:27:38,660
+What is real?
+
+2340
+02:27:40,180 --> 02:27:42,260
+Is my wife still even here?
+
+2341
+02:27:43,400 --> 02:27:45,320
+I'm already so immersed in the story.
+
+2342
+02:27:45,460 --> 02:27:46,120
+I want to keep playing.
+
+2343
+02:27:47,880 --> 02:27:49,380
+But for now, I will.
+
+2344
+02:27:50,340 --> 02:27:52,620
+I will leave you all here.
+
+2345
+02:27:53,000 --> 02:27:55,020
+Thank you guys for hanging out with me.
+
+2346
+02:27:55,160 --> 02:27:56,420
+I really, really appreciate it.
+
+2347
+02:27:57,040 --> 02:28:04,380
+It was a bit of a shorter stream today, but Happy New Year
+Minto and y'all Happy New Year for all good Thank you for
+
+2348
+02:28:04,380 --> 02:28:16,020
+four months Thank you so much I just joined Oh my gosh,
+there's a phrase for that In Japanese So when they say like
+
+2349
+02:28:16,020 --> 02:28:26,920
+The stream is over Or you can use it at like shows and stuff
+too But it's like the This is the last song Stuff like that
+
+2350
+02:28:27,040 --> 02:28:28,920
+You say, KITABAKARI!
+
+2351
+02:28:29,380 --> 02:28:31,680
+Which means like, I just got here!
+
+2352
+02:28:34,080 --> 02:28:34,560
+KITABAKARI!
+
+2353
+02:28:39,530 --> 02:28:40,010
+So...
+
+2354
+02:28:40,010 --> 02:28:40,470
+Yeah.
+
+2355
+02:28:40,970 --> 02:28:41,570
+Thanks for the stream.
+
+2356
+02:28:41,730 --> 02:28:44,090
+Make sure to drink some tea or coffee so you're wide awake.
+
+2357
+02:28:44,990 --> 02:28:48,590
+Wait, so you're wide-eyed and awake for the collab.
+
+2358
+02:28:48,750 --> 02:28:49,390
+See you in the next.
+
+2359
+02:28:49,610 --> 02:28:50,270
+Thanks, Argo!
+
+2360
+02:28:52,370 --> 02:28:53,390
+Yeah, I need some...
+
+2361
+02:28:53,390 --> 02:28:54,250
+I need some...
+
+2362
+02:28:54,250 --> 02:28:54,770
+Some...
+
+2363
+02:28:54,770 --> 02:28:56,150
+Some drink for my throat.
+
+2364
+02:28:59,850 --> 02:29:00,370
+Kitabakari!
+
+2365
+02:29:02,790 --> 02:29:06,090
+Is the Tensetsu BC's quiz over custody of Barry?
+
+2366
+02:29:06,390 --> 02:29:07,270
+Or reverse custody?
+
+2367
+02:29:07,750 --> 02:29:08,910
+Your turn to take the Barry.
+
+2368
+02:29:10,530 --> 02:29:14,250
+What if Barry and I leave our respective groups and elope?
+
+2369
+02:29:20,110 --> 02:29:21,790
+Nerala, thank you for the pink!
+
+2370
+02:29:22,710 --> 02:29:29,870
+Close your eyes for a second and imagine a swarm slash pack
+slash school of Aibu is rushing to hug you and You hugs us
+
+2371
+02:29:29,870 --> 02:29:30,410
+all.
+
+2372
+02:29:33,130 --> 02:29:35,270
+Oh my god, there's so many of you.
+
+2373
+02:29:35,530 --> 02:29:36,550
+Oh my god, it's terrifying.
+
+2374
+02:29:36,830 --> 02:29:37,770
+Oh my god, stay back.
+
+2375
+02:29:38,810 --> 02:29:39,990
+It's a hug.
+
+2376
+02:29:40,630 --> 02:29:42,070
+Ah, you're so squishy.
+
+2377
+02:29:42,610 --> 02:29:44,850
+Oh god, there's too many of you.
+
+2378
+02:29:46,190 --> 02:29:47,050
+I'm drowning.
+
+2379
+02:29:54,530 --> 02:29:55,850
+I'm dead now.
+
+2380
+02:30:03,880 --> 02:30:08,260
+How do you drown a ghost with a bunch of other ghosts,
+maybe?
+
+2381
+02:30:13,720 --> 02:30:16,160
+Anyway, that was silly.
+
+2382
+02:30:24,800 --> 02:30:25,320
+Hello, wife!
+
+2383
+02:30:25,440 --> 02:30:26,660
+Hello, that's cool!
+
+2384
+02:30:27,240 --> 02:30:29,620
+Hello, hello, wife.
+
+2385
+02:30:29,780 --> 02:30:31,060
+Hello, hello, wife.
+
+2386
+02:30:35,180 --> 02:30:43,060
+much for hanging out with me today i can't wait to continue
+more alan wake next time just get ibu in your mouth yeah
+
+2387
+02:30:43,060 --> 02:30:53,340
+they were so gummy um gummy a swarm of hungry ibu's can
+strip a cow of its flesh in less than 15 seconds making them
+
+2388
+02:30:53,340 --> 02:31:01,380
+the fourth fastest swarm predator on the planet yeah they go
+around they're like like a cartoon it's like like that and
+
+2389
+02:31:01,380 --> 02:31:06,420
+they like swarm it and just devour in 15 seconds It's really
+impressive.
+
+2390
+02:31:08,720 --> 02:31:09,280
+What's up, everybody?
+
+2391
+02:31:09,680 --> 02:31:10,300
+What's up, everybody?
+
+2392
+02:31:10,520 --> 02:31:11,100
+What's up, everybody?
+
+2393
+02:31:11,700 --> 02:31:12,820
+I'll see you when I see you next.
+
+2394
+02:31:13,240 --> 02:31:14,520
+There is a collab tonight.
+
+2395
+02:31:14,940 --> 02:31:16,580
+So if I see you there, then I'll see you there.
+
+2396
+02:31:16,740 --> 02:31:20,040
+And if not, then I'll see you later.
+
+2397
+02:31:20,820 --> 02:31:21,840
+It's the next time.
+
+2398
+02:31:22,220 --> 02:31:23,340
+Thank you, everybody.
+
+2399
+02:31:23,820 --> 02:31:24,320
+Bye-bye.
+
+2400
+02:31:24,480 --> 02:31:25,560
+Bye-bye-bye-bye-bye.
+
+2401
+02:32:45,760 --> 02:32:48,360
+then and I will not say anything.
+
+2402
+02:32:48,520 --> 02:32:50,460
+Beat to burn on a whole stomach.
+
+2403
+02:32:51,380 --> 02:32:52,420
+Thank you.
+
+2404
+02:32:54,140 --> 02:32:57,180
+Thank you for the spooky Akkadona.
+
+2405
+02:32:57,440 --> 02:33:03,820
+Minkie, Minkie, Minkie, Minkie, Minkie, Minkie, Minkie,
+Minkie, Minkie, Minkie, Minkie Minkie, Minkie, Minkie,
+
+2406
+02:33:03,820 --> 02:33:06,600
+Minkie, Minkie, Minkie, Minkie, Minkie, Minkie, Minkie,
+Minkie, Minkie, Minkie Minkie, Minkie Minkie, Minkie,
+
+2407
+02:33:06,600 --> 02:33:08,220
+Minkie, Minkie.
+
