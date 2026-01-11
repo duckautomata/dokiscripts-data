@@ -1,7348 +1,2927 @@
 1
-00:01:54,260 --> 00:01:56,380
-Oh my god, I'm so sorry!
+00:01:54,520 --> 00:02:04,640
+Oh my god, I'm so sorry Oh, we crash, we crash We're just
+gonna have If we crash, we crash If we have crashes every 15
 
 2
-00:01:59,380 --> 00:02:01,160
-Oh, we crash, we crash.
+00:02:04,640 --> 00:02:14,440
+minutes That's just the way of life It's the Doki life Doki
+Brit has never been lucky I work very hard But sometimes
 
 3
-00:02:01,420 --> 00:02:03,200
-We're just gonna have crash... we crash, we crash.
+00:02:14,440 --> 00:02:24,440
+life just goes Fuck you Never been lucky in life I've
+accepted it.
 
 4
-00:02:03,260 --> 00:02:04,920
-We have crashes every 15 minutes.
+00:02:24,840 --> 00:02:28,540
+I basically, what I, I basically remade everything.
 
 5
-00:02:05,280 --> 00:02:06,900
-That's just the way of life.
-
-6
-00:02:07,080 --> 00:02:07,940
-It's the Doki life.
-
-7
-00:02:08,720 --> 00:02:10,260
-DokiBrit has never been lucky.
-
-8
-00:02:11,360 --> 00:02:16,080
-I work very hard, but sometimes life just goes, fuck you.
-
-9
-00:02:18,980 --> 00:02:21,100
-Never been lucky in life.
-
-10
-00:02:22,800 --> 00:02:24,220
-I've accepted it.
-
-11
-00:02:24,320 --> 00:02:28,160
-I basically what I basically remade everything.
-
-12
-00:02:28,400 --> 00:02:30,060
+00:02:28,720 --> 00:02:30,360
 I had to remake everything.
 
-13
-00:02:30,320 --> 00:02:32,980
+6
+00:02:30,780 --> 00:02:33,140
 I even deleted my old scene collection.
 
-14
-00:02:33,040 --> 00:02:35,540
+7
+00:02:33,300 --> 00:02:36,000
 I deleted my fucking normal streaming collection.
 
-15
-00:02:35,980 --> 00:02:38,720
-Like so because I was just like, oh no, what's going on?
+8
+00:02:36,480 --> 00:02:38,980
+Like, so, cause I was just like, oh no, what's going on?
 
-16
-00:02:38,900 --> 00:02:40,120
-Because it always happens.
+9
+00:02:39,220 --> 00:02:46,120
+Cause it always, it does, I don't know, it does happen very
+off, like not very often, but it's like random.
 
-17
-00:02:40,120 --> 00:02:43,980
-I don't know if this happens very often, like not very often.
+10
+00:02:46,480 --> 00:02:49,700
+If I make a new scene collection, sometimes it works and
+sometimes it doesn't.
 
-18
-00:02:44,040 --> 00:02:45,960
-But it's like random.
-
-19
-00:02:46,080 --> 00:02:49,660
-If I make a new scene collection, sometimes it works and sometimes it doesn't.
-
-20
-00:02:49,660 --> 00:02:51,900
+11
+00:02:49,960 --> 00:02:52,060
 But it hits at like the most random moments.
 
+12
+00:02:52,340 --> 00:03:01,020
+when it hits it crashes every 15 minutes like obs in general
+it crashes every 15 minutes so like it's so hard to like
+
+13
+00:03:01,020 --> 00:03:06,740
+sometimes predict when it's gonna happen and then like while
+i was standing up it didn't hit until like when i was about
+
+14
+00:03:06,740 --> 00:03:12,560
+to start the stream and then when it hit i was like oh fuck
+okay i'm gonna try to do the fast way because usually the
+
+15
+00:03:12,560 --> 00:03:19,220
+fast way is like a 50 50 chance for it to work so that was
+like okay i'm gonna do it the fast way maybe the fast way
+
+16
+00:03:19,220 --> 00:03:26,800
+will be fine and then obviously we had to wait 15 minutes
+and then i was like oh it did not work the fast way did not
+
+17
+00:03:26,800 --> 00:03:39,680
+work so i guess i'll just do the slow way but the slow way
+isn't guarantee either it just has a higher percentage of
+
+18
+00:03:39,680 --> 00:03:50,480
+guaranteeing anyway to be fair to be fair what i'm
+announcing oh my gosh there's so much work that went into
+
+19
+00:03:50,480 --> 00:04:02,700
+this i'm just i i don't know i hope i got everything i hope
+like i got everything in because like i had to set up really
+
+20
+00:04:02,700 --> 00:04:10,160
+really fucking fast so like i don't even know if i set
+everything up properly i don't i was just like okay
+
 21
-00:02:52,020 --> 00:02:55,420
-And then when it hits, it crashes every 15 minutes.
+00:04:10,160 --> 00:04:14,980
+everything looks i think everything's in And then I just
+went, oh, fuck it, we bawled.
 
 22
-00:02:55,460 --> 00:02:58,900
-Like OBS in general, it crashes every 15 minutes.
+00:04:16,100 --> 00:04:17,640
+We fucking bawled.
 
 23
-00:02:59,120 --> 00:03:02,940
-So like it's so hard to like sometimes predict when it's gonna happen.
+00:04:18,100 --> 00:04:21,440
+Guys, I swear, I'm going to set my new PC today or tomorrow.
 
 24
-00:03:03,160 --> 00:03:07,560
-And then like while I was setting up, it didn't hit until like when I was about to start the stream.
-
-25
-00:03:07,820 --> 00:03:11,300
-And then when it hit, I was like, oh fuck, okay, I'm gonna try to do the fast way.
-
-26
-00:03:11,440 --> 00:03:15,480
-Because usually the fast way is like a 50-50 chance for it to work.
-
-27
-00:03:15,480 --> 00:03:17,680
-So then I was like, okay, I'm gonna do it the fast way.
-
-28
-00:03:17,820 --> 00:03:19,720
-Maybe the fast way will be fine.
-
-29
-00:03:19,920 --> 00:03:22,400
-And then obviously we had to wait 15 minutes.
-
-30
-00:03:22,600 --> 00:03:25,280
-And then I was like, oh, it did not work.
-
-31
-00:03:25,300 --> 00:03:26,940
-The fast way did not work.
-
-32
-00:03:27,200 --> 00:03:29,920
-So I guess I'll just do the slow way.
-
-33
-00:03:33,020 --> 00:03:36,560
-But the slow way isn't guaranteed either.
-
-34
-00:03:36,880 --> 00:03:40,900
-It just has a higher percentage of guaranteeing.
-
-35
-00:03:41,820 --> 00:03:42,300
-Anyway.
-
-36
-00:03:45,480 --> 00:03:48,140
-To be fair, to be fair, what I'm announcing...
-
-37
-00:03:48,140 --> 00:03:50,640
-Oh my gosh, there's so much work that went into this.
-
-38
-00:03:50,840 --> 00:03:52,120
-I'm just... I don't know.
-
-39
-00:03:52,160 --> 00:03:54,080
-I hope I got everything...
-
-40
-00:03:54,080 --> 00:03:56,900
-I hope like I got everything in.
-
-41
-00:04:00,000 --> 00:04:04,320
-Because like I had to set up really, really fucking fast.
-
-42
-00:04:04,740 --> 00:04:07,760
-So like I don't even know if I set everything up properly.
-
-43
-00:04:08,060 --> 00:04:12,180
-I was just like, okay, everything looks... I think everything's in.
-
-44
-00:04:12,460 --> 00:04:14,980
-And then I just went, oh, fuck it, we bought it.
-
-45
-00:04:15,780 --> 00:04:17,540
-We fucking bought...
-
-46
-00:04:17,540 --> 00:04:21,220
-Guys, I swear, I'm gonna set my new PC today or tomorrow.
-
-47
-00:04:21,420 --> 00:04:23,180
+00:04:21,580 --> 00:04:23,360
 It's just there's so many things going on.
 
-48
-00:04:23,300 --> 00:04:25,260
+25
+00:04:23,660 --> 00:04:25,500
 So I didn't have time to do anything.
 
-49
-00:04:28,600 --> 00:04:29,560
+26
+00:04:28,960 --> 00:04:29,800
 What's happening?
 
-50
-00:04:30,140 --> 00:04:32,180
+27
+00:04:30,380 --> 00:04:32,520
 That's a very good question.
 
-51
-00:04:32,480 --> 00:04:38,500
-I bet you guys are all very, very curious as to what this announcement's going to be.
+28
+00:04:32,800 --> 00:04:38,820
+I bet you guys are all very, very curious as to what this
+announcement's going to be.
 
-52
-00:04:38,880 --> 00:04:40,660
+29
+00:04:39,320 --> 00:04:40,800
 I mean, of course, it could be anything.
 
-53
-00:04:40,820 --> 00:04:43,020
-I saw... I was like looking at wrong answers only.
+30
+00:04:42,480 --> 00:04:49,020
+answers only and i saw a lot of people giving so many
+different answers you someone actually got it right someone
 
-54
-00:04:43,020 --> 00:04:45,900
-And I saw a lot of people giving so many different answers.
+31
+00:04:49,020 --> 00:04:58,080
+was like wrong answer but then it was actually the right
+answer so it's fucking crazy why do you guys actually got
 
-55
-00:04:46,620 --> 00:04:48,020
-Someone actually got it right.
+32
+00:04:58,080 --> 00:05:06,900
+the answer correct while we were giving wrong answer only so
+it was very interesting to see hey guys all right i mean i
 
-56
-00:04:48,540 --> 00:04:50,400
-Someone was like, wrong answer.
+33
+00:05:06,900 --> 00:05:12,040
+could like bait you guys longer I could like make you guys
+wait even longer, but we you guys already waited 36 minutes.
 
-57
-00:04:50,780 --> 00:04:52,840
-But then it was actually the right answer.
+34
+00:05:12,640 --> 00:05:14,640
+So Let's do a countdown.
 
-58
-00:04:53,040 --> 00:04:53,920
-So it's fucking crazy.
-
-59
-00:04:55,980 --> 00:05:01,780
-What if you guys actually got the answer correct while we were giving wrong answer only?
-
-60
-00:05:02,880 --> 00:05:04,720
-So it was very interesting to see.
-
-61
-00:05:05,060 --> 00:05:05,780
-Hey, guys.
-
-62
-00:05:06,060 --> 00:05:06,360
-All right.
-
-63
-00:05:06,400 --> 00:05:08,080
-I mean, I could like bait you guys longer.
-
-64
-00:05:08,180 --> 00:05:09,820
-I could like make you guys wait even longer.
-
-65
-00:05:09,940 --> 00:05:11,840
-But we you guys already waited 36 minutes.
-
-66
-00:05:11,840 --> 00:05:14,480
-So let's do a countdown.
-
-67
-00:05:14,720 --> 00:05:16,100
+35
+00:05:14,940 --> 00:05:16,520
 Let's get a drum roll, please.
 
-68
-00:05:16,580 --> 00:05:18,020
-Drum roll, everybody.
+36
+00:05:17,320 --> 00:05:18,480
+Drum roll everybody.
 
-69
-00:05:19,780 --> 00:05:22,940
-Ten, nine, eight, seven.
+37
+00:05:19,660 --> 00:05:23,160
+10, 9, 8, 7.
 
-70
-00:05:23,080 --> 00:05:24,940
-It would be so funny if I crashed this moment.
+38
+00:05:23,600 --> 00:05:25,080
+It'll be so funny if I crash this moment.
 
-71
-00:05:25,060 --> 00:05:25,500
-Annoying me.
+39
+00:05:25,360 --> 00:05:27,620
+Knowing me, this, I fucking can jinx myself.
 
-72
-00:05:25,580 --> 00:05:27,080
-This I fucking can jinx myself.
+40
+00:05:29,020 --> 00:05:36,820
+8, 7, 6, 5, 4, 3, 2, 1.
 
-73
-00:05:29,380 --> 00:05:36,380
-Eight, seven, six, five, four, three, two, one.
+41
+00:05:40,480 --> 00:05:41,160
+Oh,
 
-74
-00:06:40,400 --> 00:06:41,440
-Yes, everybody.
+42
+00:06:40,640 --> 00:06:41,800
+yes, everybody!
 
-75
-00:06:43,100 --> 00:06:44,560
-WrestleTuber is here.
+43
+00:06:43,020 --> 00:06:45,140
+WrestleTuber is here!
 
-76
-00:06:46,180 --> 00:06:46,700
-Yeah.
+44
+00:06:46,500 --> 00:06:46,820
+Yeah!
 
-77
-00:06:49,950 --> 00:06:51,110
+45
+00:06:50,350 --> 00:06:51,170
 No, I didn't mute my mic.
 
+46
+00:06:51,310 --> 00:06:53,610
+I just let you guys enjoy the moment, you know?
+
+47
+00:06:53,770 --> 00:06:58,110
+Just like absorb the moment as you see the logo.
+
+48
+00:06:58,530 --> 00:07:04,570
+So you might be noticing something in the backdrop that's
+different other than just the WrestleTuber logo.
+
+49
+00:07:05,110 --> 00:07:08,450
+But this whole event will be sponsored.
+
+50
+00:07:08,750 --> 00:07:21,490
+by gamer subs in a way where basically i didn't have to pay
+for anything so so a huge shout out to gamer subs for
+
+51
+00:07:21,490 --> 00:07:32,110
+providing the funding for the graphics um uh for the uh for
+the wrestling belts like you hear the plural belts and other
+
+52
+00:07:32,110 --> 00:07:45,490
+goodies so gamer subs is the official sponsor for wrestle um
+some of you guys might be wondering what is wrestle tuber um
+
+53
+00:07:45,490 --> 00:07:50,570
+but before i answer that i just need you guys to know
+there's so many like last minute things that happened uh
+
+54
+00:07:50,570 --> 00:07:57,770
+before this announcement that like i literally was like
+scrounging up the last couple of details like two hours
+
+55
+00:07:57,770 --> 00:08:06,870
+before this stream was supposed to air because like there
+was some last minute additions and there was also um there
+
+56
+00:08:06,870 --> 00:08:13,970
+was also like some uh we were actually was gonna have a
+video to like show it and stuff just like the uh the logo
+
+57
+00:08:13,970 --> 00:08:22,850
+but because there's so many last minute additions a video
+was not made in time and i hope the video editor is okay
+
+58
+00:08:22,850 --> 00:08:34,030
+because i was like i'm so sorry we have some last minute
+additions to be made and because of that uh the the the
+
+59
+00:08:34,030 --> 00:08:41,910
+videos video was not done in time but it was it's it's a
+really sick video so when it is done i cannot wait to show
+
+60
+00:08:41,910 --> 00:08:42,770
+you guys
+
+61
+00:08:46,370 --> 00:08:55,830
+anyway yes wrestle tuber 2024 i feel like you guys will be
+like wanting to know the one thing you guys really want to
+
+62
+00:08:55,830 --> 00:09:06,470
+know at the moment is who is participating um let's just say
+it is honestly one of the hardest fucking event i've ever
+
+63
+00:09:06,470 --> 00:09:15,550
+organized ever because there's so many people from different
+backgrounds different companies either company or indie and
+
+64
+00:09:15,550 --> 00:09:25,270
+like trying to coordinate with so many different people um
+and then like trying to grab information and grabbing um and
+
+65
+00:09:25,270 --> 00:09:34,810
+grabbing like graphics and everything i i sometimes i even
+got like graphics uh during the Before the stream I got some
+
+66
+00:09:34,810 --> 00:09:41,070
+of the graphics the last five and then like poking people be
+like hey I know you wanted to join but like I really need
+
+67
+00:09:41,070 --> 00:09:49,750
+the graphics Like please please I can you please send me the
+graphics and I don't know or like be like Hey like thank you
+
+68
+00:09:49,750 --> 00:09:57,090
+for joining but like I really need to know like if you're
+making your wrestler or like if the fans Making it and like
+
+69
+00:09:57,090 --> 00:10:02,070
+I need to know if you're joining this section of the
+tournament or if you're joining this part Please, I really
+
+70
+00:10:02,070 --> 00:10:03,110
+need to know the reply.
+
+71
+00:10:03,330 --> 00:10:05,050
+I'm announcing this in five hours
+
+72
+00:10:08,690 --> 00:10:14,810
+I was like, please, please I'm announcing this today and
+I'll be like, please I'm announcing it tomorrow Can you
+
+73
+00:10:14,810 --> 00:10:16,190
+provide me the information?
+
+74
+00:10:16,470 --> 00:10:21,070
+And then the next day, like, please I'm announcing it today
+I really need the information
+
+75
+00:10:24,670 --> 00:10:31,950
+I swear this is absolutely one of the hardest events I've
+ever organized only because because there's just so many
+
+76
+00:10:31,950 --> 00:10:38,430
+different people from different backgrounds and trying to
+grab information, trying to grab intel, like trying to try
+
+77
+00:10:38,430 --> 00:10:42,590
+to grab graphics, trying to court scheduling too.
+
 78
-00:06:51,130 --> 00:06:53,010
-I just let you guys enjoy the moment.
+00:10:43,050 --> 00:10:48,630
+Oh my gosh, I'm so sorry if you don't see some of your like
+Yoshi, if you don't see your Yoshi or your content creator,
 
 79
-00:06:53,190 --> 00:06:57,950
-You know, just like absorb the moment as it's going as you see the logo.
+00:10:48,710 --> 00:10:53,210
+like a content creator you actually really wanted to see in
+WrestleTuber, um, that's not there.
 
 80
-00:06:58,070 --> 00:07:04,290
-So you might be noticing something in the backdrop that's different other than just the WrestleTuber logo.
-
-81
-00:07:04,670 --> 00:07:06,250
-But this whole event.
-
-82
-00:07:06,250 --> 00:07:09,990
-Will be sponsored by Gamersubs.
-
-83
-00:07:10,190 --> 00:07:13,850
-In a way where basically I didn't have to pay for anything.
-
-84
-00:07:14,690 --> 00:07:23,890
-So a huge shout out to Gamersubs for providing the funding for the graphics.
-
-85
-00:07:25,310 --> 00:07:28,550
-For the wrestling belts.
-
-86
-00:07:28,750 --> 00:07:30,010
-Like you hear the plural.
-
-87
-00:07:30,350 --> 00:07:32,410
-Belts and other goodies.
-
-88
-00:07:32,650 --> 00:07:35,370
-So Gamersubs is the official sponsor.
-
-89
-00:07:35,370 --> 00:07:38,170
-For WrestleTuber 2024.
-
-90
-00:07:40,030 --> 00:07:41,510
-So you guys might be wondering.
-
-91
-00:07:41,770 --> 00:07:44,290
-What is WrestleTuber?
-
-92
-00:07:45,190 --> 00:07:46,630
-But before I answer that.
-
-93
-00:07:46,710 --> 00:07:47,590
-I just need you guys to know.
-
-94
-00:07:47,690 --> 00:07:49,670
-There's so many like last minute things that happened.
-
-95
-00:07:50,230 --> 00:07:51,430
-Before this announcement.
-
-96
-00:07:51,690 --> 00:07:55,790
-That like I literally was like scrounging up the last couple of details.
-
-97
-00:07:56,210 --> 00:07:59,510
-Like two hours before this stream was supposed to air.
-
-98
-00:08:00,510 --> 00:08:02,690
-Because like there was some last minute additions.
-
-99
-00:08:03,770 --> 00:08:05,170
-And there was also.
-
-100
-00:08:06,170 --> 00:08:07,830
-There was also like some.
-
-101
-00:08:07,970 --> 00:08:09,650
-We were actually was gonna have a video.
-
-102
-00:08:09,730 --> 00:08:11,230
-To like show it and stuff.
-
-103
-00:08:11,290 --> 00:08:13,570
-Just like the logo.
-
-104
-00:08:14,910 --> 00:08:17,310
-But because there's so many last minute additions.
-
-105
-00:08:17,570 --> 00:08:19,710
-A video was not made in time.
-
-106
-00:08:19,930 --> 00:08:22,330
-And I hope the video editor is okay.
-
-107
-00:08:24,590 --> 00:08:26,790
-Because I was like I'm so sorry.
-
-108
-00:08:27,090 --> 00:08:30,070
-We have some last minute additions to be made.
-
-109
-00:08:30,370 --> 00:08:31,850
-And because of that.
-
-110
-00:08:32,270 --> 00:08:34,390
-The videos.
-
-111
-00:08:34,390 --> 00:08:36,210
-Video was not done in time.
-
-112
-00:08:36,350 --> 00:08:36,750
-But it was.
-
-113
-00:08:36,830 --> 00:08:38,590
-It's a really sick video.
-
-114
-00:08:38,890 --> 00:08:40,210
-So when it is done.
-
-115
-00:08:40,350 --> 00:08:42,250
-I cannot wait to show you guys.
-
-116
-00:08:44,770 --> 00:08:45,250
-Anyway.
-
-117
-00:08:46,890 --> 00:08:47,370
-Yes.
-
-118
-00:08:48,230 --> 00:08:48,710
-WrestleTuber.
-
-119
-00:08:49,110 --> 00:08:49,590
-2024.
-
-120
-00:08:50,390 --> 00:08:52,490
-I feel like you guys will be like.
-
-121
-00:08:52,830 --> 00:08:53,690
-Wanting to know.
-
-122
-00:08:53,870 --> 00:08:56,450
-The one thing you guys really want to know at the moment.
-
-123
-00:08:56,490 --> 00:08:57,830
-Is who is participating.
-
-124
-00:08:59,090 --> 00:09:00,010
-Let's just say.
-
-125
-00:09:00,290 --> 00:09:00,770
-Is.
-
-126
-00:09:01,570 --> 00:09:03,230
-This has to be like honestly.
-
-127
-00:09:03,230 --> 00:09:06,830
-One of the hardest fucking event I've ever organized.
-
-128
-00:09:07,110 --> 00:09:07,770
-Ever.
-
-129
-00:09:07,950 --> 00:09:09,870
-Because there's so many people.
-
-130
-00:09:09,970 --> 00:09:11,450
-From different backgrounds.
-
-131
-00:09:11,670 --> 00:09:12,710
-Different companies.
-
-132
-00:09:13,090 --> 00:09:14,750
-Either company or indie.
-
-133
-00:09:15,090 --> 00:09:16,930
-And like trying to coordinate.
-
-134
-00:09:17,170 --> 00:09:19,450
-With so many different people.
-
-135
-00:09:19,810 --> 00:09:22,050
-And then like trying to grab information.
-
-136
-00:09:22,750 --> 00:09:23,770
-And grabbing.
-
-137
-00:09:24,370 --> 00:09:26,930
-And grabbing like graphics and everything.
-
-138
-00:09:27,190 --> 00:09:27,910
-I sometimes.
-
-139
-00:09:28,050 --> 00:09:29,350
-I even got like graphics.
-
-140
-00:09:29,990 --> 00:09:32,510
-During the last five hours.
-
-141
-00:09:32,510 --> 00:09:33,650
-Before the stream.
-
-142
-00:09:33,910 --> 00:09:35,290
-I got some of the graphics.
-
-143
-00:09:35,390 --> 00:09:36,010
-The last five.
-
-144
-00:09:36,130 --> 00:09:36,970
-And then like poking people.
-
-145
-00:09:37,030 --> 00:09:37,190
-Be like.
-
-146
-00:09:37,330 --> 00:09:37,590
-Hey.
-
-147
-00:09:37,850 --> 00:09:39,350
-I know you wanted to join.
-
-148
-00:09:39,470 --> 00:09:39,930
-But like.
-
-149
-00:09:40,070 --> 00:09:41,530
-I really need the graphics.
-
-150
-00:09:43,230 --> 00:09:43,630
-Please.
-
-151
-00:09:44,070 --> 00:09:44,470
-Please.
-
-152
-00:09:44,610 --> 00:09:46,490
-Can you please send me the graphics.
-
-153
-00:09:46,690 --> 00:09:47,590
-And then I would like to be like.
-
-154
-00:09:47,750 --> 00:09:48,110
-Hey.
-
-155
-00:09:48,370 --> 00:09:50,110
-Thank you for joining.
-
-156
-00:09:50,390 --> 00:09:50,990
-But like.
-
-157
-00:09:51,030 --> 00:09:51,990
-I really need to know.
-
-158
-00:09:52,070 --> 00:09:52,330
-Like.
-
-159
-00:09:52,410 --> 00:09:53,670
-If you're making your wrestler.
-
-160
-00:09:54,010 --> 00:09:54,630
-Or like.
-
-161
-00:09:54,750 --> 00:09:56,350
-If a fan's making it.
-
-162
-00:09:56,530 --> 00:09:56,990
-And like.
-
-163
-00:09:57,070 --> 00:09:57,550
-I need to know.
-
-164
-00:09:57,570 --> 00:09:59,270
-If you're joining this section of the tournament.
-
-165
-00:09:59,430 --> 00:10:00,630
-Or if you're joining this part.
-
-166
-00:10:00,850 --> 00:10:01,250
-Please.
-
-167
-00:10:01,310 --> 00:10:02,490
-I really need to know.
-
-168
-00:10:02,490 --> 00:10:02,970
-So that I can know the reply.
-
-169
-00:10:03,070 --> 00:10:04,630
-I'm announcing this in five hours.
-
-170
-00:10:08,990 --> 00:10:09,770
-I was like.
-
-171
-00:10:09,850 --> 00:10:10,290
-Please.
-
-172
-00:10:10,470 --> 00:10:10,950
-Please.
-
-173
-00:10:10,990 --> 00:10:12,030
-I'm announcing this today.
-
-174
-00:10:12,310 --> 00:10:12,830
-And I'll be like.
-
-175
-00:10:12,910 --> 00:10:13,230
-Please.
-
-176
-00:10:13,290 --> 00:10:14,190
-I'm announcing it tomorrow.
-
-177
-00:10:14,450 --> 00:10:15,870
-Can you provide me the information.
-
-178
-00:10:16,170 --> 00:10:16,970
-And then the next day.
-
-179
-00:10:17,010 --> 00:10:17,130
-I'll be like.
-
-180
-00:10:17,190 --> 00:10:17,470
-Please.
-
-181
-00:10:17,510 --> 00:10:18,450
-I'm announcing it today.
-
-182
-00:10:18,790 --> 00:10:19,150
-Can you.
-
-183
-00:10:19,190 --> 00:10:20,610
-I really need the information.
-
-184
-00:10:24,630 --> 00:10:25,530
-I swear.
-
-185
-00:10:25,790 --> 00:10:28,490
-This is absolutely one of the hardest events.
-
-186
-00:10:28,670 --> 00:10:29,770
-I've ever organized.
-
-187
-00:10:29,970 --> 00:10:30,770
-Only because.
-
-188
-00:10:30,950 --> 00:10:32,410
-There's just so many different people.
-
-189
-00:10:32,490 --> 00:10:33,450
-From different backgrounds.
-
-190
-00:10:33,650 --> 00:10:35,210
-And trying to grab information.
-
-191
-00:10:35,510 --> 00:10:36,630
-Trying to grab intel.
-
-192
-00:10:37,010 --> 00:10:37,390
-Like.
-
-193
-00:10:37,410 --> 00:10:38,390
-Trying to.
-
-194
-00:10:39,070 --> 00:10:40,490
-Trying to grab graphics.
-
-195
-00:10:40,570 --> 00:10:41,090
-Trying to coordinate.
-
-196
-00:10:41,630 --> 00:10:42,230
-Scheduling too.
-
-197
-00:10:42,670 --> 00:10:43,430
-Oh my gosh.
-
-198
-00:10:43,510 --> 00:10:44,030
-I'm so sorry.
-
-199
-00:10:44,070 --> 00:10:44,870
-If you don't see some of your.
-
-200
-00:10:45,250 --> 00:10:45,650
-Like.
-
-201
-00:10:45,870 --> 00:10:46,270
-Oshi.
-
-202
-00:10:46,490 --> 00:10:47,590
-If you don't see your Oshi.
-
-203
-00:10:47,770 --> 00:10:48,450
-Or your content creator.
-
-204
-00:10:48,630 --> 00:10:48,790
-Like.
-
-205
-00:10:48,850 --> 00:10:49,530
-A content creator.
-
-206
-00:10:49,610 --> 00:10:51,190
-You actually really wanted to see in WrestleTuber.
-
-207
-00:10:51,650 --> 00:10:52,050
-Um.
-
-208
-00:10:52,190 --> 00:10:53,010
-That's not there.
-
-209
-00:10:53,790 --> 00:10:55,790
+00:10:54,010 --> 00:10:56,170
 Scheduling was so fucking hard.
 
-210
-00:10:56,170 --> 00:10:57,950
-And I also had to cap it too.
-
-211
-00:10:58,250 --> 00:10:59,690
-Because there was so much interest.
-
-212
-00:11:00,150 --> 00:11:01,490
-That I had to cap it.
-
-213
-00:11:01,630 --> 00:11:02,470
-At one point.
-
-214
-00:11:02,470 --> 00:11:03,510
-And then.
-
-215
-00:11:03,510 --> 00:11:04,150
-I had.
-
-216
-00:11:04,230 --> 00:11:04,730
-And then like.
-
-217
-00:11:04,790 --> 00:11:05,150
-We had like.
-
-218
-00:11:05,270 --> 00:11:05,530
-Uh.
-
-219
-00:11:05,710 --> 00:11:07,470
-Maybe like one or two people dropped out.
-
-220
-00:11:07,530 --> 00:11:08,490
-Because the scheduling wise.
-
-221
-00:11:08,590 --> 00:11:09,890
-For everybody was different.
-
-222
-00:11:10,250 --> 00:11:11,270
-And because of that.
-
-223
-00:11:11,310 --> 00:11:11,730
-Because there's like.
-
-224
-00:11:11,770 --> 00:11:12,070
-Like I said.
-
-225
-00:11:12,170 --> 00:11:13,190
-It's different companies.
-
-226
-00:11:13,670 --> 00:11:14,270
-Or like.
-
-227
-00:11:14,390 --> 00:11:14,790
-Indies.
-
-228
-00:11:15,030 --> 00:11:16,970
-And then everybody has different scheduling.
-
-229
-00:11:17,310 --> 00:11:17,830
-And then there's like.
-
-230
-00:11:17,890 --> 00:11:18,910
-Conventions going on.
-
-231
-00:11:19,030 --> 00:11:19,330
-There's like.
-
-232
-00:11:19,410 --> 00:11:20,230
-Other stuff going on.
-
-233
-00:11:20,290 --> 00:11:21,290
-Within that company.
-
-234
-00:11:21,650 --> 00:11:22,050
-So.
-
-235
-00:11:22,130 --> 00:11:23,010
-Because of that.
-
-236
-00:11:23,350 --> 00:11:23,750
-Um.
-
-237
-00:11:25,130 --> 00:11:25,950
-Because of that.
-
-238
-00:11:25,990 --> 00:11:26,630
-We had like.
-
-239
-00:11:26,770 --> 00:11:27,570
-Moments where like.
-
-240
-00:11:27,810 --> 00:11:27,930
-Uh.
-
-241
-00:11:28,110 --> 00:11:28,710
-Maybe like.
-
-242
-00:11:28,830 --> 00:11:29,670
-Somebody dropped out.
-
-243
-00:11:29,870 --> 00:11:30,450
-And then.
-
-244
-00:11:32,470 --> 00:11:32,590
-They got like.
-
-245
-00:11:32,610 --> 00:11:33,550
-For the event.
-
-246
-00:11:33,850 --> 00:11:34,310
-Uh.
-
-247
-00:11:34,530 --> 00:11:34,950
-And all.
-
-248
-00:11:35,050 --> 00:11:35,570
-Oh my gosh.
-
-249
-00:11:35,610 --> 00:11:35,910
-It was.
-
-250
-00:11:36,070 --> 00:11:36,710
-A lot.
-
-251
-00:11:37,730 --> 00:11:39,070
-I need you guys to know.
-
-252
-00:11:39,270 --> 00:11:40,430
-This is fully.
-
-253
-00:11:41,270 --> 00:11:41,850
-Organized.
-
-254
-00:11:41,990 --> 00:11:43,130
-And prepared by.
-
-255
-00:11:43,550 --> 00:11:44,430
-Me only.
-
-256
-00:11:44,450 --> 00:11:46,390
-There's no team behind it.
-
-257
-00:11:46,570 --> 00:11:48,930
-Despite gamer subs is sponsoring this.
-
-258
-00:11:49,250 --> 00:11:51,590
-I've organized all of this myself.
-
-259
-00:11:52,030 --> 00:11:53,350
-Like every information.
-
-260
-00:11:53,590 --> 00:11:54,670
-Setting up the discord server.
-
-261
-00:11:55,190 --> 00:11:56,130
-Coordinating everything.
-
-262
-00:11:56,550 --> 00:11:57,870
-Reaching out to people.
-
-263
-00:11:58,250 --> 00:11:59,390
-All of this.
-
-264
-00:11:59,510 --> 00:12:00,190
-Was done.
-
-265
-00:12:00,310 --> 00:12:01,110
-By me.
-
-266
-00:12:01,290 --> 00:12:02,390
-And me only.
-
-267
-00:12:02,410 --> 00:12:02,450
-So.
-
-268
-00:12:02,470 --> 00:12:18,810
-I didn't want to make this like a super serious, like a very official tournament thing.
-
-269
-00:12:19,050 --> 00:12:26,470
-I wanted to be like a fun unifying event within the, I guess like the Western VTuber sphere.
-
-270
-00:12:26,470 --> 00:12:34,270
-Like this was my idea in making something like more relaxing for everybody and more so of just like a big event.
-
-271
-00:12:34,470 --> 00:12:50,850
-Because I feel like a lot of things that we lack in the Western VTuber side is an event that basically unites different VTubers from different backgrounds, different areas, like company or an indie.
-
-272
-00:12:51,110 --> 00:12:52,810
-Because that's what we see in Japan.
-
-273
-00:12:53,110 --> 00:12:56,450
-We have like Shibuya Hal organizing a lot of these types of events.
-
-274
-00:12:56,450 --> 00:12:58,670
-We have Crazy Raccoon.
-
-275
-00:12:58,830 --> 00:13:01,530
-We have Vault Room as well in Japan.
-
-276
-00:13:01,870 --> 00:13:09,090
-But I feel like in the Western side, in the English VTuber sphere, we don't even, we don't really have stuff like this.
-
-277
-00:13:09,330 --> 00:13:12,650
-And this was actually something I've been planning on doing.
-
-278
-00:13:13,890 --> 00:13:16,530
-It was in my roadmap actually.
-
-279
-00:13:16,690 --> 00:13:21,850
-This was actually like in my roadmap when it came to like where I wanted to go.
-
-280
-00:13:22,030 --> 00:13:25,750
-When it came to organizing like events and stuff like that.
-
-281
-00:13:25,750 --> 00:13:29,810
-And so like this would be the very first time I'm doing something like this.
-
-282
-00:13:29,910 --> 00:13:36,530
-Doing something like this regarding having a big event that doesn't require any skill.
-
-283
-00:13:38,450 --> 00:13:40,710
-So like anybody can join.
-
-284
-00:13:42,250 --> 00:13:44,210
-And like anybody can join.
-
-285
-00:13:44,350 --> 00:13:45,530
-Anybody can...
-
-286
-00:13:45,530 --> 00:13:48,930
-Because all of this is gonna be WrestleTuber.
-
-287
-00:13:48,930 --> 00:13:55,730
-For those who don't know WrestleTuber, you might remember a previous previous version of WrestleTuber.
-
-288
-00:13:55,730 --> 00:13:56,970
-And this is a new version of this event.
-
-289
-00:13:57,130 --> 00:14:01,010
-And this is practically a spiritual successor of that event.
-
-290
-00:14:01,310 --> 00:14:08,190
-And it will be run on the WWE 2K24 edition of the game.
-
-291
-00:14:08,370 --> 00:14:18,790
-And basically VTubers, this is primarily for VTubers from different companies or not company, you know, indies.
-
-292
-00:14:19,410 --> 00:14:26,590
-Coming together to to be at during the interviews in the pre and post interview.
-
-293
-00:14:26,850 --> 00:14:27,690
-And then they're...
-
-294
-00:14:27,690 --> 00:14:30,130
-And then they'll have wrestlers that they're gonna embody.
-
-295
-00:14:30,350 --> 00:14:32,070
-But it'll be CPU controlled.
-
-296
-00:14:32,910 --> 00:14:34,350
-But they will be there.
-
-297
-00:14:34,530 --> 00:14:35,270
-A lot of these...
-
-298
-00:14:35,270 --> 00:14:38,570
-All these VTubers that are participating will be here.
-
-299
-00:14:39,750 --> 00:14:47,570
-And the broadcast staff is actually a bunch of VTubers from different places.
-
-300
-00:14:47,850 --> 00:14:54,110
-So, you know, we'll have like maybe like some VTubers VTubers in the broadcast staff that are both company.
-
-301
-00:14:54,110 --> 00:14:55,210
-And indie.
-
-302
-00:14:55,950 --> 00:14:58,570
-And also, like I said, there will be...
-
-303
-00:14:58,570 --> 00:15:06,470
-Every participant in WrestleTuber will receive a little small care package to thank them for participating.
-
-304
-00:15:07,590 --> 00:15:10,390
-And to thank them for like, you know, joining this event.
-
-305
-00:15:10,530 --> 00:15:14,170
-Just because like, you know, they're giving up their very own time to participate in this.
-
-306
-00:15:14,230 --> 00:15:15,490
+81
+00:10:56,350 --> 00:11:06,490
+And I also had to cap it too, that cap it at one point and
+then I had and then like we had like uh maybe like one or
+
+82
+00:11:06,490 --> 00:11:11,690
+two people dropped out because the scheduling wise for
+everybody was different and because of that because there's
+
+83
+00:11:11,690 --> 00:11:17,910
+like I said it's different companies or like indies and then
+everybody has different scheduling and then there's like
+
+84
+00:11:17,910 --> 00:11:26,330
+conventions going on there's like other stuff going on
+within that company so because of that um because of that we
+
+85
+00:11:26,330 --> 00:11:32,630
+had like moments where like maybe like somebody dropped out
+and then because like the skit we had to change the dates
+
+86
+00:11:32,630 --> 00:11:44,670
+for the event uh and all oh my gosh it was a lot i need you
+guys to know this is fully organized and prepared by me only
+
+87
+00:11:44,670 --> 00:11:52,970
+there's no team behind it despite gamer subs is sponsoring
+this i've organized all of this myself like every
+
+88
+00:11:52,970 --> 00:12:06,550
+information setting up the discord server to people all of
+this was done by me and me only so i like i didn't want to
+
+89
+00:12:06,550 --> 00:12:17,230
+make this like an like a super serious i didn't want to make
+this like a super serious like uh uh like very official uh
+
+90
+00:12:17,230 --> 00:12:28,830
+tournament thing i wanted to be like a fun unifying event
+within the i guess like the this was my idea in making
+
+91
+00:12:28,830 --> 00:12:36,230
+something like more relaxing for everybody and more so of
+just like a big event because I feel like a lot of things
+
+92
+00:12:36,230 --> 00:12:46,530
+that we lack in the western v-tubing side is an event that
+uh that that basically unites uh different v-tubers from
+
+93
+00:12:46,530 --> 00:12:54,090
+different backgrounds different areas like company or and
+indie because that's what we see in Japan we have like
+
+94
+00:12:57,470 --> 00:13:05,810
+crazy raccoon we have vault room as well in japan i feel
+like in the western side and the english vtubing sphere we
+
+95
+00:13:05,810 --> 00:13:15,030
+don't even we don't really have stuff like this and um this
+was actually something i've been planning on doing um it was
+
+96
+00:13:15,030 --> 00:13:23,090
+in my roadmap actually this was actually like in my roadmap
+when it came to like where i wanted to go when it came to
+
+97
+00:13:23,090 --> 00:13:31,610
+organizing like events and this would be the very first time
+i'm doing something like this from uh doing something like
+
+98
+00:13:31,610 --> 00:13:44,030
+this regarding having a big event that doesn't require any
+skill so like anybody can join um um and like anybody can
+
+99
+00:13:44,030 --> 00:13:52,390
+join anybody can uh because all of this is gonna be wrestle
+tube for those who don't know wrestle tuber uh you might
+
+100
+00:13:52,390 --> 00:14:03,130
+remember a previous uh previous version of this event and is
+practically a spiritual successor of that event and uh it
+
+101
+00:14:03,130 --> 00:14:14,990
+will be run on the wwe 2k24 edition of the game and
+basically vtubers uh this is primarily for vtubers uh uh
+
+102
+00:14:14,990 --> 00:14:25,530
+from different companies or not company you know indies uh
+coming together to um to be at during the interviews in the
+
+103
+00:14:25,530 --> 00:14:31,770
+pre and post interview and then they're and then they'll
+have wrestlers that they're going to embody but it'll be cpu
+
+104
+00:14:31,770 --> 00:14:41,030
+controlled uh but they will be there a lot of these all
+these vtubers that are participating will be here um and the
+
+105
+00:14:41,030 --> 00:14:51,070
+broadcast staff is actually uh a bunch of vtubers from
+different places so you know uh we'll have like maybe like
+
+106
+00:14:51,070 --> 00:14:52,890
+some vtubers vtubers in the
+
+107
+00:14:56,110 --> 00:15:05,570
+And also, like I said, there will be every participant in
+WrestleTuber will receive a little small care package to
+
+108
+00:15:05,570 --> 00:15:11,250
+thank them for participating and to thank them for, like,
+you know, joining this event just because like, you know,
+
+109
+00:15:11,270 --> 00:15:14,250
+they're giving up their very own time to participate in
+this.
+
+110
+00:15:14,390 --> 00:15:15,730
 There's like nobody's getting paid.
 
-307
-00:15:15,730 --> 00:15:17,870
-Other than the broadcast staff because I promised them.
+111
+00:15:16,150 --> 00:15:20,890
+And then the broadcast staff, because I promised them
+because I felt like, you know, since the main broadcast is
 
-308
-00:15:17,950 --> 00:15:21,690
-Because I felt like, you know, since the main broadcast is on my channel.
+112
+00:15:20,890 --> 00:15:25,110
+on my channel, I told the broadcast staff like any amount,
+any of the donations.
 
-309
-00:15:21,810 --> 00:15:23,990
-I told the broadcast staff like any amount...
+113
+00:15:25,130 --> 00:15:34,050
+the super chats that come in during the event will be split
+between the broadcast staff just because it's fair and uh i
 
-310
-00:15:23,990 --> 00:15:25,050
-Any of the donations.
+114
+00:15:34,050 --> 00:15:40,170
+might put in a little extra as well because i feel like you
+know they're giving up their time to be there to cast to
 
-311
-00:15:25,290 --> 00:15:30,750
-The Super Chats that come in during the event will be split between the broadcast staff.
+115
+00:15:40,170 --> 00:15:46,370
+participate as the announcer to do the interview and stuff
+like that so i'll be giving them some of the earnings from
 
-312
-00:15:30,930 --> 00:15:32,150
-Just because it's fair.
+116
+00:15:46,370 --> 00:15:56,950
+the event anyway the rules one of the things you guys might
+be wondering the rules basically I talked about the rules a
 
-313
-00:15:32,390 --> 00:15:35,590
-And I might put in a little extra as well.
+117
+00:15:56,950 --> 00:16:07,650
+little bit already so let me just reiterate some of some of
+it alright let me rules so the official hashtag as you guys
 
-314
-00:15:35,650 --> 00:15:39,430
-Because I feel like, you know, they're giving up their time to be there to cast.
+118
+00:16:07,650 --> 00:16:21,350
+all saw let me shimmy over here there you let me shimmy over
+so the official hashtag is 2024.
 
-315
-00:15:39,670 --> 00:15:41,290
-To participate as the announcer.
+119
+00:16:22,310 --> 00:16:28,570
+So you can use this hashtag to submit your wrestlers,
+illustrations, and Latui.
 
-316
-00:15:41,610 --> 00:15:43,330
-To do the interview and stuff like that.
-
-317
-00:15:43,470 --> 00:15:46,870
-So, I'll be giving them some of the earnings from the event.
-
-318
-00:15:47,270 --> 00:15:48,570
-Anyway, the rules!
-
-319
-00:15:49,450 --> 00:15:51,450
-One of the things you guys might be wondering.
-
-320
-00:15:51,710 --> 00:15:52,730
-The rules!
-
-321
-00:15:54,610 --> 00:15:57,670
-Basically, I talked about the rules a little bit already.
-
-322
-00:15:57,870 --> 00:16:00,930
-So, let me just reiterate some of it.
-
-323
-00:16:01,750 --> 00:16:02,770
-Alright, let me...
-
-324
-00:16:03,310 --> 00:16:03,830
-Rules!
-
-325
-00:16:04,290 --> 00:16:06,530
-So, the official hashtag!
-
-326
-00:16:06,690 --> 00:16:08,250
-As you guys all saw.
-
-327
-00:16:08,470 --> 00:16:09,450
-Let me shimmy over here.
-
-328
-00:16:09,670 --> 00:16:10,210
-There you go.
-
-329
-00:16:13,750 --> 00:16:15,350
-Let me shimmy over.
-
-330
-00:16:15,550 --> 00:16:21,090
-So, the official hashtag is WrestleTuber2024.
-
-331
-00:16:21,730 --> 00:16:23,730
-So, you can use this hashtag.
-
-332
-00:16:23,990 --> 00:16:28,510
-To submit your wrestlers, illustrations, and Latwee!
-
-333
-00:16:29,070 --> 00:16:33,730
+120
+00:16:29,530 --> 00:16:33,830
 The event will be held on May 25th and 26th.
 
-334
-00:16:33,730 --> 00:16:34,790
-So, Saturday and Sunday.
-
-335
-00:16:34,850 --> 00:16:35,310
-If you're in NA.
-
-336
-00:16:35,530 --> 00:16:38,430
-Saturday and Sunday at 4pm PST.
-
-337
-00:16:39,330 --> 00:16:40,810
-There will also be...
-
-338
-00:16:40,810 --> 00:16:42,190
-This is going to be a new addition.
-
-339
-00:16:42,470 --> 00:16:43,570
-But show matches.
-
-340
-00:16:44,050 --> 00:16:46,050
-So, for those who couldn't...
-
-341
-00:16:46,050 --> 00:16:49,210
-For some of the VTubers, obviously, they couldn't commit their full time.
-
-342
-00:16:49,350 --> 00:16:50,990
-Because, you know, we don't know when they're going to be eliminated.
-
-343
-00:16:52,430 --> 00:16:56,090
-Like, that is the whole randomness of this whole event.
-
-344
-00:16:56,210 --> 00:16:58,190
-We don't know when they're going to be eliminated.
-
-345
-00:16:58,530 --> 00:17:01,590
-So, we gave an option for the participants.
-
-346
-00:17:01,930 --> 00:17:03,230
-To basically...
-
-347
-00:17:03,970 --> 00:17:05,830
-We gave an option for the participants.
-
-348
-00:17:05,990 --> 00:17:09,450
-To basically decide if they want to show up at the show matches.
-
-349
-00:17:09,710 --> 00:17:11,510
-Which will be in the beginning of each day.
-
-350
-00:17:11,690 --> 00:17:14,070
-And each of those participants that chose the show match.
-
-351
-00:17:14,250 --> 00:17:16,550
-Will only have to participate for one match.
-
-352
-00:17:16,850 --> 00:17:18,790
-And it will be like, maybe cage matches.
-
-353
-00:17:18,970 --> 00:17:19,950
-Or tag team.
-
-354
-00:17:19,950 --> 00:17:21,250
-And we don't...
-
-355
-00:17:21,250 --> 00:17:24,610
-It will be announced during the event.
-
-356
-00:17:24,710 --> 00:17:25,370
-The main broadcast.
-
-357
-00:17:25,530 --> 00:17:28,150
-So, that will be like a surprise for the audience.
-
-358
-00:17:28,330 --> 00:17:30,090
-As to what the show match is going to be.
-
-359
-00:17:30,250 --> 00:17:32,930
-So, there is two formats for this.
-
-360
-00:17:33,090 --> 00:17:33,790
-Tournament run.
-
-361
-00:17:34,010 --> 00:17:36,650
-Obviously, it's like the full on tournament structure.
-
-362
-00:17:37,050 --> 00:17:39,830
-So, obviously, you know.
-
-363
-00:17:39,850 --> 00:17:41,450
-They go until they're eliminated.
-
-364
-00:17:41,950 --> 00:17:44,170
-And that is why it runs for two days.
-
-365
-00:17:44,270 --> 00:17:46,370
-Because it is very long.
-
-366
-00:17:49,950 --> 00:17:51,930
-I originally had a hard cap.
-
-367
-00:17:52,310 --> 00:17:55,830
-But then like we got beyond the hard cap.
-
-368
-00:17:56,230 --> 00:17:56,710
-So...
-
-369
-00:17:57,730 --> 00:18:00,890
-So, it ended up not being a hard cap anymore.
-
-370
-00:18:01,270 --> 00:18:01,770
-So...
-
-371
-00:18:01,770 --> 00:18:03,150
-Because I...
-
-372
-00:18:03,890 --> 00:18:06,210
-Because there is some last minute additions in there.
-
-373
-00:18:06,670 --> 00:18:08,750
-And I was like, fuck it.
-
-374
-00:18:08,830 --> 00:18:09,590
-Let them in.
-
-375
-00:18:12,790 --> 00:18:14,530
-Anyway, as I said before.
-
-376
-00:18:14,950 --> 00:18:18,030
-The wrestlers will be CPU controlled.
-
-377
-00:18:18,810 --> 00:18:21,630
-But all participants will be there.
-
-378
-00:18:21,770 --> 00:18:24,910
-For interviews and or broadcast staff.
-
-379
-00:18:25,150 --> 00:18:26,990
-So, until they're eliminated type deal.
-
-380
-00:18:27,110 --> 00:18:28,910
-So, they will be like showing up on stream.
-
-381
-00:18:29,510 --> 00:18:30,750
-Doing the interviews.
-
-382
-00:18:30,950 --> 00:18:32,490
-And like roasting each other.
-
-383
-00:18:32,570 --> 00:18:33,470
-All of that stuff.
-
-384
-00:18:33,790 --> 00:18:36,370
-So, they will be there in some way.
-
-385
-00:18:38,050 --> 00:18:41,370
-Main broadcast will be on this channel.
-
-386
-00:18:41,750 --> 00:18:45,350
-But some participants will stream their own wrestling creation.
-
-387
-00:18:45,710 --> 00:18:46,650
-Before the event.
-
-388
-00:18:46,890 --> 00:18:48,010
-So, some of them will be there.
-
-389
-00:18:48,030 --> 00:18:49,050
-And some of them have decided to...
-
-390
-00:18:49,050 --> 00:18:51,350
-Have chosen to create their own wrestler.
-
-391
-00:18:51,570 --> 00:18:54,710
-And they will be making that wrestler themselves.
-
-392
-00:18:54,810 --> 00:18:56,530
-On the stream for the fans to watch.
-
-393
-00:18:56,830 --> 00:18:58,710
-And like I said before.
-
-394
-00:18:58,890 --> 00:19:01,350
-This will be an event that unites VTubers from different backgrounds.
-
-395
-00:19:01,610 --> 00:19:03,150
-Whether indie or company.
-
-396
-00:19:03,330 --> 00:19:05,050
-And represent the spirit of VTubing.
-
-397
-00:19:05,210 --> 00:19:07,830
-Because like I wanted to do an event.
-
-398
-00:19:08,050 --> 00:19:11,210
-I feel like we are very lacking this in the western VTuber side.
-
-399
-00:19:11,550 --> 00:19:15,970
-There's a lot of events that combines like VTubing and like fleshies together.
-
-400
-00:19:16,310 --> 00:19:17,750
-But like there's not a lot of event.
-
-401
-00:19:18,030 --> 00:19:20,010
-That combines like VTubing from different companies.
-
-402
-00:19:20,230 --> 00:19:21,530
-Or indies.
-
-403
-00:19:22,190 --> 00:19:25,650
-Together to participate in something big.
-
-404
-00:19:25,790 --> 00:19:27,090
-A great fun event.
-
-405
-00:19:27,730 --> 00:19:29,910
-And this was something I wanted to do.
-
-406
-00:19:30,150 --> 00:19:31,870
-And we see a lot of that in Japan.
-
-407
-00:19:32,190 --> 00:19:36,470
-But we don't really see that much in like the western side.
-
-408
-00:19:36,730 --> 00:19:39,890
-And that was like my goal in doing this.
-
-409
-00:19:40,070 --> 00:19:40,790
-Anyway guys.
-
-410
-00:19:41,390 --> 00:19:44,410
-Before I show the second rules page.
-
-411
-00:19:44,750 --> 00:19:46,570
-I feel like a lot of guys want to know.
-
-412
-00:19:46,570 --> 00:19:48,530
-Who are on the teams.
-
-413
-00:19:49,070 --> 00:19:50,790
-When I show you guys the teams.
-
-414
-00:19:51,170 --> 00:19:52,350
-Who are always on a team.
-
-415
-00:19:52,410 --> 00:19:52,550
-Sorry.
-
-416
-00:19:52,610 --> 00:19:54,690
-The participating members.
-
-417
-00:19:55,230 --> 00:19:57,490
-So there's actually two slides.
-
-418
-00:19:57,490 --> 00:19:58,770
-To the participating members.
-
-419
-00:19:59,170 --> 00:20:01,290
-But I'll show the first slide.
-
-420
-00:20:01,450 --> 00:20:02,850
-I'll be showing the first slide first.
-
-421
-00:20:02,950 --> 00:20:03,370
-Obviously.
-
-422
-00:20:03,770 --> 00:20:05,110
-Because there was a lot of them.
-
-423
-00:20:05,170 --> 00:20:08,310
-I think we have 29 people.
-
-424
-00:20:08,630 --> 00:20:11,130
-29 participants in total.
-
-425
-00:20:12,110 --> 00:20:15,610
-Obviously like there was originally a super.
-
-426
-00:20:16,710 --> 00:20:20,110
-There was originally a super hard cap.
-
-427
-00:20:20,430 --> 00:20:25,750
-But it ended up going beyond that.
-
-428
-00:20:34,670 --> 00:20:38,540
-So that's why we had 29 in the end.
-
-429
-00:20:40,720 --> 00:20:46,360
-But not all 29 wrestlers will be doing the tournament structure.
-
-430
-00:20:47,540 --> 00:20:48,880
-Some of them will be doing the tournament structure.
-
-431
-00:20:48,900 --> 00:20:50,320
+121
+00:16:34,010 --> 00:16:37,870
+So Saturday and Sunday if you're in NA, Saturday and Sunday
+at 4 p.m.
+
+122
+00:16:38,170 --> 00:16:38,590
+PST.
+
+123
+00:16:39,770 --> 00:16:43,910
+There will also be, this is going to be a new edition, but
+show matches.
+
+124
+00:16:44,510 --> 00:16:49,570
+So for those who couldn't, for some of the YouTubers,
+obviously they couldn't commit their full time because,
+
+125
+00:16:50,450 --> 00:16:57,650
+they're going to be eliminated like that is the whole
+randomness of this whole event we don't know when they're
+
+126
+00:16:57,650 --> 00:17:05,570
+going to be eliminated so we gave an options for the
+participants to basically um we gave an option for the
+
+127
+00:17:05,570 --> 00:17:11,310
+participants to basically uh decide if they want to show up
+at the show matches which will be in the beginning of each
+
+128
+00:17:11,310 --> 00:17:17,690
+day and each of those participants that chose the show match
+won't have to participate for one match and it'll be like
+
+129
+00:17:17,690 --> 00:17:25,510
+maybe like cage matches or tag And we don't, like, it will
+be announced during the event, the main broadcast.
+
+130
+00:17:25,670 --> 00:17:30,270
+So that will be, like, a surprise for the audience as to
+what the show match is going to be.
+
+131
+00:17:30,590 --> 00:17:33,090
+So there is two formats for this.
+
+132
+00:17:33,590 --> 00:17:36,970
+Tournament run, obviously, it's, like, the full-on
+tournament structure.
+
+133
+00:17:37,730 --> 00:17:41,750
+So, like, obviously, you know, they go until they're
+eliminated.
+
+134
+00:17:42,530 --> 00:17:46,610
+And that is why it runs for two days, because it is very
+long.
+
+135
+00:17:50,450 --> 00:18:03,170
+had a hard cap but then like we got beyond the hard cap so
+so it ended up not being a hard cap anymore so because I
+
+136
+00:18:03,170 --> 00:18:15,710
+because there's some last-minute additions in there and I
+was like fuck it let them in anyway as I said before the
+
+137
+00:18:15,710 --> 00:18:25,790
+wrestlers will be CPU controlled but all participants will
+be there for interviews and or broadcast staff so until
+
+138
+00:18:25,790 --> 00:18:32,390
+they're eliminated type deal so they will be like showing up
+on stream uh doing the interviews and like roasting each
+
+139
+00:18:32,390 --> 00:18:42,850
+other all of that stuff so they will be there in some way um
+main broadcast will be on this channel but some participants
+
+140
+00:18:42,850 --> 00:18:50,590
+will stream their own wrestling creation before the event so
+they some of them have decided to have chosen to create
+
+141
+00:18:50,590 --> 00:18:58,390
+their own wrestler and they will be making that wrestler
+themselves on the stream for the fans to watch and i like i
+
+142
+00:18:58,390 --> 00:19:04,110
+said before this will be an event that unites vtubers from
+different backgrounds whether indie or company and represent
+
+143
+00:19:04,110 --> 00:19:10,290
+the spirit of vtubing because like i like i wanted i wanted
+to do an event i feel like we are very lacking this in the
+
+144
+00:19:10,290 --> 00:19:17,370
+western vtuber side there's a lot of events that combines
+like vtubing and like fleshy's together but like there's not
+
+145
+00:19:17,370 --> 00:19:24,550
+a lot of event that combines like v-tubing from different
+companies as well or indies uh together to uh participate in
+
+146
+00:19:24,550 --> 00:19:32,690
+something uh big a great fun event uh and this was something
+i wanted to do and we see a lot of that in japan but we
+
+147
+00:19:32,690 --> 00:19:40,010
+don't see really see that much in uh in like the western
+side and that is what that was like my goal in doing this
+
+148
+00:19:40,010 --> 00:19:50,130
+hey guys before I show my the second rules page I feel like
+a lot of guys want to know who are on the teams when I show
+
+149
+00:19:50,130 --> 00:19:57,030
+you guys the teams who are always on a team sorry the
+participant participating members so there's actually two
+
+150
+00:19:57,030 --> 00:20:03,530
+slides to the participating members but I'll it'll show the
+first slide I'll be showing the first slide first obviously
+
+151
+00:20:03,530 --> 00:20:13,990
+uh because there was a lot of them I think we have 29 people
+29 participants in total um obviously like there was
+
+152
+00:20:13,990 --> 00:20:26,050
+originally a super uh there was originally a super hard cap
+but uh but it uh but it ended up going beyond that
+
+153
+00:20:32,660 --> 00:20:46,680
+so so so that's why we had 29 in the end But not all 29
+wrestlers will be doing the tournament structure.
+
+154
+00:20:48,300 --> 00:20:50,680
 Some of them will be in show matches.
 
-432
-00:20:50,760 --> 00:20:53,240
-So that's why you must be like 29.
+155
+00:20:51,400 --> 00:20:55,160
+So that's why you must be like, 29, that's not even enough
+for the tournament.
 
-433
-00:20:53,360 --> 00:20:54,960
-That's not even enough for the tournament.
+156
+00:20:55,560 --> 00:20:59,040
+But that is because not all 29 of them are going to be in
+the tournament.
 
-434
-00:20:55,220 --> 00:20:57,860
-But that's because not all 29 of them.
+157
+00:20:59,400 --> 00:21:02,460
+Some of them are just going to be participating in the show
+match.
 
-435
-00:20:57,900 --> 00:20:58,820
-Are going to be in the tournament.
+158
+00:21:03,220 --> 00:21:06,300
+And like I said earlier, if you don't see your OSHA, you
+don't see your V2, I'm really sorry.
 
-436
-00:20:59,140 --> 00:21:02,180
-Some of them are just going to be participating in the show match.
+159
+00:21:06,460 --> 00:21:08,940
+There was like, there was a lot.
 
-437
-00:21:02,500 --> 00:21:04,080
-And like I said earlier.
-
-438
-00:21:04,160 --> 00:21:04,880
-If you don't see your Oshii.
-
-439
-00:21:05,020 --> 00:21:05,680
-If you don't see your VTuber.
-
-440
-00:21:05,700 --> 00:21:06,140
-I'm really sorry.
-
-441
-00:21:06,360 --> 00:21:10,900
+160
+00:21:09,580 --> 00:21:11,240
 There was a lot of interest.
 
-442
-00:21:11,260 --> 00:21:12,660
-And at that point.
-
-443
-00:21:13,740 --> 00:21:17,820
-I also didn't want to have too many from one sector.
-
-444
-00:21:18,220 --> 00:21:18,880
-So like.
-
-445
-00:21:18,880 --> 00:21:20,120
-And obviously.
-
-446
-00:21:20,320 --> 00:21:22,600
-Some obviously in other areas.
-
-447
-00:21:22,740 --> 00:21:24,920
-There might not be a lot of interest was there.
-
-448
-00:21:25,140 --> 00:21:26,100
-Regarding that.
-
-449
-00:21:26,380 --> 00:21:29,620
-So there was a lot of interest in certain companies.
-
-450
-00:21:29,840 --> 00:21:32,400
-And there was a lot of interest within the indie sphere.
-
-451
-00:21:32,660 --> 00:21:34,600
-But I tried to balance it.
-
-452
-00:21:34,640 --> 00:21:35,980
-As best as I could.
-
-453
-00:21:40,060 --> 00:21:42,540
-And then obviously there were moments where like.
-
-454
-00:21:42,620 --> 00:21:44,840
-Some of the companies had their own events.
-
-455
-00:21:44,920 --> 00:21:46,060
-During this time.
-
-456
-00:21:46,360 --> 00:21:48,060
-Or like during that date.
-
-457
-00:21:48,880 --> 00:21:50,880
-And because of that.
-
-458
-00:21:50,940 --> 00:21:52,480
-They weren't able to participate.
-
-459
-00:21:52,800 --> 00:21:54,880
-Some VTubers that wanted to participate.
-
-460
-00:21:54,980 --> 00:21:55,780
-Couldn't participate.
-
-461
-00:21:55,920 --> 00:21:58,180
-Due to the overlap in the schedule.
-
-462
-00:21:58,580 --> 00:22:00,260
-So within like.
-
-463
-00:22:00,380 --> 00:22:01,300
-Either company wise.
-
-464
-00:22:01,720 --> 00:22:05,240
-Or just like within their own individual schedule.
-
-465
-00:22:05,620 --> 00:22:06,180
-Anyway.
-
-466
-00:22:06,720 --> 00:22:07,560
-Teams time.
-
-467
-00:22:08,440 --> 00:22:09,940
-It's teams time.
-
-468
-00:22:11,480 --> 00:22:12,040
-Wow.
-
-469
-00:22:13,180 --> 00:22:13,740
-Alright.
-
-470
-00:22:13,900 --> 00:22:15,760
-So this is slide number one.
-
-471
-00:22:16,540 --> 00:22:18,120
-I need you guys to know.
-
-472
-00:22:19,100 --> 00:22:20,360
-Like I said.
-
-473
-00:22:20,440 --> 00:22:21,660
-I reached out.
-
-474
-00:22:22,600 --> 00:22:24,660
-To a bunch of companies.
-
-475
-00:22:25,660 --> 00:22:27,140
-Because I really wanted to.
-
-476
-00:22:28,800 --> 00:22:30,380
-I reached out to a bunch of companies.
-
-477
-00:22:30,720 --> 00:22:32,300
-And I said like.
-
-478
-00:22:32,400 --> 00:22:33,780
-Okay there is a limit to how many.
-
-479
-00:22:34,000 --> 00:22:35,720
-Per company can send.
-
-480
-00:22:37,420 --> 00:22:38,420
-And obviously.
-
-481
-00:22:38,900 --> 00:22:40,180
-I really wanted to reach out to.
-
-482
-00:22:40,360 --> 00:22:41,110
-Like xprismproject.
-
-483
-00:22:43,320 --> 00:22:45,260
-To participate in this.
-
-484
-00:22:45,700 --> 00:22:46,640
-In this event.
-
-485
-00:22:47,120 --> 00:22:48,480
-Because of everything that happened.
-
-486
-00:22:48,560 --> 00:22:48,860
-So I wanted to.
-
-487
-00:22:48,880 --> 00:22:50,940
-So I reached out to one of the members.
-
-488
-00:22:51,120 --> 00:22:52,540
-In xprismproject.
-
-489
-00:22:52,720 --> 00:22:55,300
-And asked if they wanted to be in.
-
-490
-00:22:55,740 --> 00:22:56,980
-In WrestleTuber.
-
-491
-00:22:57,460 --> 00:22:58,720
-I'm really happy to have.
-
-492
-00:22:58,940 --> 00:23:00,700
-There was actually a lot of interest.
-
-493
-00:23:00,880 --> 00:23:02,800
-But unfortunately we had to cap it.
-
-494
-00:23:03,240 --> 00:23:04,060
-As I said.
-
-495
-00:23:04,180 --> 00:23:05,000
-Because I didn't want to have.
-
-496
-00:23:05,960 --> 00:23:07,960
-Spread it out more evenly.
-
-497
-00:23:09,740 --> 00:23:10,700
-Amongst the.
-
-498
-00:23:11,200 --> 00:23:12,240
-Amongst the participants.
-
-499
-00:23:12,640 --> 00:23:13,740
-Regarding like which.
-
-500
-00:23:14,780 --> 00:23:15,260
-Which.
-
-501
-00:23:15,260 --> 00:23:17,180
-Like how many.
-
-502
-00:23:17,300 --> 00:23:18,740
-Can each company send.
-
-503
-00:23:18,980 --> 00:23:20,500
-So there was a hard limit.
-
-504
-00:23:20,580 --> 00:23:21,240
-For each company.
-
-505
-00:23:22,040 --> 00:23:23,440
-So like I said.
-
-506
-00:23:23,920 --> 00:23:27,340
-There are the participants in xprismproject.
-
-507
-00:23:28,480 --> 00:23:29,040
-Nia.
-
-508
-00:23:29,120 --> 00:23:29,420
-Sarah.
-
-509
-00:23:29,700 --> 00:23:30,200
-Emma.
-
-510
-00:23:30,600 --> 00:23:31,160
-Luto.
-
-511
-00:23:31,480 --> 00:23:32,040
-Asteria.
-
-512
-00:23:32,240 --> 00:23:32,960
-And Non.
-
-513
-00:23:33,180 --> 00:23:34,840
-And then in vshowjo.
-
-514
-00:23:34,940 --> 00:23:36,160
-We have Xentreya.
-
-515
-00:23:36,160 --> 00:23:37,940
-For the indies.
-
-516
-00:23:37,980 --> 00:23:39,380
-We have Sayu.
-
-517
-00:23:39,420 --> 00:23:39,680
-Fillion.
-
-518
-00:23:40,060 --> 00:23:40,620
-Buffpuff.
-
-519
-00:23:40,780 --> 00:23:41,040
-Me.
-
-520
-00:23:41,320 --> 00:23:41,880
-ShyLily.
-
-521
-00:23:42,380 --> 00:23:42,940
-Limeu.
-
-522
-00:23:43,200 --> 00:23:43,760
-Merryweather.
-
-523
-00:23:43,840 --> 00:23:44,360
-Snuffy.
-
-524
-00:23:44,520 --> 00:23:45,560
-And Neurosama.
-
-525
-00:23:46,600 --> 00:23:47,840
-So this is.
-
-526
-00:23:48,360 --> 00:23:49,760
-There's a slide two guys.
-
-527
-00:23:50,060 --> 00:23:51,120
-There's a slide two.
-
-528
-00:23:51,220 --> 00:23:52,360
-Because we have 29.
-
-529
-00:23:57,780 --> 00:23:59,080
-There's a slide two.
-
-530
-00:24:06,160 --> 00:24:07,920
-And I got what's in slide two.
-
-531
-00:24:08,160 --> 00:24:08,720
-Okay.
-
-532
-00:24:12,020 --> 00:24:13,840
-I'm like even I'm anxious.
-
-533
-00:24:16,820 --> 00:24:18,720
-Even I'm fucking anxious.
-
-534
-00:24:18,760 --> 00:24:19,580
-On slide two.
-
-535
-00:24:19,980 --> 00:24:20,860
-But anyway.
-
-536
-00:24:21,160 --> 00:24:22,520
-Here is slide two.
-
-537
-00:24:23,200 --> 00:24:25,560
-So we have Idol EN.
-
-538
-00:24:26,040 --> 00:24:27,680
-FaZe Connect.
-
-539
-00:24:27,920 --> 00:24:29,220
-And Holostars.
-
-540
-00:24:30,620 --> 00:24:31,240
-Participating.
-
-541
-00:24:31,320 --> 00:24:32,400
-And I need you guys to know.
-
-542
-00:24:32,580 --> 00:24:33,120
-Axel.
-
-543
-00:24:33,360 --> 00:24:34,640
-I was talking to Axel.
-
-544
-00:24:36,160 --> 00:24:38,800
-Holostars was actually the last minute edition.
-
-545
-00:24:39,200 --> 00:24:40,980
-They joined the server.
-
-546
-00:24:41,100 --> 00:24:43,080
-I think three days ago.
-
-547
-00:24:43,260 --> 00:24:44,100
-And I had to.
-
-548
-00:24:44,440 --> 00:24:45,980
-Not redo everything.
-
-549
-00:24:46,520 --> 00:24:49,320
-But I had to scrounge up a lot of stuff.
-
-550
-00:24:53,600 --> 00:24:54,120
-So.
-
-551
-00:24:54,560 --> 00:24:55,080
-So.
-
-552
-00:24:55,080 --> 00:24:56,640
-Huge shout out to Axel.
-
-553
-00:24:56,760 --> 00:24:57,700
-For helping me with this.
-
-554
-00:24:57,800 --> 00:24:58,760
-Because I asked him.
-
-555
-00:24:59,500 --> 00:25:01,060
-I'm organizing WrestleTuber.
-
-556
-00:25:01,760 --> 00:25:03,480
-Here are the details of WrestleTuber.
-
-557
-00:25:03,740 --> 00:25:05,900
-I was wondering if you guys are interested.
-
-558
-00:25:06,040 --> 00:25:06,140
-So.
-
-559
-00:25:06,160 --> 00:25:08,060
-Obviously you guys don't have to join.
-
-560
-00:25:08,160 --> 00:25:09,360
-It's just a little fun thing I'm doing.
-
-561
-00:25:09,780 --> 00:25:11,760
-But there's going to be a lot of people from different areas.
-
-562
-00:25:12,280 --> 00:25:13,240
-In B-Tubing.
-
-563
-00:25:13,420 --> 00:25:14,080
-And then.
-
-564
-00:25:15,240 --> 00:25:17,360
-Axel got back to me and was like.
-
-565
-00:25:17,440 --> 00:25:17,840
-Oh my gosh.
-
-566
-00:25:17,860 --> 00:25:18,900
-So many of the boys are interested.
-
-567
-00:25:19,240 --> 00:25:19,580
-And I was like.
-
-568
-00:25:19,680 --> 00:25:19,820
-Yeah.
-
-569
-00:25:20,020 --> 00:25:21,520
-Bring people to join in.
-
-570
-00:25:21,880 --> 00:25:22,360
-And then.
-
-571
-00:25:23,300 --> 00:25:24,060
-So anyway.
-
-572
-00:25:25,720 --> 00:25:26,820
-Holostars was actually.
-
-573
-00:25:27,400 --> 00:25:30,060
-The last minute entry.
-
-574
-00:25:31,180 --> 00:25:31,980
-Into WrestleTuber.
-
-575
-00:25:32,320 --> 00:25:34,000
-And so we have a lot of people.
-
-576
-00:25:34,000 --> 00:25:38,060
-After the last Holostars member got into the server.
-
-577
-00:25:38,260 --> 00:25:38,920
-I was like.
-
-578
-00:25:38,980 --> 00:25:39,140
-Alright.
-
-579
-00:25:39,200 --> 00:25:39,580
-We're capping.
-
-580
-00:25:42,940 --> 00:25:43,940
-I was like.
-
-581
-00:25:44,300 --> 00:25:44,780
-Okay.
-
-582
-00:25:44,860 --> 00:25:45,120
-We are.
-
-583
-00:25:45,840 --> 00:25:47,800
-We gotta hard cap this now.
-
-584
-00:25:52,280 --> 00:25:52,760
-So.
-
-585
-00:25:56,720 --> 00:25:57,680
-But yes.
-
-586
-00:25:57,880 --> 00:25:58,180
-It was.
-
-587
-00:25:59,500 --> 00:26:00,860
-So we have Holostars.
-
-588
-00:26:00,860 --> 00:26:01,840
-We have.
-
-589
-00:26:03,460 --> 00:26:04,020
-Axel.
-
-590
-00:26:05,180 --> 00:26:05,740
-Haka.
-
-591
-00:26:06,820 --> 00:26:07,380
-Beto.
-
-592
-00:26:08,260 --> 00:26:08,820
-Gerard.
-
-593
-00:26:08,880 --> 00:26:09,360
-Octavia.
-
-594
-00:26:09,980 --> 00:26:10,540
-Goldbullet.
-
-595
-00:26:10,580 --> 00:26:12,180
-And Shinri from Holostars.
-
-596
-00:26:12,380 --> 00:26:13,540
-In Idol EN.
-
-597
-00:26:13,840 --> 00:26:14,860
-We have Juna.
-
-598
-00:26:15,000 --> 00:26:15,380
-Fuyo.
-
-599
-00:26:15,480 --> 00:26:15,760
-Kai.
-
-600
-00:26:15,940 --> 00:26:16,320
-And Rin.
-
-601
-00:26:16,580 --> 00:26:17,420
-And finally.
-
-602
-00:26:17,440 --> 00:26:18,520
-In FaZe Connect.
-
-603
-00:26:18,820 --> 00:26:20,260
-We have Saya and Remilia.
-
-604
-00:26:20,540 --> 00:26:21,860
-So these are.
-
-605
-00:26:22,040 --> 00:26:24,340
-The 29 participants.
-
-606
-00:26:24,860 --> 00:26:26,600
-That will be participating.
-
-607
-00:26:26,860 --> 00:26:28,360
-In WrestleTuber.
-
-608
-00:26:28,560 --> 00:26:29,520
-Like I said before.
-
-609
-00:26:29,680 --> 00:26:30,040
-I'm really sorry.
-
-610
-00:26:30,080 --> 00:26:30,380
-We don't see.
-
-611
-00:26:30,860 --> 00:26:32,620
-Either Oshii or VTuber.
-
-612
-00:26:32,680 --> 00:26:34,500
-We really wanted to be in WrestleTuber.
-
-613
-00:26:34,760 --> 00:26:36,920
-It was very hard to like.
-
-614
-00:26:37,560 --> 00:26:39,040
-It was very hard.
-
-615
-00:26:39,140 --> 00:26:40,020
-To like.
-
-616
-00:26:40,140 --> 00:26:41,100
-Limit participants.
-
-617
-00:26:41,220 --> 00:26:42,140
-As well as like.
-
-618
-00:26:42,240 --> 00:26:44,480
-When we came to sending out invites and stuff.
-
-619
-00:26:44,640 --> 00:26:46,400
-At one point we sent out invites.
-
-620
-00:26:46,560 --> 00:26:48,000
-To certain VTubers.
-
-621
-00:26:48,820 --> 00:26:49,380
-But.
-
-622
-00:26:49,840 --> 00:26:51,480
-Because they were very busy.
-
-623
-00:26:51,640 --> 00:26:54,140
-They weren't able to reply back in time.
-
-624
-00:26:54,880 --> 00:26:56,740
-Or like the invite got lost.
-
-625
-00:26:57,060 --> 00:26:58,800
-So there were some.
-
-626
-00:26:59,120 --> 00:27:00,840
-There was also some VTubers.
-
-627
-00:27:00,860 --> 00:27:02,580
-That originally.
-
-628
-00:27:02,680 --> 00:27:03,860
-Were able to participate.
-
-629
-00:27:04,060 --> 00:27:05,860
-But because we had to change the date.
-
-630
-00:27:05,920 --> 00:27:06,660
-Last minute.
-
-631
-00:27:08,620 --> 00:27:09,820
-We had some VTubers.
-
-632
-00:27:09,900 --> 00:27:11,120
-That couldn't participate.
-
-633
-00:27:11,460 --> 00:27:14,000
-Due to the change of the date.
-
-634
-00:27:14,300 --> 00:27:14,600
-So.
-
-635
-00:27:16,260 --> 00:27:17,280
-And of course.
-
-636
-00:27:17,380 --> 00:27:18,500
-There was also like.
-
-637
-00:27:18,560 --> 00:27:19,040
-Obviously.
-
-638
-00:27:19,100 --> 00:27:20,360
-We had limited spots.
-
-639
-00:27:20,720 --> 00:27:21,860
-And because of that.
-
-640
-00:27:22,040 --> 00:27:23,000
-We had to.
-
-641
-00:27:23,180 --> 00:27:24,340
-Well I had to.
-
-642
-00:27:24,360 --> 00:27:24,740
-Because like.
-
-643
-00:27:24,820 --> 00:27:26,240
-I'm the sole organizer.
-
-644
-00:27:30,850 --> 00:27:31,770
-I am.
-
-645
-00:27:31,770 --> 00:27:32,990
-I am the sole organizer.
-
-646
-00:27:33,150 --> 00:27:33,710
-So I.
-
-647
-00:27:34,170 --> 00:27:35,350
-Made the decision.
-
-648
-00:27:35,510 --> 00:27:36,290
-With myself.
-
-649
-00:27:36,610 --> 00:27:37,270
-The board.
-
-650
-00:27:37,510 --> 00:27:38,350
-Which is myself.
-
-651
-00:27:40,630 --> 00:27:41,050
-That.
-
-652
-00:27:42,030 --> 00:27:42,630
-That.
-
-653
-00:27:43,650 --> 00:27:44,850
-Regarding like.
-
-654
-00:27:46,170 --> 00:27:47,070
-Regarding like.
-
-655
-00:27:47,270 --> 00:27:47,750
-Who can.
-
-656
-00:27:48,210 --> 00:27:48,630
-And like.
-
-657
-00:27:48,870 --> 00:27:49,470
-When.
-
-658
-00:27:50,590 --> 00:27:51,390
-Who to invite.
-
-659
-00:27:51,710 --> 00:27:52,050
-And like.
-
-660
-00:27:52,130 --> 00:27:53,710
-Oh what do we do with this.
-
-661
-00:27:53,850 --> 00:27:54,450
-The board.
-
-662
-00:27:54,530 --> 00:27:55,450
-As in me.
-
-663
-00:27:55,450 --> 00:27:57,110
-And me only.
-
-664
-00:27:58,570 --> 00:28:00,610
-The Doki board.
-
-665
-00:28:00,810 --> 00:28:02,190
-I am the senate.
-
-666
-00:28:02,390 --> 00:28:02,910
-Anyway.
-
-667
-00:28:03,010 --> 00:28:03,970
-Now you guys are wondering.
-
-668
-00:28:04,090 --> 00:28:05,070
-Who is on.
-
-669
-00:28:05,090 --> 00:28:06,810
-The broadcast staff.
-
-670
-00:28:07,230 --> 00:28:09,010
-So on the broadcast staff.
-
-671
-00:28:09,350 --> 00:28:10,250
-We have.
-
-672
-00:28:11,670 --> 00:28:13,350
-The interviewer.
-
-673
-00:28:13,350 --> 00:28:14,950
-Will be Juna.
-
-674
-00:28:15,350 --> 00:28:17,910
-Juna Unagi from Idol EN.
-
-675
-00:28:18,070 --> 00:28:19,310
-The announcer.
-
-676
-00:28:19,530 --> 00:28:21,430
-Will be Sayu.
-
-677
-00:28:21,770 --> 00:28:23,350
-The casters.
-
-678
-00:28:23,430 --> 00:28:24,970
-Will be me.
-
-679
-00:28:25,450 --> 00:28:25,970
-Snuffy.
-
-680
-00:28:26,950 --> 00:28:27,790
-Octavio.
-
-681
-00:28:28,010 --> 00:28:29,490
-And Gold Bullet.
-
-682
-00:28:29,830 --> 00:28:31,350
-So that is.
-
-683
-00:28:31,630 --> 00:28:34,130
-The broadcast staff team.
-
-684
-00:28:34,510 --> 00:28:36,730
-For the 25th.
-
-685
-00:28:36,770 --> 00:28:38,930
-And the 26th.
-
-686
-00:28:38,930 --> 00:28:39,870
-I'm so sorry.
-
-687
-00:28:39,950 --> 00:28:43,070
-I'm like blocking you.
-
-688
-00:28:47,070 --> 00:28:48,190
-Here is.
-
-689
-00:28:48,190 --> 00:28:50,870
-Here is the broadcast staff.
-
-690
-00:28:51,170 --> 00:28:52,610
-Just so you guys know.
-
-691
-00:28:52,670 --> 00:28:53,550
-For the casters.
-
-692
-00:28:55,450 --> 00:28:55,650
-We are going to be like.
-
-693
-00:28:55,730 --> 00:28:57,350
-All of us are just going to be on the casting table.
-
-694
-00:28:57,550 --> 00:29:00,030
-The reason why the casting table.
-
-695
-00:29:00,870 --> 00:29:01,310
-Is.
-
-696
-00:29:01,910 --> 00:29:03,630
-There is a lot of people in the casting.
-
-697
-00:29:04,970 --> 00:29:05,730
-Broadcasting table.
-
-698
-00:29:05,930 --> 00:29:07,010
-Is so that we can.
-
-699
-00:29:07,730 --> 00:29:09,810
-Basically mix and match in between.
-
-700
-00:29:10,910 --> 00:29:12,370
-So because of that.
-
-701
-00:29:12,610 --> 00:29:13,990
-It allows us to like.
-
-702
-00:29:14,290 --> 00:29:15,290
-We don't have like.
-
-703
-00:29:15,410 --> 00:29:15,670
-One.
-
-704
-00:29:15,870 --> 00:29:16,310
-Two.
-
-705
-00:29:16,410 --> 00:29:18,510
-Like all of us don't have the fucking cast.
-
-706
-00:29:18,750 --> 00:29:19,690
-All the way through.
-
-707
-00:29:19,690 --> 00:29:21,250
-We can take breaks in between.
-
-708
-00:29:22,430 --> 00:29:24,090
-And like mix and match.
-
-709
-00:29:24,230 --> 00:29:25,470
-The combinations.
-
-710
-00:29:26,090 --> 00:29:27,270
-Of the casters.
-
-711
-00:29:27,530 --> 00:29:28,270
-So like.
-
-712
-00:29:30,050 --> 00:29:31,170
-And so like.
-
-713
-00:29:31,230 --> 00:29:33,270
-It allows us to rest a bit in between.
-
-714
-00:29:33,370 --> 00:29:34,130
-And take breaks.
-
-715
-00:29:34,290 --> 00:29:35,950
-Because that was like one of the things I realized.
-
-716
-00:29:36,090 --> 00:29:40,070
-That having a small pool of casters.
-
-717
-00:29:40,150 --> 00:29:41,390
-Is not really like the best.
-
-718
-00:29:41,690 --> 00:29:43,550
-Because like what if we want to take a break.
-
-719
-00:29:43,690 --> 00:29:44,450
-And it's very long.
-
-720
-00:29:44,630 --> 00:29:46,130
-The thing is this is a very.
-
-721
-00:29:46,130 --> 00:29:47,810
-This is going to be a very long event.
-
-722
-00:29:47,990 --> 00:29:49,990
-Due to how many participants there are.
-
-723
-00:29:50,390 --> 00:29:50,710
-So.
-
-724
-00:29:52,930 --> 00:29:56,550
-So it's good to be able to mix and match the casters.
-
-725
-00:29:56,650 --> 00:29:57,690
-Because in the end.
-
-726
-00:29:57,750 --> 00:30:00,190
-I remember I had like set casters for like certain days.
-
-727
-00:30:00,550 --> 00:30:01,950
-But for this one.
-
-728
-00:30:02,110 --> 00:30:03,750
-We're going to be mixing in between.
-
-729
-00:30:03,910 --> 00:30:05,630
-It's not going to be mixed every match or so.
-
-730
-00:30:05,810 --> 00:30:07,970
-Like maybe like this combination will do like.
-
-731
-00:30:08,490 --> 00:30:09,350
-Three to four.
-
-732
-00:30:09,530 --> 00:30:10,110
-Like two.
-
-733
-00:30:10,270 --> 00:30:11,330
-Three to four matches.
-
-734
-00:30:11,630 --> 00:30:12,690
-And then you know.
-
-735
-00:30:12,690 --> 00:30:14,230
-And then like later on.
-
-736
-00:30:14,290 --> 00:30:16,450
-We go in with a new combination.
-
-737
-00:30:16,590 --> 00:30:17,870
-For three to four matches.
-
-738
-00:30:18,850 --> 00:30:21,050
-And that is how it's going to be.
-
-739
-00:30:21,430 --> 00:30:22,250
-Also finally.
-
-740
-00:30:22,530 --> 00:30:22,970
-Credits.
-
-741
-00:30:24,650 --> 00:30:25,430
-We have.
-
-742
-00:30:25,590 --> 00:30:27,250
-This might be a very familiar team.
-
-743
-00:30:27,810 --> 00:30:29,270
-Because I love working with these people.
-
-744
-00:30:30,010 --> 00:30:31,690
-When I do like projects and events.
-
-745
-00:30:31,850 --> 00:30:33,830
-I tend to work with the same people.
-
-746
-00:30:33,970 --> 00:30:35,170
-Because they know what I like.
-
-747
-00:30:35,290 --> 00:30:36,030
-They know what I want.
-
-748
-00:30:36,270 --> 00:30:39,130
-And I know they do a really good job.
-
-749
-00:30:39,890 --> 00:30:41,090
-So like I said.
-
-750
-00:30:42,690 --> 00:30:44,750
-The logo was done by.
-
-751
-00:30:45,330 --> 00:30:45,910
-SSSugarType.
-
-752
-00:30:46,730 --> 00:30:48,670
-You see here the WrestleTuber.
-
-753
-00:30:49,130 --> 00:30:51,010
-The belt will be designed.
-
-754
-00:30:51,030 --> 00:30:51,770
-By Melly.
-
-755
-00:30:52,110 --> 00:30:54,890
-We will be showing you guys the design of the belt.
-
-756
-00:30:54,990 --> 00:30:56,190
-At a later stage.
-
-757
-00:30:57,690 --> 00:30:59,090
-At a later stage.
-
-758
-00:30:59,350 --> 00:31:00,270
-Of the.
-
-759
-00:31:01,330 --> 00:31:02,670
-Like when it gets closer.
-
-760
-00:31:02,670 --> 00:31:03,410
-To the event.
-
-761
-00:31:03,870 --> 00:31:05,930
-When it gets closer to the event.
-
-762
-00:31:06,010 --> 00:31:07,410
-The belt design will be shown.
-
-763
-00:31:07,590 --> 00:31:09,790
-There will be multiple belts.
-
-764
-00:31:10,190 --> 00:31:11,170
-Why multiple?
-
-765
-00:31:12,690 --> 00:31:13,470
-Because the show matches.
-
-766
-00:31:13,510 --> 00:31:15,970
-Will also be sent a belt.
-
-767
-00:31:16,230 --> 00:31:17,930
-So the winners of the show matches.
-
-768
-00:31:18,070 --> 00:31:19,590
-Will get their own belt as well.
-
-769
-00:31:19,710 --> 00:31:21,350
-As well as the tournament.
-
-770
-00:31:22,910 --> 00:31:24,690
-And like I said.
-
-771
-00:31:25,170 --> 00:31:26,650
-Everybody that participates.
-
-772
-00:31:26,670 --> 00:31:28,710
-Will get like a little gift.
-
-773
-00:31:28,790 --> 00:31:30,130
-And souvenir from me.
-
-774
-00:31:30,510 --> 00:31:32,110
-To thank them for participating.
-
-775
-00:31:32,490 --> 00:31:33,970
-So everybody gets something.
-
-776
-00:31:35,030 --> 00:31:36,150
-And GamerSubs.
-
-777
-00:31:36,210 --> 00:31:38,490
-Will be sponsoring all of this.
-
-778
-00:31:38,710 --> 00:31:41,550
-So GamerSubs is paying for all the gifts.
-
-779
-00:31:41,690 --> 00:31:42,590
-As well as the belts.
-
-780
-00:31:42,690 --> 00:31:43,610
-The graphics.
-
-781
-00:31:45,250 --> 00:31:46,970
-Basically anything that.
-
-782
-00:31:47,030 --> 00:31:48,590
-That needs to be paid.
-
-783
-00:31:48,590 --> 00:31:49,530
-For this event.
-
-784
-00:31:49,990 --> 00:31:52,290
-Is paid for by GamerSubs.
-
-785
-00:31:52,510 --> 00:31:53,950
-So huge shout out to them.
-
-786
-00:31:54,290 --> 00:31:55,810
-Because like it's a lot of stuff.
-
-787
-00:31:59,850 --> 00:32:00,950
-It's actually crazy.
-
-788
-00:32:00,970 --> 00:32:01,870
-The amount of support.
-
-789
-00:32:01,990 --> 00:32:03,450
-For my very first.
-
-790
-00:32:03,790 --> 00:32:04,970
-Big event.
-
-791
-00:32:05,310 --> 00:32:06,290
-And finally.
-
-792
-00:32:06,810 --> 00:32:07,410
-OniPilot.
-
-793
-00:32:07,590 --> 00:32:09,410
-For designing all the graphics.
-
-794
-00:32:09,410 --> 00:32:10,530
-That you see here.
-
-795
-00:32:11,950 --> 00:32:12,990
-For WrestleTuber.
-
-796
-00:32:13,390 --> 00:32:13,870
+161
+00:21:11,820 --> 00:21:18,140
+And, like, at that point, like, I also didn't want to have,
+like, too many from one sector.
+
+162
+00:21:18,800 --> 00:21:25,840
+So, like, and obviously, like, some, obviously, other areas,
+there might not be a lot of interest was there regarding
+
+163
+00:21:25,840 --> 00:21:26,340
+that.
+
+164
+00:21:26,720 --> 00:21:32,620
+So there was a lot of interest in certain companies, and
+there was a lot of interest within the indie sphere.
+
+165
+00:21:33,000 --> 00:21:36,280
+But I tried to balance it as best as I could.
+
+166
+00:21:40,000 --> 00:21:47,140
+And then obviously there were moments where like some of the
+companies had their own events during this time or like
+
+167
+00:21:47,140 --> 00:21:54,560
+during that date and or And because of that they weren't
+able to participate some like VTubers that wanted to
+
+168
+00:21:54,560 --> 00:22:03,660
+participate couldn't participate due to the Overlapping the
+schedule so within like either company wise or Or just like
+
+169
+00:22:03,660 --> 00:22:05,600
+within their own individual schedule.
+
+170
+00:22:06,440 --> 00:22:08,220
+Anyway, team's time.
+
+171
+00:22:08,900 --> 00:22:21,420
+It's team teams time wow all right so this is slide number
+one um i need you guys to know um um like i said i reached
+
+172
+00:22:21,420 --> 00:22:32,440
+out um to a bunch of companies um because i really wanted to
+um i reached out to a bunch of companies and i said like
+
+173
+00:22:32,440 --> 00:22:40,540
+okay there is a limit to how many per company can send and
+uh and i obviously I really wanted to reach out to prison
+
+174
+00:22:40,540 --> 00:22:49,520
+like ex-prison project uh uh to participate in this uh in
+this event uh because of everything that happened so I
+
+175
+00:22:49,520 --> 00:22:58,120
+reached out to one of the members in ex-prison project and
+asked if they wanted to be in uh in WrestleTuber um really
+
+176
+00:22:58,120 --> 00:23:04,460
+happy to have yeah we there was actually a lot of interest
+but unfortunately we had to cap it uh as I said like because
+
+177
+00:23:04,460 --> 00:23:13,240
+I didn't want to have like like one had spread it out more
+evenly uh amongst the amongst the participants regarding
+
+178
+00:23:13,240 --> 00:23:22,300
+like which uh which like i'm writing like how many can each
+company send so there was a hard limit for each company um
+
+179
+00:23:22,300 --> 00:23:33,140
+so like i said uh there are the participants in prison
+ex-prison project um nia sarah emma uh luto asteria and non
+
+180
+00:23:33,140 --> 00:23:43,900
+and then in v show jo we have zentrea uh for the indies we
+have saiyu phillian buff puff me shy lily limu maryweather
+
+181
+00:23:43,900 --> 00:23:53,060
+snuffy and nirosama um so this is uh there's a slide two
+guys there's a slide two because we have 29.
+
+182
+00:23:57,360 --> 00:23:59,340
+there is a slide two
+
+183
+00:24:04,080 --> 00:24:08,300
+I feel like people are like, oh my god, what's in slide two?
+
+184
+00:24:11,940 --> 00:24:14,040
+I'm like, even I'm anxious.
+
+185
+00:24:16,920 --> 00:24:19,860
+Even I'm fucking anxious on slide two.
+
+186
+00:24:20,720 --> 00:24:22,760
+But anyway, here is slide two.
+
+187
+00:24:23,840 --> 00:24:31,200
+So we have Idol EN, Phase Connect, and Hollow Stars
+participating.
+
+188
+00:24:31,740 --> 00:24:34,000
+And you guys know, Axel, Axel.
+
+189
+00:24:34,020 --> 00:24:36,660
+I was talking to Axel and this was at hello stars.
+
+190
+00:24:36,820 --> 00:24:41,200
+This was actually the last minute edition They joined the
+server.
+
+191
+00:24:41,720 --> 00:24:56,160
+I think three days ago and I had to re not redo everything
+But I had to scrounge up a lot of stuff So so huge shout out
+
+192
+00:24:56,160 --> 00:25:05,360
+to Axel for helping me with this because I asked him like do
+you I'm organizing wrestle tuber i was wondering if you're
+
+193
+00:25:05,360 --> 00:25:10,200
+you guys are interested like um obviously you guys don't
+have to join it's just a little fun thing i'm doing um but
+
+194
+00:25:10,200 --> 00:25:17,460
+there's gonna be a lot of people from different areas um in
+b-tubing and then axel was came got back to me and was like
+
+195
+00:25:17,460 --> 00:25:25,380
+oh my gosh so many of the boys are interested and i was like
+yeah bring people to join in and then uh so anyway so hello
+
+196
+00:25:25,380 --> 00:25:34,660
+stars was actually one of the last the last minute entry
+into wrestle tuber and so we have a lot of people in rest
+
+197
+00:25:34,660 --> 00:25:45,100
+like at after the last hollow stars member got into the
+server i was like all right we're capping i was like okay we
+
+198
+00:25:45,100 --> 00:25:48,340
+are we're we got a hard cap this now
+
+199
+00:25:53,140 --> 00:26:10,900
+so um um but yes it would uh so we have hollow stars we have
+uh Aksa, Haka, Beto, Gerard, Octavia, Gold Bullet, and
+
+200
+00:26:10,900 --> 00:26:12,360
+Shinri from Holostars.
+
+201
+00:26:12,980 --> 00:26:16,500
+In Idol Yen, we have Juna, Fuyo, Kai, and Rin.
+
+202
+00:26:17,020 --> 00:26:20,520
+And finally, in Phase Connect, we have Saya and Rumiya.
+
+203
+00:26:20,880 --> 00:26:28,440
+So these are the 29 participants that will be participating
+in WrestleTuber.
+
+204
+00:26:28,920 --> 00:26:32,620
+Like I said before, I'm really sorry we don't see your Oshi
+or VTuber.
+
+205
+00:26:34,040 --> 00:26:43,200
+restituber it was very hard to like um it was very hard to
+like limit participants as well as like when we came to
+
+206
+00:26:43,200 --> 00:26:51,240
+sending out invites and stuff at one point we sent out
+invites to certain vtubers um but uh because they were very
+
+207
+00:26:51,240 --> 00:27:00,560
+busy they weren't able to reply back in time um or like the
+invite got lost so uh there were some uh there was also some
+
+208
+00:27:00,560 --> 00:27:10,540
+vtubers that uh originally was were but because we had to
+change the date last minute we had some vtubers that
+
+209
+00:27:10,540 --> 00:27:20,700
+couldn't participate due to the change of the date so um and
+of course there was also like obviously we had limited spots
+
+210
+00:27:20,700 --> 00:27:26,640
+and because of that uh we had to well i had to because like
+i'm the sole organizer
+
+211
+00:27:30,870 --> 00:27:39,170
+i am the sole organizer so i made the decision with myself,
+the board, which is myself.
+
+212
+00:27:40,810 --> 00:27:52,810
+That regarding like regarding like who can and who like
+regarding like like when who to invite and like oh like what
+
+213
+00:27:52,810 --> 00:27:54,010
+do we do with this?
+
+214
+00:27:54,130 --> 00:27:57,470
+The board as in me and me only.
+
+215
+00:27:59,490 --> 00:28:00,810
+The dokey board.
+
+216
+00:28:01,390 --> 00:28:02,310
+I am the Senate.
+
+217
+00:28:02,930 --> 00:28:13,710
+Anyway, now you guys are wondering who is on the broadcast
+staff so on the broadcast staff we have um the interviewer
+
+218
+00:28:13,710 --> 00:28:28,090
+will be juna uh juna unangi from idol en the announcer will
+be saiyu uh the casters will be me snuffy phillian octavio
+
+219
+00:28:28,090 --> 00:28:40,510
+and gold bullet uh so that is uh the broadcast staff team uh
+for the 25th and the 26th brought i'm so sorry gold bullet
+
+220
+00:28:40,510 --> 00:28:43,690
+i'm so i'm like blocking you
+
+221
+00:28:46,810 --> 00:28:56,190
+but here is here is the broadcast staff um just so you guys
+know for the casters um it's not going to be like all of us
+
+222
+00:28:56,190 --> 00:29:03,050
+are just going to be on the casting table the reason why the
+casting the casting table is uh the cat there's a lot of
+
+223
+00:29:03,050 --> 00:29:10,110
+people in the casting uh broadcasting table is so that we
+can basically mix and match in between.
+
+224
+00:29:11,230 --> 00:29:17,590
+So because of that, it allows us to, like, for the, we don't
+have, like, you know, one, two, like all of us don't have
+
+225
+00:29:17,590 --> 00:29:19,830
+the fucking cast all the way through.
+
+226
+00:29:19,990 --> 00:29:27,390
+We can take breaks in between and like mix and match the
+combinations of the casters.
+
+227
+00:29:28,070 --> 00:29:34,250
+So like, and so like it allows us to rest a bit in between
+and take breaks.
+
+228
+00:29:34,590 --> 00:29:41,630
+Because that was like one of the things I realized that
+having a small pool of casters is not really like the best
+
+229
+00:29:41,630 --> 00:29:47,290
+because like what if we want to take a break and it's very
+long the thing is this is a very this is going to be a very
+
+230
+00:29:47,290 --> 00:29:57,570
+long event due to how many participants there are so so it's
+good to be able to mix and match the casters because in the
+
+231
+00:29:57,570 --> 00:30:04,110
+end I remember I had like set casters for like certain days
+but for this one we're going to be mixing in between it's
+
+232
+00:30:04,110 --> 00:30:10,870
+not gonna be mixed every match or so like maybe like this
+combination will do like uh three to four like two three to
+
+233
+00:30:10,870 --> 00:30:19,590
+four matches and then you know and then like later on we go
+in with a new combination for three to four matches and uh
+
+234
+00:30:19,590 --> 00:30:28,850
+that is how it's gonna be also finally credits uh uh we have
+this might be a very familiar team um because i love working
+
+235
+00:30:28,850 --> 00:30:34,970
+with these people um when i do like projects and events i
+tend to work with the same people because they know what i
+
+236
+00:30:34,970 --> 00:30:45,030
+like they know what i want and um i know they do a really
+good job uh so like i said there is uh the logo was done by
+
+237
+00:30:45,030 --> 00:30:53,830
+ss sugar type um you see here the wrestle tuber uh the bell
+will be designed by melie uh we will be showing you guys the
+
+238
+00:30:53,830 --> 00:31:05,130
+design of the belt at a later stage um at a stage of the uh
+like when it gets closer to the event i guess uh when it get
+
+239
+00:31:05,130 --> 00:31:12,870
+closer to the event the belt design will be shown there will
+be multiple belts why multiple because those that won the
+
+240
+00:31:12,870 --> 00:31:21,070
+show matches will also be sent a belt so the winners of the
+show matches will get their own belt as well as well as the
+
+241
+00:31:21,070 --> 00:31:31,750
+tournament uh and uh and like i said um everybody that
+participates and souvenir from me um to thank them for
+
+242
+00:31:31,750 --> 00:31:40,690
+participating so everybody gets something and gamer subs
+will be sponsoring all of this so gamer subs is paying for
+
+243
+00:31:40,690 --> 00:31:49,330
+all the the gifts as well as the belts the graphics um
+basically anything that uh that needs to be paid for this
+
+244
+00:31:49,330 --> 00:32:01,150
+event is paid for by gamer subs so huge shout out to them
+because like it's a lot of stuff I felt it's actually crazy
+
+245
+00:32:01,150 --> 00:32:05,330
+the amount of support for my very first big event.
+
+246
+00:32:05,850 --> 00:32:13,130
+And finally, OniPilot for designing all the graphics that
+you see here for WrestleTuber.
+
+247
+00:32:13,790 --> 00:32:14,090
 Yay!
 
-797
-00:32:15,630 --> 00:32:16,150
-Alright.
+248
+00:32:15,830 --> 00:32:17,270
+All right, finally, rules.
 
-798
-00:32:16,370 --> 00:32:16,890
-Rules.
+249
+00:32:18,350 --> 00:32:20,150
+Before, it's not over yet, guys.
 
-799
-00:32:18,610 --> 00:32:19,930
-It's not over yet guys.
+250
+00:32:20,230 --> 00:32:25,850
+It's not over yet because we still have the matchups that we
+have to do, the brackets scenario,
 
-800
-00:32:20,170 --> 00:32:21,110
-It's not over yet.
+251
+00:32:28,950 --> 00:32:39,170
+Almost forgot to show you guys rules two and three All
+right, rules two and three Where's rules two?
 
-801
-00:32:21,230 --> 00:32:23,890
-Because we still have the matchups that we have to do.
+252
+00:32:39,350 --> 00:32:53,910
+All right, rules two Wrestlers will be created in WWE 2K24
+The deadline for the wrestler's submission will be May 24th
 
-802
-00:32:23,990 --> 00:32:25,470
-The brackets scenario.
+253
+00:32:53,910 --> 00:33:03,110
+So it's the day before the event is for both the VTubers
+that are creating the wrestlers and for the fan submissions.
 
-803
-00:32:26,090 --> 00:32:28,890
-And the rules 2 and 3.
+254
+00:33:03,770 --> 00:33:12,470
+So just remember like if you're making when we, I will be
+giving a list of the VTubers that will be using your fan
 
-804
-00:32:29,210 --> 00:32:30,650
-Almost forgot to show you guys.
+255
+00:33:12,470 --> 00:33:18,310
+submission wrestler and the deadline will be May 24th.
 
-805
-00:32:30,710 --> 00:32:31,810
-Rules 2 and 3.
+256
+00:33:18,370 --> 00:33:24,710
+The wrestlers have to be male so that they can all wrestle
+each other in the tournament.
 
-806
-00:32:34,170 --> 00:32:34,690
-Alright.
+257
+00:33:25,370 --> 00:33:27,750
+So They have to be male.
 
-807
-00:32:34,690 --> 00:32:35,650
-Alright.
+258
+00:33:28,710 --> 00:33:29,890
+Just because that's the only way.
 
-808
-00:32:35,810 --> 00:32:37,430
-Rules 2 and 3.
-
-809
-00:32:37,730 --> 00:32:38,550
-Where's rules 2?
-
-810
-00:32:38,890 --> 00:32:39,970
-Alright rules 2.
-
-811
-00:32:41,610 --> 00:32:42,290
-Uh.
-
-812
-00:32:43,250 --> 00:32:45,250
-Wrestlers will be created.
-
-813
-00:32:45,270 --> 00:32:48,370
-In WWE 2K24.
-
-814
-00:32:48,730 --> 00:32:49,770
-The deadline.
-
-815
-00:32:49,890 --> 00:32:50,970
-For the wrestler submission.
-
-816
-00:32:51,270 --> 00:32:53,450
-Will be May 24th.
-
-817
-00:32:53,530 --> 00:32:56,090
-So it's the day before the event.
-
-818
-00:32:56,390 --> 00:32:56,810
-Um.
-
-819
-00:32:56,910 --> 00:33:00,810
-It's for both the VTubers that are creating the wrestlers.
-
-820
-00:33:00,910 --> 00:33:02,730
-And for the fan submissions.
-
-821
-00:33:03,030 --> 00:33:04,270
-So just remember.
-
-822
-00:33:04,690 --> 00:33:05,510
-Like uh.
-
-823
-00:33:05,730 --> 00:33:06,570
-If you're making.
-
-824
-00:33:06,730 --> 00:33:10,270
-I will be giving a list of the VTubers.
-
-825
-00:33:10,290 --> 00:33:13,530
-That will be using your fan submission wrestler.
-
-826
-00:33:13,970 --> 00:33:14,510
-Uh.
-
-827
-00:33:14,710 --> 00:33:17,910
-And the deadline will be May 24th.
-
-828
-00:33:17,990 --> 00:33:18,970
-The wrestlers.
-
-829
-00:33:18,970 --> 00:33:20,610
-Have to be male.
-
-830
-00:33:20,890 --> 00:33:22,910
-So that they can all wrestle each other.
-
-831
-00:33:23,250 --> 00:33:24,470
-In the tournament.
-
-832
-00:33:24,730 --> 00:33:25,290
-So.
-
-833
-00:33:25,810 --> 00:33:27,470
-They have to be male.
-
-834
-00:33:28,050 --> 00:33:29,770
-Just cause like that's the only way.
-
-835
-00:33:29,850 --> 00:33:31,950
+259
+00:33:29,910 --> 00:33:32,190
 There's no like in the tournament structure.
 
-836
-00:33:31,950 --> 00:33:34,250
+260
+00:33:32,310 --> 00:33:34,450
 You can't put like female male wrestlers together.
 
-837
-00:33:34,410 --> 00:33:35,770
-So we have to decide.
+261
+00:33:34,870 --> 00:33:37,850
+So we have to decide like it has to be all male.
 
-838
-00:33:35,870 --> 00:33:37,670
-Like it has to be all male.
-
-839
-00:33:37,850 --> 00:33:38,970
-Uh for stats.
-
-840
-00:33:39,110 --> 00:33:39,330
-Whoa!
-
-841
-00:33:39,490 --> 00:33:41,550
-Sorry I forgot to lock myself in.
-
-842
-00:33:41,670 --> 00:33:42,090
-For.
-
-843
-00:33:44,930 --> 00:33:46,030
+262
+00:33:38,750 --> 00:33:39,130
 For stats.
 
-844
-00:33:46,490 --> 00:33:48,450
-Please have the attributes.
+263
+00:33:39,910 --> 00:33:41,950
+Sorry I forgot to lock myself in.
 
-845
-00:33:48,490 --> 00:33:50,140
-Have an overall range.
+264
+00:33:42,210 --> 00:33:46,330
+For stats.
 
-846
-00:33:51,170 --> 00:33:52,410
-Of 85.
+265
+00:33:46,850 --> 00:33:52,890
+Please have the attributes have an overall range of 85.
 
-847
-00:33:52,910 --> 00:33:55,150
+266
+00:33:53,510 --> 00:33:55,530
 It has to be 85.
 
-848
-00:33:55,590 --> 00:33:56,790
+267
+00:33:55,550 --> 00:33:56,970
 It can't be 84.
 
-849
-00:33:57,050 --> 00:33:58,310
+268
+00:33:57,190 --> 00:33:58,670
 It can't be 86.
 
-850
-00:33:58,610 --> 00:34:00,850
+269
+00:33:59,010 --> 00:34:01,370
 It has to be 85.
 
-851
-00:34:01,310 --> 00:34:01,930
-It has to be 85.
-
-852
-00:34:01,950 --> 00:34:03,990
-So when you're doing all your stats configuration.
-
-853
-00:34:04,950 --> 00:34:05,590
-85.
-
-854
-00:34:05,850 --> 00:34:08,150
-Has to be the overall stat.
-
-855
-00:34:09,070 --> 00:34:10,770
-When uploading your wrestler.
-
-856
-00:34:11,010 --> 00:34:13,150
-Please use these tags.
-
-857
-00:34:14,650 --> 00:34:15,290
-WrestleTuber2024.
-
-858
-00:34:15,990 --> 00:34:16,630
-VTubers.
-
-859
-00:34:18,390 --> 00:34:19,030
-VTWWE.
-
-860
-00:34:19,190 --> 00:34:20,430
-And like I said.
-
-861
-00:34:20,550 --> 00:34:21,950
-WWE 2K24.
-
-862
-00:34:22,910 --> 00:34:25,110
-This is the game that we will be using.
-
-863
-00:34:25,150 --> 00:34:26,430
-For the tournament structure.
-
-864
-00:34:26,810 --> 00:34:28,530
-We will be using the steam version.
-
-865
-00:34:28,770 --> 00:34:29,810
-With all the DLC.
-
-866
-00:34:30,210 --> 00:34:31,930
-You don't have to have the DLC.
-
-867
-00:34:34,990 --> 00:34:36,890
-If you're creating your wrestler.
-
-868
-00:34:37,130 --> 00:34:38,630
-But like if you have the DLC.
-
-869
-00:34:38,730 --> 00:34:39,510
-It's just more customization.
-
-870
-00:34:40,150 --> 00:34:41,690
-So like I'll be using the DLC.
-
-871
-00:34:41,750 --> 00:34:43,330
-For those who are using the DLC.
-
-872
-00:34:43,590 --> 00:34:44,930
-Just in case like you know.
-
-873
-00:34:44,950 --> 00:34:45,890
-Like if I don't have it.
-
-874
-00:34:45,890 --> 00:34:47,030
-We won't be able to download the wrestler.
-
-875
-00:34:47,270 --> 00:34:49,390
-So I'll be using all the DLC.
-
-876
-00:34:49,690 --> 00:34:51,550
-So you can go wild with your customization.
-
-877
-00:34:52,330 --> 00:34:52,730
-Finally.
-
-878
-00:34:52,770 --> 00:34:54,610
-When you're customizing your wrestler.
-
-879
-00:34:54,810 --> 00:34:56,430
-Don't worry I will be posting the rules.
-
-880
-00:34:56,790 --> 00:34:57,810
-On Twitter later.
-
-881
-00:34:58,050 --> 00:34:59,210
-So do not worry if you're like.
-
-882
-00:34:59,290 --> 00:34:59,670
-Oh my god.
-
-883
-00:34:59,710 --> 00:35:00,550
-I can't write all this down.
-
-884
-00:35:01,950 --> 00:35:02,210
-I'm so impatient.
-
-885
-00:35:02,210 --> 00:35:02,890
-What am I gonna do?
-
-886
-00:35:06,090 --> 00:35:07,310
-It's way too much information.
-
-887
-00:35:07,550 --> 00:35:08,130
-Oh my god.
-
-888
-00:35:08,170 --> 00:35:09,370
-I can't write this down in time.
-
-889
-00:35:12,850 --> 00:35:13,910
-These are the things.
-
-890
-00:35:13,950 --> 00:35:14,650
-You need to customize.
-
-891
-00:35:16,130 --> 00:35:17,650
-The streamers that are making their wrestler.
-
-892
-00:35:17,770 --> 00:35:18,650
-Will also know that these.
-
-893
-00:35:18,790 --> 00:35:19,670
-I set up a guide.
-
-894
-00:35:19,750 --> 00:35:20,870
-I made like a step by step guide.
-
-895
-00:35:21,090 --> 00:35:22,430
-For everybody on how to customize.
-
-896
-00:35:22,830 --> 00:35:23,710
-And stuff for.
-
-897
-00:35:23,770 --> 00:35:24,690
-Well not for you guys.
-
-898
-00:35:24,810 --> 00:35:25,790
-I assume you guys already know.
-
-899
-00:35:25,990 --> 00:35:28,090
-But like a lot of the people that joined this.
-
-900
-00:35:28,090 --> 00:35:31,710
-They haven't played WWE 2K24 yet.
-
-901
-00:35:31,850 --> 00:35:32,650
-So like they didn't know.
-
-902
-00:35:32,690 --> 00:35:34,110
-Like how to create their custom wrestler.
-
-903
-00:35:34,330 --> 00:35:36,110
-So I basically like wrote a.
-
-904
-00:35:36,170 --> 00:35:37,510
-Step by step guide for everybody.
-
-905
-00:35:37,810 --> 00:35:38,650
-In the server.
-
-906
-00:35:38,970 --> 00:35:39,730
-Regarding like.
-
-907
-00:35:39,850 --> 00:35:40,610
-How to do this.
-
-908
-00:35:41,590 --> 00:35:42,070
-Anyway.
-
-909
-00:35:42,630 --> 00:35:44,650
-Uniformly customize the superstar.
-
-910
-00:35:45,610 --> 00:35:46,090
-Entrance.
-
-911
-00:35:47,330 --> 00:35:47,810
-Victory.
-
-912
-00:35:47,810 --> 00:35:49,330
-And moveset.
-
-913
-00:35:49,850 --> 00:35:51,650
-Video is not required.
-
-914
-00:35:52,410 --> 00:35:53,570
-It's not mandatory.
-
-915
-00:35:54,050 --> 00:35:55,290
-But if you do it.
-
-916
-00:35:55,310 --> 00:35:55,870
-It'll be funny.
-
-917
-00:35:55,870 --> 00:35:58,090
-Because like you can put any video in the backdrop.
-
-918
-00:35:58,590 --> 00:35:59,050
-Obviously.
-
-919
-00:35:59,310 --> 00:36:01,830
-It has to be like if you're gonna do a video in the backdrop.
-
-920
-00:36:01,830 --> 00:36:03,230
-Please make it TOS friendly.
-
-921
-00:36:08,350 --> 00:36:10,170
-Especially the fan submission.
-
-922
-00:36:12,570 --> 00:36:13,330
-As long.
-
-923
-00:36:14,630 --> 00:36:16,170
-As it's TOS friendly.
-
-924
-00:36:16,350 --> 00:36:16,910
-It's fine.
-
-925
-00:36:19,390 --> 00:36:22,030
-That's all I asked for it.
-
-926
-00:36:22,150 --> 00:36:22,390
-Now.
-
-927
-00:36:22,470 --> 00:36:22,910
-Now.
-
-928
-00:36:23,310 --> 00:36:24,430
-Rules number 3.
-
-929
-00:36:25,870 --> 00:36:27,390
-Who will be creating their wrestler on stream.
-
-930
-00:36:27,510 --> 00:36:29,090
-And who will be using.
-
-931
-00:36:29,130 --> 00:36:30,830
-Fan submitted wrestlers.
-
-932
-00:36:31,470 --> 00:36:32,550
+270
+00:34:02,070 --> 00:34:09,090
+So when you're doing all your stats configuration, 85 has to
+be the overall stat.
+
+271
+00:34:09,650 --> 00:34:21,490
+When uploading your wrestler, please use these tags,
+WrestleTuber2024, VTubers, VT WWE, and like I said, WWE
+
+272
+00:34:21,490 --> 00:34:22,910
+2K24.
+
+273
+00:34:23,310 --> 00:34:25,530
+This is the game that we will be using for.
+
+274
+00:34:25,550 --> 00:34:35,110
+the tournament structure we will using the steam version
+with all the dlc you don't have to have the dlc um we you
+
+275
+00:34:35,110 --> 00:34:40,670
+don't have that the dlc if you're creating a wrestler but
+like if you have the dlc it's just more customization so
+
+276
+00:34:40,670 --> 00:34:46,230
+like i'll be using the dlc for those who are using dlc just
+in case like you know like if i don't have it we won't be
+
+277
+00:34:46,230 --> 00:34:53,270
+able to download the wrestler so i'll be using all the dlc
+so you can go wild with your customization finally when
+
+278
+00:34:53,270 --> 00:35:00,170
+you're customizing your will be posting the rules on twitter
+later so do not worry if you're like oh my god i can't write
+
+279
+00:35:00,170 --> 00:35:08,730
+all this down there's too much information what am i gonna
+do it's way too much information oh my god i can't write
+
+280
+00:35:08,730 --> 00:35:18,110
+this down in time these are the things you need to customize
+uh the the streamers that are making the wrestler will also
+
+281
+00:35:18,110 --> 00:35:24,050
+know that these i set up a guide i made like a step-by-step
+guide for everybody on how they customize and stuff for well
+
+282
+00:35:24,050 --> 00:35:30,450
+not for you guys i assume you guys know but like a lot of
+the people that joined this they haven't played wwe 2k uh
+
+283
+00:35:30,450 --> 00:35:37,170
+2-4 yet so like didn't know like how to create their custom
+rest of there so i basically like wrote a step-by-step guide
+
+284
+00:35:37,170 --> 00:35:47,630
+for everybody in the server regarding like how to do this
+anyway uniformly customized the superstar entrance victory
+
+285
+00:35:47,630 --> 00:35:57,910
+and moveset video is not required it's not mandatory but if
+you do it be funny because like you can put any video in the
+
+286
+00:35:57,910 --> 00:36:03,550
+backdrop obviously it has to be like if you're gonna do a
+video in the backdrop please make it to us friendly
+
+287
+00:36:03,550 --> 00:36:23,850
+especially the fan submission as long as it's tos friendly
+it's fine that's all that's all i asked for it now now rules
+
+288
+00:36:23,850 --> 00:36:31,010
+number will be creating the wrestler on stream and who will
+be using fan submitted wrestlers.
+
+289
+00:36:31,930 --> 00:36:32,830
 Rules 3.
 
-933
-00:36:32,910 --> 00:36:33,470
+290
+00:36:33,410 --> 00:36:33,610
 Alright.
 
-934
-00:36:34,950 --> 00:36:36,630
-So these are the people.
+291
+00:36:35,270 --> 00:36:39,850
+So, these are the people that will be making their wrestler
+on stream.
 
-935
-00:36:36,710 --> 00:36:39,610
-That will be making their wrestler on stream.
+292
+00:36:40,250 --> 00:36:46,570
+So, you might be seeing, you might notice that I also gave
+like two weeks leeway this time around instead of one week.
 
-936
-00:36:39,890 --> 00:36:40,950
-So you might be seeing.
+293
+00:36:47,290 --> 00:36:51,690
+Because I felt like one week was too short.
 
-937
-00:36:41,270 --> 00:36:43,430
-You might notice that I also gave like.
+294
+00:36:55,390 --> 00:37:08,750
+one week was um honestly uh way too short so that's why like
+people who are making their own wrestler um they can have
 
-938
-00:36:43,490 --> 00:36:45,410
-2 weeks leeway this time around.
+295
+00:37:08,750 --> 00:37:18,170
+they can it's easier to schedule for everybody so um so we
+gave everyone two weeks to create their own wrestler so here
 
-939
-00:36:45,550 --> 00:36:46,410
-Instead of 1 week.
+296
+00:37:18,170 --> 00:37:30,350
+are the people that are making it on stream uh Nia, Rin,
+Fuyo, Arac, Luto, Kai, Beto, Gerard, Remilia, Non, Limu,
 
-940
-00:36:47,270 --> 00:36:48,550
-Because I felt like.
+297
+00:37:30,810 --> 00:37:33,430
+Shinri, Sarah, Octavio, and Meriwether.
 
-941
-00:36:49,590 --> 00:36:51,470
-1 week was too short.
+298
+00:37:33,870 --> 00:37:39,550
+These are, you're going to be seeing streams of the people
+making their wrestler on those channels.
 
-942
-00:36:55,870 --> 00:36:57,610
-1 week was.
+299
+00:37:39,770 --> 00:37:45,850
+So please feel free to visit their channels to see them
+customize their very own wrestler.
 
-943
-00:36:59,290 --> 00:36:59,890
-Honestly.
+300
+00:37:46,850 --> 00:37:53,290
+All right, these are the participants that will be using
+your wrestler, including me, I don't have time to make my
 
-944
-00:37:00,950 --> 00:37:02,750
-Way too short.
+301
+00:37:53,290 --> 00:37:53,770
+own.
 
-945
-00:37:03,030 --> 00:37:03,590
-So.
-
-946
-00:37:03,670 --> 00:37:06,270
-That's why like people who are making their own wrestler.
-
-947
-00:37:07,270 --> 00:37:08,590
-They can have.
-
-948
-00:37:08,850 --> 00:37:10,390
-It's easier to schedule.
-
-949
-00:37:10,430 --> 00:37:11,170
-For everybody.
-
-950
-00:37:11,670 --> 00:37:12,270
-So.
-
-951
-00:37:12,950 --> 00:37:15,370
-So we gave everyone 2 weeks.
-
-952
-00:37:15,390 --> 00:37:16,950
-To create their own wrestler.
-
-953
-00:37:17,210 --> 00:37:19,470
-So here are the people that are making it on stream.
-
-954
-00:37:20,090 --> 00:37:22,910
-Nana, Zentreya, Nia, Rin, Fuyo.
-
-955
-00:37:23,990 --> 00:37:25,190
-Luto, Kai.
-
-956
-00:37:25,470 --> 00:37:25,850
-And then.
-
-957
-00:37:25,870 --> 00:37:33,290
-Beto, Gerard, Romelia, Nan, Lymu, Shinri, Sarah, Octavio, and Meriwether.
-
-958
-00:37:33,490 --> 00:37:34,350
-These are.
-
-959
-00:37:34,430 --> 00:37:35,730
-You are going to be seeing streams.
-
-960
-00:37:35,890 --> 00:37:38,010
-Of the people making their wrestler.
-
-961
-00:37:38,090 --> 00:37:39,330
-On those channels.
-
-962
-00:37:39,610 --> 00:37:42,110
-So please feel free to visit their channels.
-
-963
-00:37:42,410 --> 00:37:43,790
-To see them customize.
-
-964
-00:37:43,950 --> 00:37:45,610
-Their very own wrestler.
-
-965
-00:37:46,390 --> 00:37:46,990
-Alright.
-
-966
-00:37:47,150 --> 00:37:49,570
-These are the participants that will be using.
-
-967
-00:37:49,570 --> 00:37:50,330
-Your wrestler.
-
-968
-00:37:50,450 --> 00:37:51,170
-Including me.
-
-969
-00:37:51,370 --> 00:37:53,430
-Because I don't have time to make my own.
-
-970
-00:37:53,590 --> 00:37:54,190
-Hahahaha.
-
-971
-00:37:58,560 --> 00:37:59,660
-I don't have.
-
-972
-00:37:59,740 --> 00:38:00,080
+302
+00:37:59,040 --> 00:38:00,240
 I'm sorry.
 
-973
-00:38:00,820 --> 00:38:02,860
-As much as I would love to stream.
+303
+00:38:01,320 --> 00:38:08,380
+As much as I would love to stream the wrestler creation with
+all you guys, I'm sorry.
 
-974
-00:38:03,440 --> 00:38:04,840
-The wrestler creation.
-
-975
-00:38:05,160 --> 00:38:06,280
-With all you guys.
-
-976
-00:38:06,640 --> 00:38:08,200
-I'm sorry.
-
-977
-00:38:08,320 --> 00:38:09,000
+304
+00:38:08,520 --> 00:38:09,200
 I don't have time.
 
-978
-00:38:09,940 --> 00:38:11,240
-I barely have time.
+305
+00:38:10,460 --> 00:38:13,560
+I barely have time to set up my own PC guy.
 
-979
-00:38:11,300 --> 00:38:12,600
-To set up my own PC.
+306
+00:38:18,120 --> 00:38:28,360
+Yorosama, Axel, Sayu, Buff, Buff, Snuffy, Haka, Me, Sia,
+Shai Lily, Gold Bullet, Juna, Emma, and Phillion.
 
-980
-00:38:12,740 --> 00:38:13,220
-Guys.
+307
+00:38:29,160 --> 00:38:32,360
+These are the people that will be using your wrestlers.
 
-981
-00:38:13,420 --> 00:38:13,740
-Hahaha.
+308
+00:38:32,800 --> 00:38:40,020
+So if you're making a wrestler for us to use, please make
+wrestlers for these people, including me.
 
-982
-00:38:18,320 --> 00:38:28,180
-Yorosama, Axel, Sayu, Buffbuff, Snuffy, Haka, me, Saya, ShyLily, Goldbullet, Juna, Emma, and Fillion.
-
-983
-00:38:28,620 --> 00:38:30,880
-These are the people that will be using.
-
-984
-00:38:30,900 --> 00:38:32,280
-Your wrestlers.
-
-985
-00:38:32,300 --> 00:38:34,620
-So if you're making a wrestler.
-
-986
-00:38:34,840 --> 00:38:36,120
-For us to use.
-
-987
-00:38:36,420 --> 00:38:38,820
-Please make wrestlers for these people.
-
-988
-00:38:38,980 --> 00:38:39,740
-Including me.
-
-989
-00:38:40,900 --> 00:38:42,920
+309
+00:38:40,840 --> 00:38:43,140
 You can make as many as you guys want.
 
-990
-00:38:43,340 --> 00:38:45,240
-They will be picking the wrestler.
-
-991
-00:38:45,320 --> 00:38:46,540
-To represent themselves.
-
-992
-00:38:47,100 --> 00:38:48,260
-So like you know obviously.
-
-993
-00:38:48,580 --> 00:38:50,560
-They'll try and pick the one that looks the best.
-
-994
-00:38:50,800 --> 00:38:51,360
-Like looks.
-
-995
-00:38:51,500 --> 00:38:51,840
-I don't know.
-
-996
-00:38:51,880 --> 00:38:52,380
-Maybe someone.
-
-997
-00:38:52,620 --> 00:38:55,480
-Cause like I let them pick the wrestler that they want to represent them.
-
-998
-00:38:56,040 --> 00:38:57,200
-So maybe they'll be like.
-
-999
-00:38:57,300 --> 00:38:58,840
-Oh this one looks so fucking funny.
-
-1000
-00:38:59,120 --> 00:39:00,200
-So I'll use that.
-
-1001
-00:39:00,480 --> 00:39:02,040
-So obviously use the.
-
-1002
-00:39:02,120 --> 00:39:02,860
-Try to.
-
-1003
-00:39:02,880 --> 00:39:03,600
-I don't know.
-
-1004
-00:39:03,600 --> 00:39:05,560
-Try to see what you think they would want.
-
-1005
-00:39:05,800 --> 00:39:07,820
-Cause some of them will actually be talking on stream.
-
-1006
-00:39:07,940 --> 00:39:10,320
-About what kind of wrestler they want to represent them.
-
-1007
-00:39:10,620 --> 00:39:11,060
-So.
-
-1008
-00:39:11,580 --> 00:39:14,880
-I know like Buffpuffpuffpuff Was gonna talk on stream.
-
-1009
-00:39:15,160 --> 00:39:17,100
-About like oh what kind of wrestler she.
-
-1010
-00:39:17,640 --> 00:39:18,500
-They wanna see.
-
-1011
-00:39:18,880 --> 00:39:19,540
-And then.
-
-1012
-00:39:21,260 --> 00:39:21,900
-And then.
-
-1013
-00:39:21,900 --> 00:39:24,260
-And I know like several other streamers.
-
-1014
-00:39:24,280 --> 00:39:25,540
-Are gonna be doing that as well.
-
-1015
-00:39:25,720 --> 00:39:27,200
-So maybe take some notes.
-
-1016
-00:39:27,260 --> 00:39:28,560
-And see what they decide.
-
-1017
-00:39:28,720 --> 00:39:30,880
-They wanna see to have a wrestler.
-
-1018
-00:39:31,700 --> 00:39:32,740
-Represent them.
-
-1019
-00:39:33,400 --> 00:39:33,920
-Alright.
-
-1020
-00:39:35,600 --> 00:39:36,340
-It's time.
-
-1021
-00:39:36,780 --> 00:39:37,880
-It's fucking time.
-
-1022
-00:39:38,260 --> 00:39:40,060
-It's match up time.
-
-1023
-00:39:40,620 --> 00:39:43,240
-So I realized there was one thing I did miss.
-
-1024
-00:39:43,440 --> 00:39:44,780
-Which was to let you guys know.
-
-1025
-00:39:44,880 --> 00:39:48,020
-Who will be participating in the show matches.
-
-1026
-00:39:48,360 --> 00:39:50,000
-And who will be participating.
-
-1027
-00:39:50,020 --> 00:39:51,140
-In the tournament.
-
-1028
-00:39:51,900 --> 00:39:53,680
-And actually I'll just like read out the list.
-
-1029
-00:39:53,740 --> 00:39:55,700
-Of the show matches to you right now.
-
-1030
-00:39:55,960 --> 00:39:56,920
-Because I didn't write it down.
-
-1031
-00:39:58,660 --> 00:39:59,920
-I knew I forgot.
-
-1032
-00:39:59,960 --> 00:40:01,140
-To write down something.
-
-1033
-00:40:05,600 --> 00:40:06,040
-So.
-
-1034
-00:40:07,640 --> 00:40:09,880
-These are people that will be only participating.
-
-1035
-00:40:10,500 --> 00:40:11,780
-In the show matches.
-
-1036
-00:40:12,040 --> 00:40:13,360
-As in they'll only be there.
-
-1037
-00:40:13,440 --> 00:40:14,100
-For the beginning.
-
-1038
-00:40:14,880 --> 00:40:16,160
-For one match.
-
-1039
-00:40:16,420 --> 00:40:18,540
-And then they'll have to do the scheduling.
-
-1040
-00:40:18,760 --> 00:40:20,520
-Like I said a lot of this is due to scheduling.
-
-1041
-00:40:21,900 --> 00:40:22,640
-Like you know for some.
-
-1042
-00:40:22,660 --> 00:40:24,320
-It's like some people are in EU.
-
-1043
-00:40:24,520 --> 00:40:25,900
-So they couldn't stay up for too long.
-
-1044
-00:40:26,700 --> 00:40:28,540
-Because like we don't know when this is gonna end.
-
-1045
-00:40:28,720 --> 00:40:29,580
-So they're like oh yeah.
-
-1046
-00:40:29,660 --> 00:40:30,460
-Like at this point.
-
-1047
-00:40:30,520 --> 00:40:31,260
-Like they're like oh yeah.
-
-1048
-00:40:31,320 --> 00:40:33,140
-I don't know if I can stay up for that long.
-
-1049
-00:40:33,320 --> 00:40:34,740
-So I'll be there for the beginning.
-
-1050
-00:40:34,800 --> 00:40:35,500
-For the show matches.
-
-1051
-00:40:35,880 --> 00:40:37,740
-Or just like it was just like time constraints.
-
-1052
-00:40:37,820 --> 00:40:38,400
-And scheduling.
-
-1053
-00:40:39,280 --> 00:40:40,980
-So some of you chose the show matches.
-
-1054
-00:40:42,720 --> 00:40:44,360
-The participants in show matches.
-
-1055
-00:40:44,360 --> 00:40:45,320
-Will be.
-
-1056
-00:40:46,620 --> 00:40:53,180
-Nirosama, Merryweather, Buffpuff, Goldbullet, Zentreya, And ShyLily.
-
-1057
-00:40:54,420 --> 00:40:56,280
-We have 6 wrestlers.
-
-1058
-00:40:56,280 --> 00:40:58,500
-That will only be there for the show matches.
-
-1059
-00:40:59,660 --> 00:41:00,260
-Also.
-
-1060
-00:41:00,320 --> 00:41:02,120
-Per tradition at the very end.
-
-1061
-00:41:02,540 --> 00:41:03,940
-We will have a.
-
-1062
-00:41:03,980 --> 00:41:05,500
-Free for all wrestling.
-
-1063
-00:41:08,320 --> 00:41:10,560
-Free for all wrestling event.
-
-1064
-00:41:10,600 --> 00:41:12,160
-With everybody in the end.
-
-1065
-00:41:12,160 --> 00:41:13,900
-For like the ultimate wrestler.
-
-1066
-00:41:14,240 --> 00:41:15,540
-So we will be include.
-
-1067
-00:41:15,700 --> 00:41:17,040
-They might not be there.
-
-1068
-00:41:17,340 --> 00:41:20,060
-In the call.
-
-1069
-00:41:20,220 --> 00:41:20,960
-When this happens.
-
-1070
-00:41:21,140 --> 00:41:22,740
-But they will be there spiritually.
-
-1071
-00:41:25,120 --> 00:41:26,560
-Because we'll throw them in.
-
-1072
-00:41:26,700 --> 00:41:27,740
-For the free for all.
-
-1073
-00:41:28,440 --> 00:41:28,920
-Um.
-
-1074
-00:41:29,700 --> 00:41:30,180
-Anyway.
-
-1075
-00:41:31,840 --> 00:41:33,600
-It's time for the brackets.
-
-1076
-00:41:34,020 --> 00:41:36,100
-Oh my gosh.
-
-1077
-00:41:36,100 --> 00:41:37,280
-It's been so long since I did like announcements.
-
-1078
-00:41:38,360 --> 00:41:39,740
-Since I did like.
-
-1079
-00:41:40,000 --> 00:41:40,860
-Announcement streams.
-
-1080
-00:41:44,000 --> 00:41:44,440
-Yeah.
-
-1081
-00:41:45,600 --> 00:41:46,040
-Alright.
-
-1082
-00:41:46,180 --> 00:41:47,300
-I'm pulling up the wheel.
-
-1083
-00:41:47,660 --> 00:41:50,120
-One of the things that I wasn't able to make in time.
-
-1084
-00:41:50,220 --> 00:41:50,600
-Was like.
-
-1085
-00:41:50,660 --> 00:41:51,500
-I actually made like.
-
-1086
-00:41:52,940 --> 00:41:53,820
-A like.
-
-1087
-00:41:54,000 --> 00:41:54,540
-A text.
-
-1088
-00:41:54,820 --> 00:41:57,040
-Like the text in OBS.
-
-1089
-00:41:57,060 --> 00:41:58,940
-For everybody's names that are in the tournament.
-
-1090
-00:41:59,260 --> 00:42:00,640
-But I didn't manage to make that in time.
-
-1091
-00:42:00,720 --> 00:42:02,020
-I only managed to make one name.
-
-1092
-00:42:04,160 --> 00:42:05,460
-So we're doing it live.
-
-1093
-00:42:08,780 --> 00:42:09,920
-There will be no.
-
-1094
-00:42:10,320 --> 00:42:11,120
-Spinning the wheel.
-
-1095
-00:42:12,340 --> 00:42:12,780
-For.
-
-1096
-00:42:13,580 --> 00:42:15,360
-There will be no spinning the wheel.
-
-1097
-00:42:16,420 --> 00:42:17,740
-For the show matches.
-
-1098
-00:42:18,020 --> 00:42:19,860
-That will be a surprise for everybody.
-
-1099
-00:42:20,560 --> 00:42:20,900
-Um.
-
-1100
-00:42:21,640 --> 00:42:23,200
+310
+00:38:43,460 --> 00:38:47,020
+They will be picking the wrestler to represent themselves.
+
+311
+00:38:47,440 --> 00:38:50,740
+So like, you know, obviously they'll try and pick the one
+that looks the best.
+
+312
+00:38:51,180 --> 00:38:51,880
+Like looks, I don't know.
+
+313
+00:38:53,160 --> 00:38:58,340
+like i let them pick the wrestler that they want to
+represent them so maybe they'll be like oh this one looks so
+
+314
+00:38:58,340 --> 00:39:05,400
+fucking funny so i'll use that so obviously the use though
+try to i don't know try to see what you think they would
+
+315
+00:39:05,400 --> 00:39:11,280
+want because some of them will actually be talking on stream
+about what kind of wrestler they want to represent them so
+
+316
+00:39:11,280 --> 00:39:18,740
+uh i know like buff puff puff puff was gonna talk on stream
+about like oh what kind of wrestler she uh they want to see
+
+317
+00:39:18,740 --> 00:39:27,780
+and then um and then like several other streamers are going
+to be doing that as well so maybe take some notes and see
+
+318
+00:39:27,780 --> 00:39:37,420
+what they decide they want to see in to have a wrestler
+wrestler represent them all right funny it's time it's
+
+319
+00:39:37,420 --> 00:39:45,600
+fucking time it's matchup time so i realized there was one
+thing i did miss in which was to let you guys know who will
+
+320
+00:39:45,600 --> 00:39:52,720
+be participating in the show matches and who will be
+participating in the tournament i'll actually i'll just like
+
+321
+00:39:52,720 --> 00:40:00,840
+read out the list of the show matches to you right now
+because i didn't write it down i knew i forgot to write down
+
+322
+00:40:00,840 --> 00:40:13,180
+something so um these are people that will be only
+participating in these show matches as in they'll only be
+
+323
+00:40:13,180 --> 00:40:20,160
+there for the beginning for one match and then they'll have
+to it's due to scheduling like i said a lot of this is due
+
+324
+00:40:20,160 --> 00:40:25,780
+to scheduling and the fact that like you know for some it's
+like some people are in eu so they couldn't stay up for too
+
+325
+00:40:25,780 --> 00:40:31,020
+long uh because like we don't know when this is going to end
+so they're like oh yeah like at this point like they're like
+
+326
+00:40:31,020 --> 00:40:36,720
+oh yeah i don't know if i can stay up for that long so i'll
+be there for the beginning for the show matches or just it
+
+327
+00:40:36,720 --> 00:40:44,180
+was just like time constraints and scheduling um so some of
+you chose the show matches um the participants in show
+
+328
+00:40:44,180 --> 00:40:46,160
+matches will be uh
+
+329
+00:40:51,220 --> 00:41:01,880
+Zentrea and Shy Lily we have six wrestlers that will only be
+there for the show matches also per tradition at the very
+
+330
+00:41:01,880 --> 00:41:13,280
+end we will have a free for all wrestling free for all
+wrestling event with everybody in the end for like the
+
+331
+00:41:13,280 --> 00:41:20,680
+ultimate wrestler so we will be included they might not be
+there spirit they might not be there in the call when this
+
+332
+00:41:20,700 --> 00:41:33,280
+happens but they will be there spiritually because we'll
+throw them in for the free for all anyway it's time for the
+
+333
+00:41:33,280 --> 00:41:44,680
+brackets but oh my gosh I'm so long since I did like
+announcement I'm since I did like announcement streams yeah
+
+334
+00:41:45,680 --> 00:41:51,360
+alright I'm pulling up the wheel alright one of the things
+that I wasn't able to make in time was like I actually made
+
+335
+00:41:51,360 --> 00:42:00,560
+like a a like a text like text and OBS for everybody's names
+that are in the tournament I didn't manage to make that in
+
+336
+00:42:00,560 --> 00:42:14,540
+time only managed to make one name so we're doing it live
+there will be no spinning the wheel for there will be no
+
+337
+00:42:14,540 --> 00:42:20,180
+spinning the wheel for the show matches that will be a
+surprise for everybody.
+
+338
+00:42:21,700 --> 00:42:23,480
 I guess for the wrestlers as well.
 
-1101
-00:42:24,560 --> 00:42:25,000
-So.
+339
+00:42:26,580 --> 00:42:31,820
+So the show matches, wrestlers will be a surprise as to who
+is going to be matched up with who.
 
-1102
-00:42:26,540 --> 00:42:28,340
-So the show matches.
-
-1103
-00:42:28,600 --> 00:42:29,800
-Wrestlers will be a surprise.
-
-1104
-00:42:29,980 --> 00:42:31,580
-As to who is going to be matched up with who.
-
-1105
-00:42:31,980 --> 00:42:32,960
+340
+00:42:32,420 --> 00:42:33,200
 Because it can be anything.
 
-1106
-00:42:33,200 --> 00:42:34,020
+341
+00:42:33,320 --> 00:42:34,320
 It could be cage matches.
 
-1107
-00:42:34,340 --> 00:42:35,280
+342
+00:42:34,520 --> 00:42:35,520
 It could be tag team.
 
-1108
-00:42:35,540 --> 00:42:37,000
+343
+00:42:35,840 --> 00:42:37,360
 It could be literally anything.
 
-1109
-00:42:37,420 --> 00:42:39,140
+344
+00:42:37,640 --> 00:42:39,400
 Because there's so many different types of matches.
 
-1110
-00:42:41,980 --> 00:42:42,460
-So.
+345
+00:42:42,320 --> 00:42:43,360
+So the wheel.
 
-1111
-00:42:42,580 --> 00:42:43,120
-The wheel.
+346
+00:42:44,240 --> 00:42:45,880
+It is the wheel.
 
-1112
-00:42:43,880 --> 00:42:44,740
-It is.
+347
+00:42:47,840 --> 00:42:49,940
+Um, all right, let's spin the wheel.
 
-1113
-00:42:44,840 --> 00:42:45,580
-The wheel.
+348
+00:42:50,100 --> 00:42:52,020
+Who will be the first one?
 
-1114
-00:42:46,820 --> 00:42:47,300
-Um.
-
-1115
-00:42:48,220 --> 00:42:48,700
-Alright.
-
-1116
-00:42:48,820 --> 00:42:49,760
+349
+00:42:52,260 --> 00:42:53,560
 Let's spin the wheel.
 
-1117
-00:42:49,940 --> 00:42:51,460
-Who will be the first one.
+350
+00:42:55,400 --> 00:42:56,300
+All right.
 
-1118
-00:42:51,880 --> 00:42:53,160
-Let's spin the wheel.
-
-1119
-00:42:55,340 --> 00:42:55,820
-Alright.
-
-1120
-00:42:56,920 --> 00:42:57,840
+351
+00:42:57,380 --> 00:42:58,040
 La malicious.
 
-1121
-00:42:58,660 --> 00:42:59,140
-Alright.
+352
+00:42:59,080 --> 00:42:59,480
+All right.
 
-1122
-00:42:59,340 --> 00:42:59,800
+353
+00:43:00,320 --> 00:43:00,320
 Yay.
 
-1123
-00:43:00,100 --> 00:43:00,900
-Oh my gosh.
+354
+00:43:00,560 --> 00:43:01,800
+Oh my gosh, you guys can't see.
 
-1124
-00:43:00,920 --> 00:43:01,660
-You guys can't see.
+355
+00:43:03,580 --> 00:43:04,600
+Guys, sorry.
 
-1125
-00:43:03,540 --> 00:43:04,020
-Guys.
+356
+00:43:04,820 --> 00:43:07,700
+It's the transparency, but you guys can see it's la
+malicious.
 
-1126
-00:43:04,020 --> 00:43:04,500
-Sorry.
-
-1127
-00:43:04,580 --> 00:43:05,380
-It's the transparency.
-
-1128
-00:43:05,380 --> 00:43:06,560
-But you guys can see.
-
-1129
-00:43:06,600 --> 00:43:07,340
-It's la malicious.
-
-1130
-00:43:11,980 --> 00:43:12,700
+357
+00:43:12,420 --> 00:43:12,900
 I'm sorry.
 
-1131
-00:43:12,860 --> 00:43:14,020
-It's a little hard to see.
-
-1132
-00:43:14,080 --> 00:43:15,520
-Because I put on the transparency.
-
-1133
-00:43:21,160 --> 00:43:21,600
-Alright.
-
-1134
-00:43:22,020 --> 00:43:22,460
-Ramu.
-
-1135
-00:43:23,120 --> 00:43:25,360
-Who is la mu gonna be wrestling?
-
-1136
-00:43:26,100 --> 00:43:26,540
-Alright.
-
-1137
-00:43:26,600 --> 00:43:26,960
-Let's see.
-
-1138
-00:43:28,360 --> 00:43:28,800
-Okay.
-
-1139
-00:43:28,960 --> 00:43:30,440
-We're going to put it all the way up here too.
-
-1140
-00:43:30,480 --> 00:43:31,000
-By the way.
-
-1141
-00:43:31,180 --> 00:43:31,900
-La malicious.
-
-1142
-00:43:32,880 --> 00:43:33,480
-Up here.
-
-1143
-00:43:34,100 --> 00:43:34,540
-Alright.
-
-1144
-00:43:35,380 --> 00:43:35,820
-Alright.
-
-1145
-00:43:36,400 --> 00:43:36,880
-Kai.
-
-1146
-00:43:38,060 --> 00:43:38,540
-Alright.
-
-1147
-00:43:39,840 --> 00:43:41,780
-La mu versus Kai.
-
-1148
-00:43:42,600 --> 00:43:43,100
-Let me.
-
-1149
-00:43:43,300 --> 00:43:43,760
-God.
-
-1150
-00:43:43,800 --> 00:43:44,680
-I wish I didn't have to.
-
-1151
-00:43:44,680 --> 00:43:46,980
-I wish I didn't have to like fucking remake this.
-
-1152
-00:43:47,080 --> 00:43:48,020
-I spent like 10 minutes.
-
-1153
-00:43:48,320 --> 00:43:50,060
-Fucking putting everybody's names in.
-
-1154
-00:43:52,020 --> 00:43:54,820
-Only for my OBS to be like no.
-
-1155
-00:43:55,140 --> 00:43:56,740
-So now I have to rewrite everything.
-
-1156
-00:43:57,080 --> 00:43:58,120
-That's like the worst part.
-
-1157
-00:44:02,800 --> 00:44:04,240
-The very first.
-
-1158
-00:44:05,560 --> 00:44:06,060
-Match.
-
-1159
-00:44:07,680 --> 00:44:09,160
-For day one.
-
-1160
-00:44:09,820 --> 00:44:10,680
-We're going to be.
-
-1161
-00:44:10,760 --> 00:44:13,400
-The match orders are going to be going into this order.
-
-1162
-00:44:13,740 --> 00:44:15,120
-So like this would be the first.
-
-1163
-00:44:15,140 --> 00:44:15,560
-The opening.
-
-1164
-00:44:15,780 --> 00:44:16,880
-Well not the opening match.
-
-1165
-00:44:16,980 --> 00:44:17,720
-Because we do have.
-
-1166
-00:44:19,540 --> 00:44:21,040
-We do have show matches.
-
-1167
-00:44:21,300 --> 00:44:22,280
-But this would be the first match.
-
-1168
-00:44:22,460 --> 00:44:23,620
-For the tournament.
-
-1169
-00:44:24,080 --> 00:44:24,720
-But yes.
-
-1170
-00:44:24,840 --> 00:44:26,360
-Indie versus Idol EN.
-
-1171
-00:44:26,760 --> 00:44:27,060
-Alright.
-
-1172
-00:44:27,140 --> 00:44:28,040
-Second match up.
-
-1173
-00:44:31,860 --> 00:44:33,640
-I'm very excited for the roasting.
-
-1174
-00:44:33,640 --> 00:44:34,760
-I gave like guidelines.
-
-1175
-00:44:34,880 --> 00:44:36,820
-On like what to do for like roasting.
-
-1176
-00:44:37,220 --> 00:44:38,920
-And I gave examples.
-
-1177
-00:44:39,160 --> 00:44:40,960
-So I had like one with like Logan Paul.
-
-1178
-00:44:41,240 --> 00:44:42,040
-And that other guy.
-
-1179
-00:44:42,260 --> 00:44:43,600
-Like talking shit.
-
-1180
-00:44:46,520 --> 00:44:47,180
-And so.
-
-1181
-00:44:47,680 --> 00:44:48,660
-I had like.
-
-1182
-00:44:48,780 --> 00:44:50,100
-I sent like examples.
-
-1183
-00:44:50,360 --> 00:44:51,140
-I'll be like hey guys.
-
-1184
-00:44:51,240 --> 00:44:52,640
-It would be great if you want to hype up the event.
-
-1185
-00:44:52,840 --> 00:44:54,840
-To like post like videos.
-
-1186
-00:44:55,980 --> 00:44:58,340
-Of like you guys roasting your match up.
-
-1187
-00:44:58,420 --> 00:44:59,180
-And stuff you know.
-
-1188
-00:45:01,740 --> 00:45:02,620
-Alright Emma.
-
-1189
-00:45:02,620 --> 00:45:04,400
-We have Emma.
-
-1190
-00:45:04,640 --> 00:45:06,040
-For the second match.
-
-1191
-00:45:06,340 --> 00:45:07,200
-Alright duplicate.
-
-1192
-00:45:07,800 --> 00:45:09,340
-Oh my gosh there's so many people.
-
-1193
-00:45:09,440 --> 00:45:10,440
-This is going to take for it.
-
-1194
-00:45:12,960 --> 00:45:14,760
-Alright we have Emma.
-
-1195
-00:45:14,860 --> 00:45:16,580
-Who is Emma going to fight?
-
-1196
-00:45:16,880 --> 00:45:18,320
-Alright rename this real fast.
-
-1197
-00:45:19,020 --> 00:45:21,280
-Alright who the heck is Emma going to fight?
-
-1198
-00:45:21,340 --> 00:45:23,040
+358
+00:43:13,120 --> 00:43:15,860
+It's a little hard to see because I put on the transparency.
+
+359
+00:43:15,880 --> 00:43:16,820
+transparency
+
+360
+00:43:21,040 --> 00:43:30,740
+all right Ramu who is Limu gonna be wrestling all right
+let's see okay we're gonna put it all the way up here too by
+
+361
+00:43:30,740 --> 00:43:44,740
+the way La Malicious up here all right all right Kai Sakota
+all right Limu versus Kai let me God I wish I didn't have to
+
+362
+00:43:44,740 --> 00:43:50,620
+I wish I didn't have have to like fucking remake this i
+spent like 10 minutes fucking putting everybody's names in
+
+363
+00:43:51,900 --> 00:43:58,800
+only for my obs to be like no so now i have to rewrite
+everything that's like the worst part
+
+364
+00:44:02,500 --> 00:44:12,140
+all right the very first i think this will be the very first
+match for day one uh we're gonna be the match orders are
+
+365
+00:44:12,140 --> 00:44:17,500
+gonna be going into this order so like this would be the
+first the opening well not the opening match because we do
+
+366
+00:44:17,500 --> 00:44:27,080
+have um we do have show matches but this will be the first
+match for the tournament uh but yes indie versus idol en all
+
+367
+00:44:27,080 --> 00:44:28,220
+right second matchup
+
+368
+00:44:31,900 --> 00:44:39,620
+i'm very excited for the roasting i gave like guidelines on
+like what to do for like roasting and i gave examples so i
+
+369
+00:44:39,620 --> 00:44:50,660
+had like one with like logan paul and that other guy like
+talking shit and so i had like i sent like examples i'll be
+
+370
+00:44:50,660 --> 00:44:57,820
+like hey guys it'd be great if you want to hype up the event
+to like post like like videos of of like you guys roasting
+
+371
+00:44:57,820 --> 00:45:08,700
+your matchup and stuff you know all right emma we have emma
+for the second match all right duplicate oh my gosh there's
+
+372
+00:45:08,700 --> 00:45:15,000
+so many people this is gonna take for it Alright, we have
+Emma.
+
+373
+00:45:15,360 --> 00:45:16,780
+Who is Emma gonna fight?
+
+374
+00:45:17,000 --> 00:45:18,620
+Alright, rename this real fast.
+
+375
+00:45:19,560 --> 00:45:21,380
+Alright, who the heck is Emma gonna fight?
+
+376
+00:45:21,540 --> 00:45:23,300
 Remove Emma from the wheel.
 
-1199
-00:45:23,440 --> 00:45:25,840
-Who is the dungeon boss going to fight?
+377
+00:45:23,880 --> 00:45:26,180
+Who is the dungeon boss gonna fight?
 
-1200
-00:45:27,020 --> 00:45:28,400
-Who is she going to fight?
+378
+00:45:27,000 --> 00:45:28,680
+Who is she gonna fight?
 
-1201
-00:45:28,960 --> 00:45:29,020
-Who is she going to fight?
+379
+00:45:29,140 --> 00:45:30,060
+Wait, is it Fuyo?
 
-1202
-00:45:29,020 --> 00:45:29,820
-Wait is it Fuyo?
+380
+00:45:30,360 --> 00:45:31,660
+Fuyo Cloverfeet!
 
-1203
-00:45:30,160 --> 00:45:31,500
-Fuyo Cloverfield.
+381
+00:45:31,800 --> 00:45:33,120
+Wait, it could be... Oh, wait, no!
 
-1204
-00:45:31,680 --> 00:45:32,320
-Wait it could be.
+382
+00:45:33,260 --> 00:45:33,620
+RIN!
 
-1205
-00:45:32,620 --> 00:45:33,300
-Oh wait no Rin.
-
-1206
-00:45:34,740 --> 00:45:35,260
+383
+00:45:34,900 --> 00:45:35,360
 Alright.
 
-1207
-00:45:36,640 --> 00:45:37,960
-Dungeon boss versus.
-
-1208
-00:45:38,600 --> 00:45:39,540
-British Prince.
-
-1209
-00:45:39,980 --> 00:45:41,540
-We'll see who's going to win.
-
-1210
-00:45:42,480 --> 00:45:44,420
-I think the most exciting part is seeing.
-
-1211
-00:45:44,700 --> 00:45:45,920
-Like chat bet.
-
-1212
-00:45:46,120 --> 00:45:47,640
-On who's going to win each match up.
-
-1213
-00:45:47,720 --> 00:45:49,680
-That's like one of the most exciting parts I think during.
-
-1214
-00:45:50,040 --> 00:45:51,120
-Wrestling events.
-
-1215
-00:45:53,060 --> 00:45:54,100
-Rin Penrose.
-
-1216
-00:45:54,700 --> 00:45:56,160
-Will be her opponent.
-
-1217
-00:45:58,060 --> 00:45:59,780
-Finally third match.
-
-1218
-00:46:00,220 --> 00:46:02,020
-Third match of day one.
-
-1219
-00:46:04,620 --> 00:46:06,740
-Guys we're going to be spinning the wheel forever.
-
-1220
-00:46:07,000 --> 00:46:07,980
-There's so many names.
-
-1221
-00:46:08,400 --> 00:46:09,700
-On the wheel.
-
-1222
-00:46:14,520 --> 00:46:15,260
-Gambling legally.
-
-1223
-00:46:15,540 --> 00:46:17,240
-Because we don't lose actual money.
-
-1224
-00:46:17,640 --> 00:46:20,160
-I swear if you guys make like actual like what is it called?
-
-1225
-00:46:20,260 --> 00:46:21,060
-The sports bet.
-
-1226
-00:46:21,180 --> 00:46:22,600
-Like fantasy sports bets.
-
-1227
-00:46:22,940 --> 00:46:24,080
-Because like I noticed.
-
-1228
-00:46:24,120 --> 00:46:26,100
-Like people do that for like esports too.
-
-1229
-00:46:26,160 --> 00:46:27,340
-Like apex and stuff.
-
-1230
-00:46:27,480 --> 00:46:30,180
-I will not be surprised if someone starts an underground.
-
-1231
-00:46:30,180 --> 00:46:31,240
-Like betting pool.
-
-1232
-00:46:31,420 --> 00:46:32,480
-For WrestleTuber.
-
-1233
-00:46:35,440 --> 00:46:36,060
-Nanasterea.
-
-1234
-00:46:36,240 --> 00:46:38,400
-Is the third match of the day.
-
-1235
-00:46:39,760 --> 00:46:40,740
-Alright duplicate.
-
-1236
-00:46:43,720 --> 00:46:44,340
-Nanasterea.
-
-1237
-00:46:45,820 --> 00:46:46,440
-Alright.
-
-1238
-00:46:47,060 --> 00:46:48,640
-Who is she going to fight?
-
-1239
-00:46:49,240 --> 00:46:50,740
-Totally that's not please.
-
-1240
-00:46:50,940 --> 00:46:54,020
-If you're going to do that please do not include me.
-
-1241
-00:46:54,920 --> 00:46:55,220
-.
-
-1242
-00:46:55,220 --> 00:46:55,360
-.
-
-1243
-00:46:56,500 --> 00:46:56,980
-.
-
-1244
-00:46:59,540 --> 00:47:00,420
-Gerard T.
-
-1245
-00:47:00,780 --> 00:47:01,260
-Rexford.
-
-1246
-00:47:01,360 --> 00:47:02,760
-Our first hollow stars.
-
-1247
-00:47:03,420 --> 00:47:03,820
-.
-
-1248
-00:47:04,860 --> 00:47:09,520
-A dino and a falling star fight together.
-
-1249
-00:47:10,020 --> 00:47:10,200
-.
-
-1250
-00:47:10,200 --> 00:47:10,540
-Alright.
-
-1251
-00:47:10,700 --> 00:47:11,300
-Let's see.
-
-1252
-00:47:12,060 --> 00:47:13,300
-Where the fuck is this?
-
-1253
-00:47:13,520 --> 00:47:15,340
-Where the fuck is the tag?
-
-1254
-00:47:15,700 --> 00:47:16,600
-Oh my gosh.
-
-1255
-00:47:16,620 --> 00:47:17,700
-I can't believe I have to remake all of this.
-
-1256
-00:47:17,940 --> 00:47:18,420
-.
-
-1257
-00:47:18,420 --> 00:47:19,180
-.
-
-1258
-00:47:19,180 --> 00:47:20,260
-.
-
-1259
-00:47:21,620 --> 00:47:22,900
-Wait where did it go?
-
-1260
-00:47:23,360 --> 00:47:24,400
-Guys I'm sorry.
-
-1261
-00:47:24,520 --> 00:47:25,660
-I'm scuffed right now.
-
-1262
-00:47:25,900 --> 00:47:28,420
-Alright Gerard versus Nanasterea.
-
-1263
-00:47:29,160 --> 00:47:29,500
-.
-
-1264
-00:47:30,220 --> 00:47:31,800
-The dino versus the...
-
-1265
-00:47:31,800 --> 00:47:32,880
-Oh wait is it the asteroid?
-
-1266
-00:47:33,160 --> 00:47:34,340
-Wait she's an asteroid too.
-
-1267
-00:47:34,620 --> 00:47:36,540
-Wait this is Laura Ackroyd.
-
-1268
-00:47:36,560 --> 00:47:37,040
-You're right.
-
-1269
-00:47:38,200 --> 00:47:38,760
-.
-
-1270
-00:47:38,760 --> 00:47:39,280
-.
-
-1271
-00:47:42,060 --> 00:47:42,620
-Rematch.
-
-1272
-00:47:42,920 --> 00:47:43,480
-Rematch.
-
-1273
-00:47:44,460 --> 00:47:45,020
-.
-
-1274
-00:47:46,360 --> 00:47:46,920
-.
-
-1275
-00:47:46,920 --> 00:47:48,240
-History rematch.
-
-1276
-00:47:48,420 --> 00:47:49,520
-Who will win?
-
-1277
-00:47:50,340 --> 00:47:51,080
-.
-
-1278
-00:47:52,040 --> 00:47:53,780
-Dinosaur versus asteroid.
-
-1279
-00:47:54,480 --> 00:47:54,820
-.
-
-1280
-00:47:54,820 --> 00:47:56,460
-Alright and then.
-
-1281
-00:47:57,180 --> 00:47:59,580
-Next the fourth match of the day.
-
-1282
-00:48:00,140 --> 00:48:00,880
-.
-
-1283
-00:48:02,200 --> 00:48:03,680
-Fuyo Cloverfield.
-
-1284
-00:48:04,060 --> 00:48:05,780
-Alright who's Fuyo gonna play against?
-
-1285
-00:48:06,180 --> 00:48:06,620
-.
-
-1286
-00:48:06,620 --> 00:48:08,320
-Fuyo Cloverfield.
-
-1287
-00:48:08,360 --> 00:48:10,140
-I'm so sorry for the transparency.
-
-1288
-00:48:10,560 --> 00:48:11,080
-.
-
-1289
-00:48:11,080 --> 00:48:12,960
-Laura Ackroyd.
-
-1290
-00:48:13,040 --> 00:48:15,940
-What happens to the dinos though?
-
-1291
-00:48:16,080 --> 00:48:17,220
-Gerard survived?
-
-1292
-00:48:17,840 --> 00:48:18,400
-How do we win?
-
-1293
-00:48:18,400 --> 00:48:18,400
-.
-
-1294
-00:48:18,420 --> 00:48:19,340
-What are you guys talking about?
-
-1295
-00:48:19,600 --> 00:48:20,460
-Gerard's alive?
-
-1296
-00:48:21,280 --> 00:48:24,860
-Clearly Gerard survived the asteroid somehow.
-
-1297
-00:48:25,520 --> 00:48:25,700
-.
-
-1298
-00:48:25,700 --> 00:48:27,980
-Like how else would Gerard be alive?
-
-1299
-00:48:28,640 --> 00:48:29,060
-.
-
-1300
-00:48:30,120 --> 00:48:31,340
-It's more like.
-
-1301
-00:48:31,440 --> 00:48:32,260
-It's more like.
-
-1302
-00:48:32,280 --> 00:48:34,540
-Asteria fucking finishing the job.
-
-1303
-00:48:34,820 --> 00:48:35,080
-.
-
-1304
-00:48:36,140 --> 00:48:39,020
-After she finds out there was a survivor.
-
-1305
-00:48:39,340 --> 00:48:39,560
-.
-
-1306
-00:48:39,560 --> 00:48:41,540
+384
+00:45:36,080 --> 00:45:39,780
+Alright, dungeon boss versus British prince.
+
+385
+00:45:40,280 --> 00:45:41,740
+We'll see who's gonna win.
+
+386
+00:45:43,420 --> 00:45:49,360
+exciting part is seeing like chat bet on who's gonna win
+each matchup that's like one of the most exciting parts i
+
+387
+00:45:49,360 --> 00:46:02,560
+think during uh wrestling events all right rina penrose will
+be her opponent finally third match third match of day one
+
+388
+00:46:03,580 --> 00:46:08,260
+but this guys we're gonna be spinning the wheel forever
+there's so many names
+
+389
+00:46:14,540 --> 00:46:20,540
+gambling legally because we don't lose actual money I swear
+if you guys make like actual like what is it called the
+
+390
+00:46:20,540 --> 00:46:27,520
+sports bet like fantasy sports bets because like I noticed
+like people do that for like esports too like apex and stuff
+
+391
+00:46:27,520 --> 00:46:32,720
+I will not be surprised if someone starts an underground
+like betting pool for wrestle tuber
+
+392
+00:46:35,780 --> 00:46:48,920
+now there's a third match of the day all right duplicate
+there you go Anastaria all right who is she gonna fight
+
+393
+00:46:48,920 --> 00:46:54,340
+totally that's not please please if you're gonna do that
+please do not include me
+
+394
+00:46:59,380 --> 00:47:12,660
+Gerard team Rexford our first hollow stars um a dino and uh
+and a falling in a star fight together all right see where
+
+395
+00:47:12,660 --> 00:47:23,240
+the fuck is this where the fuck is the the tag oh my gosh
+you can't be like to remake all of this wait where did it go
+
+396
+00:47:23,240 --> 00:47:33,100
+guys i'm sorry i'm scuffed right now all right jirai versus
+nana syria the dino versus the oh wait isn't the asteroid
+
+397
+00:47:33,100 --> 00:47:37,380
+wait she's an asteroid too wait this is lore accurate you're
+right
+
+398
+00:47:41,630 --> 00:48:00,020
+rematch rematch history rematch who will win dinosaur versus
+asteroid all right and then next the fourth match of the day
+
+399
+00:48:01,810 --> 00:48:13,030
+Foyoke Cloverfield all right who's Foyoke gonna play Foyle
+Cloverfield I'm so sorry for the transparency Or accurate
+
+400
+00:48:13,030 --> 00:48:23,630
+What happens to the Thanos though Gerard survived What are
+we guys talking about Gerard's alive Clearly Gerard survived
+
+401
+00:48:23,630 --> 00:48:33,530
+the asteroid somehow Like how else would Would Gerard be
+alive It's more like It's more like Asteria Fucking
+
+402
+00:48:33,530 --> 00:48:39,270
+finishing the job After she finds out there was a survivor.
+
+403
+00:48:39,810 --> 00:48:41,810
 She's back to finish the job.
 
-1307
-00:48:41,720 --> 00:48:42,500
+404
+00:48:42,030 --> 00:48:43,210
 No survivors.
 
-1308
-00:48:43,040 --> 00:48:43,660
-.
-
-1309
-00:48:43,660 --> 00:48:43,860
-.
-
-1310
-00:48:46,400 --> 00:48:48,780
+405
+00:48:46,570 --> 00:48:49,270
 He was off planet.
 
-1311
-00:48:49,420 --> 00:48:50,000
-.
+406
+00:48:50,610 --> 00:48:51,310
+Snuffy!
 
-1312
-00:48:50,000 --> 00:48:50,240
-Alright.
+407
+00:48:52,010 --> 00:48:55,410
+Fuyu will be going up against Snuffy.
 
-1313
-00:48:50,400 --> 00:48:50,740
-.
+408
+00:48:55,750 --> 00:48:57,970
+There's a lot of indie versus idle Ian.
 
-1314
-00:48:51,500 --> 00:48:55,180
-Fuyo will be going up against Snuffy.
-
-1315
-00:48:55,440 --> 00:48:57,680
-There's a lot of Indie versus Idol EN.
-
-1316
-00:48:57,960 --> 00:49:00,000
+409
+00:48:58,530 --> 00:49:00,190
 It's like whoever gets the eye.
 
-1317
-00:49:00,180 --> 00:49:00,460
-.
-
-1318
-00:49:00,460 --> 00:49:03,820
+410
+00:49:01,210 --> 00:49:04,110
 Whoever wins has to get rid of the eye.
 
-1319
-00:49:04,080 --> 00:49:04,380
-.
-
-1320
-00:49:05,160 --> 00:49:05,880
-Alright.
-
-1321
-00:49:06,900 --> 00:49:07,620
-Copy.
-
-1322
-00:49:09,460 --> 00:49:10,180
-Duplicate.
-
-1323
-00:49:11,500 --> 00:49:12,640
-Alright here are.
-
-1324
-00:49:12,760 --> 00:49:13,160
-.
-
-1325
-00:49:13,660 --> 00:49:14,740
-First matchups.
-
-1326
-00:49:15,960 --> 00:49:16,960
-For day one.
-
-1327
-00:49:17,400 --> 00:49:18,180
-And also.
-
-1328
-00:49:18,200 --> 00:49:18,500
-.
-
-1329
-00:49:18,500 --> 00:49:19,520
-But don't worry.
-
-1330
-00:49:19,600 --> 00:49:21,240
-The next other ones are also.
-
-1331
-00:49:21,300 --> 00:49:21,540
-.
-
-1332
-00:49:21,540 --> 00:49:22,400
-Going to be day one as well.
-
-1333
-00:49:22,680 --> 00:49:23,160
-.
-
-1334
-00:49:25,060 --> 00:49:25,540
-.
-
-1335
-00:49:26,240 --> 00:49:27,440
-Indie versus Doll.
-
-1336
-00:49:29,080 --> 00:49:29,560
-Indie.
-
-1337
-00:49:29,560 --> 00:49:30,160
-Oh my gosh.
-
-1338
-00:49:30,200 --> 00:49:31,000
-How does it feel like.
-
-1339
-00:49:31,040 --> 00:49:31,100
-.
-
-1340
-00:49:31,100 --> 00:49:32,560
-Every time I remove more names.
-
-1341
-00:49:32,740 --> 00:49:32,980
-.
-
-1342
-00:49:32,980 --> 00:49:34,740
-It feels like there's still so many.
-
-1343
-00:49:35,140 --> 00:49:35,620
-.
-
-1344
-00:49:37,080 --> 00:49:37,560
-.
-
-1345
-00:49:37,560 --> 00:49:39,540
-The raccoon versus the leprechaun.
-
-1346
-00:49:39,780 --> 00:49:40,000
-.
-
-1347
-00:49:40,000 --> 00:49:42,500
-Is Snuffy going to win that pot of gold?
-
-1348
-00:49:42,780 --> 00:49:43,120
-.
-
-1349
-00:49:43,120 --> 00:49:45,420
-Or is Fuyo going to run over.
-
-1350
-00:49:45,540 --> 00:49:45,980
-.
-
-1351
-00:49:45,980 --> 00:49:46,880
-And get a roadkill.
-
-1352
-00:49:46,920 --> 00:49:47,320
-.
-
-1353
-00:49:47,320 --> 00:49:49,300
-We'll find out soon on 25th.
-
-1354
-00:49:49,320 --> 00:49:49,660
-.
-
-1355
-00:49:49,660 --> 00:49:49,900
-Alright.
-
-1356
-00:49:49,960 --> 00:49:50,400
-.
-
-1357
-00:49:51,420 --> 00:49:52,240
-Next up.
-
-1358
-00:49:52,320 --> 00:49:52,520
-.
-
-1359
-00:49:52,520 --> 00:49:53,820
-Alright time to delete all of this.
-
-1360
-00:49:53,980 --> 00:49:54,340
-.
-
-1361
-00:49:55,920 --> 00:49:56,800
-Alright time.
-
-1362
-00:49:56,880 --> 00:49:57,060
-.
-
-1363
-00:49:57,060 --> 00:49:59,400
-For you guys to screenshot the current matchups.
-
-1364
-00:49:59,420 --> 00:49:59,520
-.
-
-1365
-00:49:59,520 --> 00:50:01,380
-Before I wipe it all.
-
-1366
-00:50:01,460 --> 00:50:01,580
-.
-
-1367
-00:50:01,580 --> 00:50:02,220
-Out of existence.
-
-1368
-00:50:02,400 --> 00:50:02,580
-.
-
-1369
-00:50:02,580 --> 00:50:03,860
-And you can only watch it in the rewind.
-
-1370
-00:50:04,200 --> 00:50:04,520
-.
-
-1371
-00:50:04,520 --> 00:50:06,420
-Alright wiping it out now.
-
-1372
-00:50:07,200 --> 00:50:07,540
-.
-
-1373
-00:50:07,540 --> 00:50:07,940
-Alright.
-
-1374
-00:50:08,140 --> 00:50:08,580
-.
-
-1375
-00:50:08,580 --> 00:50:11,260
-The next matchup.
-
-1376
-00:50:11,260 --> 00:50:11,500
-.
-
-1377
-00:50:11,500 --> 00:50:11,700
-.
-
-1378
-00:50:15,780 --> 00:50:17,100
-And on none.
-
-1379
-00:50:17,200 --> 00:50:17,640
-.
-
-1380
-00:50:17,640 --> 00:50:18,440
-Is the first split.
-
-1381
-00:50:18,460 --> 00:50:18,720
-.
-
-1382
-00:50:18,720 --> 00:50:19,460
-Next matchup.
-
-1383
-00:50:19,700 --> 00:50:20,140
-.
-
-1384
-00:50:20,140 --> 00:50:21,080
-Let me Put that.
-
-1385
-00:50:21,160 --> 00:50:21,320
-.
-
-1386
-00:50:21,320 --> 00:50:22,260
-Down real quick.
-
-1387
-00:50:23,780 --> 00:50:24,220
-way.
-
-1388
-00:50:24,220 --> 00:50:24,220
-.
-
-1389
-00:50:24,220 --> 00:50:25,300
-And on none.
-
-1390
-00:50:25,580 --> 00:50:25,920
-.
-
-1391
-00:50:25,920 --> 00:50:27,700
-Actually guys before I do it.
-
-1392
-00:50:27,700 --> 00:50:27,800
-.
-
-1393
-00:50:27,800 --> 00:50:30,660
-Can you guys screenshot this for me?
-
-1394
-00:50:30,680 --> 00:50:30,820
-.
-
-1395
-00:50:30,820 --> 00:50:31,120
-Real鐘
-
-1396
-00:50:35,100 --> 00:50:36,240
-When I post.
-
-1397
-00:50:36,280 --> 00:50:36,420
-.
-
-1398
-00:50:36,420 --> 00:50:36,780
-Actually no.
-
-1399
-00:50:36,920 --> 00:50:36,920
-.
-
-1400
-00:50:36,920 --> 00:50:37,720
-When I post a match.
-
-1401
-00:50:37,780 --> 00:50:37,840
-.
-
-1402
-00:50:37,840 --> 00:50:39,840
-I'll just Photoshop it.
-
-1403
-00:50:39,920 --> 00:50:39,980
-.
-
-1404
-00:50:39,980 --> 00:50:40,020
-.
-
-1405
-00:50:40,020 --> 00:50:40,660
-That's actually easier.
-
-1406
-00:50:40,980 --> 00:50:41,080
-.
-
-1407
-00:50:41,080 --> 00:50:41,140
-.
-
-1408
-00:50:41,140 --> 00:50:41,140
-.
-
-1409
-00:50:41,140 --> 00:50:41,140
-.
-
-1410
-00:50:41,140 --> 00:50:41,140
-.
-
-1411
-00:50:41,140 --> 00:50:41,140
-.
-
-1412
-00:50:41,140 --> 00:50:41,140
-.
-
-1413
-00:50:41,140 --> 00:50:41,480
-,I feel like this is the final match.
-
-1414
-00:50:41,480 --> 00:50:41,480
-, .
-
-1415
-00:50:41,500 --> 00:50:45,400
-Aesthetically, you can just screenshot this for your Twitter post while you're live tweeting.
-
-1416
-00:50:45,680 --> 00:50:46,200
-Uh...
-
-1417
-00:50:46,200 --> 00:50:47,020
-Hahahaha!
-
-1418
-00:50:49,320 --> 00:50:56,340
-And then, for anyone that screenshots this, I can just go like yoink and just take that screenshot and use it for my own tweet.
-
-1419
-00:50:56,980 --> 00:50:57,500
-Uh...
-
-1420
-00:50:57,500 --> 00:50:59,240
-Work... work smarter, not harder.
-
-1421
-00:50:59,720 --> 00:51:00,240
-Hahahaha!
-
-1422
-00:51:02,820 --> 00:51:04,620
-Anyway... anyway, let's put the...
-
-1423
-00:51:05,160 --> 00:51:05,420
-Alright.
-
-1424
-00:51:06,360 --> 00:51:07,580
-Let me just...
-
-1425
-00:51:08,780 --> 00:51:11,060
-rename... let me copy this folder.
-
-1426
-00:51:11,460 --> 00:51:13,360
-And then do a duplicate.
-
-1427
-00:51:14,300 --> 00:51:15,340
-And then...
-
-1428
-00:51:15,340 --> 00:51:17,500
-Bup bup bup bup bup bup bup bup... wait, where am I?
-
-1429
-00:51:17,580 --> 00:51:18,160
-Okay, here we go.
-
-1430
-00:51:18,360 --> 00:51:19,220
-Redo this.
-
-1431
-00:51:19,660 --> 00:51:21,440
-Wait, did I duplicate all of this?
-
-1432
-00:51:21,740 --> 00:51:22,260
-No!
-
-1433
-00:51:22,520 --> 00:51:23,320
-Wait, am I dumb?
-
-1434
-00:51:23,640 --> 00:51:24,880
-Wait, don't answer that chat.
-
-1435
-00:51:25,300 --> 00:51:25,820
-Hahahaha!
-
-1436
-00:51:31,420 --> 00:51:32,680
-We're doing it live!
-
-1437
-00:51:33,860 --> 00:51:37,480
-Despite so many events that I've hosted, I'm somehow...
-
-1438
-00:51:37,580 --> 00:51:38,600
-still incompetent.
-
-1439
-00:51:38,600 --> 00:51:39,380
-It's actually...
-
-1440
-00:51:39,380 --> 00:51:41,460
-very impressive at this point.
-
-1441
-00:51:41,740 --> 00:51:42,200
-Alright.
-
-1442
-00:51:42,460 --> 00:51:43,440
-Anna Nunn!
-
-1443
-00:51:43,720 --> 00:51:46,040
-Is our first matchup in this bracket.
-
-1444
-00:51:46,480 --> 00:51:47,140
-Next!
-
-1445
-00:51:47,640 --> 00:51:50,460
-Who is Anna Nunn gonna be facing against?
-
-1446
-00:51:51,920 --> 00:51:53,960
-Must tell lies.
-
-1447
-00:51:54,760 --> 00:51:55,480
-Nya!
-
-1448
-00:51:56,360 --> 00:51:57,160
-Oh my god!
-
-1449
-00:51:57,320 --> 00:52:00,820
-Is... is X-Prism versus X-Prism?
-
-1450
-00:52:00,940 --> 00:52:02,180
-Let's fucking go!
-
-1451
-00:52:02,520 --> 00:52:03,100
-Hahahaha!
-
-1452
-00:52:03,600 --> 00:52:04,320
-Fight!
-
-1453
-00:52:04,460 --> 00:52:04,880
-Fight!
-
-1454
-00:52:05,020 --> 00:52:05,440
-Fight!
-
-1455
-00:52:06,520 --> 00:52:07,560
-I love you!
-
-1456
-00:52:07,580 --> 00:52:10,640
-I love it when there's infighting and I'm not involved in just watching.
-
-1457
-00:52:11,340 --> 00:52:11,920
-Hahahaha!
-
-1458
-00:52:14,680 --> 00:52:15,900
-Oh my god!
-
-1459
-00:52:16,060 --> 00:52:19,020
-At last I can just watch when the infighting starts.
-
-1460
-00:52:19,280 --> 00:52:21,540
-And I don't have to be involved in the drama.
-
-1461
-00:52:22,000 --> 00:52:22,420
-Hahahaha!
-
-1462
-00:52:23,400 --> 00:52:23,980
-Fight!
-
-1463
-00:52:24,060 --> 00:52:24,420
-Fight!
-
-1464
-00:52:24,520 --> 00:52:24,820
-Fight!
-
-1465
-00:52:24,920 --> 00:52:25,620
-Civil War!
-
-1466
-00:52:25,900 --> 00:52:26,400
-Let's go!
-
-1467
-00:52:27,180 --> 00:52:28,900
-Alright, what a script!
-
-1468
-00:52:30,160 --> 00:52:31,260
-Too real!
-
-1469
-00:52:31,520 --> 00:52:33,860
+411
+00:49:05,750 --> 00:49:10,030
+All right, copy, duplicate.
+
+412
+00:49:11,930 --> 00:49:17,430
+All right, here are your first matchups for day one.
+
+413
+00:49:17,890 --> 00:49:22,710
+And also, but don't worry, like, you know, the next other
+ones are also going to be day one as well.
+
+414
+00:49:26,370 --> 00:49:27,710
+ND versus Doll.
+
+415
+00:49:29,130 --> 00:49:34,950
+ND, oh my gosh, how does it feel like every time I remove
+more names, it feels like there's still so many.
+
+416
+00:49:37,150 --> 00:49:47,090
+the raccoon versus the leprechaun is stuffy gonna win that
+pot of gold or is foo gonna run over and get a roadkill
+
+417
+00:49:47,090 --> 00:49:58,290
+we'll find out soon on 25th alright next up alright time to
+delete all of this alright time for you guys to screenshot
+
+418
+00:49:58,290 --> 00:50:05,450
+the current matchups before I wipe it all out of existence
+and then you can only watch it in the rewind alright wiping
+
+419
+00:50:05,450 --> 00:50:20,950
+it out now all right the next the next matchup roadkill for
+dinner and on none is the first the next matchup now you put
+
+420
+00:50:20,950 --> 00:50:30,350
+that down real quick and on none wait actually guys before I
+do it can you guys like can you guys like screenshot this
+
+421
+00:50:30,350 --> 00:50:40,190
+for me it real fat when i post actually no when i post a
+matchup i'll just put it i'll just photoshop it that's
+
+422
+00:50:40,190 --> 00:50:45,270
+actually a lot easier i feel like aesthetically you could
+just screenshot this for your twitter post while you're live
+
+423
+00:50:45,270 --> 00:50:55,330
+tweeting and then for anyone that screenshots this i can
+just go like yoink and just take that screenshot and use it
+
+424
+00:50:55,330 --> 00:51:09,770
+for my own tweet uh work work smarter not harder anyway
+anyway let's put the all right let me just rename let me
+
+425
+00:51:09,770 --> 00:51:21,250
+copy this folder and then do a duplicate and then wait what
+am i okay here you go redo this wait did i duplicate all of
+
+426
+00:51:21,250 --> 00:51:25,230
+this no wait am i dumb wait don't answer that chat
+
+427
+00:51:31,150 --> 00:51:33,370
+We're doing it live.
+
+428
+00:51:34,270 --> 00:51:38,610
+Despite so many events that I've hosted, I'm somehow still
+incompetent.
+
+429
+00:51:38,870 --> 00:51:41,710
+It's actually very impressive at this point.
+
+430
+00:51:42,250 --> 00:51:42,470
+All right.
+
+431
+00:51:42,910 --> 00:51:46,330
+Anna Nunn is our first matchup in this bracket.
+
+432
+00:51:48,310 --> 00:51:51,010
+Who is Anna Nunn going to be facing against?
+
+433
+00:51:52,150 --> 00:51:54,490
+I must tell lies.
+
+434
+00:51:55,390 --> 00:51:55,690
+Nia!
+
+435
+00:51:56,650 --> 00:51:57,450
+Oh my God.
+
+436
+00:51:57,910 --> 00:52:00,710
+Is ex-prison versus ex-prison?
+
+437
+00:52:00,730 --> 00:52:02,710
+Let's fucking go.
+
+438
+00:52:04,430 --> 00:52:05,610
+Fight, fight, fight.
+
+439
+00:52:07,270 --> 00:52:11,230
+I love it when there's infighting and I'm not involved in
+just watching.
+
+440
+00:52:15,350 --> 00:52:16,090
+Oh my god.
+
+441
+00:52:16,350 --> 00:52:21,810
+At last I can just watch when the infighting starts and I
+don't have to be involved in the drama.
+
+442
+00:52:24,030 --> 00:52:25,970
+Fight, fight, fight, civil war.
+
+443
+00:52:26,130 --> 00:52:26,830
+Let's go.
+
+444
+00:52:27,610 --> 00:52:29,250
+What a script.
+
+445
+00:52:30,810 --> 00:52:31,410
+Real.
+
+446
+00:52:32,230 --> 00:52:33,950
 Alright, next up in this matchup.
 
-1470
-00:52:34,140 --> 00:52:34,720
-Aracaluto!
+447
+00:52:34,010 --> 00:52:34,910
+Araka Luto.
 
-1471
-00:52:36,060 --> 00:52:36,600
-Wait, let me...
+448
+00:52:36,150 --> 00:52:40,310
+Alright, let me fucking put that in.
 
-1472
-00:52:36,600 --> 00:52:38,280
-I can...
-
-1473
-00:52:38,280 --> 00:52:40,060
-Put that in.
-
-1474
-00:52:40,980 --> 00:52:42,220
+449
+00:52:41,730 --> 00:52:42,490
 Luto is here.
 
-1475
-00:52:42,740 --> 00:52:44,180
+450
+00:52:43,270 --> 00:52:44,350
 Alright, next up.
 
-1476
-00:52:44,260 --> 00:52:46,000
+451
+00:52:44,450 --> 00:52:46,330
 Who is Luto gonna fight against?
 
-1477
-00:52:48,100 --> 00:52:51,900
-I like how all the Holostars guys are like dodging each other at the moment.
+452
+00:52:48,270 --> 00:52:52,150
+I like how all the Hall of Stars guys are like dodging each
+other at the moment.
 
-1478
-00:52:52,400 --> 00:52:53,040
-Hahahaha!
+453
+00:52:55,330 --> 00:52:58,970
+It would be Sayu versus Luto.
 
-1479
-00:52:53,660 --> 00:52:53,800
-No!
-
-1480
-00:52:55,700 --> 00:52:58,760
-It will be Sayu versus Luto!
-
-1481
-00:53:01,200 --> 00:53:01,840
+454
+00:53:01,510 --> 00:53:02,110
 Alright.
 
-1482
-00:53:02,240 --> 00:53:05,220
-Our announcer is gonna be joining the fight.
+455
+00:53:02,290 --> 00:53:05,530
+Our announcer is going to be joining the fight.
 
-1483
-00:53:05,880 --> 00:53:07,260
-Let me fucking...
+456
+00:53:06,670 --> 00:53:09,610
+Let me fucking change this real fast.
 
-1484
-00:53:07,260 --> 00:53:08,940
-Let me change this real fast.
+457
+00:53:10,290 --> 00:53:11,510
+Boop, boop, boop.
 
-1485
-00:53:09,520 --> 00:53:10,440
-Boop!
+458
+00:53:12,350 --> 00:53:12,610
+Hey!
 
-1486
-00:53:10,440 --> 00:53:10,880
-Boop!
+459
+00:53:13,510 --> 00:53:14,750
+Sayu sweep.
 
-1487
-00:53:10,960 --> 00:53:11,340
-Boop!
+460
+00:53:15,810 --> 00:53:20,990
+I wonder who's going to win between a fucking...
 
-1488
-00:53:11,820 --> 00:53:12,340
-Alright!
+461
+00:53:20,990 --> 00:53:22,630
+That shit's it.
 
-1489
-00:53:12,820 --> 00:53:14,240
-Sayu sweep!
-
-1490
-00:53:14,840 --> 00:53:17,480
-I wonder who's gonna win between the...
-
-1491
-00:53:18,260 --> 00:53:20,580
-Between a fucking...
-
-1492
-00:53:20,580 --> 00:53:21,240
-Hahahaha!
-
-1493
-00:53:21,280 --> 00:53:21,840
-Shit!
-
-1494
-00:53:22,360 --> 00:53:23,280
-Hahahaha!
-
-1495
-00:53:25,040 --> 00:53:25,960
-Hahahaha!
-
-1496
-00:53:28,320 --> 00:53:32,000
+462
+00:53:29,150 --> 00:53:32,150
 If anything, you guys roast better than me anyway.
 
-1497
-00:53:32,500 --> 00:53:33,420
-Hahahaha!
-
-1498
-00:53:34,920 --> 00:53:37,060
-The announcer joins the scuffle!
-
-1499
-00:53:37,600 --> 00:53:39,140
-Seagull versus Sayu.
-
-1500
-00:53:39,600 --> 00:53:40,640
-Say it, coward!
-
-1501
-00:53:40,820 --> 00:53:43,440
-Whatever I say will never be as bad as what chat says.
-
-1502
-00:53:43,680 --> 00:53:48,600
-I swear, chat is like way more creative in coming up with like roasts than me.
-
-1503
-00:53:48,840 --> 00:53:50,540
-Cause you guys have like a group effort.
-
-1504
-00:53:50,700 --> 00:53:54,140
-And then I'd steal your roast and then pose it off as my own roast.
-
-1505
-00:53:54,440 --> 00:53:57,120
-And then people would be like, Wow, Doki, you're so fucking clever.
-
-1506
-00:53:57,300 --> 00:53:58,040
-And I was like, thanks.
-
-1507
-00:53:58,140 --> 00:53:59,120
-I came up with it myself.
-
-1508
-00:53:59,900 --> 00:54:00,780
-Juno Nagi!
-
-1509
-00:54:00,780 --> 00:54:02,560
-Would be the next matchup!
-
-1510
-00:54:02,560 --> 00:54:04,700
-Wait, that's not Juno Nagi.
-
-1511
-00:54:04,720 --> 00:54:05,300
-Give me a sec.
-
-1512
-00:54:05,400 --> 00:54:06,620
-That is not Asteria.
-
-1513
-00:54:06,940 --> 00:54:09,080
-Juno Nagi will be the next one.
-
-1514
-00:54:09,140 --> 00:54:11,040
-Oh my god, it's finally getting smaller!
-
-1515
-00:54:11,420 --> 00:54:14,700
-The wheel is finally getting smaller!
-
-1516
-00:54:14,800 --> 00:54:16,180
-We're almost there!
-
-1517
-00:54:16,840 --> 00:54:17,080
-Hahaha!
-
-1518
-00:54:17,560 --> 00:54:19,840
-Way to expose yourself, Doki.
-
-1519
-00:54:20,020 --> 00:54:21,760
-I mean, it was pretty obvious.
-
-1520
-00:54:22,140 --> 00:54:22,780
-Hahahaha!
-
-1521
-00:54:24,740 --> 00:54:29,400
-Juno Nagi will be fighting against Benzai Haka!
-
-1522
-00:54:29,700 --> 00:54:30,340
-Hahaha!
-
-1523
-00:54:31,900 --> 00:54:32,540
-Hahaha!
-
-1524
-00:54:32,560 --> 00:54:33,720
-A bird and an eel.
-
-1525
-00:54:33,920 --> 00:54:35,800
-I think birds eat eels, don't they?
-
-1526
-00:54:36,060 --> 00:54:41,680
-I mean, I guess like if Juno is like electric, maybe like she can zap Haka.
-
-1527
-00:54:41,920 --> 00:54:43,160
-Because like birds are...
-
-1528
-00:54:43,160 --> 00:54:47,560
-What I know from Pokemon is that birds are weak against electricity.
-
-1529
-00:54:48,260 --> 00:54:53,060
-To be fair, everybody's weak against electricity except for like, I guess, electric eels.
-
-1530
-00:54:53,460 --> 00:54:54,020
-Hahaha!
-
-1531
-00:54:54,300 --> 00:54:55,760
-Wait, has anyone...
-
-1532
-00:54:55,760 --> 00:54:56,040
-Okay.
-
-1533
-00:54:56,680 --> 00:54:59,580
-Saying that is like technically like unethical.
-
-1534
-00:54:59,800 --> 00:55:01,720
-Like zapping an electric eel.
-
-1535
-00:55:01,720 --> 00:55:04,300
-But I'm just thinking like can like eels get...
-
-1536
-00:55:04,300 --> 00:55:07,780
-Can electric eels technically get electrocuted?
-
-1537
-00:55:07,900 --> 00:55:10,760
-And by getting electrocuted, like do they just like get...
-
-1538
-00:55:10,760 --> 00:55:12,700
-Is it just like neutral to them?
-
-1539
-00:55:12,900 --> 00:55:15,260
-Or like can they die from electricity?
-
-1540
-00:55:15,980 --> 00:55:16,880
-Like that's what I...
-
-1541
-00:55:16,880 --> 00:55:17,220
-Hahaha!
-
-1542
-00:55:19,480 --> 00:55:19,960
-What?
-
-1543
-00:55:20,120 --> 00:55:20,800
-Aren't you guys...
-
-1544
-00:55:20,800 --> 00:55:21,280
-Wait, they can...
-
-1545
-00:55:21,280 --> 00:55:22,540
-Yes as in they'll be okay?
-
-1546
-00:55:22,800 --> 00:55:24,660
-Or yes as in they'll die?
-
-1547
-00:55:24,940 --> 00:55:25,540
-Like I don't know.
-
-1548
-00:55:25,540 --> 00:55:26,300
-How would you know?
-
-1549
-00:55:26,860 --> 00:55:28,300
-How do you guys know?
-
-1550
-00:55:28,360 --> 00:55:29,720
-Have you guys ever seen it happen?
-
-1551
-00:55:32,400 --> 00:55:34,800
-High enough well can kill eels?
-
-1552
-00:55:35,000 --> 00:55:35,880
-Yeah, but what...
-
-1553
-00:55:35,880 --> 00:55:36,900
-How high is high?
-
-1554
-00:55:37,320 --> 00:55:37,960
-Hahaha!
-
-1555
-00:55:39,660 --> 00:55:40,720
-That's the thing.
-
-1556
-00:55:40,920 --> 00:55:43,560
-How high is like high enough?
-
-1557
-00:55:43,900 --> 00:55:45,200
-I'm just curious.
-
-1558
-00:55:45,780 --> 00:55:46,920
-I'm just curious, you know?
-
-1559
-00:55:47,240 --> 00:55:47,880
-Anyway.
-
-1560
-00:55:48,800 --> 00:55:50,840
-Haka will be fighting a Juna.
-
-1561
-00:55:52,220 --> 00:55:54,220
-Let me put that in.
-
-1562
-00:55:54,940 --> 00:55:55,800
-All right.
-
-1563
-00:55:55,880 --> 00:55:56,800
-Next up.
-
-1564
-00:55:56,860 --> 00:55:58,760
-Another removal of the name.
-
-1565
-00:55:59,060 --> 00:56:00,600
-It's time to spin the wheel.
-
-1566
-00:56:00,600 --> 00:56:02,480
-Spin that wheel!
-
-1567
-00:56:04,720 --> 00:56:05,520
-All right.
-
-1568
-00:56:05,540 --> 00:56:09,200
-Fillion will be the last matchup for bracket two.
-
-1569
-00:56:11,080 --> 00:56:11,720
+463
+00:53:32,290 --> 00:53:43,290
+uh the announcer joins the scuffer seagull versus saiyu say
+it coward whatever i say will never be as bad as what chat
+
+464
+00:53:43,290 --> 00:53:50,330
+says i swear chat is like way more creative and coming up
+with like roasts than me because you guys have like a group
+
+465
+00:53:50,330 --> 00:53:56,510
+effort and then i'd steal your roast and then pose it off as
+my own roast and then people be like wow doki you're so
+
+466
+00:53:56,510 --> 00:54:06,850
+fucking clever and i was like thanks i came the next matchup
+wait that's not Juno Nagi give me a sec that is not Asteria
+
+467
+00:54:06,850 --> 00:54:15,370
+Juno Nagi will be the next one oh my god it's finally
+getting smaller the wheel is finally getting smaller we're
+
+468
+00:54:15,370 --> 00:54:27,630
+almost there way to expose yourself Doki I mean it was
+pretty obvious Juno Nagi will be fighting against
+
+469
+00:54:32,050 --> 00:54:41,030
+a bird and an eel i think birds eat eels don't they i mean i
+guess like if if juna's like electric um maybe like she can
+
+470
+00:54:41,030 --> 00:54:49,230
+zap haka because like birds are what i know from pokemon is
+that birds are weak against electricity uh to be fair
+
+471
+00:54:49,230 --> 00:54:57,330
+everybody's weak against electricity except for like i guess
+electric eels uh wait have you said has anyone okay saying
+
+472
+00:54:57,330 --> 00:55:04,290
+that is like technically like unethical like zapping an
+electric eel but i'm just thinking like can like eels get
+
+473
+00:55:04,290 --> 00:55:11,490
+like can electric eels technically get electrocuted and by
+getting electrocuted like do they just like get is it just
+
+474
+00:55:11,490 --> 00:55:21,170
+like neutral to them or like well can they die from
+electricity like that's what what aren't you guys wait they
+
+475
+00:55:21,170 --> 00:55:28,470
+can't yes as in they'll be okay or yes as in they'll die
+like i don't know how would you know how do you guys know
+
+476
+00:55:28,470 --> 00:55:41,590
+have you guys ever seen it in high enough vault can kill
+ears yeah but what how high is high that's the thing how
+
+477
+00:55:41,590 --> 00:55:50,650
+high is like high enough i'm just i'm just curious i'm just
+curious you know all right anyway haka will be fighting a
+
+478
+00:55:50,650 --> 00:56:00,910
+juna all right let me put that in all right how next up
+another removal of the name to spin the wheel.
+
+479
+00:56:01,830 --> 00:56:02,830
+Spin that wheel.
+
+480
+00:56:05,390 --> 00:56:09,610
+All right, Philly Inn will be the last matchup for Bracket
+2.
+
+481
+00:56:11,270 --> 00:56:11,870
 Welcome.
 
-1570
-00:56:12,780 --> 00:56:14,600
-Welcome to fight club Fillion.
+482
+00:56:13,230 --> 00:56:15,090
+Welcome to Fight Club, Philly Inn.
 
-1571
-00:56:14,900 --> 00:56:16,840
-For legal fight club.
+483
+00:56:15,490 --> 00:56:17,130
+For a legal fight club.
 
-1572
-00:56:17,160 --> 00:56:17,800
-Hahaha!
-
-1573
-00:56:20,180 --> 00:56:22,800
+484
+00:56:20,350 --> 00:56:23,110
 The one you can actually talk about.
 
-1574
-00:56:23,120 --> 00:56:23,580
-All right.
+485
+00:56:23,490 --> 00:56:26,130
+All right, Philly Inn will be the last matchup for this.
 
-1575
-00:56:23,640 --> 00:56:26,120
-Fillion will be the last matchup for this...
+486
+00:56:26,290 --> 00:56:28,350
+Will be one of the last matchup for this Bracket.
 
-1576
-00:56:26,120 --> 00:56:28,060
-Will be one of the last matchup for this bracket.
+487
+00:56:28,850 --> 00:56:31,370
+And who would be fighting today.
 
-1577
-00:56:28,460 --> 00:56:30,400
-And who would Fillion be fighting?
+488
+00:56:31,610 --> 00:56:32,790
+Not today, 25th.
 
-1578
-00:56:30,400 --> 00:56:31,040
-Today?
+489
+00:56:38,340 --> 00:56:40,170
+Sarah or Ramelea?
 
-1579
-00:56:31,260 --> 00:56:31,820
-Not today.
+490
+00:56:40,910 --> 00:56:41,850
+Oh, Ramelea!
 
-1580
-00:56:31,980 --> 00:56:32,620
-25th.
+491
+00:56:42,250 --> 00:56:48,450
+Philean will be fighting Ramelea for the final matchup for
+bracket number two.
 
-1581
-00:56:37,980 --> 00:56:39,740
-Sarah or Remilia?
+492
+00:56:48,990 --> 00:56:51,510
+I think we're finally, we have one last bracket, guys.
 
-1582
-00:56:40,280 --> 00:56:41,460
-Oh, Remilia!
-
-1583
-00:56:41,880 --> 00:56:48,020
-Fillion will be fighting Remilia for the final matchup for bracket number two.
-
-1584
-00:56:48,700 --> 00:56:49,420
-I think we're...
-
-1585
-00:56:49,420 --> 00:56:51,320
-Finally, we have one last bracket, guys.
-
-1586
-00:56:52,320 --> 00:56:54,740
+493
+00:56:53,070 --> 00:56:55,170
 One last bracket for everybody.
 
-1587
-00:56:56,120 --> 00:56:58,720
+494
+00:56:56,790 --> 00:56:59,090
 Let me just put this in here.
 
-1588
-00:56:58,720 --> 00:56:58,900
-Okay.
+495
+00:56:59,770 --> 00:57:03,150
+All right, Philean versus Remilia.
 
-1589
-00:56:59,420 --> 00:57:00,240
-All right.
+496
+00:57:03,690 --> 00:57:05,850
+All right, guys, I forgot to remove Remilia.
 
-1590
-00:57:00,400 --> 00:57:01,780
-Fillion versus Remilia.
-
-1591
-00:57:03,200 --> 00:57:04,040
-All right, guys.
-
-1592
-00:57:04,120 --> 00:57:05,580
-I forgot to remove Remilia.
-
-1593
-00:57:06,080 --> 00:57:07,560
+497
+00:57:06,430 --> 00:57:07,750
 Let me remove.
 
-1594
-00:57:07,820 --> 00:57:08,400
-All right.
+498
+00:57:08,090 --> 00:57:11,150
+All right, the final seven.
 
-1595
-00:57:08,500 --> 00:57:10,720
-The final seven.
+499
+00:57:12,570 --> 00:57:16,810
+One person will be lucky and, like, I guess, like, move on
+without fighting anybody.
 
-1596
-00:57:12,120 --> 00:57:16,500
-One person will get to be lucky and like, I guess, like, move on without fighting anybody.
+500
+00:57:17,610 --> 00:57:28,810
+So, one person will be very lucky and they just move on
+without fighting.
 
-1597
-00:57:16,880 --> 00:57:17,440
-So...
+501
+00:57:29,770 --> 00:57:37,250
+fighting anybody in the first round so whoever they are
+congratulations uh there's so many i feel like the hollow
 
-1598
-00:57:22,460 --> 00:57:28,700
-One person will be very lucky and they just move on without fighting anybody.
+502
+00:57:37,250 --> 00:57:48,110
+stars members are actually like dodging each other for a
+matchup within hollow star you're so lucky they actually
 
-1599
-00:57:29,920 --> 00:57:32,660
-So, whoever they are, congratulations.
+503
+00:57:48,110 --> 00:57:54,830
+dodged everybody like how the fuck did they do that all
+right guys take the screenshot so i can steal it later take
 
-1600
-00:57:35,200 --> 00:57:36,180
-There's so many.
+504
+00:57:54,830 --> 00:57:59,910
+the screenshot guys nirosamba will be in a show match they
+will not be in a tournament structure because we don't know
 
-1601
-00:57:36,220 --> 00:57:42,820
-I feel like the Holostars members are actually, like, dodging each other for a matchup within Holostars.
+505
+00:57:59,910 --> 00:58:05,650
+when the tournament's gonna end so they get to have like so
+they will be showing up in the beginning of each day well
 
-1602
-00:57:45,980 --> 00:57:47,200
-They're so lucky.
+506
+00:58:05,650 --> 00:58:12,730
+not each day one of the days they'll be showing up in one of
+the days for the show match the the the match itself will be
 
-1603
-00:57:47,360 --> 00:57:49,020
-They actually dodged everybody.
+507
+00:58:12,730 --> 00:58:19,530
+a surprise whoever their matchup will be a surprise as well
+until the day of the tournament um where you get to see it
 
-1604
-00:57:49,240 --> 00:57:50,940
-Like, how the fuck did they do that?
+508
+00:58:19,530 --> 00:58:32,910
+live wheel was rigged from the start let's take a screenshot
+for bracket number two it's time for bracket number three
 
-1605
-00:57:51,200 --> 00:57:51,900
-All right, guys.
+509
+00:58:32,910 --> 00:58:42,910
+let me put all of this back in here all right wheel time
+wheel time it's time to spin the wheel for the last bracket
 
-1606
-00:57:52,000 --> 00:57:54,000
-Take the screenshot so I can steal it later.
+510
+00:58:42,910 --> 00:58:54,790
+but we're like sort of speed running this a little sarah
+will be in the first matchup for bracket number three Let me
 
-1607
-00:57:54,000 --> 00:57:55,720
-Take the screenshot, guys.
+511
+00:58:54,790 --> 00:58:57,430
+put Sarah in right now.
 
-1608
-00:57:55,880 --> 00:57:57,380
-Nier Asamba will be in a show match.
+512
+00:58:58,430 --> 00:59:01,710
+Sarah will be in the first match in the bracket number
+three.
 
-1609
-00:57:57,580 --> 00:58:01,000
-They will not be in a tournament structure because we don't know when the tournament's going to end.
-
-1610
-00:58:01,200 --> 00:58:02,600
-So, they get to have, like...
-
-1611
-00:58:02,600 --> 00:58:05,140
-So, they will be showing up in the beginning of each day.
-
-1612
-00:58:05,260 --> 00:58:06,380
-Well, not each day.
-
-1613
-00:58:06,460 --> 00:58:07,120
-One of the days.
-
-1614
-00:58:07,200 --> 00:58:09,760
-They'll be showing up in one of the days for the show match.
-
-1615
-00:58:10,000 --> 00:58:13,060
-The match itself will be a surprise.
-
-1616
-00:58:13,320 --> 00:58:19,700
-Whoever their matchup will be a surprise as well until the day of the tournament where you get to see it live.
-
-1617
-00:58:22,720 --> 00:58:23,980
-We all was really surprised.
-
-1618
-00:58:24,000 --> 00:58:24,220
-We were like, what?
-
-1619
-00:58:24,220 --> 00:58:24,940
-We're late from the start.
-
-1620
-00:58:25,080 --> 00:58:27,620
-Let's take a screenshot for bracket number two.
-
-1621
-00:58:28,240 --> 00:58:29,060
-All right.
-
-1622
-00:58:29,860 --> 00:58:32,700
-It's time for bracket number three.
-
-1623
-00:58:32,780 --> 00:58:35,460
-Let me put all of this back in here.
-
-1624
-00:58:35,840 --> 00:58:36,420
-All right.
-
-1625
-00:58:36,420 --> 00:58:37,040
-Wheel time.
-
-1626
-00:58:37,300 --> 00:58:37,940
-Wheel time.
-
-1627
-00:58:38,740 --> 00:58:42,080
-It's time to spin the wheel for the last bracket.
-
-1628
-00:58:44,360 --> 00:58:46,400
-We're, like, sort of speedrunning this a little.
-
-1629
-00:58:46,720 --> 00:58:52,220
-Sarah will be in the first matchup for bracket number three.
-
-1630
-00:58:53,440 --> 00:58:56,720
-Alright, let me put Sarah in right now.
-
-1631
-00:59:00,660 --> 00:59:03,340
+513
+00:59:01,970 --> 00:59:03,910
 Who will Sarah play against?
 
-1632
-00:59:06,340 --> 00:59:08,160
+514
+00:59:06,590 --> 00:59:08,210
 Doki is dodging the wheel.
 
-1633
-00:59:08,220 --> 00:59:09,100
+515
+00:59:08,350 --> 00:59:09,430
 I hope I get a free pass.
 
-1634
-00:59:10,380 --> 00:59:11,160
+516
+00:59:11,270 --> 00:59:11,310
 Please.
 
-1635
-00:59:11,850 --> 00:59:12,240
-Yay!
-
-1636
-00:59:12,620 --> 00:59:13,380
+517
+00:59:12,930 --> 00:59:13,810
 Not me!
 
-1637
-00:59:16,910 --> 00:59:19,520
-Shinri will be fighting against Sarah!
+518
+00:59:16,810 --> 00:59:19,910
+Shinri will be fighting against Sarah.
 
-1638
-00:59:20,660 --> 00:59:23,020
-Finally, another Hall of Stars member.
+519
+00:59:20,970 --> 00:59:22,730
+Finally, another Hall of Stars.
 
-1639
-00:59:26,580 --> 00:59:28,720
-Sarah versus Shinri.
+520
+00:59:22,810 --> 00:59:35,170
+member Sarah versus Shinri I'm like dodging these fucking
+picks right now get me that free entry is get me that free
 
-1640
-00:59:28,980 --> 00:59:31,580
-I'm dodging these fucking picks right now.
+521
+00:59:35,170 --> 00:59:49,770
+entry so I don't have to do anything the dokey skip let it
+happen I don't want to fight it I want to fucking no no it's
 
-1641
-00:59:31,860 --> 00:59:33,300
-Get me that free entry.
+522
+00:59:49,770 --> 00:59:53,250
+almost there no okay I'm fighting some I'm waiting.
 
-1642
-00:59:33,840 --> 00:59:36,900
-Get me that free entry so I don't have to do anything.
+523
+00:59:53,410 --> 00:59:55,290
+I'm fighting somebody.
 
-1643
-00:59:40,980 --> 00:59:42,360
-The Doki skip.
-
-1644
-00:59:42,540 --> 00:59:43,440
-Let it happen!
-
-1645
-00:59:43,640 --> 00:59:45,040
-I don't want to fight it.
-
-1646
-00:59:45,140 --> 00:59:46,160
-I want to fucking...
-
-1647
-00:59:46,160 --> 00:59:46,580
-No!
-
-1648
-00:59:48,580 --> 00:59:49,140
-No!
-
-1649
-00:59:49,520 --> 00:59:50,320
-It's almost there!
-
-1650
-00:59:50,700 --> 00:59:51,100
-No!
-
-1651
-00:59:51,360 --> 00:59:52,920
-Okay, I'm fighting somebody.
-
-1652
-00:59:53,220 --> 00:59:55,160
-I'm fighting... I'm fighting somebody.
-
-1653
-00:59:55,280 --> 00:59:57,160
+524
+00:59:55,430 --> 00:59:57,510
 It's not rigged if I'm fighting someone.
 
-1654
-00:59:57,780 --> 00:59:59,980
+525
+00:59:58,110 --> 01:00:00,230
 Guys, I don't even get a free pass.
 
-1655
-01:00:00,200 --> 01:00:01,300
+526
+01:00:00,430 --> 01:00:01,490
 It's not rigged.
 
-1656
-01:00:01,440 --> 01:00:03,000
-Alright, who am I matching up against?
-
-1657
-01:00:03,800 --> 01:00:04,600
-Who am I...
-
-1658
-01:00:05,840 --> 01:00:06,320
-Doki.
-
-1659
-01:00:06,620 --> 01:00:08,260
+527
+01:00:01,790 --> 01:00:03,270
 Who am I matching up against?
 
-1660
-01:00:08,620 --> 01:00:09,820
+528
+01:00:04,330 --> 01:00:04,730
+Who am I?
+
+529
+01:00:06,010 --> 01:00:06,490
+Maladoki.
+
+530
+01:00:07,090 --> 01:00:08,550
+Who am I matching up against?
+
+531
+01:00:09,050 --> 01:00:10,090
 Are you fucking serious?
 
-1661
-01:00:10,100 --> 01:00:10,400
-Are you...
+532
+01:00:12,970 --> 01:00:18,690
+I will be fighting Axel.
 
-1662
-01:00:16,100 --> 01:00:18,360
-I will be fighting Axel!
+533
+01:00:22,930 --> 01:00:38,270
+all right i will be going up against axel what the fuck is
+this luck we got it's over for who who is it over for who
 
-1663
-01:00:19,840 --> 01:00:22,680
-The fucking matchup of the century!
+534
+01:00:38,270 --> 01:00:54,370
+are you cheering for i'm literally the main event organizer
+no finish the story the ultimate showdown Anyway, so I guess
 
-1664
-01:00:25,360 --> 01:00:29,660
-I will be going up against Axel.
+535
+01:00:54,370 --> 01:01:04,930
+I will be fighting Axel Alright, finally It's Octavio, so I
+am Beto, I swear, Beto gets a fucking free pass I swear to
 
-1665
-01:00:29,960 --> 01:00:32,000
-What the fuck is this luck?
+536
+01:01:04,930 --> 01:01:21,850
+God It's so over Alright Octavio Will be the third matchup
+On that day Removed Alright, who will Octavio be fighting
 
-1666
-01:00:32,520 --> 01:00:32,980
-We got...
+537
+01:01:21,850 --> 01:01:22,870
+against.
 
-1667
-01:00:33,520 --> 01:00:34,460
-It's over.
+538
+01:01:23,750 --> 01:01:26,250
+Octavio, either Beto or Sia.
 
-1668
-01:00:34,800 --> 01:00:35,380
-For who?
-
-1669
-01:00:35,780 --> 01:00:37,600
-Who is it over for?
-
-1670
-01:00:37,780 --> 01:00:39,200
-Who are you cheering for?
-
-1671
-01:00:41,320 --> 01:00:43,960
-I'm literally the main event organizer!
-
-1672
-01:00:44,680 --> 01:00:46,860
-No, finish the story.
-
-1673
-01:00:47,220 --> 01:00:49,320
-The ultimate show.
-
-1674
-01:00:49,320 --> 01:00:49,780
-Showdown.
-
-1675
-01:00:52,820 --> 01:00:56,040
-Anyway, so I guess I will be fighting Axel.
-
-1676
-01:00:56,540 --> 01:00:57,760
-Alright, give me...
-
-1677
-01:00:58,320 --> 01:00:59,300
-Alright, finally.
-
-1678
-01:00:59,560 --> 01:01:02,280
-It's Octavio, Zaya, and Beto.
-
-1679
-01:01:02,580 --> 01:01:04,180
-I swear, Beto gets a fucking free pass.
-
-1680
-01:01:04,300 --> 01:01:04,920
-I swear to God.
-
-1681
-01:01:07,020 --> 01:01:08,800
-It's so over.
-
-1682
-01:01:09,320 --> 01:01:09,880
-Alright.
-
-1683
-01:01:12,220 --> 01:01:16,100
-Octavio will be the third matchup on that day.
-
-1684
-01:01:16,680 --> 01:01:17,240
-Remove.
-
-1685
-01:01:17,460 --> 01:01:18,020
-Remove.
-
-1686
-01:01:19,320 --> 01:01:22,120
-Alright, who will Octavio be fighting against?
-
-1687
-01:01:23,380 --> 01:01:26,100
-Octavio, either Beto or Zaya.
-
-1688
-01:01:27,700 --> 01:01:31,800
+539
+01:01:27,590 --> 01:01:32,170
 And one person will get to have a free pass.
 
-1689
-01:01:32,000 --> 01:01:34,000
+540
+01:01:32,350 --> 01:01:34,230
 And that one person is Beto.
 
-1690
-01:01:38,840 --> 01:01:42,880
+541
+01:01:39,270 --> 01:01:43,270
 Finally, the last two matchups.
 
-1691
-01:01:45,060 --> 01:01:46,820
-Octavio versus Zaya.
+542
+01:01:44,970 --> 01:01:46,950
+Octavio versus Sia.
 
-1692
-01:01:46,820 --> 01:01:49,640
+543
+01:01:47,650 --> 01:01:50,030
 And Beto versus nobody.
 
-1693
-01:01:49,960 --> 01:01:51,420
-Because he gets a free pass.
+544
+01:01:50,270 --> 01:02:00,150
+he gets a free pass he gets the fucking lady luck blessing
+him today um all right boom all right but here are your
 
-1694
-01:01:51,780 --> 01:01:55,100
-He gets the fucking lady luck blessing him today.
+545
+01:02:00,150 --> 01:02:08,770
+brackets guys bracket three um i don't have bracket one and
+two because i literally just overwrite wrote one and two so
 
-1695
-01:01:56,480 --> 01:01:57,560
-Alright, boom.
+546
+01:02:08,770 --> 01:02:17,630
+like if you want to know where bracket one and two is feel
+free to um we're eliminating a lot of holostar members right
 
-1696
-01:01:57,940 --> 01:01:58,220
-Alright.
+547
+01:02:17,630 --> 01:02:21,370
+off the bat like i don't i don't know how Is that possible?
 
-1697
-01:01:58,540 --> 01:02:01,180
-But here are your brackets, guys.
-
-1698
-01:02:02,260 --> 01:02:03,140
-Bracket three.
-
-1699
-01:02:03,520 --> 01:02:08,060
-I don't have bracket one and two because I literally just overwrote one and two.
-
-1700
-01:02:08,280 --> 01:02:14,580
-So like, if you want to know where bracket one and two is, feel free to...
-
-1701
-01:02:14,580 --> 01:02:18,080
-We are eliminating a lot of Holostar members right off the bat.
-
-1702
-01:02:18,280 --> 01:02:18,840
-Like, I don't...
-
-1703
-01:02:18,840 --> 01:02:21,040
-How is that possible?
-
-1704
-01:02:23,180 --> 01:02:24,640
+548
+01:02:23,890 --> 01:02:25,010
 Because even they survive.
 
-1705
-01:02:25,000 --> 01:02:26,500
+549
+01:02:25,250 --> 01:02:26,790
 Even they survive here.
 
-1706
-01:02:26,980 --> 01:02:29,380
-Like, they have to fight against each other.
+550
+01:02:27,590 --> 01:02:29,630
+Like they have to fight against each other.
 
-1707
-01:02:29,740 --> 01:02:31,940
-So, Beto versus Beto.
+551
+01:02:30,410 --> 01:02:31,990
+So battle versus battle.
 
-1708
-01:02:32,020 --> 01:02:32,340
+552
+01:02:32,130 --> 01:02:32,470
 You know what?
 
-1709
-01:02:32,420 --> 01:02:32,960
+553
+01:02:32,550 --> 01:02:33,150
 That'll be fun.
 
-1710
-01:02:33,280 --> 01:02:38,220
-If there's more than one Beto wrestler, we'll have two Betos fighting against each other.
+554
+01:02:33,590 --> 01:02:35,410
+If there's more than one battle wrestler.
 
-1711
-01:02:38,380 --> 01:02:41,880
-And then we'll see whichever Beto wins will be the Beto representative.
+555
+01:02:35,930 --> 01:02:38,410
+We'll have two battles fighting against each other.
 
-1712
-01:02:42,580 --> 01:02:43,100
-So...
+556
+01:02:38,810 --> 01:02:40,750
+And then we'll see whichever battle wins.
 
-1713
-01:02:43,100 --> 01:02:47,160
-If there's so many Beto fan wrestlers, we'll have them fight each other.
+557
+01:02:40,850 --> 01:02:42,270
+Will be the battle representative.
 
-1714
-01:02:47,500 --> 01:02:48,060
-And then...
+558
+01:02:42,850 --> 01:02:45,770
+So if there's so many battle fan wrestlers.
 
-1715
-01:02:48,060 --> 01:02:48,300
-Yeah.
+559
+01:02:45,970 --> 01:02:47,350
+We'll have them fight each other.
 
-1716
-01:02:48,640 --> 01:02:49,520
-Beto too.
+560
+01:02:47,730 --> 01:02:48,470
+And then yeah.
 
-1717
-01:02:49,760 --> 01:02:51,940
+561
+01:02:48,650 --> 01:02:49,670
+And battle two.
+
+562
+01:02:50,270 --> 01:02:52,310
 Clearly would win the tournament, maybe.
 
-1718
-01:02:56,040 --> 01:02:57,600
+563
+01:02:56,270 --> 01:02:57,790
 If he's lucky.
 
-1719
-01:02:57,840 --> 01:03:00,400
-Maybe Beto too would end up sweeping everything.
+564
+01:02:58,710 --> 01:03:00,830
+Maybe Battle 2 would end up sweeping everything.
 
-1720
-01:03:01,480 --> 01:03:02,080
-Beto...
+565
+01:03:01,990 --> 01:03:06,670
+Battle 2.
 
-1721
-01:03:05,360 --> 01:03:06,560
-Beto too.
+566
+01:03:07,590 --> 01:03:09,030
+Alright, Battle versus Battle.
 
-1722
-01:03:07,140 --> 01:03:08,960
-Alright, Beto versus Beto.
+567
+01:03:10,030 --> 01:03:11,330
+I feel like that's like the best.
 
-1723
-01:03:09,460 --> 01:03:11,500
-I feel like that's like the best...
-
-1724
-01:03:12,300 --> 01:03:12,900
-Beto...
-
-1725
-01:03:12,900 --> 01:03:12,980
-Beto...
-
-1726
-01:03:12,980 --> 01:03:14,400
+568
+01:03:12,910 --> 01:03:14,630
 The mirror match.
 
-1727
-01:03:18,420 --> 01:03:19,900
-Gold Bullet is...
+569
+01:03:18,270 --> 01:03:20,050
+Gold bullet is...
 
-1728
-01:03:19,900 --> 01:03:21,460
+570
+01:03:20,270 --> 01:03:21,730
 will be in a show match.
 
-1729
-01:03:21,740 --> 01:03:23,260
-Gold Bullet is not in the tournament.
+571
+01:03:21,930 --> 01:03:25,270
+Go Bullet is not in the tournament, but they will be there
+for casting.
 
-1730
-01:03:23,400 --> 01:03:25,100
-But, they'll be there for casting.
+572
+01:03:25,510 --> 01:03:30,530
+They will be there throughout the tournament for
+casting-wise, but they said that originally they wanted to
 
-1731
-01:03:25,340 --> 01:03:28,020
-They'll be there throughout the tournament for casting wise.
+573
+01:03:30,530 --> 01:03:35,610
+do just casting, but it'll be great if you can be in the
+show match, just to even out the show matches.
 
-1732
-01:03:28,240 --> 01:03:31,180
-But they said that, originally they wanted to just casting.
+574
+01:03:36,850 --> 01:03:39,770
+So anyway, yes, here are all the brackets.
 
-1733
-01:03:31,300 --> 01:03:33,200
-Just to be in the show match.
+575
+01:03:40,390 --> 01:03:42,690
+I don't have one and two because I overrode it.
 
-1734
-01:03:33,420 --> 01:03:35,360
-Just to even out the show matches.
+576
+01:03:42,890 --> 01:03:48,210
+So if you want to know what one and two the brackets were,
+please look at Twitter, I guess.
 
-1735
-01:03:36,560 --> 01:03:37,000
-So...
+577
+01:03:50,730 --> 01:03:55,010
+Or rewind this VOD if you are a VOD watching.
 
-1736
-01:03:37,000 --> 01:03:37,380
-Anyway.
+578
+01:03:59,670 --> 01:04:02,130
+So, very professional, Doki.
 
-1737
-01:03:37,580 --> 01:03:37,920
-Yes!
+579
+01:04:02,590 --> 01:04:07,650
+You've been hosting and organizing events for so long, and
+you're still just as incompetent.
 
-1738
-01:03:38,200 --> 01:03:39,500
-Here are all the brackets.
+580
+01:04:11,970 --> 01:04:14,870
+Hey, I'm super hyped for this, honestly.
 
-1739
-01:03:40,040 --> 01:03:42,540
-I don't have one and two because I overwrote it.
-
-1740
-01:03:42,900 --> 01:03:48,020
-So if you want to know what one and two brackets were, please look at Twitter, I guess.
-
-1741
-01:03:50,920 --> 01:03:54,720
-Or rewind this VOD if you are a VOD watcher.
-
-1742
-01:04:00,660 --> 01:04:02,020
-Very professional, Doki.
-
-1743
-01:04:02,180 --> 01:04:07,340
-You've been hosting and organizing events for so long and you're still just as incompetent.
-
-1744
-01:04:12,900 --> 01:04:14,740
-I'm super hyped for this, honestly.
-
-1745
-01:04:14,820 --> 01:04:18,520
+581
+01:04:15,090 --> 01:04:18,770
 Let me go back to the chatting real quick.
 
-1746
-01:04:18,720 --> 01:04:25,140
-I am very hyped for for WrestleTuber.
-
-1747
-01:04:25,240 --> 01:04:42,820
-Again, a huge shout out to Gamersupps for providing like full-on, probably full sponsor to this event so that I don't have to pay for anything, including like the the, you know, the belts, the graphics, everything related to to this event.
-
-1748
-01:04:42,900 --> 01:04:49,580
-I can't wait for you guys to see the video when it's done because it was actually a really sick video and I was going to play that video for the announcement.
-
-1749
-01:04:53,280 --> 01:04:58,200
-But so many things happened last minute that we couldn't get the video done in time.
-
-1750
-01:04:58,300 --> 01:05:00,160
-And I was like, I was like, I'm so sorry.
-
-1751
-01:05:00,320 --> 01:05:01,300
-I'm really sorry.
-
-1752
-01:05:01,560 --> 01:05:05,820
-I was like, I would be like, hey, like, I'm so sorry to my editor.
-
-1753
-01:05:05,960 --> 01:05:07,320
-I'll be like, oh, my God, sorry.
-
-1754
-01:05:07,440 --> 01:05:08,600
-This is a last minute addition.
-
-1755
-01:05:08,720 --> 01:05:09,340
-Here you go.
-
-1756
-01:05:09,440 --> 01:05:11,760
-By the way, Octavia is going to be a caster.
-
-1757
-01:05:11,800 --> 01:05:12,680
-This is very last minute.
-
-1758
-01:05:12,900 --> 01:05:13,220
-I'm so sorry.
-
-1759
-01:05:13,300 --> 01:05:17,960
-And then literally like two or three hours later, I'll be like, I'm so sorry.
-
-1760
-01:05:18,060 --> 01:05:19,460
-There's another last minute addition.
-
-1761
-01:05:23,770 --> 01:05:24,770
-Here it is.
-
-1762
-01:05:24,870 --> 01:05:26,190
-Here's the here's the graphic.
-
-1763
-01:05:26,450 --> 01:05:27,610
-I'm so sorry.
-
-1764
-01:05:29,730 --> 01:05:33,090
-Here's here's another thing I have to add.
-
-1765
-01:05:33,350 --> 01:05:39,050
-And and then and then like and then I'll be like, I'm just I swear this is it.
-
-1766
-01:05:39,070 --> 01:05:40,270
-This is these are everybody.
-
-1767
-01:05:40,390 --> 01:05:42,990
-It's it's a hard cap for real this time.
-
-1768
-01:05:45,810 --> 01:05:48,930
-So I really apologize to the editor.
-
-1769
-01:05:49,170 --> 01:05:52,170
-And I'm really sorry that we couldn't get the video done.
-
-1770
-01:05:52,490 --> 01:05:55,590
-But when you guys see the video, it's so cool.
-
-1771
-01:05:56,530 --> 01:05:58,550
-It's so fucking cool.
-
-1772
-01:05:59,230 --> 01:06:10,350
-And I'll be posting all the rules, the brackets, all the information regarding WrestleTuber on on Twitter.
-
-1773
-01:06:11,060 --> 01:06:13,030
-All the information will be there.
-
-1774
-01:06:13,170 --> 01:06:14,230
-And the guidelines.
-
-1775
-01:06:14,550 --> 01:06:20,710
-The rules on how to make your wrestler for the people that will be using your wrestler to represent them.
-
-1776
-01:06:21,250 --> 01:06:24,790
-And again, a huge thank you to all the participants.
-
-1777
-01:06:25,130 --> 01:06:28,730
-They are giving their own time to participate in this event.
-
-1778
-01:06:29,810 --> 01:06:32,070
-Like this was a very ambitious project for me.
-
-1779
-01:06:32,150 --> 01:06:36,510
-One of the hardest things I've ever organized solely by myself, by the way.
-
-1780
-01:06:36,650 --> 01:06:38,930
-There was no outside management.
-
-1781
-01:06:39,030 --> 01:06:43,810
-My management team did not help me organize this because I chose to do this myself.
-
-1782
-01:06:44,130 --> 01:06:45,030
-They offered.
-
-1783
-01:06:45,170 --> 01:06:50,290
-But because I felt like I wanted this to be more less, I wanted to be less serious.
-
-1784
-01:06:50,290 --> 01:07:00,310
-And by not having like management there, it gives off a more carefree vibe, a more carefree vibe, a less serious, like try hard thing.
-
-1785
-01:07:00,430 --> 01:07:04,090
-We're all just there to make memories and enjoy an event together.
-
-1786
-01:07:05,210 --> 01:07:12,910
-So like everything was done solely by me when it comes to organizing all of this.
-
-1787
-01:07:13,370 --> 01:07:17,850
-And reaching out to people and and inviting them to participate.
-
-1788
-01:07:18,410 --> 01:07:31,150
-Like I said, a huge shout out to everybody for saying yes to participating in this and for joining the server and for willing to give their own time because this event lasts a very long time because we all know how long it took last time.
-
-1789
-01:07:31,270 --> 01:07:31,590
-So
-
-1790
-01:07:37,270 --> 01:07:47,310
-so like it's understandable that like super like that, like people were like, oh, I don't know because it was a very long event.
-
-1791
-01:07:47,630 --> 01:07:52,430
-And I originally had a hard cap for less participants.
-
-1792
-01:07:52,670 --> 01:07:56,170
-But then that hard cap became a softer cap.
-
-1793
-01:07:56,450 --> 01:08:05,010
-And then and then later on became a hard cap because I was like, oh, man, that's that was long.
-
-1794
-01:08:05,510 --> 01:08:06,950
-That's a lot of people.
-
-1795
-01:08:11,150 --> 01:08:12,750
-I was like, yes.
-
-1796
-01:08:13,370 --> 01:08:14,190
-A lot of people.
-
-1797
-01:08:19,510 --> 01:08:31,970
-So please check out all the VTubers that are participating, are giving up their time to be part of this event and to just celebrate VTubing in general.
-
-1798
-01:08:32,690 --> 01:08:42,550
-I hope by doing this, there might be more incentives for more big events similar to this where it can unite various companies.
-
-1799
-01:08:43,370 --> 01:08:57,430
-And various Indies together, just like how we see it in Japan with like Vault Room stuff, Shibuya Hell and CR and Crazy Raccoon.
-
-1800
-01:08:57,610 --> 01:09:03,050
-And this is basically like this basically something I want to do equivalent to that.
-
-1801
-01:09:03,230 --> 01:09:13,190
-And I hope that this inspires more events like this in the future, not just from me, but from other but from other people that want to organize events.
-
-1802
-01:09:13,370 --> 01:09:19,270
-As well, because I feel like, like I said, this is what we heavily lacked in the English VTubing sphere.
-
-1803
-01:09:19,870 --> 01:09:28,370
-We have a lot of events from companies or from Indies that are just Indies or like or like VTubers and Fleshies or like within the company.
-
-1804
-01:09:28,470 --> 01:09:29,370
-But we don't have events.
-
-1805
-01:09:29,670 --> 01:09:33,470
-We don't really have events that unite people from different places.
-
-1806
-01:09:33,650 --> 01:09:35,450
-And this is what I wanted to do.
-
-1807
-01:09:35,530 --> 01:09:43,070
-This was clearly my next roadmap, something I wanted to evolve into the future with.
-
-1808
-01:09:43,750 --> 01:09:44,490
-So, yeah.
-
-1809
-01:09:44,650 --> 01:09:46,210
-Yeah, I
-
-1810
-01:09:52,570 --> 01:09:54,470
-really appreciate it, guys.
-
-1811
-01:09:54,690 --> 01:09:55,590
-I really am.
-
-1812
-01:09:57,450 --> 01:10:12,450
-I really do appreciate you guys all showing up for this very special announcement, despite the lots of scuff in the beginning, because I am, I swear, the most unlucky bird ever when it comes to like important things that I have to do.
-
-1813
-01:10:12,610 --> 01:10:14,870
-I swear I'm just so unlucky.
-
-1814
-01:10:17,210 --> 01:10:18,810
-I really appreciate you guys.
-
-1815
-01:10:18,810 --> 01:10:25,170
-Stick around, even though we had a very rough start and being super hyped for this event.
-
-1816
-01:10:25,430 --> 01:10:26,590
-I cannot wait.
-
-1817
-01:10:26,710 --> 01:10:31,250
-I hope everybody will have a lot of fun, both fans and the VTubers alike.
-
-1818
-01:10:31,670 --> 01:10:36,290
-And I cannot wait to see what kind of roast they're going to do to each other.
-
-1819
-01:10:36,510 --> 01:10:38,070
-I wonder if Benno is going to roast himself.
-
-1820
-01:10:39,250 --> 01:10:41,650
-I just see him like looking at the mirror.
-
-1821
-01:10:45,170 --> 01:10:50,070
-I see him looking at the mirror and being like, I'm better than you.
-
-1822
-01:10:52,630 --> 01:10:54,770
-Hey guys, that was the announcement.
-
-1823
-01:10:55,230 --> 01:10:56,330
-I'm going to rest now.
-
-1824
-01:10:56,410 --> 01:10:59,450
-Next week is technically my rest week, except for Tekken.
-
-1825
-01:10:59,550 --> 01:11:02,350
-I guess I'll just be grinding Tekken for Seijan Slam.
-
-1826
-01:11:02,630 --> 01:11:04,610
-It's going to be a very busy time.
-
-1827
-01:11:05,490 --> 01:11:13,810
-But I'm going to hope that next week is semi-rest week because mostly I'll just be grinding Tekken instead of doing anything else.
-
-1828
-01:11:14,030 --> 01:11:16,590
-But I might not be streaming a lot of the Tekken thing.
-
-1829
-01:11:17,550 --> 01:11:24,130
-I'll definitely be streaming the fucking rounds, I guess, of all the stuff that's going on, like the tournament itself.
-
-1830
-01:11:24,510 --> 01:11:27,250
-I don't know if I'll be... maybe I'll stream like one practice match.
-
-1831
-01:11:27,770 --> 01:11:28,690
-But who knows?
-
-1832
-01:11:29,030 --> 01:11:34,630
-Hey guys, as always, everybody stay hydrated, posture check, get up and move around to get that blood flowing.
-
-1833
-01:11:34,750 --> 01:11:39,310
-And if you stay up for me, head to bed because you deserve it.
-
-1834
-01:11:39,390 --> 01:11:40,550
+582
+01:04:20,350 --> 01:04:31,550
+very hyped for uh for wrestle tuber again a huge shout out
+to gamer subs for providing um like full out probably the
+
+583
+01:04:31,550 --> 01:04:39,330
+full sponsor to this event so that i don't have to pay for
+anything um including like the the you know the belts the
+
+584
+01:04:39,330 --> 01:04:46,810
+graphics um everything related to to this event i can't wait
+for you guys to see the video when it's done because it was
+
+585
+01:04:46,810 --> 01:04:49,810
+actually a really sick video and i was gonna play that video
+for the announcement
+
+586
+01:04:53,170 --> 01:04:59,850
+but so many things happened last minute that we couldn't get
+the video done in time and i was like i was like i'm so
+
+587
+01:04:59,850 --> 01:05:07,690
+sorry i'm really sorry i was like i would be like hey like
+i'm so sorry to my editor i'll be like oh my god sorry this
+
+588
+01:05:07,690 --> 01:05:13,010
+is the last minute edition here you go by the way uh octavia
+is going to be a caster this is very last minute i'm so
+
+589
+01:05:13,010 --> 01:05:19,690
+sorry and then literally like two or three hours later i'll
+be like i'm so sorry there's another last minute edition
+
+590
+01:05:23,900 --> 01:05:35,820
+here it is here's the here's the graphic i'm so sorry here's
+here's another thing i have to add and and then and then
+
+591
+01:05:35,820 --> 01:05:42,880
+like and then i'll be like i'm this i swear this is it this
+is these are everybody it's it's a hard cap for real this
+
+592
+01:05:42,880 --> 01:05:53,400
+time so i really apologize to the editor and i'm really
+sorry that we couldn't get the video and done but when you
+
+593
+01:05:53,400 --> 01:06:04,640
+guys see the video it's so cool it's so fucking cool hey
+guys i'll be posting all the rules the brackets um all the
+
+594
+01:06:04,640 --> 01:06:15,220
+information regarding wrestle tuber on um on twitter um all
+the information will be there uh the guidelines the rules on
+
+595
+01:06:15,220 --> 01:06:23,180
+how to make your wrestler uh for the people that will be
+using your wrestler to represent them um and again a huge
+
+596
+01:06:23,180 --> 01:06:31,020
+thank you to all the participants they are giving their own
+time to participate in this event um like this was a very
+
+597
+01:06:31,020 --> 01:06:37,700
+ambitious project for me one of the hardest things i've ever
+organized uh solely by myself by the way uh there was no
+
+598
+01:06:37,700 --> 01:06:44,780
+outside management my management team did not help me
+organize this because i chose to do this myself um they
+
+599
+01:06:44,780 --> 01:06:51,480
+offered but because i felt like i wanted this to be more
+less i wanted to be less serious and by not having like
+
+600
+01:06:51,920 --> 01:07:01,320
+there it gives off a more carefree vibe um a more carefree
+vibe a less serious like try hard thing we're all just there
+
+601
+01:07:01,320 --> 01:07:11,600
+to make memories and enjoy an event together um so like
+everything was done uh solely by me when it comes to uh
+
+602
+01:07:11,600 --> 01:07:20,180
+organizing all of this and reaching out to people and uh and
+inviting them to participate uh like i said a huge shout out
+
+603
+01:07:20,180 --> 01:07:27,320
+to everybody for saying yes to this and for joining the
+server and for willing to give their own time because this
+
+604
+01:07:27,320 --> 01:07:31,960
+event lasts a very long time because we all know how long it
+took last time so
+
+605
+01:07:37,260 --> 01:07:45,920
+so like it's understandable that like super like that like
+people were like oh i don't know because it was a very it is
+
+606
+01:07:45,920 --> 01:07:56,480
+a very long event and uh i originally had a hard cap to be
+for participants but then that hard cap became a softer cap
+
+607
+01:07:56,480 --> 01:08:07,320
+and then and then later on became a hard cap because i was
+like oh man that's that was long that's a lot of people
+
+608
+01:08:10,760 --> 01:08:14,680
+i was like yeah that was a lot of people
+
+609
+01:08:18,100 --> 01:08:26,780
+um um so please check out all the v-tubers that are
+participating, that are giving up their time to be part of
+
+610
+01:08:26,780 --> 01:08:32,140
+this event, and to just celebrate v-tubing in general.
+
+611
+01:08:33,380 --> 01:08:42,160
+I hope by doing this, there might be more incentives for
+more big events similar to this, where it can unite various
+
+612
+01:08:42,160 --> 01:08:56,940
+companies and various indies together, just like how we see
+it in Japan, of uh shibuya hell and uh and cr and crazy
+
+613
+01:08:56,940 --> 01:09:04,160
+raccoon and this is basically like uh there's basically
+something i want to do equivalent to that and i hope that
+
+614
+01:09:04,160 --> 01:09:12,360
+this inspires more events like this in the future not just
+from me but from other uh but from other people that want to
+
+615
+01:09:12,360 --> 01:09:23,080
+organize events as well because i feel like like i said this
+is what we heavily lacked in the english vtubing or from
+
+616
+01:09:23,080 --> 01:09:29,220
+indies that are just indies or like or like vtubers and
+fleshies or like come within the company but we don't have
+
+617
+01:09:29,220 --> 01:09:35,880
+events we don't really have events that unite people from
+different places and this is why i wanted to do this was
+
+618
+01:09:35,880 --> 01:09:46,340
+literally my next roadmap uh something i wanted to evolve
+into the future with uh so yeah yeah i
+
+619
+01:09:52,700 --> 01:10:02,280
+really appreciate it guys i really um i really do appreciate
+you guys all showing up for this very special announcement
+
+620
+01:10:02,280 --> 01:10:10,460
+um despite the lots of scuff in the beginning uh because i
+am i swear the most unlucky bird ever when it comes to like
+
+621
+01:10:10,460 --> 01:10:20,860
+important things that i have to do i swear i'm just so
+unlucky so i really appreciate you guys sticking around even
+
+622
+01:10:20,860 --> 01:10:32,500
+though we had a very rough start and being super hyped for
+this event a lot of fun both fans and the vtubers alike and
+
+623
+01:10:32,500 --> 01:10:40,240
+i cannot wait to see what kind of roast they're gonna do to
+each other i wonder betta's gonna roast himself i just see
+
+624
+01:10:40,240 --> 01:10:42,240
+him like looking at the mirror
+
+625
+01:10:45,260 --> 01:10:55,920
+and then see him so looking at the mirror and being like i'm
+better than you hey guys that was the announcement i'm gonna
+
+626
+01:10:55,920 --> 01:11:03,020
+rest now next week is technically my week except for Tekken
+I guess I'll just be grinding Tekken for Sejan slam it's
+
+627
+01:11:03,020 --> 01:11:11,400
+gonna be a very busy time but I'm gonna hope that next week
+is semi rest week because mostly I'll just be grinding
+
+628
+01:11:11,400 --> 01:11:17,960
+Tekken instead of doing anything else but I might not be
+streaming a lot of the Tekken thing I'll definitely be
+
+629
+01:11:17,960 --> 01:11:25,520
+streaming the fucking rounds I guess of all the stuff that's
+going on like the the tournament itself I don't know if I'll
+
+630
+01:11:25,520 --> 01:11:29,040
+be maybe I'll stream like one practice match uh But who
+knows?
+
+631
+01:11:29,180 --> 01:11:29,700
+Hey, guys.
+
+632
+01:11:29,860 --> 01:11:32,880
+As always, everybody, stay hydrated, posture check.
+
+633
+01:11:33,120 --> 01:11:34,780
+Get up and move around to get that blood flowing.
+
+634
+01:11:34,960 --> 01:11:39,440
+And if you stay up for me, head to bed because you deserve
+it.
+
+635
+01:11:39,620 --> 01:11:40,820
 I'll see you guys next time, everybody.
 
-1835
-01:11:41,190 --> 01:11:42,070
+636
+01:11:41,480 --> 01:11:42,340
 Bye, guys.
 
-1836
-01:11:42,770 --> 01:11:43,210
-Bye.
-
-1837
-01:11:47,550 --> 01:11:47,930
+637
+01:11:43,220 --> 01:11:43,480
 Bye.
 
