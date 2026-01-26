@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import gzip
+import json
 import os
 import re
 import requests
@@ -151,8 +153,16 @@ def process_and_upload(root, file, streamer_name, cutoff_date, month_filter, hea
     }
 
     try:
+        # Compress payload
+        json_data = json.dumps(payload).encode('utf-8')
+        compressed_data = gzip.compress(json_data)
+        
+        # Add compression header to a copy of headers to avoid side effects
+        req_headers = headers.copy()
+        req_headers['Content-Encoding'] = 'gzip'
+
         uri = f"{server_url}/transcript"
-        response = requests.post(uri, json=payload, headers=headers, timeout=30)
+        response = requests.post(uri, data=compressed_data, headers=req_headers, timeout=30)
         response.raise_for_status()  # Raise exception for 4xx/5xx errors
         
         return 'success'
