@@ -125,6 +125,7 @@ def main():
 
     # 2. Run the downloads in the specified order. Members MUST be last. Otherwise it'll treat a normal video as members content.
     # Order:
+    #  - members playlist
     #  - videos
     #  - twitch vods
     #  - stream vods
@@ -132,6 +133,11 @@ def main():
     #  - members videos/streams/etc
 
     # --- Dokibird ---
+    get_audio(
+        url="https://www.youtube.com/Dokibird/membership",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.DOKI,
+    )
     get_audio(
         url="https://www.youtube.com/Dokibird/videos",
         download_type=DTypes.VIDEO,
@@ -169,6 +175,11 @@ def main():
     )
 
     # --- MintFantome ---
+    get_audio(
+        url="https://www.youtube.com/@mintfantome/membership",
+        download_type=DTypes.MEMBERS,
+        channel=Channels.MINT,
+    )
     get_audio(
         url="https://www.youtube.com/@mintfantome/videos",
         download_type=DTypes.VIDEO,

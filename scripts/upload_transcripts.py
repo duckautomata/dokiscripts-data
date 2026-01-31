@@ -91,7 +91,7 @@ def get_upload_selection():
             print("Invalid input. Please enter a number, YYYY-MM, or press Enter.")
 
 
-def process_and_upload(root, file, streamer_name, cutoff_date, month_filter, headers, server_url):
+def process_and_upload(session, root, file, streamer_name, cutoff_date, month_filter, headers, server_url):
     """
     Parses a single transcript file, checks its date/month (if required),
     and uploads it to the server.
@@ -162,7 +162,7 @@ def process_and_upload(root, file, streamer_name, cutoff_date, month_filter, hea
         req_headers['Content-Encoding'] = 'gzip'
 
         uri = f"{server_url}/transcript"
-        response = requests.post(uri, data=compressed_data, headers=req_headers, timeout=30)
+        response = session.post(uri, data=compressed_data, headers=req_headers, timeout=30)
         response.raise_for_status()  # Raise exception for 4xx/5xx errors
         
         return 'success'
@@ -247,17 +247,18 @@ def main():
     fail_count = 0
     skipped_date_count = 0
 
-    # Wrap the list with tqdm for the progress bar
-    for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
-        
-        result = process_and_upload(root, file, streamer_name, cutoff_date, month_filter, headers, server_url)
-        
-        if result == 'success':
-            success_count += 1
-        elif result == 'failed':
-            fail_count += 1
-        elif result == 'skipped_date':
-            skipped_date_count += 1
+    # Create a session for persistent connections
+    with requests.Session() as session:
+        # Wrap the list with tqdm for the progress bar
+        for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
+            result = process_and_upload(session, root, file, streamer_name, cutoff_date, month_filter, headers, server_url)
+
+            if result == 'success':
+                success_count += 1
+            elif result == 'failed':
+                fail_count += 1
+            elif result == 'skipped_date':
+                skipped_date_count += 1
 
     print("\n--- Upload Complete ---")
     print(f"Successfully uploaded: {success_count}")
