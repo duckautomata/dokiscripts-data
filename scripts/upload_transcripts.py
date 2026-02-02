@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import gzip
+import zstandard as zstd
 import json
 import os
 import re
@@ -97,15 +97,18 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
     and uploads it to the server.
     
     Returns:
-        'success' if uploaded
-        'skipped' if skipped due to date
-        'failed' if an error occurred
+        (status_string, original_size, compressed_size)
+        
+        status_string:
+            'success' if uploaded
+            'skipped' if skipped due to date
+            'failed' if an error occurred
     """
     match = FILENAME_PATTERN.match(file)
     if not match:
         # Use tqdm.write to print without breaking the bar
         tqdm.write(f"-> Skipping file (does not match pattern): {file}")
-        return 'failed'
+        return 'failed', 0, 0
 
     # Extract data from regex groups
     date_str = match.group(1)       # This is 'YYYYMMDD'
@@ -122,18 +125,17 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
         
     except ValueError:
         tqdm.write(f"-> Skipping file (invalid date format): {file}")
-        return 'failed'
-
+        return 'failed', 0, 0
 
     if month_filter:
         if not date_str.startswith(month_filter):
-            return 'skipped_date'
+            return 'skipped_date', 0, 0
 
     if cutoff_date:
         # Use the date object we already parsed
         if file_date_obj < cutoff_date:
             # File is too old, skip it
-            return 'skipped_date'
+            return 'skipped_date', 0, 0
 
     full_path = os.path.join(root, file)
     try:
@@ -141,7 +143,9 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
             srt_content = f.read()
     except Exception as e:
         tqdm.write(f"-> ERROR reading file {full_path}: {e}")
-        return 'failed'
+    except Exception as e:
+        tqdm.write(f"-> ERROR reading file {full_path}: {e}")
+        return 'failed', 0, 0
 
     payload = {
         "streamer": streamer_name,
@@ -155,24 +159,25 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
     try:
         # Compress payload
         json_data = json.dumps(payload).encode('utf-8')
-        compressed_data = gzip.compress(json_data)
+        cctx = zstd.ZstdCompressor(level=22)
+        compressed_data = cctx.compress(json_data)
         
         # Add compression header to a copy of headers to avoid side effects
         req_headers = headers.copy()
-        req_headers['Content-Encoding'] = 'gzip'
+        req_headers['Content-Encoding'] = 'zstd'
 
         uri = f"{server_url}/transcript"
         response = session.post(uri, data=compressed_data, headers=req_headers, timeout=30)
         response.raise_for_status()  # Raise exception for 4xx/5xx errors
         
-        return 'success'
+        return 'success', len(json_data), len(compressed_data)
         
     except requests.exceptions.HTTPError as e:
         tqdm.write(f"-> HTTP ERROR for {file}: {e.response.status_code} - {e.response.text}")
     except requests.exceptions.RequestException as e:
         tqdm.write(f"-> ERROR uploading {file}: {e}")
     
-    return 'failed'
+    return 'failed', 0, 0
 
 
 def main():
@@ -246,15 +251,19 @@ def main():
     success_count = 0
     fail_count = 0
     skipped_date_count = 0
+    total_original_bytes = 0
+    total_compressed_bytes = 0
 
     # Create a session for persistent connections
     with requests.Session() as session:
         # Wrap the list with tqdm for the progress bar
         for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
-            result = process_and_upload(session, root, file, streamer_name, cutoff_date, month_filter, headers, server_url)
+            result, orig_size, comp_size = process_and_upload(session, root, file, streamer_name, cutoff_date, month_filter, headers, server_url)
 
             if result == 'success':
                 success_count += 1
+                total_original_bytes += orig_size
+                total_compressed_bytes += comp_size
             elif result == 'failed':
                 fail_count += 1
             elif result == 'skipped_date':
@@ -266,6 +275,13 @@ def main():
         print(f"Failed to upload:   	{fail_count}")
     if cutoff_date or month_filter:
         print(f"Skipped (non-matching): {skipped_date_count}")
+        
+    if total_original_bytes > 0:
+        saved_bytes = total_original_bytes - total_compressed_bytes
+        savings_percent = (saved_bytes / total_original_bytes) * 100
+        print(f"\nTotal Data Sent:   {total_compressed_bytes / 1024:.2f} KB")
+        print(f"Original Size:     {total_original_bytes / 1024:.2f} KB")
+        print(f"Total Data Saved:  {saved_bytes / 1024:.2f} KB ({savings_percent:.1f}%)")
 
 
 if __name__ == "__main__":

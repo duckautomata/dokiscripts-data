@@ -12,6 +12,7 @@
 
 # python
 .venv
+__pycache__
 
 config.yaml
 missing.txt
