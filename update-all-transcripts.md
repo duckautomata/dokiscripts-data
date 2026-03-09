@@ -20,7 +20,7 @@ This will not update Twitch or Members transcripts. Those can be updated separat
 - [x] 2024-03
 - [x] 2024-04
 - [x] 2024-05
-- [ ] 2024-06
+- [x] 2024-06
 - [ ] 2024-07
 - [ ] 2024-08
 - [ ] 2024-09
