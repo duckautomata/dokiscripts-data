@@ -79,38 +79,41 @@ Faster-whisper also uses CUDA to compute the transcripts. So an Nvidia-based GPU
 ### Prep
 Tools you need to download and put into the root dir.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [ffmpeg](https://github.com/FFmpeg/FFmpeg)
-- [faster-whisper](https://github.com/Purfview/whisper-standalone-win)
+- [faster-whisper-standalone](https://github.com/Purfview/whisper-standalone-win)
 
-You'll also need python and install `requirements.txt`
+You'll also need python and uv to manage the packages
 - [Python](https://www.python.org/downloads/)
+- [uv](https://docs.astral.sh/uv/getting-started/installation/)
+
+To install all packages
+- `uv sync`
 
 ### Updating Transcripts Process
 1. Create a new branch and checkout said branch.
-2. Get the latest audio by running `python .\scripts\download_audio.py`
-3. Process all new audio by running `python .\scripts\transcribe_audio.py`
+2. Get the latest audio by running `uv run .\scripts\download_audio.py`
+3. Process all new audio by running `uv run .\scripts\transcribe_audio.py`
     - Enter the folder you want to transcribe. For Doki, that would be `.\Transcript\Dokibird\`
     - Or enter nothing to run for every folder
 4. Commit and push changes to your branch.
 5. Open a pull request. Ping me to get it accepted and merged.
 
 ### Cleanup
-After the transcripts are created. You can remove all audio files by running the script `python .\scripts\cleanup_audio.py`
+After the transcripts are created. You can remove all audio files by running the script `uv run .\scripts\cleanup_audio.py`
 
 ### Uploading to Archive
 To upload any new transcripts to the Archive, you can do so by
 1. creating `config.yaml` from the example and enter in the correct configurations
-2. run the script `python .\scripts\upload_transcripts.py`
+2. run the script `uv run .\scripts\upload_transcripts.py`
 
 ### Verifying Local Transcripts
-In the event you want to see what srt transcripts you are missing locally, or what transcripts the server is missing, you can do so by running `python .\scripts\verify_transcript.py`
+In the event you want to see what srt transcripts you are missing locally, or what transcripts the server is missing, you can do so by running `uv run .\scripts\verify_transcript.py`
 
 If anything is missing, it will create `missing.txt` file whith a detail list of what you are missing, or what the server is missing.
 
 ### Admin Commands
 If you have the `api_key` to the archive server, then you have access to some admin commands to manage the membership keys.
 
-To view and run these commands, run `python .\scripts\admin.py`
+To view and run these commands, run `uv run .\scripts\admin.py`
 
 List of options:
 - Get all Keys for a channel

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
 import os
-import sys
 import subprocess
-from colorama import init, Fore
+import sys
+
+from colorama import Fore, init
 
 # --- Configuration ---
 
@@ -16,24 +17,26 @@ WHISPER_EXECUTABLE = "faster-whisper-xxl.exe" if sys.platform == "win32" else "f
 DEFAULT_PATH = "Transcript"
 
 # File types to look for
-MEDIA_EXTENSIONS = ('.webm', '.m4a', '.mp3', '.mp4', '.mkv')
+MEDIA_EXTENSIONS = (".webm", ".m4a", ".mp3", ".mp4", ".mkv")
 
 # --- End Configuration ---
+
 
 def find_files_to_process(scan_path):
     """Recursively finds all media files in the given path."""
     files_to_process = []
     print(f"Scanning for media files in: {scan_path}...")
-    for root, dirs, files in os.walk(scan_path):
+    for root, _dirs, files in os.walk(scan_path):
         for file in files:
             if file.endswith(MEDIA_EXTENSIONS):
                 files_to_process.append(os.path.join(root, file))
     return files_to_process
 
+
 def get_whisper_command():
     """Finds the whisper executable, preferring a local one."""
     local_cmd = os.path.join(".", WHISPER_EXECUTABLE)
-    
+
     if os.path.exists(local_cmd):
         print(f"Found local executable: {local_cmd}")
         return local_cmd
@@ -41,11 +44,12 @@ def get_whisper_command():
         print(f"Using PATH to find executable: {WHISPER_EXECUTABLE}")
         return WHISPER_EXECUTABLE
 
+
 def get_scan_path():
     """Asks the user for a path, falling back to the default."""
     # Use os.path.normpath to fix any / or \ issues
     default_normalized = os.path.normpath(DEFAULT_PATH)
-    
+
     try:
         user_input = input(f"Enter folder containing audio [{default_normalized}]: ").strip()
     except KeyboardInterrupt:
@@ -58,8 +62,9 @@ def get_scan_path():
         print(f"'{user_input}' is not a valid directory. Using default.")
     else:
         print("No input provided. Using default.")
-        
+
     return default_normalized
+
 
 def main():
     # Initialize colorama to auto-reset colors after each print
@@ -82,7 +87,7 @@ def main():
             capture_output=True,
             check=True,
             text=True,
-            encoding='utf-8'
+            encoding="utf-8",
         )
     except FileNotFoundError:
         print(Fore.RED + f"Error: Whisper command '{WHISPER_EXECUTABLE}' not found.")
@@ -96,7 +101,6 @@ def main():
         print(Fore.RED + f"An unexpected error occurred trying to find whisper: {e}")
         sys.exit(1)
 
-
     # 3. Find all media files
     files = find_files_to_process(path_to_scan)
     total_files = len(files)
@@ -104,7 +108,7 @@ def main():
     if total_files == 0:
         print(Fore.YELLOW + f"No media files found in '{path_to_scan}'.")
         sys.exit(0)
-        
+
     print(f"Found {total_files} files to check.\n")
 
     # 4. Loop through and process each file
@@ -120,22 +124,28 @@ def main():
             # File needs transcribing, print in red
             print(Fore.RED + file_path)
             print(f"Transcribing {i + 1} out of {total_files}")
-            
+
             # Build the command arguments
             command_args = [
                 whisper_cmd_path,
                 file_path,
-                "-l", "English",
-                "--compute_type", "float32",
-                "-m", "distil-large-v3.5",
+                "-l",
+                "English",
+                "--compute_type",
+                "float32",
+                "-m",
+                "distil-large-v3.5",
                 "--sentence",
-                "-o", "source",
+                "-o",
+                "source",
                 "-pp",
                 "--beep_off",
-                "--max_line_width", "60", #characters per line. 60 with two lines is about 10 seconds per block
-                "--max_line_count", "2" #lines per block
+                "--max_line_width",
+                "60",  # characters per line. 60 with two lines is about 10 seconds per block
+                "--max_line_count",
+                "2",  # lines per block
             ]
-            
+
             # Uncomment the line below to run the "translate" task instead
             # command_args.extend(["--task", "translate"])
 

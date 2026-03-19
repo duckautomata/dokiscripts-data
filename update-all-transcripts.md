@@ -5,10 +5,10 @@ Want to remake all transcripts using the newer model and format.
 ## Steps
 
 1. Pick a month to update
-2. Run `python ./scripts/delete_transcripts.py YYYY-MM` to delete the old transcripts
-3. Run `python ./scripts/download_audio.py` to grab the audio files
-4. Run `python ./scripts/transcribe_audio.py` to regenerate the transcripts.
-5. Run `python ./scripts/organize_years.py --execute` to organize the transcripts into years.
+2. Run `uv run ./scripts/delete_transcripts.py YYYY-MM` to delete the old transcripts
+3. Run `uv run ./scripts/download_audio.py` to grab the audio files
+4. Run `uv run ./scripts/transcribe_audio.py` to regenerate the transcripts.
+5. Run `uv run ./scripts/organize_years.py --execute` to organize the transcripts into years.
 6. Update this file with the month that was updated.
 
 This will not update Twitch or Members transcripts. Those can be updated separately with caution.

@@ -2,7 +2,8 @@
 
 import os
 import re
-from datetime import datetime, timedelta, date
+from datetime import date, datetime, timedelta
+
 from tqdm import tqdm
 
 # --- Configuration ---
@@ -49,14 +50,11 @@ def get_day_limit():
     Returns an integer or None (for all).
     """
     while True:
-        user_input = input(
-            "How many days back should we fix? (e.g., 30, 7) "
-            "\n[Press Enter or type 0 to fix ALL transcripts]: "
-        ).strip()
-        
+        user_input = input("How many days back should we fix? (e.g., 30, 7) \n[Press Enter or type 0 to fix ALL transcripts]: ").strip()
+
         if not user_input or user_input == "0":
             return None  # Signal to fix all
-            
+
         try:
             days = int(user_input)
             if days > 0:
@@ -72,7 +70,7 @@ def replace_words_in_srt_files(word_map: dict[str, str], directory: str, cutoff_
     Finds all .srt files in a directory, filters by date if the filename
     matches the pattern, and replaces words based on a map.
     """
-    
+
     srt_files_to_process = []
     skipped_date = 0
 
@@ -81,30 +79,30 @@ def replace_words_in_srt_files(word_map: dict[str, str], directory: str, cutoff_
         for file in files:
             if not file.endswith(".srt"):
                 continue
-            
+
             # --- Date Check ---
-            process_this_file = True # Default to processing the file
+            process_this_file = True  # Default to processing the file
             if cutoff_date:
                 match = FILENAME_PATTERN.match(file)
                 if match:
                     # Filename matches, so we *can* check its date
                     try:
-                        date_str = match.group(1) # 'YYYYMMDD'
+                        date_str = match.group(1)  # 'YYYYMMDD'
                         file_date_obj = datetime.strptime(date_str, "%Y%m%d").date()
-                        
+
                         if file_date_obj < cutoff_date:
                             # File is too old, skip it
                             skipped_date += 1
-                            process_this_file = False 
+                            process_this_file = False
                     except ValueError:
                         # Filename matched but date was invalid, process it anyway
-                        pass 
+                        pass
                 # else:
                 #   Filename does not match pattern.
                 #   We can't check its date, so we'll process it.
                 #   (process_this_file remains True)
             # --- End Date Check ---
-            
+
             if process_this_file:
                 srt_files_to_process.append(os.path.join(root, file))
 
@@ -127,21 +125,18 @@ def replace_words_in_srt_files(word_map: dict[str, str], directory: str, cutoff_
 
                 # Apply all replacements
                 for old_word, new_word in word_map.items():
-                    content = content.replace(
-                        old_word.lower(), new_word.lower()
-                    )
-                    content = content.replace(
-                        old_word.capitalize(), new_word.capitalize()
-                    )
-                
+                    content = content.replace(old_word.lower(), new_word.lower())
+                    content = content.replace(old_word.capitalize(), new_word.capitalize())
+
                 if content != original_content:
-                    f.seek(0)       # Go to the beginning of the file
+                    f.seek(0)  # Go to the beginning of the file
                     f.write(content)
-                    f.truncate()    # Remove leftover content if new file is shorter
-        
+                    f.truncate()  # Remove leftover content if new file is shorter
+
         except Exception as e:
             # Use tqdm.write to print errors without messing up the progress bar
             tqdm.write(f"Error processing {file_path}: {e}")
+
 
 if __name__ == "__main__":
     if not os.path.isdir(directory):
@@ -150,7 +145,7 @@ if __name__ == "__main__":
         # Ask for date and calculate cutoff
         days_to_fix = get_day_limit()
         cutoff_date = None
-        
+
         if days_to_fix:
             today = datetime.now().date()
             cutoff_date = today - timedelta(days=days_to_fix)

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-from enum import Enum
+import os
 import subprocess
 import sys
-import os
+from enum import Enum
 
 # --- Configuration ---
 
@@ -15,9 +15,11 @@ YT_DLP_CMD = "yt-dlp"
 # The root folder for transcripts
 BASE_DIR = "Transcript"
 
+
 class Channels(Enum):
     DOKI = "Dokibird"
     MINT = "MintFantome"
+
 
 class DTypes(Enum):
     VIDEO = "Video"
@@ -26,6 +28,7 @@ class DTypes(Enum):
     TWITCH = "Twitch"
     TWITCHVOD = "TwitchVod"
     EXTERNAL = "External"
+
 
 # --- End Configuration ---
 
@@ -42,10 +45,7 @@ def get_audio(url: str, download_type: DTypes, channel: Channels):
     """
 
     # 1. Create the output path template.
-    output_template = (
-        f"{BASE_DIR}/{channel.value}/%(upload_date)s - {download_type.value} - "
-        f"%(title)s - [%(id)s].%(ext)s"
-    )
+    output_template = f"{BASE_DIR}/{channel.value}/%(upload_date)s - {download_type.value} - %(title)s - [%(id)s].%(ext)s"
 
     # 2. Build the base command
     command = [YT_DLP_CMD, "--download-archive", "yt-dlp-archive.txt"]
