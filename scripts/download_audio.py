@@ -105,7 +105,7 @@ def main():
     Main function to update yt-dlp and run all downloads.
     """
 
-    # 1. Update yt-dlp (equiv. of .\yt-dlp.exe -U)
+    # 1.1 Update yt-dlp (equiv. of .\yt-dlp.exe -U)
     print("Attempting to update yt-dlp...")
     try:
         # check=True will raise an error if the update fails
@@ -117,6 +117,23 @@ def main():
     except subprocess.CalledProcessError as e:
         # This error means the update command failed
         print(f"Failed to update yt-dlp (command failed): {e}")
+        # We can continue, but it's good to notify the user
+    except Exception as e:
+        print(f"An unknown error occurred during update: {e}")
+
+    # 1.2 Update deno
+    print("Attempting to update deno...")
+    try:
+        # check=True will raise an error if the update fails
+        subprocess.run(["deno", "upgrade"], check=True)
+    except FileNotFoundError:
+        print("\n[Error] 'deno' command not found.")
+        print("Please ensure deno is installed and in your system's PATH.")
+        print("deno is required for yt-dlp to work.")
+        sys.exit(1)  # Exit if deno isn't found
+    except subprocess.CalledProcessError as e:
+        # This error means the update command failed
+        print(f"Failed to update deno (command failed): {e}")
         # We can continue, but it's good to notify the user
     except Exception as e:
         print(f"An unknown error occurred during update: {e}")
