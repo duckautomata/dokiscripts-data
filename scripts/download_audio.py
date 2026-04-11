@@ -54,7 +54,7 @@ def get_audio(url: str, download_type: DTypes, channel: Channels):
     # 3. Add conditional arguments based on download_type
     if download_type == DTypes.MEMBERS:
         print(f"Downloading (Members): {channel.value}")
-        command.extend(["--cookies-from-browser", "firefox"])
+        command.extend(["--cookies", "cookies.txt"])
     else:
         print(f"Downloading (Regular): {channel.value} - {download_type.value}")
 

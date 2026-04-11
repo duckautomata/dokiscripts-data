@@ -16,6 +16,7 @@ __pycache__
 
 config.yaml
 missing.txt
+*cookies.txt
 
 # Don't upload any members stuff
 *members*
