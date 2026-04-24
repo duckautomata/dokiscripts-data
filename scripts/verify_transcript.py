@@ -1,23 +1,16 @@
 #!/usr/bin/env python3
 
 import os
-import re
 import sys
 from datetime import datetime
-from typing import Any, TypedDict
+from typing import TypedDict
 
 import requests
-import yaml
+from _common import BASE_DIR, FILENAME_PATTERN, load_config
 
 # --- Configuration ---
 
-BASE_DIR: str = "Transcript"
-CONFIG_FILE: str = "config.yaml"
 REPORT_FILE: str = "missing.txt"
-
-# Regex to parse the filename:
-# {YYYYMMDD} - {StreamType} - {StreamName} - [{id}].srt
-FILENAME_PATTERN: re.Pattern = re.compile(r"^(\d{8}) - (.+?) - (.+) - \[([^\]]+)\]\.srt$")
 
 # --- Type Definitions ---
 
@@ -42,35 +35,6 @@ class MismatchDetail(TypedDict):
 
 
 # --- End Configuration ---
-
-
-def load_config() -> str:
-    if not os.path.exists(CONFIG_FILE):
-        print(f"Error: Configuration file '{CONFIG_FILE}' not found.")
-        sys.exit(1)
-
-    try:
-        with open(CONFIG_FILE) as f:
-            config: dict[str, Any] | None = yaml.safe_load(f)
-
-        if not config or "api_key" not in config:
-            print(f"Error: 'api_key' not found in '{CONFIG_FILE}'.")
-            sys.exit(1)
-
-        if "server_url" not in config:
-            print(f"Error: 'server_url' not found in '{CONFIG_FILE}'.")
-            sys.exit(1)
-
-        server_url: str = config["server_url"]
-
-        return server_url
-
-    except yaml.YAMLError as e:
-        print(f"Error parsing '{CONFIG_FILE}': {e}")
-        sys.exit(1)
-    except Exception as e:
-        print(f"Error reading '{CONFIG_FILE}': {e}")
-        sys.exit(1)
 
 
 def fetch_server_info(server_url: str, headers: dict[str, str]) -> dict[str, StreamMetadata]:
@@ -279,9 +243,9 @@ def generate_report(
 
 
 def main() -> None:
-    print(f"Loading configuration from {CONFIG_FILE}...")
-    server_url = load_config()
-    print("Configuration loaded successfully.")
+    # /info is public — no api_key needed
+    config = load_config(require_api_key=False)
+    server_url = config["server_url"]
 
     if not os.path.isdir(BASE_DIR):
         print(f"Error: Base directory '{BASE_DIR}' not found.")

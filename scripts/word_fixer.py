@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 import os
-import re
 from datetime import date, datetime, timedelta
 
+from _common import FILENAME_PATTERN
 from tqdm import tqdm
 
 # --- Configuration ---
@@ -36,10 +36,6 @@ word_map = {
 }
 
 directory = "Transcript"
-
-# Regex to parse the filename:
-# {YYYYMMDD} - {StreamType} - {StreamName} - [{id}].srt
-FILENAME_PATTERN = re.compile(r"^(\d{8}) - (.+?) - (.+) - \[([^\]]+)\]\.srt$")
 
 # --- End Configuration ---
 

@@ -1,69 +1,105 @@
 #!/usr/bin/env python3
 
+import argparse
 import os
 import subprocess
 import sys
-from enum import Enum
+from datetime import datetime
+
+from _common import BASE_DIR, load_channels
 
 # --- Configuration ---
 
-# This is the command to run.
 # Assumes 'yt-dlp' is in your system's PATH.
 # On Windows, this will correctly find 'yt-dlp.exe'.
 YT_DLP_CMD = "yt-dlp"
 
-# The root folder for transcripts
-BASE_DIR = "Transcript"
+VALID_TYPES = {"Video", "Stream", "Members", "Twitch", "TwitchVod", "External"}
 
-
-class Channels(Enum):
-    DOKI = "Dokibird"
-    MINT = "MintFantome"
-
-
-class DTypes(Enum):
-    VIDEO = "Video"
-    STREAM = "Stream"
-    MEMBERS = "Members"
-    TWITCH = "Twitch"
-    TWITCHVOD = "TwitchVod"
-    EXTERNAL = "External"
-
+# yt-dlp ERROR/WARNING lines are mirrored to this file for post-run debugging.
+# The file is truncated at the start of each run.
+LOG_FILE = "yt-dlp-errors.log"
 
 # --- End Configuration ---
 
 
-def get_audio(url: str, download_type: DTypes, channel: Channels):
+def _init_log_file():
+    """Truncate the log file and write a run-start header."""
+    with open(LOG_FILE, "w", encoding="utf-8") as f:
+        f.write(f"=== yt-dlp run started at {datetime.now().isoformat(timespec='seconds')} ===\n")
+
+
+def _run_and_log_stderr(command: list[str], url: str, download_type: str, channel: str) -> int:
     """
-    Calls yt-dlp to download audio for a given URL,
-    matching the settings from the PowerShell script.
+    Run `command`, streaming stderr through to the terminal (so yt-dlp progress
+    stays visible) while appending every line to LOG_FILE. Returns the count
+    of ERROR:/WARNING: lines seen (for summary reporting).
+    """
+    problem_count = 0
+    process = subprocess.Popen(
+        command,
+        stdout=None,  # pass-through
+        stderr=subprocess.PIPE,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+        bufsize=1,
+    )
+
+    assert process.stderr is not None  # PIPE guarantees this; hint for type checkers
+    with open(LOG_FILE, "a", encoding="utf-8") as log:
+        log.write(f"\n--- {channel} | {download_type} | {url} ---\n")
+        for line in process.stderr:
+            sys.stderr.write(line)
+            sys.stderr.flush()
+            log.write(line)
+            if "ERROR:" in line or "WARNING:" in line:
+                problem_count += 1
+
+    process.wait()
+    return problem_count
+
+
+def get_audio(url: str, download_type: str, channel: str):
+    """
+    Calls yt-dlp to download audio for a given URL.
 
     Args:
-        url (str): The URL to download from.
-        download_type (DTypes): The type of content (e.g., "Members", "Video").
-        channel (Channels): The streamer's name, used for the folder.
+        url: The URL to download from.
+        download_type: The type of content (e.g., "Members", "Video").
+        channel: The streamer's name, used for the folder.
     """
 
-    # 1. Create the output path template.
-    output_template = f"{BASE_DIR}/{channel.value}/%(upload_date)s - {download_type.value} - %(title)s - [%(id)s].%(ext)s"
+    output_template = f"{BASE_DIR}/{channel}/%(upload_date)s - {download_type} - %(title)s - [%(id)s].%(ext)s"
 
-    # 2. Build the base command
-    command = [YT_DLP_CMD, "--download-archive", "yt-dlp-archive.txt"]
-    print()
+    command = [
+        YT_DLP_CMD,
+        "--download-archive",
+        "yt-dlp-archive.txt",
+        "--cookies",
+        "cookies.txt",
+    ]
 
-    # 3. Add conditional arguments based on download_type
-    if download_type == DTypes.MEMBERS:
-        print(f"Downloading (Members): {channel.value}")
-        command.extend(["--cookies", "cookies.txt"])
+    if download_type == "Members":
+        print(f"\nDownloading (Members): {channel}")
     else:
-        print(f"Downloading (Regular): {channel.value} - {download_type.value}")
+        print(f"\nDownloading (Regular): {channel} - {download_type}")
 
-    # 4. Add common arguments
+    # Filter for non-members download, it filters out members content.
+    # And for members download, it filters only members content.
+    # Note: availability filter is for YouTube only.
+    match_filter = "!is_live"
+    if "youtube.com" in url.lower() or "youtu.be" in url.lower():
+        if download_type == "Members":
+            match_filter += " & availability = subscriber_only"
+        else:
+            match_filter += " & availability != subscriber_only"
+
     command.extend(
         [
             "--ignore-errors",
             "--match-filter",
-            "!is_live",
+            match_filter,
             "-f",
             "ba",
             "-o",
@@ -76,167 +112,98 @@ def get_audio(url: str, download_type: DTypes, channel: Channels):
         ]
     )
 
-    # 5. Conditionally add/remove arguments based on URL
     if "twitch.tv" in url.lower():
         print("-> Twitch URL detected, skipping thumbnail.")
     else:
         print("-> YouTube URL detected, adding thumbnail.")
         command.append("--write-thumbnail")
 
-    # 6. Add the URL as the final argument
     command.append(url)
 
-    # 7. Run the command
     try:
-        subprocess.run(command)
-
+        _run_and_log_stderr(command, url, download_type, channel)
     except FileNotFoundError:
-        # This error happens if 'yt-dlp' isn't installed or not in PATH
         print(f"\n[Error] '{YT_DLP_CMD}' command not found.")
         print("Please ensure yt-dlp is installed and in your system's PATH.")
-        sys.exit(1)  # Exit the script
+        sys.exit(1)
     except Exception as e:
-        # Catch other potential errors
         print(f"\nAn error occurred while processing {url}: {e}")
+        with open(LOG_FILE, "a", encoding="utf-8") as log:
+            log.write(f"PYTHON EXCEPTION: {e}\n")
 
 
-def main():
-    """
-    Main function to update yt-dlp and run all downloads.
-    """
-
-    # 1.1 Update yt-dlp (equiv. of .\yt-dlp.exe -U)
+def update_tools():
+    """Update yt-dlp and deno."""
     print("Attempting to update yt-dlp...")
     try:
-        # check=True will raise an error if the update fails
         subprocess.run([YT_DLP_CMD, "-U"], check=True)
     except FileNotFoundError:
         print(f"\n[Error] '{YT_DLP_CMD}' command not found.")
         print("Please ensure yt-dlp is installed and in your system's PATH.")
-        sys.exit(1)  # Exit if yt-dlp isn't found
+        sys.exit(1)
     except subprocess.CalledProcessError as e:
-        # This error means the update command failed
         print(f"Failed to update yt-dlp (command failed): {e}")
-        # We can continue, but it's good to notify the user
     except Exception as e:
         print(f"An unknown error occurred during update: {e}")
 
-    # 1.2 Update deno
     print("Attempting to update deno...")
     try:
-        # check=True will raise an error if the update fails
         subprocess.run(["deno", "upgrade"], check=True)
     except FileNotFoundError:
         print("\n[Error] 'deno' command not found.")
         print("Please ensure deno is installed and in your system's PATH.")
         print("deno is required for yt-dlp to work.")
-        sys.exit(1)  # Exit if deno isn't found
+        sys.exit(1)
     except subprocess.CalledProcessError as e:
-        # This error means the update command failed
         print(f"Failed to update deno (command failed): {e}")
-        # We can continue, but it's good to notify the user
     except Exception as e:
         print(f"An unknown error occurred during update: {e}")
 
+
+def main():
+    parser = argparse.ArgumentParser(description="Download audio from configured channels.")
+    parser.add_argument(
+        "--skip-update",
+        action="store_true",
+        help="Skip updating yt-dlp and deno before downloading.",
+    )
+    args = parser.parse_args()
+
+    if not args.skip_update:
+        update_tools()
+    else:
+        print("Skipping tool updates (--skip-update).")
+
+    channels = load_channels()
+
+    # Validate config before running any downloads
+    for channel in channels:
+        name = channel.get("name")
+        if not name:
+            print("Error: channel entry missing 'name' field.")
+            sys.exit(1)
+        for source in channel.get("sources", []):
+            stype = source.get("type")
+            if stype not in VALID_TYPES:
+                print(f"Error: invalid type '{stype}' for channel '{name}'. Must be one of {VALID_TYPES}.")
+                sys.exit(1)
+            if not source.get("url"):
+                print(f"Error: source for channel '{name}' missing 'url'.")
+                sys.exit(1)
+
+    _init_log_file()
+    print(f"Errors/warnings will be logged to '{LOG_FILE}'.")
     print("\n--- Starting Downloads ---")
 
-    # 2. Run the downloads in the specified order. Members MUST be last. Otherwise it'll treat a normal video as members content.
-    # Order:
-    #  - members playlist
-    #  - videos
-    #  - twitch vods
-    #  - stream vods
-    #  - anything else
-    #  - members videos/streams/etc
-
-    # --- Dokibird ---
-    get_audio(
-        url="https://www.youtube.com/Dokibird/membership",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/Dokibird/videos",
-        download_type=DTypes.VIDEO,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/@DokibirdVODs/videos",
-        download_type=DTypes.TWITCHVOD,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.twitch.tv/dokibird/videos?filter=archives&sort=time",
-        download_type=DTypes.TWITCH,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/Dokibird/streams",
-        download_type=DTypes.STREAM,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/Dokibird/membership",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/Dokibird/videos",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.DOKI,
-    )
-    get_audio(
-        url="https://www.youtube.com/Dokibird/streams",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.DOKI,
-    )
-
-    # --- MintFantome ---
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/membership",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/videos",
-        download_type=DTypes.VIDEO,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/streams",
-        download_type=DTypes.STREAM,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@densetsu-exe/videos",
-        download_type=DTypes.EXTERNAL,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@densetsu-exe/streams",
-        download_type=DTypes.EXTERNAL,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/membership",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/videos",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.MINT,
-    )
-    get_audio(
-        url="https://www.youtube.com/@mintfantome/streams",
-        download_type=DTypes.MEMBERS,
-        channel=Channels.MINT,
-    )
+    for channel in channels:
+        name = channel["name"]
+        for source in channel.get("sources", []):
+            get_audio(url=source["url"], download_type=source["type"], channel=name)
 
     print("\n--- Download process finished. ---")
+    print(f"See '{LOG_FILE}' for any errors/warnings from this run.")
 
 
 if __name__ == "__main__":
-    # Ensure the base 'Transcript' directory exists
     os.makedirs(BASE_DIR, exist_ok=True)
     main()

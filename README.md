@@ -20,8 +20,9 @@ _Transcript Collection_
 - **[Updating Transcripts Process](#updating-transcripts-process)**
 - **[Cleanup](#cleanup)**
 - **[Uploading to Archive](#uploading-to-archive)**
-- **[Verifyinbg Local Transcripts](#verifyinbg-local-transcripts)**
+- **[Verifying Local Transcripts](#verifying-local-transcripts)**
 - **[Admin Commands](#admin-commands)**
+- **[Utility Scripts](#utility-scripts)**
 
 ## System
 
@@ -80,17 +81,22 @@ Faster-whisper also uses CUDA to compute the transcripts. So an Nvidia-based GPU
 Tools you need to download and put into the root dir.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [faster-whisper-standalone](https://github.com/Purfview/whisper-standalone-win)
+- [deno](https://deno.com/) — required by yt-dlp for some YouTube extractors
 
 You'll also need python and uv to manage the packages
-- [Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/) (3.12+)
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 To install all packages
 - `uv sync`
 
+### Channel Configuration
+Channels and their download sources live in `channels.yaml`. To add a new channel or source, edit that file — no code changes needed.
+
 ### Updating Transcripts Process
 1. Create a new branch and checkout said branch.
 2. Get the latest audio by running `uv run .\scripts\download_audio.py`
+    - Pass `--skip-update` to bypass the auto-update of yt-dlp/deno.
 3. Process all new audio by running `uv run .\scripts\transcribe_audio.py`
     - Enter the folder you want to transcribe. For Doki, that would be `.\Transcript\Dokibird\`
     - Or enter nothing to run for every folder
@@ -104,6 +110,8 @@ After the transcripts are created. You can remove all audio files by running the
 To upload any new transcripts to the Archive, you can do so by
 1. creating `config.yaml` from the example and enter in the correct configurations
 2. run the script `uv run .\scripts\upload_transcripts.py`
+
+Upload retries transient network/server errors automatically (5xx, 429, connection drops) with exponential backoff.
 
 ### Verifying Local Transcripts
 In the event you want to see what srt transcripts you are missing locally, or what transcripts the server is missing, you can do so by running `uv run .\scripts\verify_transcript.py`
@@ -132,3 +140,16 @@ List of options:
 
 - verify a key
   > _Given a key, it will verify if it is valid. If valid, it will return the channel the key is valid for and when the key expires_
+
+### Utility Scripts
+
+A few extra scripts exist for one-off maintenance tasks:
+
+- `delete_transcripts.py YYYY[-MM[-DD]]` — Delete transcripts (Stream/Video/TwitchVod only) matching a date prefix and remove matching IDs from `yt-dlp-archive.txt`. Supports `--dry-run`.
+- `word_fixer.py` — Replace censored text (e.g. `f**k` → `fuck`) across `.srt` files. Prompts for a cutoff window.
+- `organize_years.py [--execute]` — Move loose transcripts in each channel folder into year subfolders. Dry-run by default.
+- `find_multi_line_srt.py` — Quick scan for `.srt` files that contain multi-line text blocks (used when debugging a transcription pass).
+- `benchmark_zstd.py` — Benchmark zstd compression levels against real transcript payloads. Useful for picking the level used in `upload_transcripts.py`. Pass `--levels 1-22` and `--sample N` to tune.
+
+### Updating all transcripts
+See [update-all-transcripts.md](update-all-transcripts.md) for the workflow and tracking list for regenerating older transcripts with the current model/settings.

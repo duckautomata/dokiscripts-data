@@ -133,6 +133,8 @@ def main():
                 "English",
                 "--compute_type",
                 "float32",
+                "--batch_size",
+                "16",
                 "-m",
                 "distil-large-v3.5",
                 "--sentence",

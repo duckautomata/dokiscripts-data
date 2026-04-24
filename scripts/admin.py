@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 
-import os
 import sys
 from http import HTTPStatus
 
 import requests
 import yaml
-
-CONFIG_FILE = "config.yaml"
+from _common import load_config
 
 
 def pretty(code: int, resp: dict | None):
@@ -21,38 +19,6 @@ def pretty(code: int, resp: dict | None):
 
     print(yaml.dump(resp, allow_unicode=True, default_flow_style=False, sort_keys=False))
     print("-" * 50)
-
-
-def load_config():
-    if not os.path.exists(CONFIG_FILE):
-        print(f"Error: Configuration file '{CONFIG_FILE}' not found.")
-        sys.exit(1)
-
-    try:
-        with open(CONFIG_FILE) as f:
-            config = yaml.safe_load(f)
-
-        if not config or "api_key" not in config:
-            print(f"Error: 'api_key' not found in '{CONFIG_FILE}'.")
-            print("Please ensure the file has the line: api_key: YOUR_KEY")
-            sys.exit(1)
-
-        if not config or "server_url" not in config:
-            print(f"Error: 'server_url' not found in '{CONFIG_FILE}'.")
-            print("Please ensure the file has the line: server_url: YOUR_SERVER")
-            sys.exit(1)
-
-        api_key = config["api_key"]
-        server_url = config["server_url"]
-
-        return api_key, server_url
-
-    except yaml.YAMLError as e:
-        print(f"Error parsing '{CONFIG_FILE}': {e}")
-        sys.exit(1)
-    except Exception as e:
-        print(f"Error reading '{CONFIG_FILE}': {e}")
-        sys.exit(1)
 
 
 def send_request(method: str, headers: dict[str, str], url: str):
@@ -99,7 +65,9 @@ def get_choice():
 
 
 def main():
-    api_key, server_url = load_config()
+    config = load_config()
+    api_key = config["api_key"]
+    server_url = config["server_url"]
 
     headers = {"X-API-Key": api_key, "Content-Type": "application/json"}
 

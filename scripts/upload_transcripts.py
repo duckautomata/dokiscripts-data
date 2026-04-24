@@ -4,58 +4,36 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta
 
 import requests
-import yaml  # Import tqdm
 import zstandard as zstd
+from _common import BASE_DIR, FILENAME_PATTERN, load_config
+from requests.adapters import HTTPAdapter
 from tqdm import tqdm
-
-# --- Configuration ---
-
-# The root folder containing your streamer transcripts
-BASE_DIR = "Transcript"
-
-# Config file name
-CONFIG_FILE = "config.yaml"
-
-# Regex to parse the filename:
-# {YYYYMMDD} - {StreamType} - {StreamName} - [{id}].srt
-FILENAME_PATTERN = re.compile(r"^(\d{8}) - (.+?) - (.+) - \[([^\]]+)\]\.srt$")
+from urllib3.util.retry import Retry
 
 # --- End Configuration ---
 
 
-def load_config():
-    if not os.path.exists(CONFIG_FILE):
-        print(f"Error: Configuration file '{CONFIG_FILE}' not found.")
-        sys.exit(1)
-
-    try:
-        with open(CONFIG_FILE) as f:
-            config = yaml.safe_load(f)
-
-        if not config or "api_key" not in config:
-            print(f"Error: 'api_key' not found in '{CONFIG_FILE}'.")
-            print("Please ensure the file has the line: api_key: YOUR_KEY")
-            sys.exit(1)
-
-        if not config or "server_url" not in config:
-            print(f"Error: 'server_url' not found in '{CONFIG_FILE}'.")
-            print("Please ensure the file has the line: server_url: YOUR_SERVER")
-            sys.exit(1)
-
-        api_key = config["api_key"]
-        server_url = config["server_url"]
-
-        return api_key, server_url
-
-    except yaml.YAMLError as e:
-        print(f"Error parsing '{CONFIG_FILE}': {e}")
-        sys.exit(1)
-    except Exception as e:
-        print(f"Error reading '{CONFIG_FILE}': {e}")
-        sys.exit(1)
+def build_session() -> requests.Session:
+    """
+    Create a requests session with retry on transient failures.
+    Retries 5xx responses and connection errors; backs off exponentially.
+    """
+    session = requests.Session()
+    retry = Retry(
+        total=5,
+        backoff_factor=1.0,  # 1s, 2s, 4s, 8s, 16s
+        status_forcelist=(408, 429, 500, 502, 503, 504),
+        allowed_methods=frozenset(["POST", "GET"]),
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
 
 
 def get_upload_selection():
@@ -100,7 +78,7 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
     and uploads it to the server.
 
     Returns:
-        (status_string, original_size, compressed_size)
+        (status_string, original_size, compressed_size, upload_seconds)
 
         status_string:
             'success' if uploaded
@@ -111,7 +89,7 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
     if not match:
         # Use tqdm.write to print without breaking the bar
         tqdm.write(f"-> Skipping file (does not match pattern): {file}")
-        return "failed", 0, 0
+        return "failed", 0, 0, 0.0
 
     # Extract data from regex groups
     date_str = match.group(1)  # This is 'YYYYMMDD'
@@ -128,14 +106,14 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
 
     except ValueError:
         tqdm.write(f"-> Skipping file (invalid date format): {file}")
-        return "failed", 0, 0
+        return "failed", 0, 0, 0.0
 
     if month_filter and not date_str.startswith(month_filter):
-        return "skipped_date", 0, 0
+        return "skipped_date", 0, 0, 0.0
 
     if cutoff_date and file_date_obj < cutoff_date:
         # File is too old, skip it
-        return "skipped_date", 0, 0
+        return "skipped_date", 0, 0, 0.0
 
     full_path = os.path.join(root, file)
     try:
@@ -143,7 +121,7 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
             srt_content = f.read()
     except Exception as e:
         tqdm.write(f"-> ERROR reading file {full_path}: {e}")
-        return "failed", 0, 0
+        return "failed", 0, 0, 0.0
 
     payload = {
         "streamer": streamer_name,
@@ -165,17 +143,19 @@ def process_and_upload(session, root, file, streamer_name, cutoff_date, month_fi
         req_headers["Content-Encoding"] = "zstd"
 
         uri = f"{server_url}/transcript"
+        start = time.perf_counter()
         response = session.post(uri, data=compressed_data, headers=req_headers, timeout=30)
+        upload_seconds = time.perf_counter() - start
         response.raise_for_status()  # Raise exception for 4xx/5xx errors
 
-        return "success", len(json_data), len(compressed_data)
+        return "success", len(json_data), len(compressed_data), upload_seconds
 
     except requests.exceptions.HTTPError as e:
         tqdm.write(f"-> HTTP ERROR for {file}: {e.response.status_code} - {e.response.text}")
     except requests.exceptions.RequestException as e:
         tqdm.write(f"-> ERROR uploading {file}: {e}")
 
-    return "failed", 0, 0
+    return "failed", 0, 0, 0.0
 
 
 def main():
@@ -183,8 +163,9 @@ def main():
     Main function to walk the directory and process files.
     """
 
-    print(f"Loading configuration from {CONFIG_FILE}...")
-    api_key, server_url = load_config()
+    config = load_config()
+    api_key = config["api_key"]
+    server_url = config["server_url"]
     print("Configuration loaded successfully.")
 
     if not os.path.isdir(BASE_DIR):
@@ -212,7 +193,7 @@ def main():
     print(f"Target server: {server_url}")
 
     headers = {
-        "X-API-Key": api_key,  # <-- Use the loaded key
+        "X-API-Key": api_key,
         "Content-Type": "application/json",
     }
 
@@ -251,12 +232,13 @@ def main():
     skipped_date_count = 0
     total_original_bytes = 0
     total_compressed_bytes = 0
+    upload_times: list[float] = []
 
-    # Create a session for persistent connections
-    with requests.Session() as session:
+    # Session with retry on transient failures
+    with build_session() as session:
         # Wrap the list with tqdm for the progress bar
         for root, file, streamer_name in tqdm(files_to_process, desc="Uploading Transcripts", unit="file"):
-            result, orig_size, comp_size = process_and_upload(
+            result, orig_size, comp_size, upload_seconds = process_and_upload(
                 session,
                 root,
                 file,
@@ -271,6 +253,7 @@ def main():
                 success_count += 1
                 total_original_bytes += orig_size
                 total_compressed_bytes += comp_size
+                upload_times.append(upload_seconds)
             elif result == "failed":
                 fail_count += 1
             elif result == "skipped_date":
@@ -289,6 +272,17 @@ def main():
         print(f"\nTotal Data Sent:   {total_compressed_bytes / 1024:.2f} KB")
         print(f"Original Size:     {total_original_bytes / 1024:.2f} KB")
         print(f"Total Data Saved:  {saved_bytes / 1024:.2f} KB ({savings_percent:.1f}%)")
+
+    if upload_times:
+        total_time = sum(upload_times)
+        avg_time = total_time / len(upload_times)
+        max_time = max(upload_times)
+        min_time = min(upload_times)
+        print("\n--- Upload Timing ---")
+        print(f"Total upload time: {total_time:.2f} s")
+        print(f"Average per file:  {avg_time * 1000:.1f} ms")
+        print(f"Largest:           {max_time * 1000:.1f} ms")
+        print(f"Smallest:          {min_time * 1000:.1f} ms")
 
 
 if __name__ == "__main__":

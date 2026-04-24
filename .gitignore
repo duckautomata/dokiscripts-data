@@ -17,6 +17,7 @@ __pycache__
 config.yaml
 config-dev.yaml
 missing.txt
+yt-dlp-errors.log
 *cookies.txt
 
 # Don't upload any members stuff
@@ -30,3 +31,4 @@ _models
 _xxl_data
 *.exe
 *.bat
+*.local.json

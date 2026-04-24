@@ -1,0 +1,40 @@
+# List of channels and their download sources.
+# Works in order. yt-dlp filters members vs. non-members content via --match-filter,
+# MEMBERS type will only download members content. Any other type will download anything but members content.
+#
+# Valid `type` values: Video, Stream, Members, Twitch, TwitchVod, External
+
+channels:
+  - name: Dokibird
+    sources:
+      - url: https://www.youtube.com/Dokibird/membership
+        type: Members
+      - url: https://www.youtube.com/Dokibird/videos
+        type: Video
+      - url: https://www.youtube.com/@DokibirdVODs/videos
+        type: TwitchVod
+      - url: https://www.twitch.tv/dokibird/videos?filter=archives&sort=time
+        type: Twitch
+      - url: https://www.youtube.com/Dokibird/streams
+        type: Stream
+      - url: https://www.youtube.com/Dokibird/videos
+        type: Members
+      - url: https://www.youtube.com/Dokibird/streams
+        type: Members
+
+  - name: MintFantome
+    sources:
+      - url: https://www.youtube.com/@mintfantome/membership
+        type: Members
+      - url: https://www.youtube.com/@mintfantome/videos
+        type: Video
+      - url: https://www.youtube.com/@mintfantome/streams
+        type: Stream
+      - url: https://www.youtube.com/@densetsu-exe/videos
+        type: External
+      - url: https://www.youtube.com/@densetsu-exe/streams
+        type: External
+      - url: https://www.youtube.com/@mintfantome/videos
+        type: Members
+      - url: https://www.youtube.com/@mintfantome/streams
+        type: Members
