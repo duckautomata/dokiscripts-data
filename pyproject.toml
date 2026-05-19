@@ -12,6 +12,24 @@ dependencies = [
     "zstandard>=0.25.0",
 ]
 
+[tool.uv]
+# Refuse to run on older uv that may lack the supply-chain features below.
+required-version = ">=0.5.0"
+# Never search a fallback index for a package found on the primary one
+index-strategy = "first-index"
+# Rolling 1-week cooldown: never resolve to a version that was published less than 7 days ago.
+exclude-newer = "1 week"
+# Floors for sensitive transitives. These only take effect if something pulls
+# them in; they cap below-known-bad versions without forcing installation.
+constraint-dependencies = [
+    "certifi>=2024.7.4",
+    "idna>=3.7",
+    "pip>=25.0",
+    "setuptools>=78.1.1",
+    "urllib3>=2.2.3",
+    "wheel>=0.45",
+]
+
 [tool.ruff]
 target-version = "py312"
 line-length = 140
