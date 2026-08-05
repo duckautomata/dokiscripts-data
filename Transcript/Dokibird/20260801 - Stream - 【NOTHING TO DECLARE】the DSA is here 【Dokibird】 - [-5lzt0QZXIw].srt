@@ -1,0 +1,7726 @@
+1
+00:00:00,540 --> 00:00:03,860
+Good morning,
+
+2
+00:03:41,490 --> 00:03:41,530
+everybody.
+
+3
+00:03:42,010 --> 00:03:42,950
+Morning, morning, morning.
+
+4
+00:03:43,650 --> 00:03:45,450
+Hello, hello, everyone.
+
+5
+00:03:46,670 --> 00:03:53,390
+Today, we're going to be playing Nothing to Declare, which
+is apparently a TSA simulator.
+
+6
+00:03:53,730 --> 00:03:57,490
+Oh, I love the fact that we can beat TSA for the day.
+
+7
+00:03:59,170 --> 00:04:00,710
+Finally, my dream come true.
+
+8
+00:04:02,230 --> 00:04:04,510
+Inconveniencing airport travelers.
+
+9
+00:04:07,310 --> 00:04:13,970
+Finally, the day I've been waiting for, I can finally make
+them late for their flight.
+
+10
+00:04:14,490 --> 00:04:16,250
+Oh, my dream job.
+
+11
+00:04:18,650 --> 00:04:22,590
+And also, not getting paid for it, too.
+
+12
+00:04:23,290 --> 00:04:25,370
+Finally, I could be on the other side.
+
+13
+00:04:27,650 --> 00:04:32,950
+Welcome to, okay, I was going to, okay, I didn't realize,
+because I was going to be like, call it being like super
+
+14
+00:04:32,950 --> 00:04:33,190
+clever.
+
+15
+00:04:33,350 --> 00:04:37,410
+I'd be like, ha, the DSA, the Dokeybird Security
+Association.
+
+16
+00:04:38,030 --> 00:04:44,270
+And then I saw someone chat and was like, you could tell
+Doki Braid is not American because she called herself the
+
+17
+00:04:44,270 --> 00:04:44,990
+DSA.
+
+18
+00:04:46,110 --> 00:04:48,530
+And I was just like, what's wrong with that?
+
+19
+00:04:49,530 --> 00:04:51,870
+What's the data system and analysis?
+
+20
+00:04:52,310 --> 00:04:58,810
+Like, I was just like, what's the DSA?
+
+21
+00:04:59,130 --> 00:05:01,410
+And then I was just like, data system analysis?
+
+22
+00:05:01,650 --> 00:05:02,490
+Like, what is it?
+
+23
+00:05:02,490 --> 00:05:07,410
+And I looked up DSA and I was like, oh, the Democratic
+Socialist of America.
+
+24
+00:05:08,030 --> 00:05:08,510
+ah
+
+25
+00:05:11,770 --> 00:05:19,730
+yeah the digital service act I was just like what does that
+guy do with being America being American I was so confused I
+
+26
+00:05:19,730 --> 00:05:22,310
+was like ah I see
+
+27
+00:05:26,090 --> 00:05:31,650
+the bong thank you for the super chat thank you thank you if
+there's nothing to glare then there's no point to go to
+
+28
+00:05:31,650 --> 00:05:37,970
+Sinclair for an acclare thank you for the super chat thank
+you thank you wow Tokia Wow.
+
+29
+00:05:39,150 --> 00:05:41,610
+I can't believe you went political.
+
+30
+00:05:41,790 --> 00:05:43,470
+I, guys, I'm the dokey.
+
+31
+00:05:43,590 --> 00:05:47,390
+I'm the dokey at bird and security administration.
+
+32
+00:05:48,190 --> 00:05:50,650
+Guys, that's nothing to do with socialism.
+
+33
+00:05:51,290 --> 00:05:55,910
+I just want to make sure you don't bring a bottle of water
+to the airport.
+
+34
+00:05:56,390 --> 00:05:57,250
+That's it.
+
+35
+00:06:00,070 --> 00:06:08,130
+I'm just trying to make sure you don't bring a dangerous
+item in here, through the airport, like a fucking Like a
+
+36
+00:06:08,130 --> 00:06:09,030
+fucking scissor.
+
+37
+00:06:09,170 --> 00:06:10,710
+You know how dangerous that is?
+
+38
+00:06:10,790 --> 00:06:11,550
+To have scissors?
+
+39
+00:06:13,670 --> 00:06:15,410
+You can hurt yourself.
+
+40
+00:06:16,130 --> 00:06:17,250
+Alright, let's play Nothing to Declare.
+
+41
+00:06:18,630 --> 00:06:21,810
+Um, anyway, so Dad's here, but also not here.
+
+42
+00:06:21,930 --> 00:06:24,170
+I have him on a Zoom call to help me.
+
+43
+00:06:24,250 --> 00:06:25,430
+Uh, to put...
+
+44
+00:06:25,430 --> 00:06:28,750
+To help me sniff, uh, sniff stuff out.
+
+45
+00:06:30,790 --> 00:06:31,270
+Um...
+
+46
+00:06:31,270 --> 00:06:33,430
+Wait, let me...
+
+47
+00:06:33,430 --> 00:06:35,330
+Let's see, but, but, but, but, but, but.
+
+48
+00:06:35,690 --> 00:06:37,310
+Alright, I don't know sound, guys.
+
+49
+00:06:37,430 --> 00:06:37,750
+here.
+
+50
+00:06:37,930 --> 00:06:39,390
+He's like Schrodinger's dad.
+
+51
+00:06:41,070 --> 00:06:43,770
+He's here, but he's not here at the same time.
+
+52
+00:06:44,130 --> 00:06:48,770
+He's going to be doing a really good job helping me sniff
+out the drugs.
+
+53
+00:06:51,570 --> 00:06:52,550
+All right, let's see.
+
+54
+00:06:53,150 --> 00:06:54,710
+I see you're carrying a dog with you.
+
+55
+00:06:54,870 --> 00:06:56,530
+We'll have to ask you to send him to the dog's gate.
+
+56
+00:06:56,670 --> 00:06:59,470
+Check him for bombs this time.
+
+57
+00:06:59,850 --> 00:07:01,670
+Now he's on the other side.
+
+58
+00:07:01,970 --> 00:07:04,930
+Now he's going to check if your dogs have bombs.
+
+59
+00:07:05,890 --> 00:07:07,010
+All right, let me see.
+
+60
+00:07:07,430 --> 00:07:16,550
+guy let me know how it sounds like um at the moment you can
+um is that large tube of toothpaste permanent bad exactly
+
+61
+00:07:16,550 --> 00:07:29,170
+just here to make sure you don't bring that toothpaste over
+here there might be a bomb inside it all right never seen a
+
+62
+00:07:29,170 --> 00:07:37,630
+weiner dog do tsa hey he's a very special he's a very
+special dog all right he's a prodigy they let him in an
+
+63
+00:07:37,630 --> 00:07:40,890
+exception because of how good he is at his job.
+
+64
+00:07:41,390 --> 00:07:43,090
+Lolly, thank you, thank you, thank you.
+
+65
+00:07:43,170 --> 00:07:45,050
+I have a suggestion for a shitpost, Songkart.
+
+66
+00:07:45,210 --> 00:07:47,350
+We are number one, the meme song from Lay's Town.
+
+67
+00:07:47,650 --> 00:07:50,590
+But it's you sing of other dokees from the dokevers.
+
+68
+00:07:50,790 --> 00:07:51,550
+That's a good one.
+
+69
+00:07:51,770 --> 00:07:53,770
+Thank you, the super chat, thank you, thank you.
+
+70
+00:07:53,790 --> 00:07:55,150
+That's a good shitpost.
+
+71
+00:07:55,730 --> 00:07:56,570
+All right, let's see.
+
+72
+00:07:57,010 --> 00:07:58,290
+All right, here are the settings.
+
+73
+00:07:58,870 --> 00:07:59,370
+Sound guy.
+
+74
+00:08:00,110 --> 00:08:02,710
+Speech, ADHD, autism filter.
+
+75
+00:08:03,230 --> 00:08:06,170
+Let's just like, what?
+
+76
+00:08:07,430 --> 00:08:12,590
+is an autism filter i have never seen that before
+
+77
+00:08:16,350 --> 00:08:26,150
+what i mean i guess that's good it's less repeating sound
+effects and no but i've never seen a game have an autism
+
+78
+00:08:26,150 --> 00:08:28,450
+filter that's wow
+
+79
+00:08:32,410 --> 00:08:41,090
+how bad is the how bad is like the sound effects on Noah
+lives if there's an autism filter.
+
+80
+00:08:41,270 --> 00:08:42,870
+Oh, I'm worried now.
+
+81
+00:08:45,770 --> 00:08:48,850
+We need the autism filter.
+
+82
+00:08:49,850 --> 00:08:50,930
+Okay, let's go.
+
+83
+00:08:52,450 --> 00:08:55,890
+Holiday season, a typical expect gradual increase in
+passenger.
+
+84
+00:08:56,070 --> 00:09:01,430
+Take your time and enjoy the couch casting of a super chat.
+
+85
+00:09:01,470 --> 00:09:01,690
+Thank you.
+
+86
+00:09:01,810 --> 00:09:02,290
+Thank you.
+
+87
+00:09:02,430 --> 00:09:07,410
+The five hour, the dinner is like, why is, why does it take
+so long at the T.
+
+88
+00:09:07,430 --> 00:09:19,030
+sorry now your TSA agent is on cozy mode right now next
+scene thank you for the super chat thank you thank you we're
+
+89
+00:09:19,030 --> 00:09:27,590
+so sorry the agent is on cozy mode right now so so you gotta
+wait five hours till your flight till you get fast the TSA
+
+90
+00:09:27,590 --> 00:09:36,350
+oh so the usual yes we're always on the cozy we're always on
+the cozy level all right let's check this game out I thought
+
+91
+00:09:36,350 --> 00:09:39,990
+it was pretty cool just because Because, like, I've never
+really seen games that...
+
+92
+00:09:39,990 --> 00:09:42,370
+Oh, it's like Paper Please, but the TSA.
+
+93
+00:09:43,010 --> 00:09:55,590
+I like how, like, the modern-day American version of the
+Paper Please Communist Make-Believe Country is the TSA.
+
+94
+00:09:57,430 --> 00:09:58,730
+That's crazy.
+
+95
+00:09:59,350 --> 00:10:02,430
+That's the modern-day American version of this.
+
+96
+00:10:02,910 --> 00:10:04,270
+Not right.
+
+97
+00:10:04,870 --> 00:10:06,770
+It was made for me.
+
+98
+00:10:07,470 --> 00:10:08,430
+American version.
+
+99
+00:10:08,570 --> 00:10:09,150
+Oh my god.
+
+100
+00:10:09,330 --> 00:10:10,010
+Oh my god.
+
+101
+00:10:10,230 --> 00:10:13,090
+I don't know why my own stream played on my phone.
+
+102
+00:10:13,450 --> 00:10:14,290
+I freaked out.
+
+103
+00:10:14,370 --> 00:10:16,110
+I was like, who was that?
+
+104
+00:10:16,250 --> 00:10:18,450
+And I was like, that's me, but on my phone.
+
+105
+00:10:18,950 --> 00:10:21,430
+It like played on my speakers for something.
+
+106
+00:10:23,630 --> 00:10:25,130
+The Doki jump scare.
+
+107
+00:10:25,550 --> 00:10:25,930
+Thanks.
+
+108
+00:10:26,130 --> 00:10:28,490
+Thanks three seconds behind Doki.
+
+109
+00:10:31,670 --> 00:10:32,150
+Okay.
+
+110
+00:10:32,570 --> 00:10:33,870
+Welcome to the checkpoint, rookie.
+
+111
+00:10:34,050 --> 00:10:35,170
+Let's run, run together.
+
+112
+00:10:36,590 --> 00:10:37,050
+All right.
+
+113
+00:10:37,050 --> 00:10:41,350
+Also, today's gonna be a short stream only because I have a
+lot of stuff to do in between my streams today There is
+
+114
+00:10:41,350 --> 00:10:49,090
+potential where I might be late for armor core because I
+have to touch grass and buy some stuff for my vacation So I
+
+115
+00:10:49,090 --> 00:10:55,110
+just want to let you guys know that right now There is a
+potential where I might be late for armor core just because
+
+116
+00:10:55,110 --> 00:11:03,910
+I have to I have to touch grass in between my streams And do
+some a little bit of shop last-minute shopping and stuff All
+
+117
+00:11:03,910 --> 00:11:14,610
+right, I need to buy shoes basically because I haven't
+bought new shoes in like three plus years and I'm gonna need
+
+118
+00:11:14,610 --> 00:11:23,790
+new shoes well my sneakers are like two years old but like I
+need like I okay so like when I had to like do like an
+
+119
+00:11:23,790 --> 00:11:30,850
+emergency move and everything you know I could only bring
+like what I could like I could only move like it was like I
+
+120
+00:11:30,850 --> 00:11:39,670
+basically had to pack everything like within a couple of
+hours before like I moved out and everything um and so so
+
+121
+00:11:39,670 --> 00:11:49,530
+shoes was sort of my last priority so I legitimately just
+like brought two pairs of shoes uh and I never bought new
+
+122
+00:11:49,530 --> 00:11:57,170
+shoes after I the only time I bought new shoes was sneakers
+so um so I was just like all right these will go fine I have
+
+123
+00:11:57,170 --> 00:12:07,190
+sandals and sneakers and my sandals are sort of falling
+apart now uh and so I'm So I'm gonna have to, I have to buy
+
+124
+00:12:07,190 --> 00:12:09,390
+new shoes for my vacation.
+
+125
+00:12:11,070 --> 00:12:15,370
+I used to have a big collection of shoes, but like I said, I
+had to like move really quickly.
+
+126
+00:12:15,710 --> 00:12:19,670
+So I was just like, and then like, and then I just had only
+two pairs.
+
+127
+00:12:19,750 --> 00:12:22,070
+I only brought two pairs of shoes.
+
+128
+00:12:22,470 --> 00:12:26,690
+And at that point, my, and by the time, like my sneakers had
+like one year left.
+
+129
+00:12:27,230 --> 00:12:32,890
+And then, um, and then like I bought new sneakers, but even
+then my sneakers are sort of falling apart now.
+
+130
+00:12:32,890 --> 00:12:40,070
+So I might have to buy new sneakers soon-ish not now because
+I still can like I still have uses of it It's like it's not
+
+131
+00:12:40,070 --> 00:12:43,590
+falling apart yet, but like it's getting there
+
+132
+00:12:47,990 --> 00:12:55,390
+and and so um so but I definitely need new sandals new
+sandals are fucked up like my old sandals at the moment are
+
+133
+00:12:55,390 --> 00:13:01,410
+sort of a little bit fucked up so that's why I have to uh,
+I'm gonna have to go buy new shoes and other things as well
+
+134
+00:13:03,110 --> 00:13:11,810
+uh them yeah they have not lived their usefulness yet uh so
+so yeah we're gonna we're gonna i'll be moving around a lot
+
+135
+00:13:11,810 --> 00:13:18,490
+after this stream before my other stream um that's why
+today's gonna be a little bit shorter i won't be doing a
+
+136
+00:13:18,490 --> 00:13:32,190
+five hour stream like last time this is your desk inspect
+decide stamp start by opening my passport oh my god this is
+
+137
+00:13:32,190 --> 00:13:43,770
+actually just paper please that's you that's not you check
+the photo first compare it with me not even close that's
+
+138
+00:13:43,770 --> 00:13:50,690
+yeah I was gonna say that's there's no way that's you unless
+you got like a bit of you lost weight chain started wearing
+
+139
+00:13:50,690 --> 00:14:02,230
+contact started wearing colored contacts dyed your hair and
+started shaving a little bit more and also that your name is
+
+140
+00:14:02,230 --> 00:14:09,170
+security officer i guess i don't know maybe he really loves
+his job at the tsa you don't know that you can't judge
+
+141
+00:14:09,170 --> 00:14:21,290
+someone by their name maybe he just really loves the tsa
+that he changed his he officially changed his name to to
+
+142
+00:14:21,290 --> 00:14:33,150
+commemorate his his passion for the job uh nsc uh thank you
+for the five gift dishes thank you thank you open the report
+
+143
+00:14:33,150 --> 00:14:43,410
+board all right hello use reject reasons to oh my god this
+is i'm sorry but this is actually uh it's called a glow up
+
+144
+00:14:43,410 --> 00:14:53,090
+toky tap papa oh like change your entire identity maybe it's
+like he's on he's actually on the witness protection uh
+
+145
+00:14:54,950 --> 00:14:55,970
+Thank you, Super Chat.
+
+146
+00:14:56,070 --> 00:14:56,950
+Thank you, thank you.
+
+147
+00:14:57,410 --> 00:14:59,530
+Name, mismatch, photo mismatch.
+
+148
+00:14:59,650 --> 00:15:00,990
+I don't know about age.
+
+149
+00:15:01,130 --> 00:15:02,350
+I won't say...
+
+150
+00:15:02,350 --> 00:15:03,710
+Do I check the age?
+
+151
+00:15:03,810 --> 00:15:05,430
+Like, I can't tell.
+
+152
+00:15:06,290 --> 00:15:08,370
+Close the board and open the passport again.
+
+153
+00:15:08,790 --> 00:15:09,170
+Alright.
+
+154
+00:15:11,670 --> 00:15:13,110
+Use the reject stamp.
+
+155
+00:15:13,510 --> 00:15:14,830
+Alright, where's the reject stamp?
+
+156
+00:15:14,910 --> 00:15:15,710
+Oh, there it is.
+
+157
+00:15:15,970 --> 00:15:18,070
+Oh my god, wait, this...
+
+158
+00:15:18,070 --> 00:15:19,450
+And everything back.
+
+159
+00:15:21,510 --> 00:15:21,990
+Okay.
+
+160
+00:15:22,310 --> 00:15:23,010
+There you go.
+
+161
+00:15:24,370 --> 00:15:25,290
+That's 13.
+
+162
+00:15:25,670 --> 00:15:27,090
+Check, report, stamp, return.
+
+163
+00:15:27,330 --> 00:15:28,790
+And send him to jail.
+
+164
+00:15:29,530 --> 00:15:30,450
+Passports, please.
+
+165
+00:15:32,630 --> 00:15:33,310
+All right.
+
+166
+00:15:33,770 --> 00:15:34,990
+My name is Victor.
+
+167
+00:15:35,930 --> 00:15:37,670
+Oh, hey, wait a minute.
+
+168
+00:15:39,350 --> 00:15:41,050
+Well, his name is Victor.
+
+169
+00:15:41,490 --> 00:15:42,530
+Photo mismatch.
+
+170
+00:15:43,330 --> 00:15:44,950
+Do you have any question?
+
+171
+00:15:46,570 --> 00:15:48,330
+How old are you?
+
+172
+00:15:48,490 --> 00:15:49,070
+42?
+
+173
+00:15:49,810 --> 00:15:50,810
+How long will you stay?
+
+174
+00:15:51,050 --> 00:15:51,810
+What is the purpose?
+
+175
+00:15:52,290 --> 00:15:52,570
+Wait.
+
+176
+00:15:54,030 --> 00:16:05,710
+Madrid what is your name all right so you definitely don't
+look like this guy so I'm gonna send you off now my name is
+
+177
+00:16:05,710 --> 00:16:19,470
+Calvin Reed bro what the fuck I don't even name okay name
+how old are you 23 yeah get out of here select a reject
+
+178
+00:16:19,470 --> 00:16:21,810
+reason I did hello
+
+179
+00:16:26,010 --> 00:16:26,570
+Uh...
+
+180
+00:16:26,570 --> 00:16:27,490
+Oh, okay.
+
+181
+00:16:28,870 --> 00:16:29,430
+Name.
+
+182
+00:16:29,950 --> 00:16:30,870
+Get out of here.
+
+183
+00:16:31,150 --> 00:16:32,570
+Get your ass out of here.
+
+184
+00:16:33,090 --> 00:16:34,230
+In fact, security!
+
+185
+00:16:34,910 --> 00:16:36,610
+That guy has a bomb!
+
+186
+00:16:38,410 --> 00:16:40,550
+He has a different- his name is different.
+
+187
+00:16:40,670 --> 00:16:41,710
+He has a bomb.
+
+188
+00:16:42,310 --> 00:16:42,950
+Most likely.
+
+189
+00:16:43,070 --> 00:16:45,030
+Why else would you tell me the wrong name?
+
+190
+00:16:45,310 --> 00:16:46,590
+I don't understand.
+
+191
+00:16:51,550 --> 00:16:52,110
+Alright.
+
+192
+00:16:52,950 --> 00:16:53,790
+Why else?
+
+193
+00:16:55,930 --> 00:16:58,770
+That's the only reason you would tell me the wrong name.
+
+194
+00:16:59,050 --> 00:17:01,290
+I don't see any other reason.
+
+195
+00:17:04,930 --> 00:17:07,190
+Oh shit, I could call a security.
+
+196
+00:17:07,430 --> 00:17:09,210
+When will I need to call a security?
+
+197
+00:17:09,950 --> 00:17:10,310
+All right.
+
+198
+00:17:11,090 --> 00:17:11,950
+Let's see.
+
+199
+00:17:12,650 --> 00:17:13,630
+What is your name?
+
+200
+00:17:13,830 --> 00:17:14,770
+How old are you?
+
+201
+00:17:14,830 --> 00:17:15,450
+You're 40.
+
+202
+00:17:15,670 --> 00:17:16,570
+One to two weeks.
+
+203
+00:17:17,230 --> 00:17:17,670
+Tourism.
+
+204
+00:17:17,870 --> 00:17:18,150
+Sydney.
+
+205
+00:17:18,290 --> 00:17:20,330
+That doesn't look like tourism clothes.
+
+206
+00:17:20,670 --> 00:17:21,370
+But you know what?
+
+207
+00:17:21,410 --> 00:17:22,930
+That's not my job to care.
+
+208
+00:17:25,930 --> 00:17:27,550
+jobs and wherever you're heading.
+
+209
+00:17:31,930 --> 00:17:32,610
+inspection.
+
+210
+00:17:33,170 --> 00:17:34,190
+Look at that.
+
+211
+00:17:34,910 --> 00:17:35,110
+Perf.
+
+212
+00:17:35,270 --> 00:17:36,850
+I'm doing my job.
+
+213
+00:17:41,490 --> 00:17:43,850
+He's dressed to impress.
+
+214
+00:17:44,470 --> 00:17:44,730
+Alright.
+
+215
+00:17:44,970 --> 00:17:45,910
+End of the day.
+
+216
+00:17:47,430 --> 00:17:47,790
+Alright.
+
+217
+00:17:47,930 --> 00:17:48,170
+Nice.
+
+218
+00:17:48,290 --> 00:17:48,890
+Oh shit.
+
+219
+00:17:49,210 --> 00:17:49,270
+Okay.
+
+220
+00:17:50,430 --> 00:17:51,850
+Do I just leave?
+
+221
+00:17:51,970 --> 00:17:52,170
+Okay.
+
+222
+00:17:52,290 --> 00:17:52,670
+Bye.
+
+223
+00:17:53,190 --> 00:17:55,910
+More than five unbaved pages.
+
+224
+00:17:55,930 --> 00:17:56,450
+bills.
+
+225
+00:17:56,750 --> 00:17:59,090
+All right, pay my electricity bills.
+
+226
+00:17:59,530 --> 00:18:00,750
+That's fine by me.
+
+227
+00:18:02,250 --> 00:18:03,050
+Oh, yeah, I forgot.
+
+228
+00:18:03,490 --> 00:18:04,250
+Music could come.
+
+229
+00:18:04,490 --> 00:18:05,410
+Oh, wait, I did do it.
+
+230
+00:18:05,770 --> 00:18:06,350
+Sound, guys.
+
+231
+00:18:06,370 --> 00:18:07,450
+The music better now?
+
+232
+00:18:08,530 --> 00:18:09,690
+Okay, start the day.
+
+233
+00:18:09,970 --> 00:18:11,650
+When do I start scanning stuff?
+
+234
+00:18:12,510 --> 00:18:14,330
+From today on, passengers need a board.
+
+235
+00:18:14,330 --> 00:18:14,890
+Oh, my God.
+
+236
+00:18:14,930 --> 00:18:18,570
+We were not letting passengers through with a boarding pass.
+
+237
+00:18:18,990 --> 00:18:19,990
+What are we doing?
+
+238
+00:18:20,030 --> 00:18:23,410
+Okay, we can tell these are one of those airports that got
+funding cut.
+
+239
+00:18:25,390 --> 00:18:27,950
+We We're trying to be efficient.
+
+240
+00:18:28,070 --> 00:18:29,830
+We're just going to assume that everybody...
+
+241
+00:18:29,830 --> 00:18:30,890
+Oh, yeah, definitely.
+
+242
+00:18:31,410 --> 00:18:34,030
+I just realized we are definitely one of the...
+
+243
+00:18:34,030 --> 00:18:38,970
+We're one of the smaller airports at, like, a city with a
+hundred people.
+
+244
+00:18:43,750 --> 00:18:45,870
+So, I get it.
+
+245
+00:18:49,030 --> 00:18:52,090
+Only, like, technically only two airlines.
+
+246
+00:18:52,890 --> 00:18:55,910
+Only two airlines come to our airlines.
+
+247
+00:18:55,930 --> 00:18:56,370
+airport.
+
+248
+00:18:57,970 --> 00:19:00,170
+Also bring up sound effects more.
+
+249
+00:19:01,070 --> 00:19:03,150
+Alright, I'll bring up sound effects more.
+
+250
+00:19:05,790 --> 00:19:07,170
+Alright, here we go.
+
+251
+00:19:08,210 --> 00:19:09,430
+Alright, the passenger...
+
+252
+00:19:09,430 --> 00:19:12,550
+Also, this music feels like I'm in the airport right now.
+
+253
+00:19:12,890 --> 00:19:17,270
+The passenger details should... When are the... When are
+they gonna start bringing toothpaste, guys?
+
+254
+00:19:17,430 --> 00:19:18,930
+So I can shock him.
+
+255
+00:19:20,270 --> 00:19:22,190
+Check the flight date and route.
+
+256
+00:19:22,810 --> 00:19:24,650
+These are the baggage limit.
+
+257
+00:19:24,730 --> 00:19:25,610
+You'll need them later.
+
+258
+00:19:25,930 --> 00:19:26,990
+What do you mean later?
+
+259
+00:19:27,150 --> 00:19:30,410
+Like, we're out of, we've been out of order for 20 years.
+
+260
+00:19:31,870 --> 00:19:34,950
+Yeah, that used to be ran by Spirit Airlines.
+
+261
+00:19:35,630 --> 00:19:41,810
+Yeah, our, our, our airline, the only airlines that come to
+our airport is Spirit Airlines
+
+262
+00:19:44,870 --> 00:19:47,670
+and private jets, because they got a refuel.
+
+263
+00:19:49,370 --> 00:19:57,970
+And now that Spirit Airlines went bankrupt, we're sort of
+like, we, we're sort of like in a bit of a trouble right now
+
+264
+00:19:57,970 --> 00:20:05,870
+um it's the fancy option at this airport nsd you think it
+was super chat thank you thank you name passport number
+
+265
+00:20:05,870 --> 00:20:14,390
+details make sure they line up now check the flight date
+what date is it today oh january it's expired that's a
+
+266
+00:20:14,390 --> 00:20:26,330
+violation oh yeah it is okay how do i progress from okay all
+right open the report board okay Select expired.
+
+267
+00:20:26,890 --> 00:20:27,590
+Close the board.
+
+268
+00:20:31,350 --> 00:20:32,150
+Bam!
+
+269
+00:20:33,330 --> 00:20:33,850
+Alright.
+
+270
+00:20:34,510 --> 00:20:38,630
+Take your fucking expired airport boarding pass.
+
+271
+00:20:42,110 --> 00:20:43,710
+The Aversus Spirit went bankrupt.
+
+272
+00:20:44,290 --> 00:20:47,770
+We've sort of been trying to look for private investors in
+our airport.
+
+273
+00:20:48,390 --> 00:20:50,190
+My name is Reed Sullivan.
+
+274
+00:20:50,670 --> 00:20:51,890
+Alright, Reed Sullivan.
+
+275
+00:20:52,590 --> 00:20:53,110
+Let's see.
+
+276
+00:20:53,210 --> 00:20:55,010
+I'm grabbing my board right now.
+
+277
+00:20:55,030 --> 00:21:04,310
+now how okay how old are you 25 all right sounds good how
+long you're gonna say four to seven days what is your
+
+278
+00:21:04,310 --> 00:21:12,230
+purpose all right tourism that sounds good where are you
+traveling to toronto all right you know what everything
+
+279
+00:21:12,230 --> 00:21:25,710
+checks out let's go go do your go go toronto all right let's
+see all right how's your day my name is leon Carter.
+
+280
+00:21:26,670 --> 00:21:27,570
+Liam Carter.
+
+281
+00:21:27,830 --> 00:21:28,410
+He's bald.
+
+282
+00:21:28,590 --> 00:21:29,250
+Get him!
+
+283
+00:21:31,950 --> 00:21:32,970
+Alright, Liam.
+
+284
+00:21:33,710 --> 00:21:34,150
+Let's see.
+
+285
+00:21:34,370 --> 00:21:34,390
+Jan.
+
+286
+00:21:34,530 --> 00:21:34,970
+Oh!
+
+287
+00:21:36,030 --> 00:21:36,570
+Bam!
+
+288
+00:21:36,750 --> 00:21:39,750
+I don't even need to expire boarding pass.
+
+289
+00:21:40,050 --> 00:21:43,030
+Try to fly past the date.
+
+290
+00:21:43,370 --> 00:21:48,630
+Bro, you're not... Bro, even if it was EU time, you would
+expire two days.
+
+291
+00:21:49,190 --> 00:21:50,630
+Alright, Lucas Bennett.
+
+292
+00:21:50,990 --> 00:21:51,330
+Alright.
+
+293
+00:21:51,870 --> 00:21:52,490
+Let's see.
+
+294
+00:21:52,650 --> 00:21:53,950
+January 2nd.
+
+295
+00:21:54,230 --> 00:22:00,830
+Alright, you seem to know your age which is good that means
+you've done your homework all right what all right we're
+
+296
+00:22:00,830 --> 00:22:09,570
+traveling to london study how are you staying for for four
+weeks what the fuck are you studying i mean i don't judge
+
+297
+00:22:09,570 --> 00:22:16,830
+i'm just a underpaid government worker who cares go go do
+your thing as long as you're not bringing toothpaste well to
+
+298
+00:22:16,830 --> 00:22:26,310
+be fair right now they can bring as many toothpaste as they
+won like apparently in in this airport we don't care uh and
+
+299
+00:22:26,310 --> 00:22:40,610
+ben and haze and all right i don't even need a here i don't
+even need a look all right nice perfect inspection as always
+
+300
+00:22:40,610 --> 00:22:54,930
+i'm good at my job all right here you go how dare you all
+right i'm here to end my day goodbye more than mobile plan
+
+301
+00:22:54,930 --> 00:23:03,950
+payment all right i mean i have to be on my phone in between
+in between tsa oh wait i have my retirement oh wait i i have
+
+302
+00:23:03,950 --> 00:23:16,650
+a retirement plan why wasn't this told to me you what do you
+mean would i get a gift box i'm gonna deposit that a hundred
+
+303
+00:23:16,650 --> 00:23:26,910
+thousand grand they got made of money i'm work for the tsa
+it's not game it's tsa simple mind i think it was super
+
+304
+00:23:26,910 --> 00:23:35,530
+chatting of course they wouldn't tell me about my retirement
+plan so i can work here forever and i and don't worry it's
+
+305
+00:23:35,530 --> 00:23:48,770
+my i love my job so it's okay um chase hunter yeah uh name
+mismatch all right buddy you forgot your
+
+306
+00:23:51,790 --> 00:24:01,990
+documents all right sebastian cole january 3rd i'm grabbing
+my inspection board we're traveling to london visiting
+
+307
+00:24:01,990 --> 00:24:09,610
+family all right that sounds right undecided well you do
+have five years um usually it's not good to tell me you're
+
+308
+00:24:09,610 --> 00:24:20,630
+undecided but we're we're like i haven't had my paycheck in
+seven months so like that's not my priority i usually you're
+
+309
+00:24:20,630 --> 00:24:29,070
+supposed to tell me how long you're staying so you're not
+illegally staying in another country uh should i take my
+
+310
+00:24:29,070 --> 00:24:37,770
+shoes up buddy we don't even have a working machine our our
+drug checking dog is sleeping you think i care right now i
+
+311
+00:24:37,770 --> 00:24:46,050
+my name is willa coles Oh, January 2nd, reject.
+
+312
+00:24:47,410 --> 00:24:48,710
+Expired boarding pass.
+
+313
+00:24:48,930 --> 00:24:49,230
+Let's go.
+
+314
+00:24:49,290 --> 00:24:50,430
+Move along, ma'am.
+
+315
+00:24:50,790 --> 00:24:51,170
+Move along.
+
+316
+00:24:51,270 --> 00:24:54,210
+This is the fastest the TSA has ever worked, by the way.
+
+317
+00:24:57,070 --> 00:24:57,970
+Madison Pierce.
+
+318
+00:24:58,170 --> 00:25:00,990
+I think we actually do only have one airline here at this
+airport.
+
+319
+00:25:01,870 --> 00:25:02,130
+All right.
+
+320
+00:25:02,590 --> 00:25:03,810
+Madison Pierce.
+
+321
+00:25:04,450 --> 00:25:05,530
+We're traveling to London.
+
+322
+00:25:06,170 --> 00:25:06,550
+Medical.
+
+323
+00:25:08,190 --> 00:25:09,150
+47 days.
+
+324
+00:25:09,530 --> 00:25:09,810
+24.
+
+325
+00:25:09,930 --> 00:25:12,290
+Oh, you think our healthcare is not good enough for you?
+
+326
+00:25:12,610 --> 00:25:13,550
+I mean, hey.
+
+327
+00:25:13,570 --> 00:25:27,310
+It's not it's your fault for not paying for private health
+care All right, that is perfect perfect perfect nice end of
+
+328
+00:25:27,310 --> 00:25:36,670
+the day Hey, they use super chat that you thank you so many
+people pay try to fly with live lobsters that certain
+
+329
+00:25:36,670 --> 00:25:45,070
+airports have came that specifically Train to sniff them out
+not drugs bombs just lobsters dad What's wrong with
+
+330
+00:25:45,070 --> 00:25:45,830
+lobsters?
+
+331
+00:25:45,950 --> 00:25:48,330
+There's a lost and found box too?
+
+332
+00:25:49,250 --> 00:25:50,350
+Wait, waiting area.
+
+333
+00:25:50,930 --> 00:25:51,790
+How do I leave?
+
+334
+00:25:52,010 --> 00:25:53,390
+How do I... How do I...
+
+335
+00:25:54,150 --> 00:25:54,990
+What's this?
+
+336
+00:25:55,490 --> 00:25:57,970
+Oh, I would like to purchase the... Oh, my god.
+
+337
+00:25:58,290 --> 00:25:59,410
+It's a blind box.
+
+338
+00:25:59,510 --> 00:26:00,910
+There's the duty-free shop.
+
+339
+00:26:01,650 --> 00:26:01,910
+Alright.
+
+340
+00:26:02,370 --> 00:26:03,950
+Gotta fill my pet food.
+
+341
+00:26:04,270 --> 00:26:04,750
+Oh, yeah.
+
+342
+00:26:04,930 --> 00:26:05,550
+Dad, of course.
+
+343
+00:26:05,610 --> 00:26:07,510
+I remember to refill your food.
+
+344
+00:26:12,370 --> 00:26:12,890
+Alright.
+
+345
+00:26:14,010 --> 00:26:24,230
+let's see oh nice work so far rookie time to scan the
+passenger oh my god we finally fixed it damn i know we've
+
+346
+00:26:24,230 --> 00:26:32,770
+been having a lot of passengers coming through with knives
+lately um i might have been our fault but i have a lot of
+
+347
+00:26:32,770 --> 00:26:45,870
+like uh stab stabbing cases lately in this airport This is
+the avian secure pad Moving over Finally Oh my god We've
+
+348
+00:26:45,870 --> 00:26:56,570
+been waiting for this for five years We finally fixed the
+scanners guys Still haven't had my paycheck though Alright
+
+349
+00:26:56,570 --> 00:27:02,610
+Moving over Alright What the fuck is that a bomb?
+
+350
+00:27:05,230 --> 00:27:13,250
+Just Red me out Red, oh, red V's down.
+
+351
+00:27:13,950 --> 00:27:15,490
+We're, guys, don't worry.
+
+352
+00:27:15,670 --> 00:27:17,630
+Our airport's really safe, guys.
+
+353
+00:27:18,050 --> 00:27:18,890
+Do not worry.
+
+354
+00:27:19,050 --> 00:27:23,250
+We only have 10 cases a day, which drops from 30.
+
+355
+00:27:23,370 --> 00:27:26,490
+So we gotta, you know, we gotta take what we can get.
+
+356
+00:27:29,650 --> 00:27:30,390
+What are you?
+
+357
+00:27:30,650 --> 00:27:31,110
+Illegal?
+
+358
+00:27:31,370 --> 00:27:32,670
+Yeah, I would think so.
+
+359
+00:27:32,790 --> 00:27:36,290
+Yeah, that, that seems pretty illegal.
+
+360
+00:27:37,530 --> 00:27:48,630
+them by the way but what if the bomb is oh whoa wowie but
+what if the bomb's blue they're just yeah they're just
+
+361
+00:27:48,630 --> 00:28:00,950
+really fancy candles all right damn none of your bones are
+connected all right give me a sec just giving you some
+
+362
+00:28:00,950 --> 00:28:12,490
+radiation to the brain nothing bad is gonna happen from that
+if you get cancer in two to three years it is unrelated it
+
+363
+00:28:12,490 --> 00:28:23,930
+is very much unrelated oh i'm checking i just gotta stab
+this for you get out of here uh expired boarding pass there
+
+364
+00:28:23,930 --> 00:28:34,330
+all right sounds good for him all right old man it's okay
+you're older already so i can I'm legally allowed.
+
+365
+00:28:34,670 --> 00:28:35,110
+Oh, whoa.
+
+366
+00:28:35,230 --> 00:28:36,010
+What's this?
+
+367
+00:28:36,570 --> 00:28:37,790
+Is that a knife?
+
+368
+00:28:38,930 --> 00:28:40,610
+Excuse me, Grandpa.
+
+369
+00:28:42,590 --> 00:28:43,310
+All right.
+
+370
+00:28:44,430 --> 00:28:46,310
+All right.
+
+371
+00:28:51,370 --> 00:28:52,250
+Uh.
+
+372
+00:28:53,650 --> 00:28:54,530
+Okay.
+
+373
+00:28:54,770 --> 00:28:55,670
+Lucas E.
+
+374
+00:28:55,690 --> 00:28:56,070
+Bennett.
+
+375
+00:28:56,250 --> 00:28:56,450
+Okay.
+
+376
+00:28:57,990 --> 00:28:59,250
+All right.
+
+377
+00:29:00,490 --> 00:29:01,370
+Um.
+
+378
+00:29:02,850 --> 00:29:06,030
+We might need to...
+
+379
+00:29:06,030 --> 00:29:08,210
+We might...
+
+380
+00:29:08,210 --> 00:29:10,550
+Why can't I call security?
+
+381
+00:29:11,730 --> 00:29:13,410
+It's because he's old.
+
+382
+00:29:16,330 --> 00:29:17,230
+I'm just...
+
+383
+00:29:17,230 --> 00:29:21,730
+It's not even letting me call ways because he's legal item
+filed.
+
+384
+00:29:23,370 --> 00:29:24,150
+Um...
+
+385
+00:29:24,150 --> 00:29:26,170
+Grandpa, grandpa...
+
+386
+00:29:26,170 --> 00:29:26,730
+Just...
+
+387
+00:29:26,730 --> 00:29:27,710
+We gotta go.
+
+388
+00:29:28,150 --> 00:29:29,510
+Grandpa, lock him up.
+
+389
+00:29:29,750 --> 00:29:32,750
+He still thinks he's in the war right now.
+
+390
+00:29:32,770 --> 00:29:48,510
+out oh my god what is this what is this an olden bracelet
+the fuck is that what is this are you not is he not allowed
+
+391
+00:29:48,510 --> 00:29:59,250
+to bring a bracelet i don't even what's wrong with it i've
+been to an air strip in the middle of the cornfield that has
+
+392
+00:29:59,250 --> 00:30:04,430
+better standards than this airport this must be lax Doug,
+thank you for the super chat.
+
+393
+00:30:04,670 --> 00:30:04,830
+Thank you.
+
+394
+00:30:04,870 --> 00:30:05,430
+Thank you.
+
+395
+00:30:05,570 --> 00:30:05,790
+All right.
+
+396
+00:30:06,250 --> 00:30:07,670
+His name is Kai Turner.
+
+397
+00:30:08,230 --> 00:30:09,270
+He's going to Rome.
+
+398
+00:30:10,150 --> 00:30:10,150
+Study.
+
+399
+00:30:11,270 --> 00:30:11,750
+One to two.
+
+400
+00:30:11,950 --> 00:30:13,990
+Why are you studying for one to two weeks?
+
+401
+00:30:14,110 --> 00:30:14,990
+I don't understand.
+
+402
+00:30:15,290 --> 00:30:15,570
+All right.
+
+403
+00:30:16,070 --> 00:30:18,650
+Well, you're allowed to go.
+
+404
+00:30:20,090 --> 00:30:20,450
+Nope.
+
+405
+00:30:23,730 --> 00:30:24,870
+Minus $50.
+
+406
+00:30:25,770 --> 00:30:27,170
+Return the item.
+
+407
+00:30:27,590 --> 00:30:28,310
+Oh, man.
+
+408
+00:30:28,350 --> 00:30:31,550
+We seem to have lost your item, man.
+
+409
+00:30:32,770 --> 00:30:42,550
+how care oh is that pub g why you carry pub g in your
+fucking stomach uh why is it taped to your stomach all right
+
+410
+00:30:42,550 --> 00:30:55,290
+you know pub g has guns in them i have to confiscate that
+game uh return the slab all right what's your name again my
+
+411
+00:30:55,290 --> 00:31:04,310
+name is lucy bennett we're traveling to berlin conference
+one to three days 20 all right you see seem good to go I
+
+412
+00:31:04,310 --> 00:31:12,050
+I've actually realized I've stopped looking at photos all
+right here's your here's your pub G ma'am she's trying to
+
+413
+00:31:12,050 --> 00:31:21,150
+smuggle pub G I oh a correct inspection oh name mismatch I
+oh my God even realized I have to like I I don't know like I
+
+414
+00:31:21,150 --> 00:31:31,210
+see it you know the fact that like he no issues found yeah I
+get to keep the item how am I supposed to like he had a
+
+415
+00:31:31,210 --> 00:31:34,810
+fucking knife Should I care about his name being wrong?
+
+416
+00:31:35,270 --> 00:31:35,350
+Like,
+
+417
+00:31:39,430 --> 00:31:41,810
+Why does she have a physical copy?
+
+418
+00:31:42,150 --> 00:31:43,530
+The game is free.
+
+419
+00:31:44,270 --> 00:31:45,210
+What level am I on?
+
+420
+00:31:45,310 --> 00:31:49,290
+I assume January 4th is like, Jesus, I've always had bills
+to pay.
+
+421
+00:31:50,150 --> 00:31:51,450
+All right, start the day.
+
+422
+00:31:52,030 --> 00:31:53,450
+Am I learning anything new?
+
+423
+00:31:53,610 --> 00:31:54,310
+No, all right.
+
+424
+00:31:55,070 --> 00:31:56,570
+My name is...
+
+425
+00:31:56,570 --> 00:31:57,510
+All right, what's this?
+
+426
+00:31:58,010 --> 00:31:59,790
+Okay, is that an illegal item?
+
+427
+00:32:01,090 --> 00:32:02,010
+Oh, is that...
+
+428
+00:32:02,030 --> 00:32:14,790
+considered illegal it's a wrench she has a wrench get her
+okay i just need to know like please take your glasses off
+
+429
+00:32:14,790 --> 00:32:26,070
+too if you're not going to take your glasses off i will call
+security one to two weeks uh well i mean uh was it red
+
+430
+00:32:26,070 --> 00:32:33,230
+though i don't know but there's a big triangle on it I'm
+gonna...
+
+431
+00:32:33,230 --> 00:32:34,530
+Illegal item found.
+
+432
+00:32:34,710 --> 00:32:36,270
+She has a wrench!
+
+433
+00:32:39,450 --> 00:32:40,290
+Security!
+
+434
+00:32:41,630 --> 00:32:43,130
+She has a wrench!
+
+435
+00:32:45,530 --> 00:32:47,710
+Oh, I don't think it was illegal.
+
+436
+00:32:51,580 --> 00:32:55,980
+I just realized it actually might not have been illegal
+because I...
+
+437
+00:32:55,980 --> 00:32:58,420
+I can't do anything with this wrench.
+
+438
+00:32:59,760 --> 00:33:00,180
+Oops.
+
+439
+00:33:01,220 --> 00:33:02,000
+Uh...
+
+440
+00:33:02,000 --> 00:33:02,880
+Oh...
+
+441
+00:33:03,960 --> 00:33:06,980
+Oh, oh,
+
+442
+00:33:11,380 --> 00:33:18,940
+um, my, um, the person that was shadowing did not teach me
+this, guys.
+
+443
+00:33:22,140 --> 00:33:30,980
+Um, all I'm going to say is my mentor, the person who was
+supposed to teach me, didn't teach me that wrenches were, in
+
+444
+00:33:30,980 --> 00:33:32,320
+fact, not illegal.
+
+445
+00:33:33,780 --> 00:33:44,360
+blame me can you really blame me oh my god she has okay i
+should just not like having spoiled fish is technically not
+
+446
+00:33:44,360 --> 00:33:52,920
+illegal but like morally wise i should just like kick you
+out just for the fact that you brought spoiled fish like i
+
+447
+00:33:52,920 --> 00:34:06,400
+mentally i don't think you are fit to fly and you were going
+to go to tokyo Tokyo does not need you ma'am like I have all
+
+448
+00:34:06,400 --> 00:34:19,600
+I'm saying is that um I feel like morally wise I should not
+let you on this plane uh organic is that considered organic
+
+449
+00:34:19,600 --> 00:34:27,880
+I don't know is yeah it's a bio weapon Welcome to tomato
+farm.
+
+450
+00:34:28,200 --> 00:34:28,200
+Welcome.
+
+451
+00:34:28,920 --> 00:34:28,920
+Welcome.
+
+452
+00:34:31,980 --> 00:34:34,920
+It's in general waste or organic.
+
+453
+00:34:35,360 --> 00:34:36,860
+It has an apple on it.
+
+454
+00:34:37,460 --> 00:34:39,960
+There's general waste too.
+
+455
+00:34:42,020 --> 00:34:44,180
+I don't know.
+
+456
+00:34:45,720 --> 00:34:46,780
+All right.
+
+457
+00:34:47,040 --> 00:34:48,020
+Okay, nice.
+
+458
+00:34:48,060 --> 00:34:48,880
+It's considered.
+
+459
+00:34:49,040 --> 00:34:49,680
+All right, ma'am.
+
+460
+00:34:49,880 --> 00:34:51,240
+You're free to go.
+
+461
+00:34:52,800 --> 00:34:55,960
+Does it actually look that edible?
+
+462
+00:34:55,980 --> 00:34:57,060
+All right, what's this?
+
+463
+00:34:57,920 --> 00:35:05,900
+Oh, that's, that, oh, oh, that might be bad.
+
+464
+00:35:06,700 --> 00:35:07,660
+I mean, read.
+
+465
+00:35:07,940 --> 00:35:12,280
+Can I, am I also like, what's all, what's that other word
+for you?
+
+466
+00:35:12,480 --> 00:35:16,460
+Hard to, people who can't read, like, it's hard to make it
+hard to read.
+
+467
+00:35:18,460 --> 00:35:19,460
+Uh, all right.
+
+468
+00:35:19,500 --> 00:35:23,020
+Well, I'm going to have to take you out of the airport.
+
+469
+00:35:23,200 --> 00:35:23,800
+Not on a date.
+
+470
+00:35:23,980 --> 00:35:25,200
+You, you're literally carrying acid.
+
+471
+00:35:25,320 --> 00:35:25,960
+I'm scared of you.
+
+472
+00:35:25,980 --> 00:35:36,400
+uh yeah dyslexic am i also dyslexic why can't i like type
+her name out properly okay she has an illegal item but i'm
+
+473
+00:35:36,400 --> 00:35:48,380
+gonna double check if she's lying about her age too uh oh
+visiting family oh my god to toronto all right well her only
+
+474
+00:35:48,380 --> 00:36:03,200
+crime is that she um brought acid so only crime guys Just
+the only thing wrong about her name is Damien.
+
+475
+00:36:03,280 --> 00:36:03,960
+What do you have, Claire?
+
+476
+00:36:05,920 --> 00:36:07,520
+Mysterious Mushrooms.
+
+477
+00:36:08,120 --> 00:36:08,280
+Alright.
+
+478
+00:36:10,540 --> 00:36:11,340
+Alright.
+
+479
+00:36:11,640 --> 00:36:17,540
+Oh, also I guess he might be like lying about his age
+question mark.
+
+480
+00:36:20,940 --> 00:36:24,400
+Alright, what does my guidebook say about Owing?
+
+481
+00:36:24,520 --> 00:36:25,900
+Okay, Owing Mitchell.
+
+482
+00:36:25,980 --> 00:36:27,160
+How old are you?
+
+483
+00:36:27,180 --> 00:36:27,560
+Damn.
+
+484
+00:36:27,920 --> 00:36:28,560
+All right.
+
+485
+00:36:29,440 --> 00:36:30,260
+Years have been rough.
+
+486
+00:36:30,380 --> 00:36:32,400
+Have you been to Turkey recently?
+
+487
+00:36:34,060 --> 00:36:36,060
+Well, he's going to Dubai.
+
+488
+00:36:36,680 --> 00:36:39,460
+So have you been to Turkey as well?
+
+489
+00:36:40,000 --> 00:36:42,440
+Just so, you know, just wondering.
+
+490
+00:36:44,940 --> 00:36:45,340
+Oh, yeah.
+
+491
+00:36:45,680 --> 00:36:46,220
+Security.
+
+492
+00:36:52,300 --> 00:36:52,900
+All right.
+
+493
+00:36:53,340 --> 00:36:53,540
+All right.
+
+494
+00:36:53,540 --> 00:36:53,960
+Here we are.
+
+495
+00:36:54,260 --> 00:36:55,320
+Wrong inspection.
+
+496
+00:36:55,500 --> 00:36:55,760
+Okay.
+
+497
+00:36:55,980 --> 00:36:58,000
+That was, like, an accident.
+
+498
+00:36:58,740 --> 00:36:59,860
+Correct name mismatch.
+
+499
+00:37:00,000 --> 00:37:01,000
+Oh, I forgot about the name.
+
+500
+00:37:01,140 --> 00:37:01,700
+That's fine.
+
+501
+00:37:02,480 --> 00:37:03,580
+This did pretty well.
+
+502
+00:37:05,700 --> 00:37:06,260
+Yeah.
+
+503
+00:37:08,040 --> 00:37:09,060
+And day.
+
+504
+00:37:09,860 --> 00:37:11,220
+Alright, water bill.
+
+505
+00:37:13,360 --> 00:37:13,920
+Alright.
+
+506
+00:37:14,240 --> 00:37:15,100
+Next day.
+
+507
+00:37:15,440 --> 00:37:16,580
+I should have this now.
+
+508
+00:37:16,860 --> 00:37:18,680
+Oh my god, the funding came in!
+
+509
+00:37:19,120 --> 00:37:22,140
+From today on every bag goes through the x-ray first.
+
+510
+00:37:22,280 --> 00:37:25,000
+This machine shows you what's inside.
+
+511
+00:37:25,680 --> 00:37:33,400
+Start to convey your belt all right oh my god finally oh my
+god the funding has come through guys we got private
+
+512
+00:37:33,400 --> 00:37:41,620
+investor at the airport what the fuck is that okay
+sunglasses all blue this one's clear move it to desk and
+
+513
+00:37:41,620 --> 00:37:43,300
+check the tag all right
+
+514
+00:37:48,040 --> 00:38:02,440
+all right carry on give it back to me oh shit i'm gonna look
+inside oh who is that an apple watch oh is this an apple why
+
+515
+00:38:02,440 --> 00:38:22,920
+let's try another okay all right whoops all right oh that's
+a yellow open up take the yellow item all right what's in
+
+516
+00:38:22,920 --> 00:38:31,080
+there oh oh basil oh someone's gonna be cooking Drop in the
+trash.
+
+517
+00:38:32,840 --> 00:38:34,260
+Oh, now you teach me this.
+
+518
+00:38:34,600 --> 00:38:40,960
+Oh, oh, you know, maybe I wouldn't have arrested that poor
+lady if I knew I could just throw away a wrench.
+
+519
+00:38:44,000 --> 00:38:45,260
+You won't be needing that.
+
+520
+00:38:45,500 --> 00:38:46,520
+Okay, oh, now.
+
+521
+00:38:46,680 --> 00:38:48,200
+Now they tell me about this.
+
+522
+00:38:48,560 --> 00:38:49,760
+Oh, yeah, okay.
+
+523
+00:38:50,040 --> 00:38:54,120
+After I arrested the lady for bringing a wrench to the
+airport.
+
+524
+00:38:56,680 --> 00:38:57,960
+Put it back on the belt.
+
+525
+00:38:58,000 --> 00:38:58,400
+Alright.
+
+526
+00:38:58,540 --> 00:39:01,300
+all right it's like a little sushi belt
+
+527
+00:39:04,780 --> 00:39:17,260
+carry on checking bag stays on the belt all right that seems
+like easy enough all right i think i'm ready for this i'm
+
+528
+00:39:17,260 --> 00:39:29,360
+i'm ready the dsa is ready to move on to the next customer
+you know it could go a lot faster you know if uh if yo chase
+
+529
+00:39:29,360 --> 00:39:32,500
+hunter Why do you look like you got me late?
+
+530
+00:39:33,200 --> 00:39:34,000
+I am gay.
+
+531
+00:39:34,520 --> 00:39:35,640
+J-Red, thank you for the super chat.
+
+532
+00:39:35,740 --> 00:39:36,320
+Thank you, thank you.
+
+533
+00:39:36,380 --> 00:39:38,320
+Love the playful bird.
+
+534
+00:39:39,480 --> 00:39:40,520
+Give me the super chat, thank you.
+
+535
+00:39:41,040 --> 00:39:41,940
+What is your name again?
+
+536
+00:39:43,640 --> 00:39:44,560
+Alright, okay.
+
+537
+00:39:44,640 --> 00:39:47,360
+There's several things wrong here.
+
+538
+00:39:50,120 --> 00:39:53,020
+So, expired boarding pass and photo mismatch.
+
+539
+00:39:53,220 --> 00:39:56,160
+And then let's see if you have any drugs on you, sir.
+
+540
+00:39:56,820 --> 00:39:59,500
+Oh, and you're carrying salt?
+
+541
+00:39:59,940 --> 00:40:00,340
+Oh.
+
+542
+00:40:03,800 --> 00:40:04,520
+Um.
+
+543
+00:40:07,600 --> 00:40:09,040
+That's bad.
+
+544
+00:40:13,820 --> 00:40:15,320
+Here you go.
+
+545
+00:40:15,400 --> 00:40:15,720
+Good.
+
+546
+00:40:16,440 --> 00:40:17,160
+Illegal.
+
+547
+00:40:17,800 --> 00:40:19,120
+Illegal salt.
+
+548
+00:40:19,580 --> 00:40:21,480
+Straight into the gulag.
+
+549
+00:40:22,620 --> 00:40:24,440
+My name is Ella Foster.
+
+550
+00:40:24,900 --> 00:40:25,140
+Okay.
+
+551
+00:40:25,260 --> 00:40:26,800
+That seems like the right date.
+
+552
+00:40:27,120 --> 00:40:27,660
+Oh, shit.
+
+553
+00:40:27,740 --> 00:40:27,920
+Okay.
+
+554
+00:40:27,920 --> 00:40:28,800
+I didn't even realize.
+
+555
+00:40:31,020 --> 00:40:40,140
+oh all right that's all right carry on wait a wait a minute
+wait a minute you're allowed oh what's that okay let me see
+
+556
+00:40:40,140 --> 00:40:51,200
+oh yeah cookbook to do you know a yellow hard hat what's
+this make sure this is correct jan rdi airport b22a that
+
+557
+00:40:51,200 --> 00:40:55,180
+seems correct all right That looks good to go.
+
+558
+00:40:55,360 --> 00:40:57,160
+All right, what's this, though?
+
+559
+00:40:59,080 --> 00:41:00,380
+What got scanned?
+
+560
+00:41:00,640 --> 00:41:02,100
+The ink stand and the tie.
+
+561
+00:41:02,320 --> 00:41:03,380
+All right, that...
+
+562
+00:41:03,380 --> 00:41:07,920
+All right, let me check Ella Foster to New York to Rome.
+
+563
+00:41:08,020 --> 00:41:09,520
+Wait, we're in New York City?
+
+564
+00:41:11,620 --> 00:41:13,000
+We're just like really...
+
+565
+00:41:13,000 --> 00:41:20,100
+I just realized we're just like really, really small airport
+on the outskirts of New York City.
+
+566
+00:41:21,200 --> 00:41:23,060
+I just realized where we are at.
+
+567
+00:41:24,540 --> 00:41:30,000
+Look, there's like several airports in New York, and we're
+one of them.
+
+568
+00:41:30,320 --> 00:41:35,760
+Ella Foster, Rome, how long?
+
+569
+00:41:35,820 --> 00:41:37,160
+We stay undecided.
+
+570
+00:41:37,940 --> 00:41:38,460
+27.
+
+571
+00:41:38,720 --> 00:41:39,020
+All right.
+
+572
+00:41:39,480 --> 00:41:41,240
+Everything seems to look good.
+
+573
+00:41:41,360 --> 00:41:43,140
+Wait until all the baggage is cleared.
+
+574
+00:41:46,560 --> 00:41:47,080
+Oh, yeah.
+
+575
+00:41:47,580 --> 00:41:48,260
+Here you go.
+
+576
+00:41:49,860 --> 00:41:51,660
+I forgot to give it back there.
+
+577
+00:41:53,200 --> 00:41:54,620
+Would you just put that through the chat?
+
+578
+00:41:54,640 --> 00:42:06,080
+package and just hope that everything stays there all right
+new york toronto yeah let's hope that open no cover opening
+
+579
+00:42:06,080 --> 00:42:16,720
+package stays safe all right this looks like a carry-on
+let's see c228 luna turner are you luna turner you are luna
+
+580
+00:42:16,720 --> 00:42:25,940
+turner all right let me make sure you don't have any drugs
+on you okay just some headphones on your leg all right i
+
+581
+00:42:25,940 --> 00:42:33,720
+should obviously detain you for putting it on your leg uh
+all right what's your how old are how long will you be
+
+582
+00:42:33,720 --> 00:42:44,700
+staying one to two weeks what's the purpose transit how old
+are 18 all right everything looks good to go luna turner
+
+583
+00:42:44,700 --> 00:42:56,040
+yeah weird spot but okay i can't rest you for being fucking
+weirdo Alistair Pendleton.
+
+584
+00:42:56,980 --> 00:42:57,660
+Ignore the ticking.
+
+585
+00:42:58,100 --> 00:42:58,560
+It's time.
+
+586
+00:42:58,640 --> 00:43:00,240
+It's a time calibrator.
+
+587
+00:43:01,840 --> 00:43:03,700
+Not a contraband.
+
+588
+00:43:04,380 --> 00:43:09,260
+I missed a critical 1893 tea party destroying the timeline.
+
+589
+00:43:10,460 --> 00:43:13,020
+I mean I guess.
+
+590
+00:43:13,440 --> 00:43:16,000
+I mean $200 is $200.
+
+591
+00:43:17,140 --> 00:43:17,860
+You know what?
+
+592
+00:43:18,540 --> 00:43:31,080
+Alright, let me see uh oh i'll take this all right 200 is a
+tour he doesn't seem like he's dressed as you know someone
+
+593
+00:43:31,080 --> 00:43:42,240
+that's trying to bomb the plane so you know what i'll give
+it a pass all right let's see here you go oh it's a check-in
+
+594
+00:43:42,240 --> 00:43:47,500
+bag all right let me all right what about your other stuff
+though My name is Alistair Pendleton.
+
+595
+00:43:48,120 --> 00:43:49,120
+Like, his last name is...
+
+596
+00:43:49,120 --> 00:43:50,920
+Oh, he's going to Tokyo, too.
+
+597
+00:43:51,620 --> 00:43:55,320
+Yeah, that seems like something a guy who's going to Tokyo
+gonna do.
+
+598
+00:43:55,400 --> 00:43:56,080
+You know what?
+
+599
+00:43:56,660 --> 00:43:59,500
+Alistair, go have fun.
+
+600
+00:44:02,380 --> 00:44:04,780
+Alright, let me scan him real quick.
+
+601
+00:44:06,680 --> 00:44:07,280
+Yeah, see?
+
+602
+00:44:07,680 --> 00:44:09,560
+It's not carrying anything illegal.
+
+603
+00:44:10,400 --> 00:44:10,960
+Oh, wait.
+
+604
+00:44:12,160 --> 00:44:13,260
+Everything's fine.
+
+605
+00:44:13,840 --> 00:44:14,320
+Oh, shit.
+
+606
+00:44:14,440 --> 00:44:15,820
+$200 runies.
+
+607
+00:44:15,940 --> 00:44:16,560
+Let's go.
+
+608
+00:44:17,020 --> 00:44:18,340
+All right, correct inspection.
+
+609
+00:44:18,880 --> 00:44:18,880
+Perfect.
+
+610
+00:44:19,660 --> 00:44:20,720
+And bribe taken.
+
+611
+00:44:21,040 --> 00:44:21,420
+Yay.
+
+612
+00:44:23,480 --> 00:44:24,820
+He's just a weep.
+
+613
+00:44:24,980 --> 00:44:26,320
+Is that a crime?
+
+614
+00:44:28,380 --> 00:44:31,180
+Is it a crime to be a weep?
+
+615
+00:44:32,560 --> 00:44:34,600
+Just your ordinary time traveler.
+
+616
+00:44:34,860 --> 00:44:36,240
+Nighting out with some friends.
+
+617
+00:44:36,440 --> 00:44:37,040
+Let's go.
+
+618
+00:44:37,980 --> 00:44:40,560
+It's not a crime to be a weep.
+
+619
+00:44:42,080 --> 00:44:45,360
+Bavagen saw through a walk through mail detector.
+
+620
+00:44:45,680 --> 00:44:47,000
+It checks passengers automatically.
+
+621
+00:44:47,020 --> 00:44:48,520
+Oh, thank God.
+
+622
+00:44:48,640 --> 00:44:49,880
+I'm carrying metal training sample.
+
+623
+00:44:50,240 --> 00:44:50,940
+Watch the gate.
+
+624
+00:44:52,140 --> 00:44:52,820
+Red flash.
+
+625
+00:44:53,340 --> 00:44:53,980
+Warning chime.
+
+626
+00:44:54,160 --> 00:44:55,200
+It found something legal.
+
+627
+00:44:55,600 --> 00:44:57,440
+You can't tell you where I can use a body x-ray.
+
+628
+00:44:58,780 --> 00:45:00,540
+Pick it up on the scanner.
+
+629
+00:45:01,080 --> 00:45:02,400
+What about the drugs, though?
+
+630
+00:45:02,500 --> 00:45:04,240
+I don't think...
+
+631
+00:45:04,240 --> 00:45:05,380
+What is that?
+
+632
+00:45:05,440 --> 00:45:06,400
+A rhino horn?
+
+633
+00:45:06,980 --> 00:45:07,320
+Oh.
+
+634
+00:45:08,440 --> 00:45:09,040
+Okay.
+
+635
+00:45:11,420 --> 00:45:12,020
+Yep.
+
+636
+00:45:13,100 --> 00:45:13,700
+Security.
+
+637
+00:45:15,280 --> 00:45:17,000
+Alarm scan report.
+
+638
+00:45:18,220 --> 00:45:20,180
+all right all
+
+639
+00:45:25,010 --> 00:45:34,350
+right here we go oh wait oh i forgot to take the money i
+just left it there at work i'm glad nobody took it thank god
+
+640
+00:45:34,350 --> 00:45:47,090
+all right madison pierce you have one luggage and one care
+oh wait you have something legal on you what's that the fuck
+
+641
+00:45:47,090 --> 00:45:55,090
+what um okay madison Man, they get them young these days.
+
+642
+00:45:56,010 --> 00:45:56,470
+Uh-huh.
+
+643
+00:45:58,450 --> 00:45:59,850
+Madison Pierce.
+
+644
+00:46:00,770 --> 00:46:00,990
+Boop.
+
+645
+00:46:01,530 --> 00:46:01,850
+All right.
+
+646
+00:46:02,270 --> 00:46:03,650
+Are you doing anything else illegal?
+
+647
+00:46:03,890 --> 00:46:04,990
+Just wondering.
+
+648
+00:46:06,090 --> 00:46:08,310
+I'm fucking Mercury.
+
+649
+00:46:09,170 --> 00:46:10,450
+You're 19.
+
+650
+00:46:11,550 --> 00:46:12,790
+Madison Pierce.
+
+651
+00:46:13,810 --> 00:46:14,750
+One or two weeks.
+
+652
+00:46:15,090 --> 00:46:15,510
+Medical.
+
+653
+00:46:15,890 --> 00:46:17,470
+I guess.
+
+654
+00:46:20,230 --> 00:46:21,410
+All right.
+
+655
+00:46:21,850 --> 00:46:26,210
+Well, I mean, 1985.
+
+656
+00:46:27,690 --> 00:46:28,030
+Alright.
+
+657
+00:46:30,390 --> 00:46:31,230
+8213A?
+
+658
+00:46:31,390 --> 00:46:33,630
+I mean, this looks...
+
+659
+00:46:33,630 --> 00:46:34,210
+Alright.
+
+660
+00:46:37,070 --> 00:46:38,750
+I mean...
+
+661
+00:46:38,750 --> 00:46:39,890
+Oh, alright.
+
+662
+00:46:40,030 --> 00:46:40,730
+And she's...
+
+663
+00:46:40,730 --> 00:46:41,330
+Okay.
+
+664
+00:46:41,910 --> 00:46:43,050
+Quarter life.
+
+665
+00:46:43,190 --> 00:46:43,710
+That's good.
+
+666
+00:46:44,330 --> 00:46:47,570
+Uh, well, I'm just gonna have to sap that.
+
+667
+00:46:47,710 --> 00:46:49,370
+Say, illegal item.
+
+668
+00:46:49,790 --> 00:46:51,530
+And then call security.
+
+669
+00:46:53,190 --> 00:47:04,910
+and i do be crazy they do get them young wait okay connor
+walsh all right connor let's see how many items are bringing
+
+670
+00:47:04,910 --> 00:47:15,950
+three baggage what the fuck are you doing in kaira all right
+b2 19b one of your check-in baggages your rubrics cube that
+
+671
+00:47:15,950 --> 00:47:17,310
+seems fine
+
+672
+00:47:21,850 --> 00:47:23,190
+That doesn't look like a check.
+
+673
+00:47:23,210 --> 00:47:24,310
+Okay, that is a checking bag.
+
+674
+00:47:24,430 --> 00:47:24,970
+Okay, never mind.
+
+675
+00:47:25,810 --> 00:47:26,570
+Goggles, camera.
+
+676
+00:47:26,650 --> 00:47:28,470
+Oh, she is touring, touring.
+
+677
+00:47:28,670 --> 00:47:28,970
+All right.
+
+678
+00:47:29,570 --> 00:47:30,370
+What about here?
+
+679
+00:47:33,270 --> 00:47:34,670
+Is it not gonna scan it?
+
+680
+00:47:34,730 --> 00:47:36,310
+How am I supposed to know if it's okay?
+
+681
+00:47:36,870 --> 00:47:37,310
+How am I?
+
+682
+00:47:37,450 --> 00:47:38,430
+It's not blue.
+
+683
+00:47:39,390 --> 00:47:40,730
+Oh, it's all blue.
+
+684
+00:47:41,370 --> 00:47:41,730
+All right.
+
+685
+00:47:43,030 --> 00:47:43,790
+Okay, varsity.
+
+686
+00:47:43,870 --> 00:47:45,550
+Bro, you gotta be a more efficient packer.
+
+687
+00:47:45,830 --> 00:47:50,190
+I can't, I'm, I'm, I can't, I, I mean, I'm not gonna judge
+you.
+
+688
+00:47:50,410 --> 00:47:51,830
+I'm not paid enough to judge you.
+
+689
+00:47:51,850 --> 00:47:54,190
+you, but this is not efficient at all.
+
+690
+00:47:55,070 --> 00:47:55,630
+Alright, 24.
+
+691
+00:47:55,870 --> 00:47:56,990
+Everything seems right.
+
+692
+00:47:57,230 --> 00:47:59,050
+You look like the photo and everything.
+
+693
+00:47:59,870 --> 00:48:01,670
+I'll put your baggage through this.
+
+694
+00:48:04,550 --> 00:48:06,410
+Yeah, he's actually...
+
+695
+00:48:06,410 --> 00:48:09,790
+I will say, you are not a very efficient packer.
+
+696
+00:48:11,390 --> 00:48:15,630
+Two shirts and a video game in one luggage, guys.
+
+697
+00:48:16,570 --> 00:48:17,890
+He has three check-in.
+
+698
+00:48:17,950 --> 00:48:18,730
+Oh, what's this?
+
+699
+00:48:19,970 --> 00:48:38,750
+Like, it's just plants all right is it i mean it is just
+parsley and he's oh but what's this though huh what's wait i
+
+700
+00:48:38,750 --> 00:48:52,450
+think that's just mushrooms i all right all right buddy just
+plants you touched their belongings and deal is off.
+
+701
+00:48:53,130 --> 00:48:58,650
+I'm, all I'm saying is, might be more than just plants,
+buddy.
+
+702
+00:49:00,750 --> 00:49:01,750
+Herbie Green.
+
+703
+00:49:03,410 --> 00:49:04,950
+Oh, yeah, sound guys.
+
+704
+00:49:05,070 --> 00:49:06,550
+Everything good now for sound?
+
+705
+00:49:06,750 --> 00:49:08,610
+Okay, Herbie Green.
+
+706
+00:49:09,110 --> 00:49:09,110
+Ooh.
+
+707
+00:49:09,770 --> 00:49:12,930
+And your name is quite more than just plants.
+
+708
+00:49:15,250 --> 00:49:15,810
+Alright.
+
+709
+00:49:16,450 --> 00:49:17,450
+Let's see.
+
+710
+00:49:18,550 --> 00:49:19,950
+The item found.
+
+711
+00:49:20,050 --> 00:49:20,530
+What else?
+
+712
+00:49:21,050 --> 00:49:28,510
+My name is be green i mean everything else is good yeah just
+i can't i mean guess you can use it in madrid if you're
+
+713
+00:49:28,510 --> 00:49:41,810
+going to cook and everything but still it's still bro there
+was a mysterious mushroom in here all right get out get out
+
+714
+00:49:41,810 --> 00:49:52,930
+yeah go to the other airport you want brain those mysterious
+mushrooms on board my name is hudson 2 29 he looks like him
+
+715
+00:49:52,930 --> 00:50:03,070
+all right what is that what is this over here oh oh you're
+trying to bring a hair conditioner you're trying to bring a
+
+716
+00:50:03,070 --> 00:50:17,350
+bomb to my plane oh my god it took so long for that to scan
+all right what's this trading card oh you were trying to
+
+717
+00:50:17,350 --> 00:50:18,730
+make a bomb, weren't you?
+
+718
+00:50:21,110 --> 00:50:22,990
+Yeah, you think I didn't know?
+
+719
+00:50:24,150 --> 00:50:27,810
+Trying to make a bomb with a hair conditioner and a room
+spray?
+
+720
+00:50:29,730 --> 00:50:30,910
+Alright, let's see.
+
+721
+00:50:31,610 --> 00:50:32,490
+What else is it?
+
+722
+00:50:32,690 --> 00:50:33,650
+Hudson Clark.
+
+723
+00:50:35,050 --> 00:50:35,610
+29.
+
+724
+00:50:36,870 --> 00:50:37,470
+Oh, wait.
+
+725
+00:50:37,550 --> 00:50:39,150
+You're not even allowed to be here.
+
+726
+00:50:41,710 --> 00:50:42,530
+Okay, wait.
+
+727
+00:50:42,810 --> 00:50:44,470
+Expired boarding pass.
+
+728
+00:50:45,930 --> 00:51:00,390
+Everything else looks good just not this though i assume
+it's tech and meta right am i not allowed to dispose this is
+
+729
+00:51:00,390 --> 00:51:10,210
+this can am i supposed to where's this supposed oh liquids
+okay oh yeah that's a liquid right yeah that's a liquid all
+
+730
+00:51:10,210 --> 00:51:22,310
+right rejected wait until the baggage cleared i rejected him
+We're going to wait until the baggage goes to the TSA.
+
+731
+00:51:25,830 --> 00:51:28,290
+All right, next customer, please.
+
+732
+00:51:29,350 --> 00:51:30,270
+Perfect inspection.
+
+733
+00:51:30,790 --> 00:51:32,750
+I'm so good at my job.
+
+734
+00:51:35,610 --> 00:51:35,890
+When does...
+
+735
+00:51:35,890 --> 00:51:36,210
+Oh, wait.
+
+736
+00:51:36,390 --> 00:51:37,110
+Lost and found.
+
+737
+00:51:37,330 --> 00:51:38,130
+Day 12?
+
+738
+00:51:38,670 --> 00:51:39,410
+Sorry, guys.
+
+739
+00:51:39,490 --> 00:51:41,690
+If you lost something here, good luck.
+
+740
+00:51:42,410 --> 00:51:45,030
+Repair kit reduces...
+
+741
+00:51:45,030 --> 00:51:46,630
+Increases a dog detection.
+
+742
+00:51:46,850 --> 00:51:47,350
+accuracy.
+
+743
+00:51:47,590 --> 00:51:48,710
+Where do I get the dog?
+
+744
+00:51:49,270 --> 00:51:50,130
+Wake up, dad!
+
+745
+00:51:52,390 --> 00:51:54,010
+Time by two seconds.
+
+746
+00:51:54,310 --> 00:51:54,890
+Daily machine.
+
+747
+00:51:55,010 --> 00:51:57,370
+Oh my god, it's gonna start breaking down.
+
+748
+00:51:58,210 --> 00:52:02,130
+Earn 10% more from each passenger you process.
+
+749
+00:52:03,190 --> 00:52:04,670
+Earn 30% more from...
+
+750
+00:52:04,670 --> 00:52:06,370
+I'm gonna fucking earn more money.
+
+751
+00:52:06,670 --> 00:52:06,910
+What?
+
+752
+00:52:10,790 --> 00:52:11,390
+Uh...
+
+753
+00:52:11,390 --> 00:52:13,190
+Earn 30% more?
+
+754
+00:52:13,350 --> 00:52:14,030
+Fuck, yeah.
+
+755
+00:52:14,170 --> 00:52:15,190
+Sign me up.
+
+756
+00:52:16,030 --> 00:52:16,630
+Uh...
+
+757
+00:52:17,150 --> 00:52:18,030
+Let's see.
+
+758
+00:52:19,390 --> 00:52:22,610
+I feel like there's no reason for me to make a purchase.
+
+759
+00:52:23,150 --> 00:52:24,290
+Waste my money on that.
+
+760
+00:52:24,950 --> 00:52:25,790
+All right, my water bill.
+
+761
+00:52:26,110 --> 00:52:28,650
+Thank God I saved enough money for my water bill.
+
+762
+00:52:29,730 --> 00:52:29,950
+All right.
+
+763
+00:52:30,870 --> 00:52:31,830
+Next customer.
+
+764
+00:52:33,350 --> 00:52:33,770
+Don't forget.
+
+765
+00:52:33,870 --> 00:52:35,470
+Oh, he had my retirement fund.
+
+766
+00:52:35,910 --> 00:52:37,150
+It's going to be a while, guys.
+
+767
+00:52:37,210 --> 00:52:38,370
+They need $100,000.
+
+768
+00:52:39,430 --> 00:52:41,230
+Now we add baggage limit.
+
+769
+00:52:41,490 --> 00:52:42,250
+Oh, no.
+
+770
+00:52:43,870 --> 00:52:46,730
+Match the bag type to the right limit on the boarding pass.
+
+771
+00:52:46,850 --> 00:52:47,910
+Oh, no!
+
+772
+00:52:51,050 --> 00:52:53,170
+Now we're adding numbers?
+
+773
+00:53:00,020 --> 00:53:00,400
+Okay.
+
+774
+00:53:03,260 --> 00:53:04,400
+Oh, check the tag.
+
+775
+00:53:05,340 --> 00:53:06,860
+Alright, it's a carry-on bag.
+
+776
+00:53:07,460 --> 00:53:09,660
+So you'll use the carry-on 8KG.
+
+777
+00:53:09,840 --> 00:53:11,500
+Open the boarding pass and find it.
+
+778
+00:53:11,640 --> 00:53:11,920
+Okay.
+
+779
+00:53:12,420 --> 00:53:14,020
+That's the number that matters.
+
+780
+00:53:14,160 --> 00:53:15,520
+Put the bag on the scale.
+
+781
+00:53:15,660 --> 00:53:16,720
+Oh, my god.
+
+782
+00:53:16,860 --> 00:53:17,800
+Numbers, numbers.
+
+783
+00:53:18,700 --> 00:53:20,380
+Oh, Dustin, cute.
+
+784
+00:53:20,620 --> 00:53:23,100
+Hmm, I hope this doesn't break the limit.
+
+785
+00:53:26,040 --> 00:53:28,760
+Sir, why would you need two tonsons cubes?
+
+786
+00:53:30,440 --> 00:53:32,760
+Overland, print an overweight limit tag.
+
+787
+00:53:33,420 --> 00:53:34,780
+Give the ticket to the passenger.
+
+788
+00:53:35,500 --> 00:53:35,760
+Alright.
+
+789
+00:53:36,520 --> 00:53:37,580
+It's over the limit.
+
+790
+00:53:37,720 --> 00:53:39,820
+You gotta pay $40, guys.
+
+791
+00:53:42,220 --> 00:53:44,320
+I'm gonna put the fucking sticker.
+
+792
+00:53:46,080 --> 00:53:46,740
+Like...
+
+793
+00:53:47,560 --> 00:53:48,220
+Like...
+
+794
+00:53:48,220 --> 00:53:49,660
+They're like...
+
+795
+00:53:49,660 --> 00:53:50,600
+I'm gonna put...
+
+796
+00:53:51,420 --> 00:53:53,860
+Where do I put the sticker?
+
+797
+00:53:58,080 --> 00:53:59,640
+Um, sir, uh...
+
+798
+00:54:01,500 --> 00:54:02,140
+No, just...
+
+799
+00:54:02,140 --> 00:54:03,240
+Oh, I just give it to him.
+
+800
+00:54:03,320 --> 00:54:03,840
+Oh, okay.
+
+801
+00:54:04,520 --> 00:54:04,820
+Paid.
+
+802
+00:54:05,380 --> 00:54:06,080
+Continue the inspection.
+
+803
+00:54:06,340 --> 00:54:06,640
+Yeah!
+
+804
+00:54:08,760 --> 00:54:10,580
+Then reject them as usual.
+
+805
+00:54:11,080 --> 00:54:12,900
+This is the carry-on, so give it back.
+
+806
+00:54:13,160 --> 00:54:13,400
+Alright.
+
+807
+00:54:14,040 --> 00:54:14,700
+Check the tag.
+
+808
+00:54:14,800 --> 00:54:15,340
+Check the limit.
+
+809
+00:54:15,500 --> 00:54:16,180
+Charge the fee.
+
+810
+00:54:16,500 --> 00:54:17,220
+No payment.
+
+811
+00:54:17,360 --> 00:54:17,960
+No entry.
+
+812
+00:54:18,100 --> 00:54:18,460
+Alright.
+
+813
+00:54:19,300 --> 00:54:19,780
+Alright.
+
+814
+00:54:21,260 --> 00:54:23,340
+It says pet cube, dokey.
+
+815
+00:54:23,560 --> 00:54:24,640
+Why are you judging?
+
+816
+00:54:25,380 --> 00:54:27,080
+My name is Tyler Bennett.
+
+817
+00:54:27,460 --> 00:54:27,760
+All right.
+
+818
+00:54:29,560 --> 00:54:31,400
+Um, well, the name is correct.
+
+819
+00:54:31,780 --> 00:54:32,960
+Oh, that's cute.
+
+820
+00:54:34,640 --> 00:54:35,260
+All right.
+
+821
+00:54:35,400 --> 00:54:36,740
+What is this in here?
+
+822
+00:54:36,860 --> 00:54:38,720
+Ooh, it's a safe vault.
+
+823
+00:54:38,980 --> 00:54:39,420
+All right.
+
+824
+00:54:39,480 --> 00:54:40,300
+What's the limit?
+
+825
+00:54:40,440 --> 00:54:41,660
+It's a checking back.
+
+826
+00:54:42,120 --> 00:54:42,900
+8 kg.
+
+827
+00:54:44,360 --> 00:54:47,140
+Oh, sir, this is a little too heavy.
+
+828
+00:54:47,300 --> 00:54:49,700
+I think it's because you have a fucking...
+
+829
+00:54:50,680 --> 00:54:53,600
+God damn safe in here.
+
+830
+00:54:54,440 --> 00:54:55,900
+Alright, next luggage.
+
+831
+00:54:58,840 --> 00:55:01,440
+Alright, there's also a check-in bag.
+
+832
+00:55:01,940 --> 00:55:03,160
+12.3.
+
+833
+00:55:03,460 --> 00:55:05,840
+Another $45 fee, please.
+
+834
+00:55:06,600 --> 00:55:07,540
+Thank you.
+
+835
+00:55:08,340 --> 00:55:09,580
+Headlight and another...
+
+836
+00:55:09,580 --> 00:55:13,440
+Okay, a lot of Tonson Cube is going crazy right now.
+
+837
+00:55:13,760 --> 00:55:15,440
+The Tonson Cube market.
+
+838
+00:55:15,560 --> 00:55:16,660
+Who would have thought?
+
+839
+00:55:18,960 --> 00:55:20,600
+The Tonson Cube market.
+
+840
+00:55:20,620 --> 00:55:21,560
+Hudson Cube.
+
+841
+00:55:21,820 --> 00:55:25,600
+Oh, I wonder if this is also past the limit.
+
+842
+00:55:26,000 --> 00:55:27,220
+I'll have another $30.
+
+843
+00:55:27,940 --> 00:55:30,180
+I swear to God if this is another...
+
+844
+00:55:30,180 --> 00:55:32,360
+Alright, another safe phone.
+
+845
+00:55:32,540 --> 00:55:33,360
+Sir, I...
+
+846
+00:55:34,580 --> 00:55:37,740
+I mean, more money for me, I guess.
+
+847
+00:55:39,600 --> 00:55:40,200
+More...
+
+848
+00:55:40,200 --> 00:55:43,280
+Look at Mr. Moneybags over here.
+
+849
+00:55:44,200 --> 00:55:48,840
+It would be a shame if after all of this you're not allowed
+through because you fucked up one thing.
+
+850
+00:55:49,520 --> 00:55:50,120
+Amsterdam.
+
+851
+00:55:50,620 --> 00:56:02,060
+transit how old are you 30 all right well everything looks
+in order so you get to do your other stuff he can pay so
+
+852
+00:56:02,060 --> 00:56:08,040
+it's fine they get nervous when they pass through the x-ray
+who gets nervous
+
+853
+00:56:11,960 --> 00:56:23,660
+the rubber duckies oh all right just a lot of rubber duck
+you know i'm paid to do my job not to judge Guys, remember,
+
+854
+00:56:24,620 --> 00:56:30,040
+check-in bag, 8KG, Dora Blade, all right?
+
+855
+00:56:30,680 --> 00:56:33,080
+I mean, seems fine.
+
+856
+00:56:36,100 --> 00:56:37,780
+Everything seems fine.
+
+857
+00:56:38,700 --> 00:56:40,320
+His name is Dora Blade.
+
+858
+00:56:40,520 --> 00:56:41,440
+He's 34.
+
+859
+00:56:43,200 --> 00:56:43,960
+Undecided.
+
+860
+00:56:45,120 --> 00:56:46,520
+And he's going to Delhi.
+
+861
+00:56:46,980 --> 00:56:47,320
+All right.
+
+862
+00:56:49,540 --> 00:56:50,960
+All right, here you go.
+
+863
+00:56:51,080 --> 00:56:51,740
+All right, so.
+
+864
+00:56:52,560 --> 00:57:01,480
+that pass through real quick and then we'll give you this
+all right next passenger please next customer my name is
+
+865
+00:57:01,480 --> 00:57:17,800
+area morgan while that looks fine that should be a check-in
+oh already can tell is that another all right 11 kg i don't
+
+866
+00:57:17,800 --> 00:57:28,980
+have that cotton then why open the safe then If you don't
+have that money Oh what is this What are all these in the
+
+867
+00:57:28,980 --> 00:57:29,760
+save Huh?
+
+868
+00:57:30,340 --> 00:57:37,220
+No way I'm not paying that Alright I swear to God If I see a
+third save Well if it's too bad Looks like I gotta
+
+869
+00:57:37,220 --> 00:57:48,400
+confiscate all of these saves Alright oh this is ridiculous
+Oh out of all of these That's me rejecting you For three
+
+870
+00:57:48,400 --> 00:57:54,680
+She's cute She has a pass Ha ha ha All right.
+
+871
+00:57:56,780 --> 00:57:57,680
+Wait until...
+
+872
+00:57:57,680 --> 00:57:59,340
+Oh, I can't even keep this.
+
+873
+00:57:59,380 --> 00:58:00,000
+That's cool.
+
+874
+00:58:01,100 --> 00:58:02,480
+My three saves.
+
+875
+00:58:04,640 --> 00:58:07,680
+Too bad I can't call security on here.
+
+876
+00:58:09,860 --> 00:58:14,260
+Apparently, she can't pay it because all her money is in
+those three saves.
+
+877
+00:58:16,480 --> 00:58:17,480
+All right, what's in here?
+
+878
+00:58:18,440 --> 00:58:19,720
+Oh, another safe.
+
+879
+00:58:19,820 --> 00:58:21,000
+What is the safe con?
+
+880
+00:58:23,500 --> 00:58:34,740
+all right nice all right you're good to go ma'am that's fine
+at least see she pays for it i'll make sure
+
+881
+00:58:38,820 --> 00:58:41,240
+this scan i can't tell
+
+882
+00:58:45,000 --> 00:58:55,620
+all right thanks for the 60 i gotta make sure that let's see
+i'm gonna make sure the names on this is correct too Oh my
+
+883
+00:58:55,620 --> 00:58:56,080
+god, please.
+
+884
+00:58:56,120 --> 00:58:57,200
+I'm trying to check the tag.
+
+885
+00:58:57,340 --> 00:58:59,000
+I don't need to keep looking at the saves.
+
+886
+00:58:59,180 --> 00:59:00,440
+I know you have a safe.
+
+887
+00:59:01,560 --> 00:59:03,040
+I want to make sure...
+
+888
+00:59:03,040 --> 00:59:04,920
+Oh, she's going to Moscow with that money.
+
+889
+00:59:05,480 --> 00:59:11,700
+I'm not paid enough to ask questions about what she's doing
+in Moscow with two fucking giant saves.
+
+890
+00:59:13,400 --> 00:59:14,480
+It's really dopey.
+
+891
+00:59:14,560 --> 00:59:16,400
+SafeCon is at Moscow.
+
+892
+00:59:18,760 --> 00:59:19,720
+Or Ross.
+
+893
+00:59:20,020 --> 00:59:20,900
+How old are you?
+
+894
+00:59:21,260 --> 00:59:21,740
+27.
+
+895
+00:59:23,620 --> 00:59:24,100
+Um...
+
+896
+00:59:25,660 --> 00:59:27,240
+Alright, everything looks good.
+
+897
+00:59:27,460 --> 00:59:28,460
+You're good to go, man.
+
+898
+00:59:29,760 --> 00:59:30,940
+Nothing illegal here.
+
+899
+00:59:32,540 --> 00:59:33,440
+Alright, next passenger.
+
+900
+00:59:34,880 --> 00:59:35,740
+What the hell's going on?
+
+901
+00:59:35,800 --> 00:59:36,780
+It's New York City.
+
+902
+00:59:39,020 --> 00:59:42,660
+You don't ask questions about New York City, guys.
+
+903
+00:59:45,800 --> 00:59:47,580
+It's New York, New York.
+
+904
+00:59:49,560 --> 00:59:51,420
+I need to earn 60% more.
+
+905
+00:59:55,840 --> 00:59:57,100
+Alright, next day.
+
+906
+00:59:58,800 --> 01:00:01,260
+Level 12, I think, is when I get the dog.
+
+907
+01:00:04,100 --> 01:00:05,280
+I'm going to make this quick.
+
+908
+01:00:05,760 --> 01:00:07,420
+I want to know what the dog does.
+
+909
+01:00:08,220 --> 01:00:09,300
+Our area Morgan.
+
+910
+01:00:09,820 --> 01:00:10,860
+Alright, 7KG.
+
+911
+01:00:11,400 --> 01:00:13,100
+Everything is spelled correctly.
+
+912
+01:00:14,580 --> 01:00:15,860
+Alright, what's in here?
+
+913
+01:00:16,000 --> 01:00:17,440
+Another tungsten cube.
+
+914
+01:00:19,380 --> 01:00:21,980
+Alright, maybe this tungsten cube won't...
+
+915
+01:00:21,980 --> 01:00:22,960
+Oh, never mind.
+
+916
+01:00:25,100 --> 01:00:26,320
+Alright, well...
+
+917
+01:00:27,920 --> 01:00:29,600
+Well, you know the drill.
+
+918
+01:00:30,280 --> 01:00:30,300
+31.
+
+919
+01:00:30,440 --> 01:00:33,640
+Just gotta make sure you're not lying about anything else to
+me.
+
+920
+01:00:33,880 --> 01:00:34,560
+Alright, boom.
+
+921
+01:00:36,100 --> 01:00:37,180
+Not gonna pay the fee.
+
+922
+01:00:37,640 --> 01:00:38,440
+Get out of my airport.
+
+923
+01:00:38,600 --> 01:00:40,720
+We have five other airports in New York City.
+
+924
+01:00:44,580 --> 01:00:46,420
+Surely one of them will let you through.
+
+925
+01:00:48,660 --> 01:00:50,960
+I'm just returning some overdue books.
+
+926
+01:00:51,240 --> 01:00:54,060
+How bad are these books that you have to bribe me?
+
+927
+01:00:54,180 --> 01:00:54,380
+How?
+
+928
+01:00:56,020 --> 01:00:57,460
+Oh, that's a lot of...
+
+929
+01:00:57,600 --> 01:01:06,080
+Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa,
+whoa, whoa, whoa, whoa,
+
+930
+01:01:09,420 --> 01:01:28,580
+hold up, hold up, hold up, and you're going to Moscow, and
+wait, wait a minute, okay, $200 to sell on my own country am
+
+931
+01:01:28,580 --> 01:01:48,840
+i you got it is she a spy all right wait but it is 200 so it
+is 200 bro is a kgb what's it it's 200 enough to sell out my
+
+932
+01:01:48,840 --> 01:02:05,560
+own country i'm i'm wondering all right 200 is 200 Paula
+page burn mine okay I almost pressed it I almost went
+
+933
+01:02:05,560 --> 01:02:13,220
+dyslexic there I'm not dyslexic by the way alright you
+touched their belagings yeah let's touch their top secret
+
+934
+01:02:13,220 --> 01:02:26,580
+belagings alright Paula page burn I do not think this is
+much this is needed alright very illegal item pop I was like
+
+935
+01:02:26,580 --> 01:02:29,480
+how old are you I just gotta make sure.
+
+936
+01:02:30,640 --> 01:02:31,900
+What is your...
+
+937
+01:02:31,900 --> 01:02:32,780
+Ah, tourism.
+
+938
+01:02:33,140 --> 01:02:33,840
+I see.
+
+939
+01:02:34,320 --> 01:02:36,320
+I see.
+
+940
+01:02:37,100 --> 01:02:37,640
+Tourism.
+
+941
+01:02:39,120 --> 01:02:40,860
+We're gonna need security here.
+
+942
+01:02:45,420 --> 01:02:47,640
+My name is Hannah.
+
+943
+01:02:47,820 --> 01:02:49,000
+I'm Hannah Palmer.
+
+944
+01:02:49,160 --> 01:02:50,980
+I'm not a traitor to the nation.
+
+945
+01:02:51,340 --> 01:02:53,840
+But 200 is 200.
+
+946
+01:02:54,560 --> 01:02:57,440
+Okay, I have a feeling that this is...
+
+947
+01:02:57,600 --> 01:03:11,620
+9 kg only one pound extra lucky you're lucky today all right
+what about this one just in case i just want to see what
+
+948
+01:03:11,620 --> 01:03:24,700
+your life is like you know all right uh 19 conference sydney
+my name is hannah palmer all right everything looks good to
+
+949
+01:03:24,700 --> 01:03:29,960
+go and you have the right boarding pass so We're good.
+
+950
+01:03:31,860 --> 01:03:33,880
+Yeah, tourism in Moscow.
+
+951
+01:03:34,700 --> 01:03:35,120
+I see.
+
+952
+01:03:36,720 --> 01:03:37,980
+Oh, he's back.
+
+953
+01:03:39,080 --> 01:03:39,740
+Cameron Blake.
+
+954
+01:03:40,120 --> 01:03:42,660
+Damn, everybody's going to Moscow for some reason.
+
+955
+01:03:43,380 --> 01:03:48,100
+Oh, wait, I gotta reject you, but I'm gonna see if there's
+like money I can get out of you.
+
+956
+01:03:49,060 --> 01:03:49,580
+Um.
+
+957
+01:03:50,560 --> 01:03:52,380
+Well, I gotta reject this now.
+
+958
+01:03:53,480 --> 01:03:55,600
+Uh, expired boarding pass.
+
+959
+01:03:55,900 --> 01:04:04,180
+Let's check if you are, what you say who you say you are too
+oh wait wait i oh my god i get to whoops
+
+960
+01:04:09,040 --> 01:04:20,900
+that's not what that's what goodbye spider all right here we
+go my bad i'm just trying to see if i can grab get extra
+
+961
+01:04:20,900 --> 01:04:26,600
+money off of this guy at first says hair gel
+
+962
+01:04:31,020 --> 01:04:32,160
+all right anyway
+
+963
+01:04:35,380 --> 01:04:40,560
+Anyway, uh, you're not allowed anyway because you fucked up
+your boarding date.
+
+964
+01:04:41,080 --> 01:04:43,540
+Now I got some extra money out of that.
+
+965
+01:04:44,360 --> 01:04:46,360
+Nice, perfect inspection, guys.
+
+966
+01:04:46,680 --> 01:04:47,700
+Still perfect.
+
+967
+01:04:50,760 --> 01:04:51,240
+Whoops.
+
+968
+01:04:52,180 --> 01:04:55,900
+Sorry, we, uh, threw away your dog accidentally.
+
+969
+01:04:56,900 --> 01:04:58,420
+We thought he was an illegal item.
+
+970
+01:04:58,520 --> 01:04:59,640
+We thought he was a bomb.
+
+971
+01:04:59,880 --> 01:05:00,620
+Sorry, sir.
+
+972
+01:05:01,140 --> 01:05:01,680
+Oh, wait.
+
+973
+01:05:01,780 --> 01:05:02,620
+What happened to him?
+
+974
+01:05:02,640 --> 01:05:04,400
+Where is he?
+
+975
+01:05:05,160 --> 01:05:09,160
+First, the morning paper now carries checkpoint regulations.
+
+976
+01:05:09,620 --> 01:05:11,060
+Read it before the first passenger.
+
+977
+01:05:11,720 --> 01:05:12,280
+Open it.
+
+978
+01:05:12,460 --> 01:05:13,120
+Oh, shit.
+
+979
+01:05:13,640 --> 01:05:15,760
+It's raining acid in London!
+
+980
+01:05:16,340 --> 01:05:18,180
+Oh, my sir, cancel.
+
+981
+01:05:18,760 --> 01:05:19,960
+Decline path.
+
+982
+01:05:20,240 --> 01:05:20,920
+Sorry, sir.
+
+983
+01:05:21,160 --> 01:05:22,340
+You can't go to London.
+
+984
+01:05:22,540 --> 01:05:24,080
+It's raining acid there.
+
+985
+01:05:24,100 --> 01:05:27,240
+You know, just a typical Monday morning.
+
+986
+01:05:30,160 --> 01:05:30,780
+Okay.
+
+987
+01:05:31,120 --> 01:05:32,620
+Travel to London is not...
+
+988
+01:05:32,640 --> 01:05:33,740
+Now restricted.
+
+989
+01:05:34,160 --> 01:05:37,240
+Anyone flying there must be rejected.
+
+990
+01:05:38,540 --> 01:05:39,120
+Close the paper.
+
+991
+01:05:39,540 --> 01:05:40,820
+Open the boarding pass.
+
+992
+01:05:41,100 --> 01:05:41,600
+All right.
+
+993
+01:05:44,200 --> 01:05:45,980
+Open the report board.
+
+994
+01:05:46,620 --> 01:05:48,940
+Newspaper rule violation.
+
+995
+01:05:50,500 --> 01:05:52,280
+Like I feel like.
+
+996
+01:05:52,920 --> 01:05:55,300
+Can we just like postpone their trip?
+
+997
+01:05:55,400 --> 01:05:57,060
+Not reject them outright?
+
+998
+01:05:59,640 --> 01:06:00,440
+Bam.
+
+999
+01:06:00,840 --> 01:06:02,620
+Your travel has been rejected.
+
+1000
+01:06:02,640 --> 01:06:13,620
+sucks on you for trying to fly here we don't do reschedules
+we don't reschedule anything you just got paid for a new
+
+1001
+01:06:13,620 --> 01:06:24,580
+ticket my name is charlotte mitchell oh she's trying to go
+to london sorry charlotte i don't know if you heard but uh
+
+1002
+01:06:24,580 --> 01:06:34,000
+it's raining acid sorry bab I'm so sorry.
+
+1003
+01:06:34,200 --> 01:06:35,680
+It's out of my hands.
+
+1004
+01:06:38,960 --> 01:06:40,800
+It's out of my hands.
+
+1005
+01:06:41,100 --> 01:06:41,980
+It's raining acid.
+
+1006
+01:06:42,140 --> 01:06:43,180
+What can I do?
+
+1007
+01:06:43,260 --> 01:06:45,880
+I can't stop the weather for you, ma'am.
+
+1008
+01:06:47,080 --> 01:06:49,080
+Okay, that has to be a violation.
+
+1009
+01:06:49,980 --> 01:06:52,240
+There's a fucking tungsten cube in there.
+
+1010
+01:06:52,800 --> 01:06:56,000
+I recognize the tungsten cube shaped.
+
+1011
+01:06:57,180 --> 01:06:58,760
+Oh my god, never mind.
+
+1012
+01:06:59,080 --> 01:07:01,180
+Yeah, but you have a gaming...
+
+1013
+01:07:01,180 --> 01:07:02,620
+Okay, you have a gaming laptop?
+
+1014
+01:07:02,640 --> 01:07:13,480
+Excuse me, you're supposed to take that out of the out of
+the duffel bag Yeah, what's in here?
+
+1015
+01:07:15,020 --> 01:07:21,460
+All right That's good to go Okay, I feel like everything is
+good to go.
+
+1016
+01:07:22,120 --> 01:07:34,200
+She's not going to London at least Layla price 47 Toronto,
+all right You're good to go, man.
+
+1017
+01:07:36,340 --> 01:07:37,000
+Next customer.
+
+1018
+01:07:38,440 --> 01:07:40,340
+Oh, I love the streets through so much.
+
+1019
+01:07:40,480 --> 01:07:41,340
+I brought some home.
+
+1020
+01:07:41,740 --> 01:07:44,980
+Custom forums do not have a box for emotional support food.
+
+1021
+01:07:45,580 --> 01:07:45,900
+All right.
+
+1022
+01:07:46,540 --> 01:07:48,600
+Is there going to be grass here again?
+
+1023
+01:07:48,780 --> 01:07:51,880
+Is there melted cheese?
+
+1024
+01:07:52,480 --> 01:07:54,540
+Oh, all right.
+
+1025
+01:07:55,560 --> 01:08:04,700
+Sir, your luggage is fine, but I don't think I'm legally
+allowed to let you bring grilled rat to the airport.
+
+1026
+01:08:04,900 --> 01:08:05,500
+I'm sorry.
+
+1027
+01:08:06,480 --> 01:08:07,280
+I'm sorry.
+
+1028
+01:08:09,540 --> 01:08:13,040
+Also, New York does not sell grilled rats.
+
+1029
+01:08:13,860 --> 01:08:21,240
+Unless I've, unless, unless I've clearly been to the wrong
+side of New York City.
+
+1030
+01:08:24,280 --> 01:08:24,960
+Bros.
+
+1031
+01:08:25,280 --> 01:08:26,540
+The survival list.
+
+1032
+01:08:27,080 --> 01:08:27,620
+31.
+
+1033
+01:08:28,000 --> 01:08:28,440
+All right.
+
+1034
+01:08:28,600 --> 01:08:30,400
+Well, everything else is good to go, sir.
+
+1035
+01:08:32,700 --> 01:08:42,000
+rats unfortunately you just haven't been you're right maybe
+I just haven't been to the right places in New York City
+
+1036
+01:08:42,000 --> 01:08:55,660
+you're so right my name is my name is Skylar huh well first
+off unfortunately you can't go to London today and also
+
+1037
+01:08:56,620 --> 01:09:08,340
+unless your alien technology has allowed you to change
+colors, I might not feel, I might not be allowed to let you
+
+1038
+01:09:08,340 --> 01:09:09,080
+win.
+
+1039
+01:09:13,580 --> 01:09:20,120
+There might be a chance where it's the alien, it's the alien
+cube.
+
+1040
+01:09:20,320 --> 01:09:21,200
+It's the alien cube.
+
+1041
+01:09:21,300 --> 01:09:22,540
+Nothing else, of course.
+
+1042
+01:09:23,280 --> 01:09:32,280
+It's also we just couldn't come in because London illegal
+item and might be a photo miscellaneous.
+
+1043
+01:09:32,300 --> 01:09:32,820
+Smash?
+
+1044
+01:09:33,500 --> 01:09:35,640
+Not too sure about it.
+
+1045
+01:09:39,540 --> 01:09:43,400
+And I see she has the Michael Jackson thingy.
+
+1046
+01:09:43,900 --> 01:09:46,860
+I'll take one Master Splinter straight off the grill.
+
+1047
+01:09:47,340 --> 01:09:49,520
+And I see they give a Super Chat thinking, thank you.
+
+1048
+01:09:50,300 --> 01:09:52,400
+Yeah, I hope that was a perfect inspection.
+
+1049
+01:09:55,080 --> 01:09:59,520
+Yeah, oh, I want to oh, we're two more levels left.
+
+1050
+01:09:59,640 --> 01:10:03,680
+Okay, I need to 25% more.
+
+1051
+01:10:04,240 --> 01:10:05,960
+I got earn more money from my customers.
+
+1052
+01:10:13,560 --> 01:10:14,160
+Bills time.
+
+1053
+01:10:14,300 --> 01:10:14,860
+Oh, shit.
+
+1054
+01:10:15,000 --> 01:10:15,340
+Okay, don't worry.
+
+1055
+01:10:15,380 --> 01:10:16,560
+I can pay all my bills tomorrow.
+
+1056
+01:10:17,900 --> 01:10:18,980
+Alright, let's see.
+
+1057
+01:10:19,600 --> 01:10:25,280
+What if she's trying to stop the acid rain with her alien
+artifact?
+
+1058
+01:10:25,640 --> 01:10:26,200
+You're so right.
+
+1059
+01:10:26,380 --> 01:10:28,340
+Wait, there's no news article, so we're fine.
+
+1060
+01:10:28,800 --> 01:10:31,020
+This looks like a very heavy package.
+
+1061
+01:10:31,180 --> 01:10:34,120
+Oh, is that another safe I see?
+
+1062
+01:10:35,520 --> 01:10:47,740
+all right give me that money all right that's fine oh i see
+safe con is now in paris see they're hosting another safe
+
+1063
+01:10:47,740 --> 01:11:05,090
+con all right and then just to be sure c230 wait is your
+name jason carter my name is jason carter all right that's
+
+1064
+01:11:05,090 --> 01:11:18,290
+good to know i just gotta be sure oh a chanel bad oh and a
+wedding ring oh that's a lucky lady right there oh wow we
+
+1065
+01:11:18,290 --> 01:11:32,090
+what a lucky gal it's what and you're only 25 hey how long
+you hey if you're ever single i know some dragoons that
+
+1066
+01:11:32,090 --> 01:11:36,510
+might be interested ha ha all right you're free to go sir
+
+1067
+01:11:41,020 --> 01:11:42,680
+Wow, he's out.
+
+1068
+01:11:44,380 --> 01:11:46,320
+I realize I've not been looking at photos.
+
+1069
+01:11:46,640 --> 01:11:49,400
+Thank God I haven't got fucked over from that.
+
+1070
+01:11:54,150 --> 01:11:56,610
+Oh my God, another wedding ring.
+
+1071
+01:11:57,650 --> 01:11:59,070
+Look at how big is this.
+
+1072
+01:12:00,710 --> 01:12:03,150
+Wait, actually, I didn't...
+
+1073
+01:12:03,150 --> 01:12:04,590
+Oh, hey, it's just a watch.
+
+1074
+01:12:05,270 --> 01:12:08,710
+These are some very inefficient packers, I will say.
+
+1075
+01:12:09,130 --> 01:12:11,590
+This is a check-in bag, so it's 4KG.
+
+1076
+01:12:14,450 --> 01:12:24,530
+like like see this is fine this is fine he's he's packed
+okay for this one all right these are carry-ons uh there
+
+1077
+01:12:24,530 --> 01:12:37,990
+he's a very oh whoa whoa be a shame if that got confiscated
+like how people stop bringing bombs through the uh
+
+1078
+01:12:42,950 --> 01:12:44,490
+Through the metal detector.
+
+1079
+01:12:44,810 --> 01:12:45,770
+Which is nice, you know.
+
+1080
+01:12:46,130 --> 01:12:47,330
+Less stuff for me to do.
+
+1081
+01:12:48,950 --> 01:12:49,250
+23.
+
+1082
+01:12:50,830 --> 01:12:51,870
+Damien Claw.
+
+1083
+01:12:53,330 --> 01:12:54,010
+Uh, Deli.
+
+1084
+01:12:54,170 --> 01:12:54,490
+Alright.
+
+1085
+01:12:54,890 --> 01:12:56,210
+You're good to go, Damien.
+
+1086
+01:13:01,420 --> 01:13:02,720
+You're good to go.
+
+1087
+01:13:04,140 --> 01:13:05,540
+Alright, next passenger.
+
+1088
+01:13:08,580 --> 01:13:09,920
+There's an ancient...
+
+1089
+01:13:09,920 --> 01:13:10,440
+Oh, wait.
+
+1090
+01:13:10,480 --> 01:13:11,440
+That's Laura Craft.
+
+1091
+01:13:12,060 --> 01:13:12,620
+Lauren Craft.
+
+1092
+01:13:12,860 --> 01:13:14,880
+Let's just make the processing fast.
+
+1093
+01:13:14,900 --> 01:13:15,620
+All right.
+
+1094
+01:13:26,010 --> 01:13:28,090
+Okay, but are you over the limit, though?
+
+1095
+01:13:28,770 --> 01:13:32,650
+I mean, she's not over the limit.
+
+1096
+01:13:35,930 --> 01:13:38,830
+I see no problem here.
+
+1097
+01:13:41,090 --> 01:13:43,230
+You're so right, guys.
+
+1098
+01:13:43,950 --> 01:13:45,230
+You know what, girl?
+
+1099
+01:13:47,390 --> 01:13:49,850
+You can, you're free to go.
+
+1100
+01:13:50,970 --> 01:13:59,880
+I wonder if I like Do this and then Because I didn't Do
+anything with her stuff So do I keep it?
+
+1101
+01:14:01,170 --> 01:14:02,950
+Oh I kept her belying No!
+
+1102
+01:14:06,950 --> 01:14:23,510
+I forgot At least she can still fly Like I forgot to give it
+back to her My bad That's an oopsie from me.
+
+1103
+01:14:24,250 --> 01:14:26,670
+Hey, I get $25, though.
+
+1104
+01:14:29,070 --> 01:14:29,870
+Oh, shit.
+
+1105
+01:14:29,970 --> 01:14:32,070
+I didn't do this one correctly.
+
+1106
+01:14:37,380 --> 01:14:39,320
+God, this, like, makes me so paranoid.
+
+1107
+01:14:41,380 --> 01:14:43,580
+That's got profit, baby.
+
+1108
+01:14:45,480 --> 01:14:47,220
+This fucks with me a lot.
+
+1109
+01:14:50,360 --> 01:15:04,580
+Sydney John 1st reject expired boarding pass just to be sure
+what's your name my name is okay N name mismatch also how
+
+1110
+01:15:04,580 --> 01:15:14,000
+old are you 43 alright well everything almost looks good
+except for the fact that it's not good
+
+1111
+01:15:17,600 --> 01:15:24,520
+No, I forgot to give her the items back so that I don't even
+get the bribe.
+
+1112
+01:15:25,780 --> 01:15:26,300
+No!
+
+1113
+01:15:29,920 --> 01:15:30,960
+That's fine.
+
+1114
+01:15:31,320 --> 01:15:32,860
+At least I can pay my bills.
+
+1115
+01:15:33,040 --> 01:15:34,320
+That's all that matters.
+
+1116
+01:15:35,400 --> 01:15:37,420
+Alright, we're finally getting lost and found soon.
+
+1117
+01:15:38,520 --> 01:15:39,180
+And the dog.
+
+1118
+01:15:39,300 --> 01:15:41,400
+I think the dog, when does the dog unlock?
+
+1119
+01:15:42,480 --> 01:15:43,720
+Oh, I can't tell.
+
+1120
+01:15:44,000 --> 01:15:48,040
+It doesn't tell me my things don't break down yet.
+
+1121
+01:15:48,620 --> 01:15:58,580
+I just want to know when my dog's gonna wake up Okay, I paid
+my bills Dream they give us super chat.
+
+1122
+01:15:58,800 --> 01:15:58,980
+Thank you.
+
+1123
+01:15:58,980 --> 01:15:59,820
+Thank you.
+
+1124
+01:15:59,820 --> 01:16:00,040
+Thank you.
+
+1125
+01:16:00,140 --> 01:16:01,040
+I really appreciate that.
+
+1126
+01:16:01,420 --> 01:16:01,660
+Thank you
+
+1127
+01:16:06,180 --> 01:16:12,940
+All right Madra added something new to the desk passion
+usually may have things they found in the airport This is
+
+1128
+01:16:12,940 --> 01:16:14,120
+the loss of a found train.
+
+1129
+01:16:14,320 --> 01:16:17,880
+It stays hidden until you need it Right-click to slide it
+out.
+
+1130
+01:16:20,240 --> 01:16:21,360
+See the blue tag?
+
+1131
+01:16:21,580 --> 01:16:23,040
+That marks an official lost item.
+
+1132
+01:16:23,160 --> 01:16:24,040
+Put it in the tray.
+
+1133
+01:16:24,840 --> 01:16:25,740
+It's the iPhone.
+
+1134
+01:16:27,460 --> 01:16:27,920
+Alright.
+
+1135
+01:16:28,740 --> 01:16:30,940
+After ship takes store items to lost but found.
+
+1136
+01:16:31,040 --> 01:16:32,120
+The tray only stores them.
+
+1137
+01:16:32,180 --> 01:16:33,560
+You get paid when you hand them in.
+
+1138
+01:16:33,980 --> 01:16:35,280
+Blue tag, tray office.
+
+1139
+01:16:35,400 --> 01:16:35,960
+Oh, man.
+
+1140
+01:16:36,280 --> 01:16:37,960
+It would be a shame if I...
+
+1141
+01:16:37,960 --> 01:16:39,840
+Someone lost this item.
+
+1142
+01:16:40,220 --> 01:16:42,700
+I get paid for every lost item?
+
+1143
+01:16:44,500 --> 01:16:45,460
+That seems...
+
+1144
+01:16:45,460 --> 01:16:45,920
+Oh, he is.
+
+1145
+01:16:45,940 --> 01:16:56,140
+the time traveler oh man you're back bro that's a tungsten
+cube i don't even have to look that's a tungsten cube right
+
+1146
+01:16:56,140 --> 01:17:03,320
+there all right do you have any okay well you can't all
+right my name is well i gotta reject you because you're not
+
+1147
+01:17:03,320 --> 01:17:05,780
+paying for 18.
+
+1148
+01:17:06,700 --> 01:17:09,940
+all right total mismatch overweight item
+
+1149
+01:17:18,180 --> 01:17:27,100
+fucking get out of here i'm just gonna let all this pass
+through at this point just try to see if there's anything
+
+1150
+01:17:27,100 --> 01:17:41,100
+illegal i can oh you're so lucky oh you're so lucky all
+right get out of here get your ass out of here uh sorry do
+
+1151
+01:17:41,100 --> 01:17:49,480
+you know where my gate is um i am the tsa uh that's not part
+of my job What is this?
+
+1152
+01:17:50,060 --> 01:17:50,880
+3.16.
+
+1153
+01:17:51,880 --> 01:17:55,080
+Oh, that's a lot of...
+
+1154
+01:17:55,080 --> 01:17:57,900
+3.16 pounds for cigarettes?
+
+1155
+01:17:58,980 --> 01:18:01,000
+What the fuck is going on?
+
+1156
+01:18:02,760 --> 01:18:05,360
+How heavy are these cigarettes?
+
+1157
+01:18:09,100 --> 01:18:09,580
+Okay.
+
+1158
+01:18:11,000 --> 01:18:11,980
+Name, sir?
+
+1159
+01:18:12,660 --> 01:18:13,540
+Jamie's smoke.
+
+1160
+01:18:13,640 --> 01:18:13,960
+Oh, yeah.
+
+1161
+01:18:14,100 --> 01:18:15,120
+Okay, I should have known.
+
+1162
+01:18:16,420 --> 01:18:16,740
+Shit.
+
+1163
+01:18:18,180 --> 01:18:19,400
+I should have known.
+
+1164
+01:18:19,920 --> 01:18:19,920
+Okay.
+
+1165
+01:18:20,620 --> 01:18:24,180
+Well, everything else looks in order, so...
+
+1166
+01:18:25,740 --> 01:18:26,340
+Alright.
+
+1167
+01:18:27,300 --> 01:18:27,760
+Oh.
+
+1168
+01:18:29,120 --> 01:18:29,860
+What's that?
+
+1169
+01:18:30,900 --> 01:18:31,320
+Oh!
+
+1170
+01:18:31,500 --> 01:18:32,160
+Oh, okay.
+
+1171
+01:18:32,260 --> 01:18:33,920
+She's just a little... Oh!
+
+1172
+01:18:34,260 --> 01:18:34,760
+Okay.
+
+1173
+01:18:34,980 --> 01:18:35,480
+Oh!
+
+1174
+01:18:36,200 --> 01:18:39,620
+That... That looks very gun-shaped.
+
+1175
+01:18:40,100 --> 01:18:42,400
+Oh, the Tokyo!
+
+1176
+01:18:42,840 --> 01:18:43,920
+Oh, okay.
+
+1177
+01:18:44,000 --> 01:18:44,280
+Alright.
+
+1178
+01:18:44,420 --> 01:18:47,060
+That... That is indeed a gun.
+
+1179
+01:18:47,360 --> 01:18:48,160
+That...
+
+1180
+01:18:48,180 --> 01:18:49,520
+That's a gun.
+
+1181
+01:18:51,720 --> 01:18:52,880
+Alright, Leo Bennett.
+
+1182
+01:18:55,740 --> 01:18:56,720
+Alright, well.
+
+1183
+01:18:57,680 --> 01:18:58,800
+And this too.
+
+1184
+01:19:01,080 --> 01:19:02,920
+I think that might be a gun.
+
+1185
+01:19:03,480 --> 01:19:07,260
+Alright, I feel like I might have to look through all your
+bags just in case.
+
+1186
+01:19:08,320 --> 01:19:10,260
+Okay, but is it...
+
+1187
+01:19:10,260 --> 01:19:11,520
+Alright, 2KG.
+
+1188
+01:19:12,380 --> 01:19:13,860
+Oh, and a... Okay, alright.
+
+1189
+01:19:14,100 --> 01:19:15,920
+Oh, but you have a really nice keyboard.
+
+1190
+01:19:16,060 --> 01:19:17,380
+And Happy Souls 2?
+
+1191
+01:19:18,180 --> 01:19:22,240
+I mean, here's that, and is this over the weight limit?
+
+1192
+01:19:22,860 --> 01:19:23,380
+You're fine?
+
+1193
+01:19:23,500 --> 01:19:26,460
+Oh, what a wild wedding, that's for sure.
+
+1194
+01:19:26,840 --> 01:19:28,640
+That's a wild wedding.
+
+1195
+01:19:33,950 --> 01:19:34,670
+Hey, look.
+
+1196
+01:19:35,350 --> 01:19:38,430
+It's got to do some Rubik's Cube, I guess.
+
+1197
+01:19:41,130 --> 01:19:42,930
+Where's my board?
+
+1198
+01:19:43,690 --> 01:19:45,250
+His name is Leo Bennett.
+
+1199
+01:19:45,610 --> 01:19:46,550
+He's 35.
+
+1200
+01:19:48,810 --> 01:19:50,610
+Um, let's see.
+
+1201
+01:19:51,390 --> 01:19:51,730
+Everything.
+
+1202
+01:19:51,750 --> 01:20:03,270
+else seems to be in order other than the legal item other
+than the several legal items you seem to be seem to have
+
+1203
+01:20:03,270 --> 01:20:06,550
+your things in order anyway security
+
+1204
+01:20:09,710 --> 01:20:26,310
+yeah just a little grenade in the hala kitty tote bag you
+know just business okay one carry on 2.40 all right have
+
+1205
+01:20:26,310 --> 01:20:37,570
+these solos oh that's a very popular game you're fine ma'am
+um there's no acid rains going anywhere Bella Scott how old
+
+1206
+01:20:37,570 --> 01:20:47,070
+are you 50 uh where are you traveling to Sydney all right ma
+'am have a nice flight have a safe flight ma'am hope you
+
+1207
+01:20:47,070 --> 01:20:48,850
+enjoy your trip and Australia.
+
+1208
+01:20:54,710 --> 01:20:58,910
+It's nice that only four people, we were only allowed four
+people a day to fly.
+
+1209
+01:20:59,110 --> 01:21:00,270
+Oh, hey, lost item.
+
+1210
+01:21:02,070 --> 01:21:02,450
+You know.
+
+1211
+01:21:03,990 --> 01:21:04,610
+Thank God.
+
+1212
+01:21:05,350 --> 01:21:08,790
+This airport, maybe that's why we don't have a lot of
+funding.
+
+1213
+01:21:10,730 --> 01:21:16,070
+We only allow four people to fly each day.
+
+1214
+01:21:19,830 --> 01:21:22,050
+That's all we can take, guys.
+
+1215
+01:21:24,430 --> 01:21:24,710
+Oh, my God.
+
+1216
+01:21:25,010 --> 01:21:26,730
+Now, imagine date night with partner.
+
+1217
+01:21:28,130 --> 01:21:30,590
+How partner while working at the TSA?
+
+1218
+01:21:31,210 --> 01:21:32,330
+I have time for that.
+
+1219
+01:21:32,990 --> 01:21:33,850
+Click to continue.
+
+1220
+01:21:33,950 --> 01:21:34,650
+Oh, whoa.
+
+1221
+01:21:34,970 --> 01:21:35,470
+Oh, my God.
+
+1222
+01:21:35,510 --> 01:21:36,810
+Now it's a visual novel.
+
+1223
+01:21:37,470 --> 01:21:38,890
+Oh, he looks so cool.
+
+1224
+01:21:39,330 --> 01:21:40,490
+Oh, top secret.
+
+1225
+01:21:40,650 --> 01:21:41,590
+There's a story.
+
+1226
+01:21:44,110 --> 01:21:46,810
+So remember that little lost item tree?
+
+1227
+01:21:47,190 --> 01:21:48,110
+Turns out it can't.
+
+1228
+01:21:48,130 --> 01:21:49,730
+lost from stolen.
+
+1229
+01:21:50,690 --> 01:21:52,530
+See what I left on your desk?
+
+1230
+01:21:52,890 --> 01:21:53,790
+No blue tag.
+
+1231
+01:21:54,290 --> 01:21:55,010
+Still mine.
+
+1232
+01:21:55,170 --> 01:21:56,490
+The tray won't care.
+
+1233
+01:21:57,750 --> 01:21:58,490
+Open it.
+
+1234
+01:21:58,670 --> 01:22:00,150
+Now stash my item.
+
+1235
+01:22:00,470 --> 01:22:00,710
+Okay.
+
+1236
+01:22:01,290 --> 01:22:03,290
+Close it before someone walks in.
+
+1237
+01:22:03,710 --> 01:22:05,330
+The tray has the goods.
+
+1238
+01:22:05,470 --> 01:22:06,470
+It doesn't.
+
+1239
+01:22:06,530 --> 01:22:07,170
+Leon?
+
+1240
+01:22:07,770 --> 01:22:09,290
+The game has lore?
+
+1241
+01:22:10,430 --> 01:22:11,910
+Bring it to me after work.
+
+1242
+01:22:12,030 --> 01:22:13,430
+I'll handle the rest.
+
+1243
+01:22:13,590 --> 01:22:13,910
+What?
+
+1244
+01:22:14,970 --> 01:22:15,650
+What?
+
+1245
+01:22:17,850 --> 01:22:18,110
+Wait.
+
+1246
+01:22:18,130 --> 01:22:23,310
+I can start stealing now.
+
+1247
+01:22:24,210 --> 01:22:26,730
+Oh my god, it's my dream come true.
+
+1248
+01:22:28,850 --> 01:22:33,290
+It's what I've been working towards all this time.
+
+1249
+01:22:36,450 --> 01:22:37,550
+Oh, finally.
+
+1250
+01:22:41,630 --> 01:22:44,490
+Oh my god.
+
+1251
+01:22:46,390 --> 01:22:47,790
+The pickle of jars.
+
+1252
+01:22:48,610 --> 01:22:49,190
+Finally.
+
+1253
+01:22:49,850 --> 01:22:52,370
+I've been waiting for this moment.
+
+1254
+01:22:54,750 --> 01:22:56,930
+Oh, and he doesn't want...
+
+1255
+01:22:56,930 --> 01:22:58,590
+Oh, it's Christmas.
+
+1256
+01:22:59,210 --> 01:23:00,610
+It's Mickey Christmas.
+
+1257
+01:23:01,230 --> 01:23:03,270
+I get to reject you anyway.
+
+1258
+01:23:05,630 --> 01:23:06,850
+Alright, how old are you?
+
+1259
+01:23:06,870 --> 01:23:07,730
+Twenty-three.
+
+1260
+01:23:09,790 --> 01:23:11,990
+You didn't want to pay the pass.
+
+1261
+01:23:12,550 --> 01:23:14,370
+You want to pay the five for the troll-toler.
+
+1262
+01:23:16,490 --> 01:23:17,090
+Finally.
+
+1263
+01:23:18,450 --> 01:23:19,670
+I've been working for the...
+
+1264
+01:23:19,690 --> 01:23:34,730
+this moment my name is Chloe Foster or KG okay but what the
+fuck is that top secret shit that he's doing though all
+
+1265
+01:23:34,730 --> 01:23:49,030
+right what's in here I whoa let's see you all right let's
+see hey it works
+
+1266
+01:23:52,390 --> 01:23:53,930
+Oh my god, is that dog shirt?
+
+1267
+01:23:54,310 --> 01:23:54,710
+Is that?
+
+1268
+01:23:57,450 --> 01:23:58,410
+The donkey.
+
+1269
+01:24:00,270 --> 01:24:01,510
+It's what I know if it works.
+
+1270
+01:24:03,430 --> 01:24:03,450
+It.
+
+1271
+01:24:09,430 --> 01:24:10,690
+Oh, that seems like a lot.
+
+1272
+01:24:10,790 --> 01:24:12,890
+Okay, no, apparently those are all lightweight items.
+
+1273
+01:24:15,590 --> 01:24:17,270
+And you're fine here, ma'am.
+
+1274
+01:24:18,970 --> 01:24:22,990
+Even though there's no evidence that you have a bomb, I'm
+just gonna...
+
+1275
+01:24:22,990 --> 01:24:23,150
+Ooh.
+
+1276
+01:24:23,270 --> 01:24:23,870
+Wait.
+
+1277
+01:24:24,870 --> 01:24:24,890
+Hey.
+
+1278
+01:24:25,230 --> 01:24:25,530
+Whoa.
+
+1279
+01:24:28,710 --> 01:24:29,110
+All right.
+
+1280
+01:24:29,270 --> 01:24:33,290
+We're going to have to cost illegal item found.
+
+1281
+01:24:35,470 --> 01:24:36,050
+All right.
+
+1282
+01:24:37,270 --> 01:24:39,770
+Hit the loss and save ball.
+
+1283
+01:24:40,030 --> 01:24:41,110
+Loads up.
+
+1284
+01:24:42,370 --> 01:24:42,570
+All right.
+
+1285
+01:24:42,730 --> 01:24:43,070
+What's this?
+
+1286
+01:24:43,170 --> 01:24:43,790
+I have a first.
+
+1287
+01:24:43,890 --> 01:24:45,270
+You don't need to check my bag, right?
+
+1288
+01:24:45,590 --> 01:24:46,490
+Oh, I'm deaf.
+
+1289
+01:24:46,630 --> 01:24:47,390
+Oh, I'm looking.
+
+1290
+01:24:47,590 --> 01:24:49,850
+Oh, I'm looking for you to check my bag.
+
+1291
+01:24:50,390 --> 01:24:53,150
+Oh, oh, oh, oh, what's in it?
+
+1292
+01:24:53,270 --> 01:24:58,310
+Oh, oh, oh, it's just, uh, it's just, is this John, Jamie
+smoke?
+
+1293
+01:24:58,490 --> 01:24:59,870
+Oh, I found your brother earlier.
+
+1294
+01:25:00,810 --> 01:25:04,350
+Don't worry, at least your bag is like in, okay.
+
+1295
+01:25:06,050 --> 01:25:09,290
+Oh, man, he got me so excited for a moment.
+
+1296
+01:25:11,250 --> 01:25:13,490
+Jamie smoke, 25.
+
+1297
+01:25:13,990 --> 01:25:16,110
+I feel like they stopped caring about the photo.
+
+1298
+01:25:18,470 --> 01:25:19,430
+All right, you're approved.
+
+1299
+01:25:20,050 --> 01:25:23,250
+Oh, oh, sorry, I got a little too excited.
+
+1300
+01:25:23,270 --> 01:25:27,910
+there can i confiscate your passport imagine if i could
+confiscate his passport
+
+1301
+01:25:33,170 --> 01:25:44,110
+um what's this empty aquarium all right what do you have in
+here what's that that looks illegal that's radium all right
+
+1302
+01:25:44,110 --> 01:25:51,130
+you know at least he like oh also he does definitely okay
+you know at least he like gave me the last item you know
+
+1303
+01:25:51,130 --> 01:26:04,430
+before he might be trying to the airport but at least he
+like uh oh yeah all right very bad spy not very good at his
+
+1304
+01:26:04,430 --> 01:26:16,650
+job all right and also overweight like i don't even i don't
+have the money you're a spy oh there are so many things
+
+1305
+01:26:16,650 --> 01:26:26,230
+wrong here all right illegal item overweight fee refused
+photo mismatch.
+
+1306
+01:26:26,370 --> 01:26:26,950
+Oh, shit.
+
+1307
+01:26:27,890 --> 01:26:28,650
+What's... All right.
+
+1308
+01:26:28,750 --> 01:26:29,370
+What was that?
+
+1309
+01:26:30,090 --> 01:26:31,470
+Another fireworks.
+
+1310
+01:26:32,170 --> 01:26:32,730
+Here you go.
+
+1311
+01:26:34,470 --> 01:26:36,650
+Um, oh, and a pregnancy test.
+
+1312
+01:26:36,750 --> 01:26:38,610
+Oh, did you just throw a bomb in there?
+
+1313
+01:26:41,470 --> 01:26:43,370
+I didn't say, and a pregnancy?
+
+1314
+01:26:43,610 --> 01:26:44,310
+You're pregnant?
+
+1315
+01:26:45,250 --> 01:26:45,730
+Congratulations.
+
+1316
+01:26:50,570 --> 01:26:52,450
+Um, are you at least your age?
+
+1317
+01:26:52,650 --> 01:26:53,110
+28.
+
+1318
+01:26:53,270 --> 01:26:55,050
+You know, Calvin.
+
+1319
+01:26:55,510 --> 01:26:56,270
+He's his name.
+
+1320
+01:26:56,290 --> 01:26:58,150
+So, like, that's fine.
+
+1321
+01:26:58,490 --> 01:26:59,530
+Anyway, security.
+
+1322
+01:27:04,670 --> 01:27:08,450
+I was like, oh, my God, and you're...
+
+1323
+01:27:08,450 --> 01:27:09,370
+Oh, oh.
+
+1324
+01:27:10,210 --> 01:27:10,730
+Wait.
+
+1325
+01:27:11,710 --> 01:27:12,230
+Expired.
+
+1326
+01:27:12,330 --> 01:27:13,550
+Oh, I didn't even check the boarding pass.
+
+1327
+01:27:13,730 --> 01:27:13,930
+Wait.
+
+1328
+01:27:14,330 --> 01:27:15,590
+Wait, I don't get...
+
+1329
+01:27:15,590 --> 01:27:16,070
+Oh, my God.
+
+1330
+01:27:16,190 --> 01:27:16,990
+I don't...
+
+1331
+01:27:17,650 --> 01:27:18,850
+Oh, my God.
+
+1332
+01:27:19,250 --> 01:27:20,870
+I don't get punished for it.
+
+1333
+01:27:21,070 --> 01:27:23,150
+I don't get punished for it.
+
+1334
+01:27:25,570 --> 01:27:26,090
+Wait.
+
+1335
+01:27:26,290 --> 01:27:48,630
+minute oh wait a minute whoa oh but I get five dollars I
+wait hey hey buddy I got you a watch I got you
+
+1336
+01:27:52,500 --> 01:28:10,780
+oh wait what's the point what's the point wait a minute
+what's the point wait a minute what's okay wait oh you're
+
+1337
+01:28:10,780 --> 01:28:17,820
+not bringing anything what are you doing here okay multiple
+sources report dangerous arrest passengers with a surname
+
+1338
+01:28:17,820 --> 01:28:27,600
+Bennett like oh and they're not gonna fucking change their
+name what kind of fucking criminal are you what's the point
+
+1339
+01:28:27,600 --> 01:28:32,740
+what's oh I didn't see if the the boarding pass was Correct.
+
+1340
+01:28:33,600 --> 01:28:34,840
+Brother, let me slip this time.
+
+1341
+01:28:35,000 --> 01:28:35,460
+I got you.
+
+1342
+01:28:35,540 --> 01:28:35,900
+You know what?
+
+1343
+01:28:36,000 --> 01:28:38,220
+We'll get you more money for me.
+
+1344
+01:28:38,320 --> 01:28:39,780
+Oh, it's Jamie Smoke again.
+
+1345
+01:28:43,400 --> 01:28:45,100
+It is 200 dots.
+
+1346
+01:28:45,180 --> 01:28:45,580
+You know what?
+
+1347
+01:28:45,580 --> 01:28:47,780
+I can make it more money by doing this.
+
+1348
+01:28:54,160 --> 01:28:57,180
+I think I can make more money doing that.
+
+1349
+01:28:59,960 --> 01:29:01,840
+Alright, what is your name?
+
+1350
+01:29:02,080 --> 01:29:02,800
+Jamie Smoke.
+
+1351
+01:29:03,680 --> 01:29:05,140
+How old are you, 31?
+
+1352
+01:29:06,240 --> 01:29:06,520
+Alright.
+
+1353
+01:29:07,440 --> 01:29:07,820
+Boop.
+
+1354
+01:29:08,740 --> 01:29:09,460
+Here we go.
+
+1355
+01:29:11,600 --> 01:29:13,140
+Where do I get my dog?
+
+1356
+01:29:13,940 --> 01:29:14,760
+Wait, Eliza.
+
+1357
+01:29:16,900 --> 01:29:17,320
+You bro.
+
+1358
+01:29:17,420 --> 01:29:19,100
+Nobody's bringing anything anymore.
+
+1359
+01:29:20,720 --> 01:29:22,100
+Oh, Eliza.
+
+1360
+01:29:23,340 --> 01:29:23,980
+Eliza.
+
+1361
+01:29:24,120 --> 01:29:25,540
+Eliza, Eliza.
+
+1362
+01:29:26,600 --> 01:29:28,260
+I mean, damn, that plastic.
+
+1363
+01:29:28,440 --> 01:29:31,020
+That hair dye goes wild, though.
+
+1364
+01:29:31,900 --> 01:29:32,540
+Uh.
+
+1365
+01:29:35,820 --> 01:29:40,500
+I will say that hair dye wig, that's a real glow-up.
+
+1366
+01:29:41,380 --> 01:29:42,540
+Oh, I found this at an airport.
+
+1367
+01:29:42,740 --> 01:29:45,860
+Oh, a real lost and found him.
+
+1368
+01:29:46,180 --> 01:29:47,760
+Nobody's bringing anything anymore.
+
+1369
+01:29:49,920 --> 01:29:51,740
+I think they realized.
+
+1370
+01:29:51,880 --> 01:29:52,400
+Oh, wait.
+
+1371
+01:29:53,260 --> 01:29:53,620
+Wait.
+
+1372
+01:29:54,180 --> 01:29:54,500
+Bennett.
+
+1373
+01:29:56,980 --> 01:29:58,540
+Anyone with the name Bennett?
+
+1374
+01:29:58,840 --> 01:30:01,360
+You're a suspect who cried.
+
+1375
+01:30:03,680 --> 01:30:04,880
+It doesn't matter what.
+
+1376
+01:30:05,860 --> 01:30:08,480
+It doesn't matter if Bennett's a common name.
+
+1377
+01:30:12,530 --> 01:30:14,750
+They heard the rumors.
+
+1378
+01:30:15,530 --> 01:30:16,830
+I can't believe it.
+
+1379
+01:30:17,250 --> 01:30:19,190
+Nobody brought me money.
+
+1380
+01:30:21,710 --> 01:30:22,990
+Oh, hey, another last item.
+
+1381
+01:30:29,490 --> 01:30:29,690
+Alright.
+
+1382
+01:30:30,290 --> 01:30:31,070
+Hey, sir.
+
+1383
+01:30:31,950 --> 01:30:33,150
+I got you some more.
+
+1384
+01:30:33,630 --> 01:30:35,410
+Oh, yeah, this is much more.
+
+1385
+01:30:35,570 --> 01:30:37,190
+Whoa, yeah.
+
+1386
+01:30:40,370 --> 01:30:42,170
+When do I get my dog?
+
+1387
+01:30:47,710 --> 01:30:49,070
+Wait, what is he doing here?
+
+1388
+01:30:49,310 --> 01:30:51,790
+Oh, it's just like, hey, are you sure you got me all the
+goods?
+
+1389
+01:30:52,050 --> 01:30:52,870
+It's like, I'm sure, bro.
+
+1390
+01:30:52,990 --> 01:30:54,850
+I'm sure I got you everything I can.
+
+1391
+01:30:58,590 --> 01:30:59,490
+Oh, dog time?
+
+1392
+01:31:00,130 --> 01:31:01,930
+Valuable things keep disappearing.
+
+1393
+01:31:02,770 --> 01:31:04,350
+So management installed a cam.
+
+1394
+01:31:04,550 --> 01:31:04,950
+No!
+
+1395
+01:31:07,170 --> 01:31:11,290
+Red light on means it's watching the desk if it sees you.
+
+1396
+01:31:11,330 --> 01:31:12,430
+Oh, it's...
+
+1397
+01:31:12,430 --> 01:31:12,830
+Don't worry.
+
+1398
+01:31:12,870 --> 01:31:13,510
+It's time.
+
+1399
+01:31:13,710 --> 01:31:14,230
+We're five.
+
+1400
+01:31:14,910 --> 01:31:17,110
+The five comes straight out of your pocket.
+
+1401
+01:31:17,330 --> 01:31:18,570
+This item still blocks me.
+
+1402
+01:31:18,930 --> 01:31:19,950
+No blue tag.
+
+1403
+01:31:20,670 --> 01:31:22,510
+Open the tray and put it inside.
+
+1404
+01:31:22,670 --> 01:31:23,490
+Is this bait?
+
+1405
+01:31:23,810 --> 01:31:24,630
+Go on.
+
+1406
+01:31:24,850 --> 01:31:26,050
+This is bait, isn't it?
+
+1407
+01:31:26,710 --> 01:31:29,090
+This is a test.
+
+1408
+01:31:30,530 --> 01:31:31,810
+Gus, thank you for the super chat.
+
+1409
+01:31:31,910 --> 01:31:32,530
+Thank you, thank you.
+
+1410
+01:31:32,550 --> 01:31:33,450
+It's okay, guys.
+
+1411
+01:31:33,830 --> 01:31:34,090
+It's okay.
+
+1412
+01:31:34,170 --> 01:31:37,210
+We don't have enough funding to keep the camera on all the
+time.
+
+1413
+01:31:37,610 --> 01:31:38,830
+But Gus, thank you for the super chat.
+
+1414
+01:31:38,870 --> 01:31:39,510
+Thank you, thank you.
+
+1415
+01:31:39,510 --> 01:31:41,030
+Happy birthday, Gus.
+
+1416
+01:31:42,890 --> 01:31:53,810
+you happy birthday to you happy birthday dear guys happy
+birthday to you yeah happy birthday guys happy birthday also
+
+1417
+01:31:53,810 --> 01:32:02,310
+this was set up i only 12 did oh thank god okay it gave me
+back my okay good okay i was gonna say um blue tag means
+
+1418
+01:32:02,310 --> 01:32:09,890
+like no tag means passenger property close the trip
+passengers may miss that the camera won't all right all
+
+1419
+01:32:09,890 --> 01:32:24,070
+right that's all right see that was a real last item all
+right Olivia what's the point what's the point if I can't
+
+1420
+01:32:24,070 --> 01:32:42,230
+steal no more this is a check-in all right you're good this
+bag is good to go all right this bag is good to not have to
+
+1421
+01:32:42,230 --> 01:32:43,690
+actually do my job
+
+1422
+01:32:54,510 --> 01:33:12,550
+doesn't feel the same anymore it does not feel the same all
+right good to go i guess the rush is gone now oh shit walter
+
+1423
+01:33:12,550 --> 01:33:29,090
+crystal and the it's just a highly specialized cure for my
+son And look, um, oh, it has a raincoat.
+
+1424
+01:33:29,330 --> 01:33:30,290
+Yeah, it's a cure.
+
+1425
+01:33:30,650 --> 01:33:34,230
+His son has cancer, guys.
+
+1426
+01:33:37,210 --> 01:33:38,910
+Wait, is it over the weight limit, though?
+
+1427
+01:33:39,230 --> 01:33:39,970
+Oh, you're five.
+
+1428
+01:33:42,370 --> 01:33:45,850
+Guys, his son has cancer.
+
+1429
+01:33:46,230 --> 01:33:48,670
+Do you really want his son to die?
+
+1430
+01:33:49,910 --> 01:33:51,890
+When will the camera turn off?
+
+1431
+01:33:54,610 --> 01:33:55,650
+Area Dawson.
+
+1432
+01:34:00,080 --> 01:34:01,120
+Uh, 29.
+
+1433
+01:34:02,500 --> 01:34:03,920
+Everything looks good to go.
+
+1434
+01:34:07,220 --> 01:34:10,980
+How am I supposed to- How would I know the camera's- Oh,
+does that mean it's off?
+
+1435
+01:34:11,860 --> 01:34:12,200
+Wait.
+
+1436
+01:34:13,140 --> 01:34:16,280
+When he's blinking, is it off when he's looking at me?
+
+1437
+01:34:16,440 --> 01:34:17,400
+I'm gonna test it out.
+
+1438
+01:34:19,600 --> 01:34:20,120
+Okay.
+
+1439
+01:34:21,200 --> 01:34:21,760
+No!
+
+1440
+01:34:27,980 --> 01:34:30,880
+I was just testing the theory out.
+
+1441
+01:34:35,360 --> 01:34:36,560
+Oh, my $150.
+
+1442
+01:34:38,900 --> 01:34:39,780
+It's not.
+
+1443
+01:34:39,840 --> 01:34:41,680
+Line, it wasn't off, guys.
+
+1444
+01:34:41,900 --> 01:34:42,860
+It wasn't off.
+
+1445
+01:34:42,960 --> 01:34:44,180
+I don't know how...
+
+1446
+01:34:44,180 --> 01:34:45,300
+I can't tell when it...
+
+1447
+01:34:45,300 --> 01:34:46,480
+Oh, 78?
+
+1448
+01:34:47,580 --> 01:34:49,340
+Alright, let's hope you there's...
+
+1449
+01:34:49,340 --> 01:34:50,640
+Okay, there is illegal.
+
+1450
+01:34:53,000 --> 01:34:54,840
+Okay, But is it past the wait?
+
+1451
+01:34:57,400 --> 01:34:59,460
+Alright, so that's an illegal item.
+
+1452
+01:35:02,160 --> 01:35:03,780
+Oh, that's another illegal item.
+
+1453
+01:35:07,160 --> 01:35:07,720
+I mean, everything.
+
+1454
+01:35:07,820 --> 01:35:10,040
+Oh, but she got a selfie stick, though.
+
+1455
+01:35:13,800 --> 01:35:16,680
+Um, I do think you might be...
+
+1456
+01:35:16,680 --> 01:35:17,920
+Yep, I was going to say.
+
+1457
+01:35:18,040 --> 01:35:19,520
+Yep, that seems right.
+
+1458
+01:35:20,840 --> 01:35:21,800
+Illegal item.
+
+1459
+01:35:22,880 --> 01:35:33,300
+everything else seems good to go oh and expired boarding
+pass yeah so I'm just gonna have to call security will I
+
+1460
+01:35:33,300 --> 01:35:40,180
+confiscate this Chloe Bennett oh and your name is Bennett
+too
+
+1461
+01:35:43,380 --> 01:35:53,880
+when does the dog get here I'm still waiting on the dog
+right now found this I can't even steal anymore.
+
+1462
+01:35:55,060 --> 01:35:56,100
+I can't even steal.
+
+1463
+01:35:56,220 --> 01:35:57,560
+I've lost the passion.
+
+1464
+01:36:01,800 --> 01:36:02,760
+I...
+
+1465
+01:36:02,760 --> 01:36:02,980
+Alright.
+
+1466
+01:36:03,460 --> 01:36:03,560
+Alright.
+
+1467
+01:36:04,580 --> 01:36:05,420
+You're 5.
+
+1468
+01:36:09,510 --> 01:36:10,410
+Oh, whoa.
+
+1469
+01:36:10,750 --> 01:36:11,850
+Baby diaper.
+
+1470
+01:36:14,470 --> 01:36:16,090
+Like, the passion's gone.
+
+1471
+01:36:21,320 --> 01:36:22,880
+Madison Pierce.
+
+1472
+01:36:26,880 --> 01:36:27,360
+Yeah.
+
+1473
+01:36:27,920 --> 01:36:29,580
+All right, you're good to go.
+
+1474
+01:36:32,740 --> 01:36:33,980
+The adrenaline's gone.
+
+1475
+01:36:34,140 --> 01:36:35,420
+I know, right?
+
+1476
+01:36:37,300 --> 01:36:39,440
+All right, perfect, right.
+
+1477
+01:36:40,180 --> 01:36:40,760
+Perfect, perfect.
+
+1478
+01:36:41,020 --> 01:36:42,600
+God, I'm just too good at my job.
+
+1479
+01:36:42,880 --> 01:36:46,320
+You know, when you're so good at your job, everything just
+becomes so mundane now.
+
+1480
+01:36:46,720 --> 01:36:48,020
+Like, there's no point.
+
+1481
+01:36:49,780 --> 01:36:53,200
+There's no more, no thrill of it anymore.
+
+1482
+01:36:53,500 --> 01:36:57,900
+Like, it's just, it's just all just, you're just going
+through the system right now.
+
+1483
+01:36:57,920 --> 01:36:58,300
+now.
+
+1484
+01:37:02,430 --> 01:37:04,090
+Just going through the grind.
+
+1485
+01:37:06,970 --> 01:37:09,190
+Yeah, why steal when there's no... Oh, shit.
+
+1486
+01:37:09,310 --> 01:37:10,150
+Another lost item.
+
+1487
+01:37:14,640 --> 01:37:19,620
+I don't get why the guy would uh... wouldn't want to buy the
+aquarium from me.
+
+1488
+01:37:19,720 --> 01:37:20,740
+It seems like a good deal.
+
+1489
+01:37:21,340 --> 01:37:22,440
+Is the dog here now?
+
+1490
+01:37:22,560 --> 01:37:23,520
+Is the dog here?
+
+1491
+01:37:24,040 --> 01:37:24,940
+Is the dog here?
+
+1492
+01:37:26,420 --> 01:37:28,700
+Well, that's a nasty little camera.
+
+1493
+01:37:29,440 --> 01:37:32,040
+Your thing government tech is built by the lowest building.
+
+1494
+01:37:32,200 --> 01:37:35,380
+I let you left you away and click the camera
+
+1495
+01:37:38,660 --> 01:37:42,820
+What I do I hack a camera but I don't have a dog
+
+1496
+01:37:54,400 --> 01:38:00,740
+Lean you only get a few hacks each day save them for
+something worth stealing for all right
+
+1497
+01:38:05,210 --> 01:38:17,070
+My god I'm guys I'm doing wires I Can't beat an imposter
+guys I'm doing why where's my dog where the fuck's my dog
+
+1498
+01:38:17,070 --> 01:38:21,490
+like i'm doing wires and i don't have my dog
+
+1499
+01:38:24,670 --> 01:38:29,190
+all right age and name all right oh wait no name is fine
+photo
+
+1500
+01:38:32,840 --> 01:38:46,080
+oh whoa okay let's see and then and oh oh and you can't pay
+okay all right that's that's with me that's good with me let
+
+1501
+01:38:46,080 --> 01:38:54,400
+me wait let me get all of this in first oh and you have a
+tungsten cube i i recognize a tungsten tube cube when i see
+
+1502
+01:38:54,400 --> 01:39:01,700
+one i okay it's hacking time
+
+1503
+01:39:08,680 --> 01:39:19,800
+that tungsten cube's gonna go so hard not gonna lie and i
+found an illegal item Let's see.
+
+1504
+01:39:20,040 --> 01:39:20,400
+What else?
+
+1505
+01:39:20,640 --> 01:39:21,160
+What else?
+
+1506
+01:39:22,060 --> 01:39:22,940
+Name is Matt.
+
+1507
+01:39:23,020 --> 01:39:23,780
+Wait, is your name?
+
+1508
+01:39:24,020 --> 01:39:24,840
+Mia Collins?
+
+1509
+01:39:25,040 --> 01:39:25,200
+Yeah.
+
+1510
+01:39:25,480 --> 01:39:25,680
+Okay.
+
+1511
+01:39:26,180 --> 01:39:26,500
+Alright.
+
+1512
+01:39:27,180 --> 01:39:27,820
+Security!
+
+1513
+01:39:30,960 --> 01:39:33,640
+I found something worth stealing for.
+
+1514
+01:39:34,400 --> 01:39:36,860
+It's Hudson Cube is gonna go so high.
+
+1515
+01:39:38,780 --> 01:39:40,300
+I am donating these eventually.
+
+1516
+01:39:40,440 --> 01:39:43,360
+Please focus on the word eventually.
+
+1517
+01:39:43,820 --> 01:39:44,840
+Alright, what is this?
+
+1518
+01:39:45,620 --> 01:39:46,520
+What the fuck?
+
+1519
+01:39:48,160 --> 01:40:05,600
+Oh, shit oh oh oh and a thousand whoa wait is it over wait
+let me put everything up back let me uh no let me put
+
+1520
+01:40:05,600 --> 01:40:16,980
+everything back and then oh you're so lucky oh whoa whoa
+whoa whoa whoa calm down calm down calm down here don't
+
+1521
+01:40:16,980 --> 01:40:20,720
+worry sir i'll make sure you get to where you need to go.
+
+1522
+01:40:26,620 --> 01:40:29,360
+Okay, that at least is correct.
+
+1523
+01:40:30,660 --> 01:40:31,660
+You got one thing correct.
+
+1524
+01:40:32,060 --> 01:40:32,680
+Illegal item.
+
+1525
+01:40:33,340 --> 01:40:34,540
+Age mismatch.
+
+1526
+01:40:36,140 --> 01:40:38,540
+Everything else is fine.
+
+1527
+01:40:39,380 --> 01:40:41,280
+But, I will say...
+
+1528
+01:40:45,380 --> 01:40:46,840
+Alright, 1C.
+
+1529
+01:40:49,040 --> 01:40:49,760
+E now.
+
+1530
+01:40:57,760 --> 01:40:58,560
+Oops.
+
+1531
+01:41:01,480 --> 01:41:03,200
+Wait, I can't just take a thousand dollars?
+
+1532
+01:41:05,740 --> 01:41:08,360
+Where does a thousand dollars come from?
+
+1533
+01:41:09,640 --> 01:41:14,620
+Um, just some illegal stuff going on here.
+
+1534
+01:41:16,240 --> 01:41:18,340
+Just an illegal man.
+
+1535
+01:41:21,220 --> 01:41:23,180
+Oh, what the fuck is going on?
+
+1536
+01:41:24,120 --> 01:41:25,760
+Oh, that's my money?
+
+1537
+01:41:27,200 --> 01:41:27,800
+deposit.
+
+1538
+01:41:28,340 --> 01:41:28,820
+Jesus Christ.
+
+1539
+01:41:29,080 --> 01:41:30,220
+Oh my God, I could have gotten it.
+
+1540
+01:41:30,720 --> 01:41:33,640
+Oh, I could have had another alien artifact as well.
+
+1541
+01:41:35,020 --> 01:41:36,840
+Surely it's not that expensive, right?
+
+1542
+01:41:39,160 --> 01:41:40,700
+Alright, let's see.
+
+1543
+01:41:40,820 --> 01:41:41,660
+How are you?
+
+1544
+01:41:43,380 --> 01:41:44,920
+Alright, at least that's alright.
+
+1545
+01:41:45,860 --> 01:41:48,220
+Just has an illegal thing.
+
+1546
+01:41:49,700 --> 01:41:50,500
+Oh, nine.
+
+1547
+01:41:50,820 --> 01:41:53,760
+Oh, and also, thanks.
+
+1548
+01:41:54,280 --> 01:42:02,420
+But also, it's still illegal but thanks for the 20 dollars i
+i really appreciate that oh
+
+1549
+01:42:11,260 --> 01:42:26,300
+there you go this always fucks me up anyway security she
+obviously has a tan yeah yeah a tan all right oh do i have
+
+1550
+01:42:26,300 --> 01:42:33,600
+anything illegal on you sir god you're just rolling in oh
+Aw, come on, I already used my camera!
+
+1551
+01:42:34,340 --> 01:42:39,360
+How is I supposed to know everybody's gonna start running in
+here and fucking bring shit?
+
+1552
+01:42:39,840 --> 01:42:41,360
+Like, come on!
+
+1553
+01:42:44,020 --> 01:42:46,620
+Everyone's going fucking wild today.
+
+1554
+01:42:50,080 --> 01:42:51,540
+Wait, confiscate your illegal item.
+
+1555
+01:42:51,840 --> 01:42:51,860
+Okay.
+
+1556
+01:42:53,880 --> 01:42:54,760
+Come on!
+
+1557
+01:42:54,960 --> 01:42:56,140
+It's not fair!
+
+1558
+01:42:58,400 --> 01:43:00,700
+That fucking carry a gold bomb.
+
+1559
+01:43:00,720 --> 01:43:05,540
+Let's just give me all the illegal stuff now.
+
+1560
+01:43:13,340 --> 01:43:15,220
+A cold and get mad.
+
+1561
+01:43:15,800 --> 01:43:16,880
+What a shame.
+
+1562
+01:43:18,280 --> 01:43:19,460
+Wait, this is more than four.
+
+1563
+01:43:19,660 --> 01:43:20,380
+I'm pretty sure.
+
+1564
+01:43:23,560 --> 01:43:24,540
+Oh my god.
+
+1565
+01:43:24,740 --> 01:43:27,280
+The first person that's not bringing luggage.
+
+1566
+01:43:27,960 --> 01:43:29,000
+Absolutely wild.
+
+1567
+01:43:29,920 --> 01:43:32,700
+My name is Audrey45.
+
+1568
+01:43:33,940 --> 01:43:34,340
+Alright.
+
+1569
+01:43:37,360 --> 01:43:49,680
+the first real passenger all right perfect perfect correct
+oh i guys i don't see color
+
+1570
+01:43:55,380 --> 01:44:03,680
+sorry i don't pay attention to somebody's skin tone when i'm
+doing it when i'm when i'm doing the tsa stuff
+
+1571
+01:44:07,160 --> 01:44:11,700
+Oh, $86, $30, $2, $1, $73.
+
+1572
+01:44:12,080 --> 01:44:17,260
+Oh, $60, $166.
+
+1573
+01:44:17,540 --> 01:44:18,320
+Let's let go.
+
+1574
+01:44:21,440 --> 01:44:22,840
+All right, let's see.
+
+1575
+01:44:24,420 --> 01:44:26,140
+That was a lot of money.
+
+1576
+01:44:28,500 --> 01:44:29,540
+Oh, another missing item.
+
+1577
+01:44:31,280 --> 01:44:32,260
+Oh, my God.
+
+1578
+01:44:32,320 --> 01:44:33,600
+Things are getting more expensive.
+
+1579
+01:44:33,680 --> 01:44:34,840
+My rent is going up.
+
+1580
+01:44:34,860 --> 01:44:36,060
+Do I get my dog now?
+
+1581
+01:44:37,920 --> 01:44:39,360
+Still no dog?
+
+1582
+01:44:39,580 --> 01:44:41,500
+When does the dog come?
+
+1583
+01:44:46,440 --> 01:44:48,040
+I swear to God.
+
+1584
+01:44:48,800 --> 01:44:49,280
+Oh, sorry.
+
+1585
+01:44:49,420 --> 01:44:49,880
+Sorry, sir.
+
+1586
+01:44:50,000 --> 01:44:52,080
+I just wanted to radiate your legs a little bit.
+
+1587
+01:44:53,320 --> 01:44:54,740
+Oh, that's a safe right there.
+
+1588
+01:44:55,620 --> 01:44:56,900
+Oh, that's a lake.
+
+1589
+01:44:58,760 --> 01:45:00,160
+Alright, let's see.
+
+1590
+01:45:03,100 --> 01:45:03,620
+Oh.
+
+1591
+01:45:03,680 --> 01:45:07,100
+Oh, that's my total money that I could just flung around.
+
+1592
+01:45:07,480 --> 01:45:08,180
+Oh, okay.
+
+1593
+01:45:09,320 --> 01:45:11,400
+All right, let's just see what you have.
+
+1594
+01:45:17,100 --> 01:45:17,620
+380.
+
+1595
+01:45:19,760 --> 01:45:22,160
+Is that your...
+
+1596
+01:45:22,160 --> 01:45:22,700
+Okay.
+
+1597
+01:45:23,760 --> 01:45:27,200
+Well, you're not allowed to bring exotic wine bottles, so...
+
+1598
+01:45:32,380 --> 01:45:33,540
+All right, what's this?
+
+1599
+01:45:34,100 --> 01:45:34,780
+All right, that's fine.
+
+1600
+01:45:34,880 --> 01:45:37,600
+Oh, oh, I'm pretty sure it's not over the weight limit.
+
+1601
+01:45:39,200 --> 01:45:50,560
+be fine at least hmm you know what you know what Xavier I'm
+feeling generous that's not not enough illegal items for me
+
+1602
+01:45:50,560 --> 01:45:55,320
+unless it's an illegal item I'm not gonna hack the cameras
+these are lucky they mr.
+
+1603
+01:45:55,400 --> 01:46:12,460
+Xavier stone all right you're good to go next person please
+you miss Harper 18 January 17 All right, your one bag.
+
+1604
+01:46:13,260 --> 01:46:15,160
+Oh, that's another SafeCon?
+
+1605
+01:46:19,580 --> 01:46:20,240
+All right.
+
+1606
+01:46:20,740 --> 01:46:21,880
+Good to go, ma'am.
+
+1607
+01:46:23,200 --> 01:46:23,680
+Okay.
+
+1608
+01:46:24,700 --> 01:46:27,600
+Harper, Hunter, 18.
+
+1609
+01:46:28,640 --> 01:46:29,060
+All right.
+
+1610
+01:46:29,560 --> 01:46:30,720
+Everything's good to go.
+
+1611
+01:46:31,440 --> 01:46:33,180
+Enjoy your trip to SafeCon.
+
+1612
+01:46:34,100 --> 01:46:34,480
+Damn.
+
+1613
+01:46:35,640 --> 01:46:36,480
+Ever since...
+
+1614
+01:46:36,480 --> 01:46:38,260
+Oh, Logan, press.
+
+1615
+01:46:39,800 --> 01:46:49,920
+It's like when Saudi Arabia bought uh oh whoa mysterious
+powder when they bought evil and then we have 20 evils now i
+
+1616
+01:46:49,920 --> 01:47:02,070
+guess like i guess they went into the safe business guys and
+now we have 20 safe cons oh is that chicken bag oh wait no
+
+1617
+01:47:02,070 --> 01:47:03,370
+that yeah that's the chicken bag yeah
+
+1618
+01:47:07,570 --> 01:47:17,890
+590 you're good to go sir except for this mysterious powder
+which means you're not good to go sir Illegal item found.
+
+1619
+01:47:19,150 --> 01:47:19,770
+What's your name?
+
+1620
+01:47:20,870 --> 01:47:21,930
+How old are you?
+
+1621
+01:47:23,050 --> 01:47:25,630
+Yeah, I thought so.
+
+1622
+01:47:36,140 --> 01:47:37,420
+I'm so good at this now.
+
+1623
+01:47:37,940 --> 01:47:38,660
+I'm impressed.
+
+1624
+01:47:38,960 --> 01:47:39,140
+Oop.
+
+1625
+01:47:39,800 --> 01:47:40,660
+Nice $30.
+
+1626
+01:47:41,720 --> 01:47:42,920
+That's his oregano.
+
+1627
+01:47:43,840 --> 01:47:45,260
+I shared that fresh organ.
+
+1628
+01:47:45,400 --> 01:47:45,800
+Oh!
+
+1629
+01:47:46,660 --> 01:47:47,380
+Oh!
+
+1630
+01:47:50,520 --> 01:47:54,180
+Oh, fresh Oregon, you say.
+
+1631
+01:47:54,300 --> 01:47:56,160
+Oh, that is definitely not fresh.
+
+1632
+01:47:58,880 --> 01:48:02,220
+Oh, I got a little too excited.
+
+1633
+01:48:03,040 --> 01:48:03,640
+Oh,
+
+1634
+01:48:09,770 --> 01:48:11,090
+what's the point?
+
+1635
+01:48:14,110 --> 01:48:15,650
+Dr. Henry Kane.
+
+1636
+01:48:15,810 --> 01:48:17,350
+Oh, wait, that's Hannibal Lecter.
+
+1637
+01:48:17,710 --> 01:48:18,350
+That might have been.
+
+1638
+01:48:18,490 --> 01:48:18,650
+Whoops.
+
+1639
+01:48:19,190 --> 01:48:19,490
+All right.
+
+1640
+01:48:19,610 --> 01:48:20,770
+I mean, we're still...
+
+1641
+01:48:20,770 --> 01:48:21,890
+Guys, don't worry.
+
+1642
+01:48:22,590 --> 01:48:24,050
+I've detained a cannibal.
+
+1643
+01:48:25,490 --> 01:48:28,030
+I just realized that's Hannibal Lecter.
+
+1644
+01:48:29,670 --> 01:48:30,130
+Do not worry.
+
+1645
+01:48:30,170 --> 01:48:31,910
+I am a hero today.
+
+1646
+01:48:32,570 --> 01:48:34,190
+I have detained a criminal.
+
+1647
+01:48:36,910 --> 01:48:37,810
+Uh, poop.
+
+1648
+01:48:43,510 --> 01:48:46,010
+Dr. Harriet Canine.
+
+1649
+01:48:46,410 --> 01:48:47,070
+There we go.
+
+1650
+01:48:48,630 --> 01:48:49,750
+Our last customer.
+
+1651
+01:48:50,810 --> 01:48:52,210
+My name is Stella Stone.
+
+1652
+01:48:52,490 --> 01:48:54,630
+Oh, there's that in there.
+
+1653
+01:48:55,070 --> 01:48:55,990
+Oh, that's acid.
+
+1654
+01:48:56,170 --> 01:48:56,530
+All right.
+
+1655
+01:48:56,550 --> 01:48:58,310
+You know what that means, guys?
+
+1656
+01:48:58,790 --> 01:49:02,450
+But first up, will she pay for her tons...
+
+1657
+01:49:02,450 --> 01:49:04,010
+Oh, yeah, that's a...
+
+1658
+01:49:04,010 --> 01:49:04,970
+Will she pay for a ton...
+
+1659
+01:49:04,970 --> 01:49:05,630
+Oh, yeah.
+
+1660
+01:49:06,270 --> 01:49:07,590
+Will she pay for a tons and cube?
+
+1661
+01:49:07,890 --> 01:49:09,810
+Oh, of course you wouldn't, ma'am.
+
+1662
+01:49:10,510 --> 01:49:11,070
+Of course she would.
+
+1663
+01:49:11,110 --> 01:49:12,010
+You never do.
+
+1664
+01:49:12,630 --> 01:49:14,630
+Will she pay for other tons and cube?
+
+1665
+01:49:17,550 --> 01:49:20,430
+Will she pay for her safe as well?
+
+1666
+01:49:21,590 --> 01:49:22,390
+Oh, no?
+
+1667
+01:49:23,290 --> 01:49:24,330
+Oh, man.
+
+1668
+01:49:25,250 --> 01:49:26,530
+And what is the...
+
+1669
+01:49:26,550 --> 01:49:26,850
+this.
+
+1670
+01:49:27,110 --> 01:49:28,670
+Oh, and her rubber duckies?
+
+1671
+01:49:29,190 --> 01:49:33,670
+Wow, it would be a shame if something happens to the camera.
+
+1672
+01:49:36,050 --> 01:49:38,390
+Would be quite a shame.
+
+1673
+01:49:39,190 --> 01:49:39,970
+Excuse me?
+
+1674
+01:49:49,990 --> 01:49:50,670
+What?
+
+1675
+01:49:54,890 --> 01:49:57,270
+How the fuck am I supposed to hack this?
+
+1676
+01:50:02,660 --> 01:50:02,800
+Oh.
+
+1677
+01:50:03,420 --> 01:50:04,840
+Oh, I didn't hack properly.
+
+1678
+01:50:05,000 --> 01:50:05,920
+Okay, that's fine.
+
+1679
+01:50:12,930 --> 01:50:13,790
+Is that everything?
+
+1680
+01:50:14,890 --> 01:50:15,830
+There we go.
+
+1681
+01:50:16,050 --> 01:50:16,610
+Oh, no!
+
+1682
+01:50:18,070 --> 01:50:18,870
+No!
+
+1683
+01:50:19,910 --> 01:50:23,970
+All the money I just stole again!
+
+1684
+01:50:27,470 --> 01:50:29,830
+I got so excited.
+
+1685
+01:50:31,930 --> 01:50:33,730
+All the money I stole.
+
+1686
+01:50:35,710 --> 01:50:38,330
+God, just like that.
+
+1687
+01:50:42,070 --> 01:50:44,350
+The last millisecond.
+
+1688
+01:50:49,850 --> 01:50:51,890
+Perfect, perfect, perfect, perfect.
+
+1689
+01:50:54,570 --> 01:50:56,170
+A flawless day.
+
+1690
+01:50:57,830 --> 01:51:00,090
+All right, let's go to Austin, Fallon.
+
+1691
+01:51:00,410 --> 01:51:01,790
+Look at my dog now.
+
+1692
+01:51:02,730 --> 01:51:04,590
+Is my doggo gonna be here?
+
+1693
+01:51:04,890 --> 01:51:07,250
+Alright, it's better to make up $150.
+
+1694
+01:51:09,010 --> 01:51:10,650
+This did not make up $150.
+
+1695
+01:51:11,130 --> 01:51:12,950
+Oh, oh, oh, I made profit.
+
+1696
+01:51:13,250 --> 01:51:13,790
+Doesn't matter.
+
+1697
+01:51:13,990 --> 01:51:14,650
+I profited.
+
+1698
+01:51:15,130 --> 01:51:16,430
+My Tunson Cube.
+
+1699
+01:51:18,950 --> 01:51:22,910
+Thank God for the Tunson Cube coming in clutch.
+
+1700
+01:51:24,110 --> 01:51:24,650
+Worth it.
+
+1701
+01:51:24,870 --> 01:51:26,030
+Is the dog over here?
+
+1702
+01:51:28,010 --> 01:51:29,310
+New toy for you.
+
+1703
+01:51:29,910 --> 01:51:31,550
+We've had too far too...
+
+1704
+01:51:31,550 --> 01:51:31,770
+Hmm.
+
+1705
+01:51:33,410 --> 01:51:34,870
+This is a swap test.
+
+1706
+01:51:34,890 --> 01:51:58,820
+pick up the device from the station I'm picking it up it's
+where do I I've picked it up what do you want oh oh oh oh my
+
+1707
+01:51:58,820 --> 01:52:09,100
+god it's a lot more convoluted than I thought it's clear All
+right, your left hand, sir.
+
+1708
+01:52:09,760 --> 01:52:14,840
+Gotta see if you were jorking it with those chemicals.
+
+1709
+01:52:15,420 --> 01:52:15,640
+There.
+
+1710
+01:52:17,160 --> 01:52:18,620
+Alarm means narcotics.
+
+1711
+01:52:18,780 --> 01:52:20,920
+Smart carrying drugs on the report board.
+
+1712
+01:52:21,100 --> 01:52:22,280
+Then call security.
+
+1713
+01:52:23,040 --> 01:52:25,260
+Clear as all to keep the inspector moving.
+
+1714
+01:52:25,780 --> 01:52:26,120
+All right.
+
+1715
+01:52:26,760 --> 01:52:28,560
+We're going to have to test that out.
+
+1716
+01:52:29,000 --> 01:52:29,560
+Come on.
+
+1717
+01:52:29,880 --> 01:52:30,960
+Give me your hands.
+
+1718
+01:52:32,640 --> 01:52:34,400
+Were you caught jorking it?
+
+1719
+01:52:40,240 --> 01:52:46,000
+Wow, wow, wow, whoa, whoa, whoa, but also what's in your
+items?
+
+1720
+01:52:48,880 --> 01:52:49,940
+Let me double check.
+
+1721
+01:52:50,400 --> 01:52:50,840
+All right.
+
+1722
+01:52:52,220 --> 01:52:54,640
+Let me double check if there's anything valuable.
+
+1723
+01:52:55,240 --> 01:52:55,780
+Carrying drugs.
+
+1724
+01:52:55,920 --> 01:52:57,040
+Where's the drugs?
+
+1725
+01:52:59,780 --> 01:53:02,800
+It says you were carrying drugs, sir.
+
+1726
+01:53:03,420 --> 01:53:06,020
+And I would like to know where are these drugs?
+
+1727
+01:53:07,500 --> 01:53:09,720
+I can confiscate them.
+
+1728
+01:53:11,700 --> 01:53:13,360
+I feel like I'm being lied to.
+
+1729
+01:53:17,590 --> 01:53:18,230
+Sir?
+
+1730
+01:53:18,970 --> 01:53:20,730
+Where are you keeping the goods?
+
+1731
+01:53:22,030 --> 01:53:22,450
+Sir?
+
+1732
+01:53:27,270 --> 01:53:28,870
+Do I call security?
+
+1733
+01:53:29,390 --> 01:53:31,730
+I don't remember I'm supposed to call security.
+
+1734
+01:53:35,310 --> 01:53:35,950
+I...
+
+1735
+01:53:35,950 --> 01:53:40,670
+Ma'am, you told me that if there's an alarm, I got it.
+
+1736
+01:53:40,970 --> 01:53:42,190
+Do I call security?
+
+1737
+01:53:42,450 --> 01:53:55,790
+I'm gonna call security You was caught jorking it, ma'am I'm
+so sad I'm about to become a business I'm gonna let me
+
+1738
+01:53:55,790 --> 01:54:04,170
+through and we both eat well Alright Someone's gonna get
+through but it's not gonna be you How many squids are Whoa,
+
+1739
+01:54:04,950 --> 01:54:16,570
+alright Alright, I need to know how Oh my gosh, and there's
+an unknown liquid Alright, 1C nine one c all right i'll grab
+
+1740
+01:54:16,570 --> 01:54:24,950
+that oh no i touched your belongings well it's only me let
+me see if you have drugs too
+
+1741
+01:54:30,810 --> 01:54:38,470
+all right clear oh seems like everything else is fine sally
+calamari are you 30?
+
+1742
+01:54:39,250 --> 01:54:41,110
+oh you look good for 30.
+
+1743
+01:54:41,990 --> 01:54:48,830
+anyway oh yeah you're fine Seems your bag is just super
+light.
+
+1744
+01:54:51,710 --> 01:54:55,310
+You have very, very light baggage.
+
+1745
+01:54:57,990 --> 01:54:59,890
+Alright, found this at the air.
+
+1746
+01:55:00,050 --> 01:55:01,010
+What the fuck is that?
+
+1747
+01:55:01,030 --> 01:55:02,690
+Is that a coffee brewing machine?
+
+1748
+01:55:03,850 --> 01:55:04,730
+Oh, Ethan.
+
+1749
+01:55:05,330 --> 01:55:05,690
+Damn.
+
+1750
+01:55:07,510 --> 01:55:08,870
+Is that Tonson Cube?
+
+1751
+01:55:09,830 --> 01:55:10,750
+I don't know.
+
+1752
+01:55:10,870 --> 01:55:12,050
+It's just...
+
+1753
+01:55:12,050 --> 01:55:13,130
+But is he going to Australia?
+
+1754
+01:55:13,250 --> 01:55:14,210
+Yeah, I'm sorry.
+
+1755
+01:55:14,430 --> 01:55:15,090
+I know...
+
+1756
+01:55:15,090 --> 01:55:16,390
+Look, I know Australia.
+
+1757
+01:55:16,410 --> 01:55:20,150
+Australia is scary, but, like, sorry, I can't let you bring
+that spray.
+
+1758
+01:55:22,130 --> 01:55:24,310
+Uh, it's definitely not a tungsten cube.
+
+1759
+01:55:25,670 --> 01:55:26,290
+What is that?
+
+1760
+01:55:26,330 --> 01:55:27,330
+Is that hand cream?
+
+1761
+01:55:28,710 --> 01:55:30,330
+Sorry, I can make a bomb with that.
+
+1762
+01:55:30,430 --> 01:55:31,590
+I can't let you do that.
+
+1763
+01:55:32,730 --> 01:55:33,110
+Alright.
+
+1764
+01:55:33,450 --> 01:55:34,570
+Yeah, I don't blame him.
+
+1765
+01:55:34,990 --> 01:55:35,790
+Oh, whoops.
+
+1766
+01:55:36,830 --> 01:55:38,910
+I get this instead of a dog.
+
+1767
+01:55:39,610 --> 01:55:41,090
+That's just gonna sleep forever.
+
+1768
+01:55:41,510 --> 01:55:42,990
+You'll sleep on the job.
+
+1769
+01:55:45,330 --> 01:55:46,330
+Go to a mismatch.
+
+1770
+01:55:48,350 --> 01:55:51,470
+25 oh and also boarding pass
+
+1771
+01:55:54,610 --> 01:56:02,310
+it's like you don't care about this travel alright well
+she's the last girl so I might as well steal whatever is in
+
+1772
+01:56:02,310 --> 01:56:12,390
+here oh there's three baggages I mean borrow I mean lost I
+might as well make sure that all the items go to their rifle
+
+1773
+01:56:12,390 --> 01:56:33,010
+owners you know just trying to make sure all the items go to
+their rightful owners it's in here oh oh oh all right uh our
+
+1774
+01:56:33,010 --> 01:56:41,350
+area let me double check everything if everything is in
+order with you uh what is your name ariad Dawson how old are
+
+1775
+01:56:41,350 --> 01:56:49,990
+you 20 um and looks like everything is in order let me uh
+write this down real quick for you.
+
+1776
+01:57:02,780 --> 01:57:05,760
+Alright, everything looks like it's in order.
+
+1777
+01:57:06,700 --> 01:57:08,620
+And I hope you have a...
+
+1778
+01:57:09,260 --> 01:57:09,620
+Wait.
+
+1779
+01:57:14,170 --> 01:57:14,750
+Give me a sec.
+
+1780
+01:57:18,330 --> 01:57:18,770
+Oh!
+
+1781
+01:57:19,090 --> 01:57:20,890
+I hope you have a safe flight!
+
+1782
+01:57:22,010 --> 01:57:22,910
+Enjoy your trip!
+
+1783
+01:57:26,600 --> 01:57:28,480
+My name is Victoria Harper.
+
+1784
+01:57:29,180 --> 01:57:31,280
+Alright, Victoria, what do you have here?
+
+1785
+01:57:31,500 --> 01:57:33,060
+Ooh, that looks like an elite.
+
+1786
+01:57:33,140 --> 01:57:35,080
+That looks like a $50 payout.
+
+1787
+01:57:35,260 --> 01:57:36,340
+That's what it looks like.
+
+1788
+01:57:36,920 --> 01:57:38,100
+Oh, all right.
+
+1789
+01:57:38,160 --> 01:57:38,880
+Just to be sure.
+
+1790
+01:57:38,960 --> 01:57:39,560
+Because you are.
+
+1791
+01:57:40,380 --> 01:57:41,260
+I don't know.
+
+1792
+01:57:41,800 --> 01:57:43,040
+I feel like.
+
+1793
+01:57:43,480 --> 01:57:43,960
+Maybe.
+
+1794
+01:57:46,580 --> 01:57:47,060
+Just.
+
+1795
+01:57:47,500 --> 01:57:49,100
+Just to be sure.
+
+1796
+01:57:50,640 --> 01:57:51,300
+Oh, you're cleared.
+
+1797
+01:57:51,460 --> 01:57:52,280
+That's good to know.
+
+1798
+01:57:52,560 --> 01:57:53,480
+That's good to know.
+
+1799
+01:57:54,000 --> 01:57:55,500
+At least you wash your hands.
+
+1800
+01:57:55,720 --> 01:57:55,920
+You know.
+
+1801
+01:58:00,190 --> 01:58:00,710
+All right.
+
+1802
+01:58:04,910 --> 01:58:06,110
+Let me...
+
+1803
+01:58:06,110 --> 01:58:07,310
+Let me a sec.
+
+1804
+01:58:07,630 --> 01:58:10,490
+Let me position everything correctly.
+
+1805
+01:58:11,150 --> 01:58:12,910
+And then also...
+
+1806
+01:58:18,910 --> 01:58:19,710
+Sorry.
+
+1807
+01:58:20,550 --> 01:58:22,910
+The machine's not working today very well.
+
+1808
+01:58:23,210 --> 01:58:27,710
+So give me a sec while I fix the machine real quick.
+
+1809
+01:58:29,850 --> 01:58:30,650
+Anyway.
+
+1810
+01:58:31,470 --> 01:58:34,750
+Looks like everything is not in order, unfortunately, ma'am.
+
+1811
+01:58:35,110 --> 01:58:37,890
+Because you are carrying it.
+
+1812
+01:58:37,910 --> 01:58:43,350
+legal substance um so i gotta boop carry illegal goodbye
+
+1813
+01:58:49,050 --> 01:59:02,450
+goodbye ma'am perfect inspection perfect inspection perfect
+ha perfect look at that wowie s performance too i'm so good
+
+1814
+01:59:02,450 --> 01:59:12,190
+at my job guys i'm just so good at what i do wait wait oh
+wait no i don't want to purchase it
+
+1815
+01:59:15,660 --> 01:59:27,180
+four dollars 25 nine don't worry don't worry the big ticket
+item is coming don't worry oh or the 33 oh the squids
+
+1816
+01:59:30,920 --> 01:59:38,140
+i told you i told you the big ticket item and the salt salt
+shaker is bonus the salt
+
+1817
+01:59:41,560 --> 01:59:47,240
+No, it's like, look, look, um, I think like the lost and
+found must have misplaced it.
+
+1818
+01:59:47,280 --> 01:59:48,780
+I know for sure I bagged it.
+
+1819
+01:59:48,880 --> 01:59:51,400
+You know I bagged the illegal substances, guys.
+
+1820
+01:59:51,820 --> 01:59:55,840
+You know I do my job every day, day in, day out.
+
+1821
+01:59:56,560 --> 01:59:58,280
+I am a model employee.
+
+1822
+01:59:58,460 --> 02:00:02,660
+I swear if there's no dog here, I swear if there's no dog
+here, I'm out.
+
+1823
+02:00:05,000 --> 02:00:06,340
+How much do I need to pay off?
+
+1824
+02:00:06,900 --> 02:00:08,340
+A hundred grand?
+
+1825
+02:00:08,720 --> 02:00:11,040
+Well, I guess I'm never going to retire.
+
+1826
+02:00:14,790 --> 02:00:27,190
+right click this all right guys i'm calling it here i guess
+dad never woke up i'll never got the dog
+
+1827
+02:00:30,570 --> 02:00:46,010
+i never got the dog why did it tempt me with the dog food if
+the dog was never gonna show up that's it I have not been
+
+1828
+02:00:46,010 --> 02:01:02,870
+paid for the last eight months working here I quit my dog
+never even woke up he slept for the entire job no dog zero
+
+1829
+02:01:02,870 --> 02:01:14,930
+out of ten and for some reason after dokeybird quit work
+quit work at the TSA and items we're becoming less stolen
+
+1830
+02:01:14,930 --> 02:01:25,990
+stolen items dropped down exponentially from the airport huh
+obviously there's a correlation does not equal causation
+
+1831
+02:01:25,990 --> 02:01:36,330
+guys people's Apple watches started appearing again anyway
+guys I'm Akala here today we do have a second stream later
+
+1832
+02:01:36,330 --> 02:01:42,730
+on with Armacord we're trying to get the first ending today
+but like I said I'm gonna have a very very busy day today
+
+1833
+02:01:42,910 --> 02:01:48,390
+I'll be heading out right now to do some last-minute
+shopping for some stuff before my vacation.
+
+1834
+02:01:50,090 --> 02:01:52,990
+Yeah, lowest complete levels of complaint in eight months.
+
+1835
+02:01:53,330 --> 02:01:54,370
+It's very surprising.
+
+1836
+02:01:57,830 --> 02:01:58,630
+Hey, guys.
+
+1837
+02:01:58,950 --> 02:02:01,630
+As always, everybody, stay hydrated, posture check.
+
+1838
+02:02:01,810 --> 02:02:03,070
+Yeah, but move around and get that blood flow.
+
+1839
+02:02:03,190 --> 02:02:03,670
+You stand for me.
+
+1840
+02:02:03,910 --> 02:02:04,990
+Head to bed, guys.
+
+1841
+02:02:05,410 --> 02:02:06,390
+You deserve it.
+
+1842
+02:02:06,750 --> 02:02:12,850
+Like I said, there might be, I might, if I'm late for armor
+core, I will let you guys know in advance, most likely.
+
+1843
+02:02:12,910 --> 02:02:18,330
+be like 30 minutes later or something just because i need to
+like get you know have the drive back home and everything so
+
+1844
+02:02:18,330 --> 02:02:28,030
+i'll keep you guys updated also before i go before i go i
+want to show a little bit um we do have uh we do i'm gonna
+
+1845
+02:02:28,030 --> 02:02:38,810
+try to like extend uh the pre-orders for the ep merch for
+another week or so because i realized i uh i realized i uh
+
+1846
+02:02:38,810 --> 02:02:47,470
+forgot to oh i can oh yeah never mind i uh ep merch will
+pre-orders will be out extended for another week just
+
+1847
+02:02:47,470 --> 02:02:52,090
+because i forgot to tweet about it i realized because of
+everything going on and also i'll be on vacation so i won't
+
+1848
+02:02:52,090 --> 02:02:57,590
+be able to chill as much when i'm on vacation so ep merch
+pre-orders extended for another week so please make sure to
+
+1849
+02:02:57,590 --> 02:03:07,370
+pre-order the ep merch i really appreciate all the support
+guys uh for the for the birthday merch drop so yeah make
+
+1850
+02:03:07,370 --> 02:03:14,550
+sure to check it out buy my merch get the dokey boxers I'll
+see you guys later today.
+
+1851
+02:03:15,310 --> 02:03:16,030
+Bye, everybody.
+
+1852
+02:03:17,390 --> 02:03:17,710
+Bye.
+
