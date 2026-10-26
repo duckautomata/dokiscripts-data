@@ -17,8 +17,8 @@ dependencies = [
 required-version = ">=0.5.0"
 # Never search a fallback index for a package found on the primary one
 index-strategy = "first-index"
-# Rolling 1-week cooldown: never resolve to a version that was published less than 7 days ago.
-exclude-newer = "1 week"
+# Rolling 4-days cooldown: never resolve to a version that was published less than 4 days ago.
+exclude-newer = "4 days"
 # Floors for sensitive transitives. These only take effect if something pulls
 # them in; they cap below-known-bad versions without forcing installation.
 constraint-dependencies = [
